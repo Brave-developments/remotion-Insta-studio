@@ -4,7 +4,7 @@
  * Illustrative placeholders MUST NOT be passed off as actual product evidence.
  */
 import React from 'react';
-import {AbsoluteFill, Easing, interpolate, spring, useCurrentFrame, useVideoConfig} from 'remotion';
+import {AbsoluteFill, Easing, interpolate, Sequence, spring, useCurrentFrame, useVideoConfig} from 'remotion';
 import {
   EDITORIAL_NEUTRALS as n, EDITORIAL_PALETTE as p, EDITORIAL_UPPER_HEIGHT,
 } from './editorialPalette';
@@ -137,32 +137,22 @@ export const EditorialMotion: React.FC<EditorialMotionProps> = ({
   </AbsoluteFill>;
 };
 
-export const EditorialMotionPreview: React.FC = () => {
-  const frame = useCurrentFrame();
-  const scenes: EditorialMotionProps[] = [
-    {mode: 'illustrated-explainer', headline: 'Explain the important detail.', emphasis: 'important',
-      subheadline: 'Minimal illustrated editorial motion', items: ['Concept', 'Risk', 'Review']},
-    {mode: 'saas-ui', headline: 'Make the process visible.', emphasis: 'visible',
-      subheadline: 'Animated cards and software interactions'},
-    {mode: 'product-comparison', headline: 'Which one fits?', items: ['Tool A', 'Tool B', 'Tool C'],
-      subheadline: 'Three pastel cards, one clear question'},
-  ];
-  const sceneIndex = Math.min(2, Math.floor(frame / 120));
-  const sceneFrame = frame - sceneIndex * 120;
-  const active = scenes[sceneIndex];
-  // Separate Sequence gives each example a local frame clock for motion.
-  return <AbsoluteFill>
-    <SequencePreview index={sceneIndex} atFrame={sceneFrame} scene={active}/>
-  </AbsoluteFill>;
-};
-
-/**
- * Preview animates without a separate studio-kit package.
- * Caller renders one mode at a time with Sequence; the helper is a simple typed composition.
- */
-import {Sequence} from 'remotion';
-const SequencePreview: React.FC<{index: number; atFrame: number; scene: EditorialMotionProps}> = ({index, scene}) => (
-  <Sequence from={index * 120} layout="none">
-    <EditorialMotion {...scene}/>
-  </Sequence>
+/** Optional 12-second style gallery; deliberately not a default Reel. */
+export const EditorialMotionPreview: React.FC = () => (
+  <AbsoluteFill>
+    <Sequence from={0} durationInFrames={120}>
+      <EditorialMotion mode="illustrated-explainer" headline="Explain the important detail."
+        emphasis="important" subheadline="Minimal illustrated editorial motion"
+        items={['Concept', 'Risk', 'Review']}/>
+    </Sequence>
+    <Sequence from={120} durationInFrames={120}>
+      <EditorialMotion mode="saas-ui" headline="Make the process visible."
+        emphasis="visible" subheadline="Animated cards and software interactions"/>
+    </Sequence>
+    <Sequence from={240} durationInFrames={120}>
+      <EditorialMotion mode="product-comparison" headline="Which one fits?"
+        subheadline="Three pastel cards, one clear question"
+        items={['Tool A', 'Tool B', 'Tool C']}/>
+    </Sequence>
+  </AbsoluteFill>
 );
