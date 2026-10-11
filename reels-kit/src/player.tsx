@@ -383,7 +383,8 @@ export const SeasonReel = ({project, reel}: SeasonReelProps) => {
                 <div style={{position:'absolute',top:1160,bottom:0,left:0,right:0,background:ep.white}}>
                   {scene.editorial.presenterAsset ? (
                     <OffthreadVideo muted src={staticFile(scene.editorial.presenterAsset)}
-                      style={{width:'100%',height:'100%',objectFit:'cover'}}/>
+                      startFrom={Math.max(0, Math.round(scene.start * 30))}
+                      style={{width:'100%',height:'100%',objectFit:'contain'}}/>
                   ) : null}
                 </div>
               ) : null}
