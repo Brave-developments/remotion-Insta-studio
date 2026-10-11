@@ -11,3 +11,8 @@ out/*
 # Freebuff runtime cache
 .freebuff/sponsored-runtime/
 .cache/huggingface/
+
+# exported renders - too large for git; rebuild from source
+out/
+exports/
+projects/*/out/
