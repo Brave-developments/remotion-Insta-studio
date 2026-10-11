@@ -1,1 +1,3 @@
 Read PRODUCTION_RULES.md before changing this kit. Shared changes affect all three channels: typecheck each and render representative previews. Never introduce screen-filling solid-colour transition wipes.
+
+Optional editorial-motion scene (five-colour pastel): read `../docs/EDITORIAL-MOTION.md` before using. It must be explicitly opted in per scene; do not change the studio's default dark channel palettes. Approved surfaces: ivory `#F2EFE7`, white `#FFFEFA`, mint `#DEF4EA`, peach `#FAE7D7`, lilac `#EDE6FE`, with grey functional text. No black or yellow theme accents in that template. Do not alter existing scene JSON automatically. Validate each affected channel's build and render before approval.
