@@ -1,8 +1,10 @@
-import {AbsoluteFill, Audio, Composition, Sequence, staticFile, useCurrentFrame} from 'remotion';
+import {AbsoluteFill, Audio, Composition, OffthreadVideo, Sequence, staticFile, useCurrentFrame} from 'remotion';
 import type {ReactNode} from 'react';
 import {BrowserWindow, BeforeAfter, Checklist, CodeEditor, ConnectorLine, Counter, Cursor, DiagramNode, MetricCard, PhoneFrame, ProgressBar, RetentionGraph, TimelineBlocks, TypingText} from './components';
 import {CameraWrapper, ease, Heading, Label, Note, panelStyle, SceneShell, Stage, span, clamp01} from './primitives';
 import type {Caption, Project, Reel, Scene} from './types';
+import {EditorialMotion} from '../../studio-kit/src/EditorialMotion';
+import {EDITORIAL_PALETTE as ep, EDITORIAL_NEUTRALS as en} from '../../studio-kit/src/editorialPalette';
 
 const mono = 'Consolas, "Cascadia Code", monospace';
 
@@ -47,9 +49,10 @@ const Backdrop = ({project, children, draft, syncNote}: {project: Project; child
 
 /* --------------------------------------------------------------- captions */
 
-const Captions = ({project, captions, duration}: {project: Project; captions: Caption[]; duration: number}) => {
+const Captions = ({project, captions, duration, scenes}: {project: Project; captions: Caption[]; duration: number; scenes: Scene[]}) => {
   const frame = useCurrentFrame();
   const t = frame / 30;
+  const editorial = scenes.some((s) => s.editorial?.template === 'editorial-motion' && t >= s.start && t < s.end);
   if (t >= duration) return null;
   const cue = captions.find((c) => t >= c.start && t < c.end);
   if (!cue) return null;
@@ -69,8 +72,9 @@ const Captions = ({project, captions, duration}: {project: Project; captions: Ca
           fontWeight: 600,
           padding: '16px 24px',
           borderRadius: 14,
-          background: `${project.palette.background}f2`,
-          border: `1px solid ${project.palette.muted}33`,
+          background: editorial ? ep.white : `${project.palette.background}f2`,
+          color: editorial ? en.text : project.palette.text,
+          border: `1px solid ${editorial ? en.border : project.palette.muted+'33'}`,
           overflowWrap: 'anywhere',
         }}
       >
@@ -81,7 +85,7 @@ const Captions = ({project, captions, duration}: {project: Project; captions: Ca
             <span key={`${word}-${i}`} style={{marginRight: 12}}>
               <span
                 style={{
-                  color: hot ? project.palette.accent : undefined,
+                  color: hot ? (editorial ? en.text : project.palette.accent) : undefined,
                   fontWeight: hot ? 800 : undefined,
                   textDecoration: hot ? 'underline' : undefined,
                   textUnderlineOffset: 6,
@@ -373,10 +377,24 @@ export const SeasonReel = ({project, reel}: SeasonReelProps) => {
           durationInFrames={Math.max(1, Math.round((scene.end - scene.start) * 30))}
           name={scene.id}
         >
-          <SceneBody project={project} scene={scene} />
+          {scene.editorial?.template === 'editorial-motion' ? (
+            <>
+              {scene.editorial.layout === 'upper' ? (
+                <div style={{position:'absolute',top:1160,bottom:0,left:0,right:0,background:ep.white}}>
+                  {scene.editorial.presenterAsset ? (
+                    <OffthreadVideo muted src={staticFile(scene.editorial.presenterAsset)}
+                      style={{width:'100%',height:'100%',objectFit:'cover'}}/>
+                  ) : null}
+                </div>
+              ) : null}
+              <EditorialMotion mode={scene.editorial.mode} layout={scene.editorial.layout ?? 'full'}
+                headline={scene.editorial.headline ?? scene.text} subheadline={scene.editorial.subheadline}
+                emphasis={scene.editorial.emphasis} items={scene.editorial.items}/>
+            </>
+          ) : <SceneBody project={project} scene={scene}/>}
         </Sequence>
       ))}
-      <Captions project={project} captions={reel.captions} duration={reel.durationSeconds} />
+      <Captions project={project} captions={reel.captions} duration={reel.durationSeconds} scenes={reel.scenes} />
       {reel.audio ? <Audio src={staticFile(reel.audio)} /> : null}
     </Backdrop>
   );
