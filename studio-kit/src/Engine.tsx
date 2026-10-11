@@ -7,8 +7,10 @@ import type {Channel, Reel, ReelScene} from './types';
 import {TomorrowVisuals} from './TomorrowVisuals';
 import {BuildVisuals} from './BuildVisuals';
 import {ToolVisuals} from './ToolVisuals';
+import {EditorialMotion} from './EditorialMotion';
+import {EDITORIAL_PALETTE as editorialColours, EDITORIAL_NEUTRALS as editorialNeutrals} from './editorialPalette';
 
-const CaptionRenderer = ({text, duration, channel, chunks, timings}: {text: string; duration: number; channel: Channel; chunks?: string[]; timings?: {text: string; start: number; end: number}[]}) => {
+const CaptionRenderer = ({text, duration, channel, chunks, timings, editorial = false}: {text: string; duration: number; channel: Channel; chunks?: string[]; timings?: {text: string; start: number; end: number}[]; editorial?: boolean}) => {
   const frame = useCurrentFrame();
   if (frame >= duration || text.startsWith('[')) return null;
   const timedCaption=timings?.find(c=>frame/30>=c.start&&frame/30<c.end);
@@ -24,7 +26,7 @@ const CaptionRenderer = ({text, duration, channel, chunks, timings}: {text: stri
   let chunk=0,seen=0;
   for(let i=0;i<groups.length;i++) {seen+=groups[i].split(/\s+/).length;if(wordAt<seen){chunk=i;break;}}
   return <div style={{position:'absolute',left:90,right:90,bottom:170,textAlign:'center',zIndex:30}}>
-    <div style={{display:'inline-block',fontSize:36,lineHeight:1.25,padding:'18px 22px',background:channel.palette.background+'ed',borderTop:`1px solid ${channel.palette.muted}55`}}>
+    <div style={{display:'inline-block',fontSize:36,lineHeight:1.25,padding:'18px 22px',background:editorial ? editorialColours.white : channel.palette.background+'ed',color:editorial?editorialNeutrals.text:channel.palette.text,borderTop:`1px solid ${editorial?editorialNeutrals.border:channel.palette.muted+'55'}`}}>
       {timedCaption?.text??groups[chunk]}
     </div>
   </div>;
@@ -133,8 +135,32 @@ export const PlannedReel = ({channel,reel}: {channel: Channel; reel: Reel}) => <
   {reel.scenes.map((scene,index)=>{
     const from=Math.round(scene.start*30),duration=Math.round(scene.end*30)-from,lastScene=index===reel.scenes.length-1;
     return <Sequence key={scene.id} from={from} durationInFrames={duration+(lastScene?0:TRANSITION_FRAMES)}>
-      <SceneTransition durationFrames={duration} sceneIndex={index} lastScene={lastScene} incomingKind={index>0?reel.scenes[index-1].transition:undefined} outgoingKind={scene.transition}><AuthoredSceneMotion scene={scene} duration={duration}><DirectedScene channel={channel} reel={reel} scene={scene} sceneIndex={index} duration={duration}/></AuthoredSceneMotion></SceneTransition>
-      <CaptionRenderer text={scene.presentationNarration??scene.narration} duration={duration} channel={channel} chunks={scene.presentationNarration?undefined:scene.captionChunks} timings={scene.captionTimings}/>
+      {scene.editorial?.template === 'editorial-motion' ? (
+        <>
+          {/* Opt-in only: original channel styles are used for all other scenes. */}
+          {scene.editorial.layout === 'upper' ? (
+            <div style={{position:'absolute',top:1160,bottom:0,left:0,right:0,background:editorialColours.white}}>
+              {scene.editorial.presenterAsset ? <OffthreadVideo muted src={staticFile(scene.editorial.presenterAsset)}
+                style={{width:'100%',height:'100%',objectFit:'cover'}}/> : null}
+            </div>
+          ) : null}
+          <EditorialMotion mode={scene.editorial.mode} layout={scene.editorial.layout ?? 'full'}
+            headline={scene.editorial.headline ?? (scene.presentationText ?? scene.text)}
+            subheadline={scene.editorial.subheadline}
+            emphasis={scene.editorial.emphasis}
+            items={scene.editorial.items}/>
+        </>
+      ) : (
+        <SceneTransition durationFrames={duration} sceneIndex={index} lastScene={lastScene}
+          incomingKind={index>0?reel.scenes[index-1].transition:undefined} outgoingKind={scene.transition}>
+          <AuthoredSceneMotion scene={scene} duration={duration}>
+            <DirectedScene channel={channel} reel={reel} scene={scene} sceneIndex={index} duration={duration}/>
+          </AuthoredSceneMotion>
+        </SceneTransition>
+      )}
+      <CaptionRenderer text={scene.presentationNarration??scene.narration} duration={duration}
+        channel={channel} chunks={scene.presentationNarration?undefined:scene.captionChunks}
+        timings={scene.captionTimings} editorial={scene.editorial?.template === 'editorial-motion'}/>
     </Sequence>;
   })}
 </Backdrop>;
