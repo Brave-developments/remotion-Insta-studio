@@ -57,6 +57,8 @@ export type SceneVisual = {
 };
 
 export type Scene = {
+  /** Optional pastel treatment for this scene only, never globally. */
+  editorial?: import('../../studio-kit/src/types').EditorialSceneSelection;
   id: string;
   start: number;
   end: number;
