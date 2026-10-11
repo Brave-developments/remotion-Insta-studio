@@ -70,7 +70,7 @@ For channels using `studio-kit/src/Engine.tsx`, add the following **only** to a 
 - `template` must equal `editorial-motion` exactly; otherwise the original renderer is used.
 - `mode` is one of the three listed identifiers.
 - `layout: "full"` creates a full editorial scene; `layout: "upper"` uses the upper 1160px and preserves the lower video region.
-- To use an imported HeyGen presenter video below the graphics in an upper scene, add `"presenterAsset": "assets/path/to/presenter.mp4"` to the `editorial` object. The presenter video is **muted** so the parent Reel audio remains the only narration track. The path must correspond to real video under that project's public/assets; placeholder paths will not work.
+- To use an imported HeyGen presenter video below the graphics in an upper scene, add `"presenterAsset": "assets/path/to/presenter.mp4"` to the `editorial` object. The presenter video is **muted** so the parent Reel audio remains the only narration track. Its source starts at the scene's timeline timestamp, so a full-length imported presenter recording stays aligned with narration rather than restarting at every new scene. The visual is fitted within the lower region without cropping; compositing a foreground-only presenter is a separate asset-preparation step. The path must correspond to real video under that project's public/assets; placeholder paths will not work.
 - `emphasis` selects a phrase to highlight in lilac. Never highlight in yellow.
 - `items` accepts up to three words or names as labeled illustrations, **not** fabricated evidence.
 - Real captions remain on their existing timeline; during an editorial scene the captions use paper white and muted grey for contrast.
