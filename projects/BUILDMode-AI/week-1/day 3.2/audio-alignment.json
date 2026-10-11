@@ -1,0 +1,728 @@
+{
+  "fingerprint": "f2e59bfff92d01cb8144e66ceeea0460678263d2bf84ca4514e10cd1cb54f852",
+  "recognizedText": " Take a deliberately ugly but functional website and give its design a rescue. The original copy stays, frees the baseline, sign up, FAQ, navigation, and links. A prettier page that loses features has failed the brief. For the recorded experiment, start the clock when the prompt is submitted. Include correction and verification time. This original redesign study demonstrates hierarchy, spacing, and a clearer primary action without replacing the message. desktop and mobile at identical viewports. Verify the form, FAQ, and navigation before describing an improvement. These are authored baseline and redesign concepts, which version feels easier to use, and what would you change?",
+  "words": [
+    {
+      "text": " Take",
+      "timestamp": [
+        0.0,
+        0.4
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        0.4,
+        0.54
+      ]
+    },
+    {
+      "text": " deliberately",
+      "timestamp": [
+        0.54,
+        0.92
+      ]
+    },
+    {
+      "text": " ugly",
+      "timestamp": [
+        0.92,
+        1.38
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        1.38,
+        1.62
+      ]
+    },
+    {
+      "text": " functional",
+      "timestamp": [
+        1.62,
+        2.04
+      ]
+    },
+    {
+      "text": " website",
+      "timestamp": [
+        2.04,
+        2.54
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        2.54,
+        3.1
+      ]
+    },
+    {
+      "text": " give",
+      "timestamp": [
+        3.1,
+        3.3
+      ]
+    },
+    {
+      "text": " its",
+      "timestamp": [
+        3.3,
+        3.5
+      ]
+    },
+    {
+      "text": " design",
+      "timestamp": [
+        3.5,
+        3.82
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        3.82,
+        4.02
+      ]
+    },
+    {
+      "text": " rescue.",
+      "timestamp": [
+        4.02,
+        4.8
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        5.02,
+        5.04
+      ]
+    },
+    {
+      "text": " original",
+      "timestamp": [
+        5.04,
+        5.42
+      ]
+    },
+    {
+      "text": " copy",
+      "timestamp": [
+        5.42,
+        5.8
+      ]
+    },
+    {
+      "text": " stays,",
+      "timestamp": [
+        5.8,
+        6.82
+      ]
+    },
+    {
+      "text": " frees",
+      "timestamp": [
+        6.82,
+        7.1
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        7.1,
+        7.26
+      ]
+    },
+    {
+      "text": " baseline,",
+      "timestamp": [
+        7.26,
+        8.2
+      ]
+    },
+    {
+      "text": " sign",
+      "timestamp": [
+        8.2,
+        8.38
+      ]
+    },
+    {
+      "text": " up,",
+      "timestamp": [
+        8.38,
+        8.92
+      ]
+    },
+    {
+      "text": " FAQ,",
+      "timestamp": [
+        8.92,
+        9.94
+      ]
+    },
+    {
+      "text": " navigation,",
+      "timestamp": [
+        9.94,
+        10.78
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        10.78,
+        11.0
+      ]
+    },
+    {
+      "text": " links.",
+      "timestamp": [
+        11.0,
+        11.78
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        11.8,
+        11.96
+      ]
+    },
+    {
+      "text": " prettier",
+      "timestamp": [
+        11.96,
+        12.32
+      ]
+    },
+    {
+      "text": " page",
+      "timestamp": [
+        12.32,
+        12.64
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        12.64,
+        12.86
+      ]
+    },
+    {
+      "text": " loses",
+      "timestamp": [
+        12.86,
+        13.14
+      ]
+    },
+    {
+      "text": " features",
+      "timestamp": [
+        13.14,
+        13.56
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        13.56,
+        13.86
+      ]
+    },
+    {
+      "text": " failed",
+      "timestamp": [
+        13.86,
+        14.16
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        14.16,
+        14.38
+      ]
+    },
+    {
+      "text": " brief.",
+      "timestamp": [
+        14.38,
+        15.12
+      ]
+    },
+    {
+      "text": " For",
+      "timestamp": [
+        15.26,
+        15.32
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        15.32,
+        15.42
+      ]
+    },
+    {
+      "text": " recorded",
+      "timestamp": [
+        15.42,
+        15.76
+      ]
+    },
+    {
+      "text": " experiment,",
+      "timestamp": [
+        15.76,
+        16.78
+      ]
+    },
+    {
+      "text": " start",
+      "timestamp": [
+        16.78,
+        17.0
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        17.0,
+        17.22
+      ]
+    },
+    {
+      "text": " clock",
+      "timestamp": [
+        17.22,
+        17.46
+      ]
+    },
+    {
+      "text": " when",
+      "timestamp": [
+        17.46,
+        17.72
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        17.72,
+        17.84
+      ]
+    },
+    {
+      "text": " prompt",
+      "timestamp": [
+        17.84,
+        18.12
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        18.12,
+        18.3
+      ]
+    },
+    {
+      "text": " submitted.",
+      "timestamp": [
+        18.3,
+        19.22
+      ]
+    },
+    {
+      "text": " Include",
+      "timestamp": [
+        19.46,
+        19.6
+      ]
+    },
+    {
+      "text": " correction",
+      "timestamp": [
+        19.6,
+        20.06
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        20.06,
+        20.36
+      ]
+    },
+    {
+      "text": " verification",
+      "timestamp": [
+        20.36,
+        20.74
+      ]
+    },
+    {
+      "text": " time.",
+      "timestamp": [
+        20.74,
+        21.96
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        22.04,
+        22.1
+      ]
+    },
+    {
+      "text": " original",
+      "timestamp": [
+        22.1,
+        22.56
+      ]
+    },
+    {
+      "text": " redesign",
+      "timestamp": [
+        22.56,
+        22.96
+      ]
+    },
+    {
+      "text": " study",
+      "timestamp": [
+        22.96,
+        23.44
+      ]
+    },
+    {
+      "text": " demonstrates",
+      "timestamp": [
+        23.44,
+        23.98
+      ]
+    },
+    {
+      "text": " hierarchy,",
+      "timestamp": [
+        23.98,
+        25.22
+      ]
+    },
+    {
+      "text": " spacing,",
+      "timestamp": [
+        25.22,
+        25.9
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        25.9,
+        26.12
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        26.12,
+        26.2
+      ]
+    },
+    {
+      "text": " clearer",
+      "timestamp": [
+        26.2,
+        26.5
+      ]
+    },
+    {
+      "text": " primary",
+      "timestamp": [
+        26.5,
+        27.04
+      ]
+    },
+    {
+      "text": " action",
+      "timestamp": [
+        27.04,
+        27.52
+      ]
+    },
+    {
+      "text": " without",
+      "timestamp": [
+        27.54,
+        27.82
+      ]
+    },
+    {
+      "text": " replacing",
+      "timestamp": [
+        27.82,
+        28.34
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        28.34,
+        28.54
+      ]
+    },
+    {
+      "text": " message.",
+      "timestamp": [
+        28.54,
+        29.5
+      ]
+    },
+    {
+      "text": " desktop",
+      "timestamp": [
+        29.84,
+        30.32
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        30.32,
+        30.6
+      ]
+    },
+    {
+      "text": " mobile",
+      "timestamp": [
+        30.6,
+        30.94
+      ]
+    },
+    {
+      "text": " at",
+      "timestamp": [
+        30.94,
+        31.14
+      ]
+    },
+    {
+      "text": " identical",
+      "timestamp": [
+        31.14,
+        31.54
+      ]
+    },
+    {
+      "text": " viewports.",
+      "timestamp": [
+        31.54,
+        32.6
+      ]
+    },
+    {
+      "text": " Verify",
+      "timestamp": [
+        32.6,
+        33.08
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        33.08,
+        33.3
+      ]
+    },
+    {
+      "text": " form,",
+      "timestamp": [
+        33.3,
+        34.02
+      ]
+    },
+    {
+      "text": " FAQ,",
+      "timestamp": [
+        34.02,
+        34.78
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        34.78,
+        34.78
+      ]
+    },
+    {
+      "text": " navigation",
+      "timestamp": [
+        34.78,
+        35.16
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        35.16,
+        35.72
+      ]
+    },
+    {
+      "text": " describing",
+      "timestamp": [
+        35.9,
+        36.26
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        36.26,
+        36.44
+      ]
+    },
+    {
+      "text": " improvement.",
+      "timestamp": [
+        36.44,
+        37.46
+      ]
+    },
+    {
+      "text": " These",
+      "timestamp": [
+        37.46,
+        37.62
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        37.62,
+        37.74
+      ]
+    },
+    {
+      "text": " authored",
+      "timestamp": [
+        37.74,
+        38.12
+      ]
+    },
+    {
+      "text": " baseline",
+      "timestamp": [
+        38.12,
+        38.56
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        38.56,
+        38.86
+      ]
+    },
+    {
+      "text": " redesign",
+      "timestamp": [
+        38.86,
+        39.1
+      ]
+    },
+    {
+      "text": " concepts,",
+      "timestamp": [
+        39.1,
+        40.42
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        40.42,
+        40.66
+      ]
+    },
+    {
+      "text": " version",
+      "timestamp": [
+        40.66,
+        41.02
+      ]
+    },
+    {
+      "text": " feels",
+      "timestamp": [
+        41.14,
+        41.28
+      ]
+    },
+    {
+      "text": " easier",
+      "timestamp": [
+        41.28,
+        41.68
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        41.68,
+        41.88
+      ]
+    },
+    {
+      "text": " use,",
+      "timestamp": [
+        41.88,
+        42.56
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        42.56,
+        42.68
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        42.68,
+        42.9
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        42.9,
+        43.04
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        43.04,
+        43.18
+      ]
+    },
+    {
+      "text": " change?",
+      "timestamp": [
+        43.18,
+        43.82
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "remotion-video",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remotion video project",
+  "scripts": {
+    "dev": "remotion studio",
+    "studio": "remotion studio",
+    "render": "remotion render",
+    "render:reel": "remotion render Reel out/reel.mp4",
+    "render:promo": "remotion render ResourceHubPromo out/resource-hub-master.mp4",
+    "render:promo30": "remotion render ResourceHubPromo30 out/resource-hub-30s.mp4",
+    "render:promoreel": "remotion render ResourceHubReel out/resource-hub-reel.mp4",
+    "voiceover:promo": "node scripts/generate-promo-voiceover.cjs",
+    "still": "remotion still",
+    "still:reel": "remotion still Reel out/reel-frame.png",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "@remotion/fonts": "^4.0.532",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "typescript": "5.9.2"
+  }
+}

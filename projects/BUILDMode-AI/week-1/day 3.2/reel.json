@@ -1,0 +1,257 @@
+{
+  "id": "D03R2",
+  "day": 3,
+  "reelNumber": 2,
+  "title": "AI Rescues a Terrible Website",
+  "format": "Build",
+  "durationSeconds": 30,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I made this website bad on purpose. AI gets twenty minutes to rescue it. The copy stays. Every working feature stays. Only the design can change. The timer starts when I submit the prompt, not when the agent begins editing. Here is the result beside the original, at the same viewport. [VISIBLE_IMPROVEMENT]. [PRESERVED_FEATURES_AND_REMAINING_PROBLEM]. Which version would you actually use?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 59,
+  "estimatedWpm": 118,
+  "concept": "Twenty-minute redesign without changing copy or removing functionality.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I made this website bad on purpose. AI gets twenty minutes to rescue it.",
+    "Same copy. Same features. Twenty minutes to improve the design.",
+    "A beautiful redesign still fails if the button breaks."
+  ],
+  "strongestHook": "I made this website bad on purpose. AI gets twenty minutes to rescue it.",
+  "directorBrief": "Direct this as an observable challenge: Twenty-minute redesign without changing copy or removing functionality. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Easy",
+  "effort": "15–60 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Build an original deliberately ugly but functional landing page with fixed copy, signup validation, FAQ and navigation. Snapshot baseline. Give 20 minutes from prompt submission to verified finish. Preserve all copy, links and functional checks. Capture desktop and 390px mobile before/after at identical scroll positions. Audit readability, spacing, hierarchy, form behavior, FAQ and navigation; record regressions and final time.",
+  "evidenceRequirements": "Capture constraints, baseline and final; report actual improvements and failures.",
+  "sources": [],
+  "thumbnail": "Twenty Minute Rescue",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Twenty Minute Rescue” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Which version would you actually use?",
+  "cta": "BEFORE OR AFTER?",
+  "instagramCaption": "AI Rescues a Terrible Website. Twenty-minute redesign without changing copy or removing functionality. Full test conditions and limitations belong beside the final result. Which version would you actually use?",
+  "tiktokCaption": "AI Rescues a Terrible Website. BEFORE OR AFTER?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Ugly/final site, timer, coding recording.",
+  "scenes": [
+    {
+      "id": "D03R2-S1",
+      "start": 0,
+      "end": 6.933333333333334,
+      "type": "hook",
+      "text": "20-MINUTE DESIGN RESCUE",
+      "narration": "I made this website bad on purpose. AI gets twenty minutes to rescue it.",
+      "concept": "Original ugly site: poor spacing and hierarchy, but functional controls.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Original ugly site: poor spacing and hierarchy, but functional controls.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I made this website bad on",
+        "purpose. AI gets twenty minutes to",
+        "rescue it."
+      ],
+      "presentationText": "RESCUE THIS DESIGN",
+      "presentationNarration": "Take a deliberately ugly but functional website, and give its design a rescue. The original copy stays.",
+      "presentationCaptionChunks": [
+        "Take a deliberately ugly but functional",
+        "website, and give its design a",
+        "rescue. The original copy stays."
+      ]
+    },
+    {
+      "id": "D03R2-S2",
+      "start": 6.933333333333334,
+      "end": 12.933333333333334,
+      "type": "workflow",
+      "text": "KEEP THE CONTENT AND FEATURES",
+      "narration": "The copy stays. Every working feature stays. Only the design can change.",
+      "concept": "Pin the constraints above actual task prompt and baseline checklist.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Pin the constraints above actual task prompt and baseline checklist.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The copy stays. Every working feature",
+        "stays. Only the design can change."
+      ],
+      "presentationText": "KEEP EVERY FEATURE",
+      "presentationNarration": "Freeze the baseline: signup, FAQ, navigation, and links. A prettier page that loses features has failed the brief.",
+      "presentationCaptionChunks": [
+        "Freeze the baseline: signup, FAQ, navigation,",
+        "and links. A prettier page that",
+        "loses features has failed the brief."
+      ]
+    },
+    {
+      "id": "D03R2-S3",
+      "start": 12.933333333333334,
+      "end": 19.866666666666667,
+      "type": "evidence",
+      "text": "THE WHOLE CLOCK COUNTS",
+      "narration": "The timer starts when I submit the prompt, not when the agent begins editing.",
+      "concept": "Real timer synchronized with submission; show work as labeled accelerated footage.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real timer synchronized with submission; show work as labeled accelerated footage.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The timer starts when I submit",
+        "the prompt, not when the agent",
+        "begins editing."
+      ],
+      "presentationText": "THE WHOLE CLOCK COUNTS",
+      "presentationNarration": "For the recorded experiment, start the clock when the prompt is submitted. Include correction and verification time.",
+      "presentationCaptionChunks": [
+        "For the recorded experiment, start the",
+        "clock when the prompt is submitted.",
+        "Include correction and verification time."
+      ]
+    },
+    {
+      "id": "D03R2-S4",
+      "start": 19.866666666666667,
+      "end": 25.4,
+      "type": "evidence",
+      "text": "BEFORE / AFTER",
+      "narration": "Here is the result beside the original, at the same viewport.",
+      "concept": "Identical scroll positions and browser sizes; continuous reveal across divider.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Identical scroll positions and browser sizes; continuous reveal across divider.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Here is the result beside the",
+        "original, at the same viewport."
+      ],
+      "presentationText": "SAME COPY. NEW HIERARCHY.",
+      "presentationNarration": "This original redesign study demonstrates hierarchy, spacing, and a clearer primary action without replacing the message.",
+      "presentationCaptionChunks": [
+        "This original redesign study demonstrates hierarchy,",
+        "spacing, and a clearer primary action",
+        "without replacing the message."
+      ]
+    },
+    {
+      "id": "D03R2-S5",
+      "start": 25.4,
+      "end": 26.766666666666666,
+      "type": "result",
+      "text": "[FUNCTION CHECK]",
+      "narration": "[VISIBLE_IMPROVEMENT]. [PRESERVED_FEATURES_AND_REMAINING_PROBLEM].",
+      "concept": "Click original and redesigned controls; report any lost behavior.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Click original and redesigned controls; report any lost behavior.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[VISIBLE_IMPROVEMENT]. [PRESERVED_FEATURES_AND_REMAINING_PROBLEM]."
+      ],
+      "presentationText": "LOOKS ARE NOT ENOUGH",
+      "presentationNarration": "Capture desktop and mobile at identical viewports. Verify the form, FAQ, and navigation before describing an improvement.",
+      "presentationCaptionChunks": [
+        "Capture desktop and mobile at identical",
+        "viewports. Verify the form, FAQ, and",
+        "navigation before describing an improvement."
+      ]
+    },
+    {
+      "id": "D03R2-S6",
+      "start": 26.766666666666666,
+      "end": 30,
+      "type": "question",
+      "text": "BEFORE OR AFTER?",
+      "narration": "Which version would you actually use?",
+      "concept": "Return to the strongest matched comparison, not a beauty shot alone.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to the strongest matched comparison, not a beauty shot alone.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Which version would you actually use?"
+      ],
+      "presentationText": "WHICH WOULD YOU USE?",
+      "presentationNarration": "These are authored baseline and redesign concepts. Which version feels easier to use, and what would you change?",
+      "presentationCaptionChunks": [
+        "These are authored baseline and redesign",
+        "concepts. Which version feels easier to",
+        "use, and what would you change?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

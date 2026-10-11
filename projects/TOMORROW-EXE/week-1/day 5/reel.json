@@ -1,0 +1,220 @@
+{
+  "id": "D05R1",
+  "day": 5,
+  "reelNumber": 1,
+  "title": "Your Thoughts Become Text",
+  "format": "What If",
+  "durationSeconds": 32,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "What if thinking a sentence was enough to type it? Clinical research has translated brain signals into speech for people with paralysis. That is not unrestricted mind-reading. It is a carefully trained communication system. Now imagine that interface becoming an everyday way to write a message. Typing gets easier. Keeping the data private becomes a different challenge. If an interface reads the signal, who owns it?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 66,
+  "estimatedWpm": 124,
+  "concept": "Medical BCI communication inspires future thought interfaces and a neural-privacy question.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "What if thinking a sentence was enough to type it?",
+    "A cursor moves from a brain signal. Here is the boundary.",
+    "Communication research is remarkable. It is not mind-reading."
+  ],
+  "strongestHook": "What if thinking a sentence was enough to type it?",
+  "directorBrief": "Direct this as a human story about Medical BCI communication inspires future thought interfaces and a neural-privacy question. Emotional movement: possibility → boundaries. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Medium",
+  "effort": "60–120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify clinical evidence; communication assistance is not unrestricted mind-reading.",
+  "sources": [
+    {
+      "label": "Clinical brain-to-voice research",
+      "url": "https://www.nature.com/articles/s41593-025-01905-6",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Thoughts Into Speech",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Thoughts Into Speech” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "If an interface reads the signal, who owns it?",
+  "cta": "WHO OWNS THE SIGNAL?",
+  "instagramCaption": "Your Thoughts Become Text. A possible future, grounded in present technology. The dates and scenario are fictional. If an interface reads the signal, who owns it?",
+  "tiktokCaption": "Your Thoughts Become Text. WHO OWNS THE SIGNAL? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88–104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Respectful medical portrait, waveform, thought cursor, lock.",
+  "scenes": [
+    {
+      "id": "D05R1-S1",
+      "start": 0,
+      "end": 4.9,
+      "type": "hook",
+      "text": "THOUGHT → COMMUNICATION",
+      "narration": "What if thinking a sentence was enough to type it?",
+      "concept": "Respectful adult portrait; cursor waits rather than magical head glow.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d05r1/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Respectful adult portrait; cursor waits rather than magical head glow.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "What if thinking a sentence was",
+        "enough to type it?"
+      ]
+    },
+    {
+      "id": "D05R1-S2",
+      "start": 4.9,
+      "end": 10.666666666666666,
+      "type": "evidence",
+      "text": "REAL TODAY: CLINICAL RESEARCH",
+      "narration": "Clinical research has translated brain signals into speech for people with paralysis.",
+      "concept": "Show paper title and year; label studied communication assistance.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show paper title and year; label studied communication assistance.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Clinical research has translated brain signals",
+        "into speech for people with paralysis."
+      ]
+    },
+    {
+      "id": "D05R1-S3",
+      "start": 10.666666666666666,
+      "end": 16.433333333333334,
+      "type": "workflow",
+      "text": "COMMUNICATION, NOT MIND-READING",
+      "narration": "That is not unrestricted mind-reading. It is a carefully trained communication system.",
+      "concept": "Signals pass through a trained decoder to speech; no imaginary thought extraction.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Signals pass through a trained decoder to speech; no imaginary thought extraction.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "That is not unrestricted mind-reading. It",
+        "is a carefully trained communication system."
+      ]
+    },
+    {
+      "id": "D05R1-S4",
+      "start": 16.433333333333334,
+      "end": 22.2,
+      "type": "phone",
+      "text": "IMAGINE EVERYDAY USE",
+      "narration": "Now imagine that interface becoming an everyday way to write a message.",
+      "concept": "Clearly fictional compose screen; sentence appears at reading speed.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Clearly fictional compose screen; sentence appears at reading speed.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Now imagine that interface becoming an",
+        "everyday way to write a message."
+      ]
+    },
+    {
+      "id": "D05R1-S5",
+      "start": 22.2,
+      "end": 27.566666666666666,
+      "type": "workflow",
+      "text": "THE MESSAGE. THE SIGNALS.",
+      "narration": "Typing gets easier. Keeping the data private becomes a different challenge.",
+      "concept": "Split intended message from underlying data, with separate consent boundaries.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Split intended message from underlying data, with separate consent boundaries.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Typing gets easier. Keeping the data",
+        "private becomes a different challenge."
+      ]
+    },
+    {
+      "id": "D05R1-S6",
+      "start": 27.566666666666666,
+      "end": 32,
+      "type": "question",
+      "text": "WHO OWNS THE SIGNAL?",
+      "narration": "If an interface reads the signal, who owns it?",
+      "concept": "Cursor stops; lock rests beside the data stream, not inside a skull.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Cursor stops; lock rests beside the data stream, not inside a skull.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "If an interface reads the signal,",
+        "who owns it?"
+      ]
+    }
+  ]
+}

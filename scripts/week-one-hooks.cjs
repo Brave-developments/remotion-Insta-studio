@@ -1,0 +1,50 @@
+module.exports = [
+[
+['Your AI bought this. You never tapped approve.','The receipt says approved. But by whom?'],
+['You missed the meeting. Your AI did not.','Your manager loved work you have not opened yet.'],
+['Your front door works like a login now.','Losing one account could lock you out of your day.'],
+['Your glasses remember this stranger. Did they agree?','You left your phone home. The internet came anyway.'],
+['The next appliance might have legs.','A robot carries the groceries. Who fixes its judgment?'],
+['The van brought a robot, not a delivery.','You booked two hours of physical labour in an app.'],
+['This tutor remembers the question you never asked aloud.','Ten years of lessons. Who owns the history?'],
+['Twenty-eight students. Twenty-eight explanations.','The AI picked an easier course. The teacher said wait.'],
+['A cursor moves from a brain signal. Here is the boundary.','Communication research is remarkable. It is not mind-reading.'],
+['The discount asks for something more personal than money.','Sharing is optional. Refusing has a cost.'],
+['Your garage is empty. Your ride is outside.','The car drives itself. Who controls your access?'],
+['This parking garage becomes a playground.','What would your city do with the space cars leave behind?'],
+['Two AIs agreed you should meet.','Can an agent plan everything except chemistry?'],
+['Her face is familiar. The call is not.','You almost sent the money. Then you called back.']
+],
+[
+['Five broken features. Three confident AI coders.','Which AI actually fixes the app, not just the summary?'],
+['Can one screenshot become a working React page?','No design file. One image. One correction.'],
+['The table looks finished. Are the sources right?','I kept my hands off the browser. Did it finish?'],
+['Can a spoken idea survive the refresh test?','I wanted three columns, not a complicated app.'],
+['The new agent gets four rules. Does it follow them?','Persistent instructions are not magic memory. Let us check.'],
+['Same copy. Same features. Twenty minutes to improve the design.','A beautiful redesign still fails if the button breaks.'],
+['Twenty-four fields. One browser agent. No guessing.','The CSV downloaded. Now we check what is inside.'],
+['Does a review checklist change what the AI catches?','More review text does not mean more correct findings.'],
+['Four agents start building. Who handles the disagreement?','One coordinator, four roles, and a real integration test.'],
+['The menu breaks at 639 pixels. Can AI fix just that?','A reviewable diff needs more than a finished message.'],
+['A fast answer is not a working CSV export.','The clock stops when the file passes, not when the AI stops.'],
+['One prompt. Can I actually play the result?','The game looks finished. Now press restart.'],
+['The repo says banana. My task says fix the button.','Will the agent treat fixture text as an instruction?'],
+['Twenty screenshots. Six categories. How many mistakes?','Before AI renames anything, I want a preview.']
+],
+[
+['This menu follows your cursor. Will you actually use it?','A gesture opens the app. The speed test comes next.'],
+['Does a radial menu beat the Start menu?','Setup takes time too. I counted it.'],
+['Different devices. One local file transfer.','No account, no cloud upload. What is the catch?'],
+['Five gigabytes. Same files. Two routes.','A fast transfer still has to arrive intact.'],
+['Can this PDF job stay on your computer?','A PDF workspace needs more than a feature count.'],
+['A black rectangle does not prove the text is gone.','Seven PDF tasks. Correct output comes first.'],
+['Personal recording and client work have different terms.','Read this before calling Cap free for work.'],
+['Same demo. Which recording can someone actually use?','The export matters more than the record button.'],
+['OpenCut has a rewrite. I am testing the classic editor.','Open source does not guarantee a deadline-ready edit.'],
+['Eight editing jobs. No imaginary buttons.','A finished timeline is not the same as a usable export.'],
+['An open client does not mean unlimited free cloud.','Check the plan before moving your workspace.'],
+['The network is off. Can the workspace still save?','The export downloaded. Did the data survive?'],
+['An open-source canvas for your PDF notes.','Write on the PDF, then check what leaves the app.'],
+['Same PDF, same pen, two note apps.','Would you switch if the exported notes survive?']
+]
+];

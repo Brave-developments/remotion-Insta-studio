@@ -1,0 +1,263 @@
+{
+  "id": "D05R1",
+  "day": 5,
+  "reelNumber": 1,
+  "title": "AI Builds Its Own Dev Team",
+  "format": "Experiment",
+  "durationSeconds": 55,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I asked AI to build a tiny dev team, and gave it one feedback board. Frontend builds the screen. API stores feedback. Tests check it. A reviewer looks for mistakes. All four start from the same contract: create, list, and update a feedback item. The interesting part is where they disagree: [OBSERVED_COORDINATION_EVENT]. The final board [FUNCTIONAL_RESULT]. The team took [ELAPSED_TIME], including [COORDINATION_COST]. [SINGLE_AGENT_COMPARISON_IF_RUN_OTHERWISE_NO_COMPARISON]. Would you use a team for this size of job?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 73,
+  "estimatedWpm": 80,
+  "concept": "Feedback board with frontend, API, tests and reviewer roles under a coordinator.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I asked AI to build a tiny dev team, and gave it one feedback board.",
+    "Four agents start building. Who handles the disagreement?",
+    "One coordinator, four roles, and a real integration test."
+  ],
+  "strongestHook": "I asked AI to build a tiny dev team, and gave it one feedback board.",
+  "directorBrief": "Direct this as an observable challenge: Feedback board with frontend, API, tests and reviewer roles under a coordinator. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Hard",
+  "effort": "60–90 minutes core experiment; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Use an isolated feedback-board repo. Shared contract: POST /feedback, GET /feedback, PATCH /feedback/:id with title, status and ID. Explicitly assign UI, API, test and review roles under a coordinator in an environment that supports them. Freeze contract and dependencies. Acceptance: create, list, change status, reload persistence, validation and no console error. Capture handoffs, integration conflicts, elapsed time and intervention overhead. Do not claim faster than one agent unless a matched single-agent run is also performed.",
+  "evidenceRequirements": "Perform when commissioned; measure coordination, conflicts, tests and final app.",
+  "sources": [],
+  "thumbnail": "Four Agents One App",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Four Agents One App” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[SINGLE_AGENT_COMPARISON_IF_RUN_OTHERWISE_NO_COMPARISON]. Would you use a team for this size of job?",
+  "cta": "WORTH THE COORDINATION?",
+  "instagramCaption": "AI Builds Its Own Dev Team. Feedback board with frontend, API, tests and reviewer roles under a coordinator. Full test conditions and limitations belong beside the final result. [SINGLE_AGENT_COMPARISON_IF_RUN_OTHERWISE_NO_COMPARISON]. Would you use a team for this size of job?",
+  "tiktokCaption": "AI Builds Its Own Dev Team. WORTH THE COORDINATION?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Agent graph, real runs, merges, tests, app.",
+  "scenes": [
+    {
+      "id": "D05R1-S1",
+      "start": 0,
+      "end": 11.133333333333333,
+      "type": "hook",
+      "text": "FOUR ROLES. ONE APP.",
+      "narration": "I asked AI to build a tiny dev team, and gave it one feedback board.",
+      "concept": "Four role nodes connect to one coordinator; illustrative graph marked as such.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Four role nodes connect to one coordinator; illustrative graph marked as such.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I asked AI to build a",
+        "tiny dev team, and gave it",
+        "one feedback board."
+      ],
+      "presentationText": "FOUR ROLES. ONE APP.",
+      "presentationNarration": "A tiny dev team needs one shared job. Give four agent roles an original feedback board and a clear integration contract.",
+      "presentationCaptionChunks": [
+        "A tiny dev team needs one",
+        "shared job. Give four agent roles",
+        "an original feedback board and a",
+        "clear integration contract."
+      ]
+    },
+    {
+      "id": "D05R1-S2",
+      "start": 11.133333333333333,
+      "end": 22.266666666666666,
+      "type": "workflow",
+      "text": "UI / API / TEST / REVIEW",
+      "narration": "Frontend builds the screen. API stores feedback. Tests check it. A reviewer looks for mistakes.",
+      "concept": "Each role points to its actual assigned deliverable, not decorative terminal windows.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Each role points to its actual assigned deliverable, not decorative terminal windows.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Frontend builds the screen. API stores",
+        "feedback. Tests check it. A reviewer",
+        "looks for mistakes."
+      ],
+      "presentationText": "UI / API / TEST / REVIEW",
+      "presentationNarration": "Frontend composes the interface. API stores feedback. Tests verify behavior. Review inspects the change.",
+      "presentationCaptionChunks": [
+        "Frontend composes the interface. API stores",
+        "feedback. Tests verify behavior. Review inspects",
+        "the change."
+      ]
+    },
+    {
+      "id": "D05R1-S3",
+      "start": 22.266666666666666,
+      "end": 32.7,
+      "type": "evidence",
+      "text": "ONE SHARED CONTRACT",
+      "narration": "All four start from the same contract: create, list, and update a feedback item.",
+      "concept": "Show concise API schema and clean baseline; capture actual session assignment.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show concise API schema and clean baseline; capture actual session assignment.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "All four start from the same",
+        "contract: create, list, and update a",
+        "feedback item."
+      ],
+      "presentationText": "AGREE BEFORE BUILDING",
+      "presentationNarration": "Create, list, and update feedback. All roles use the same fields and endpoints so the pieces have a chance to fit.",
+      "presentationCaptionChunks": [
+        "Create, list, and update feedback. All",
+        "roles use the same fields and",
+        "endpoints so the pieces have a",
+        "chance to fit."
+      ]
+    },
+    {
+      "id": "D05R1-S4",
+      "start": 32.7,
+      "end": 38.96666666666667,
+      "type": "evidence",
+      "text": "[COORDINATION MOMENT]",
+      "narration": "The interesting part is where they disagree: [OBSERVED_COORDINATION_EVENT].",
+      "concept": "Replay a real integration mismatch or successful handoff; no invented conflict.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Replay a real integration mismatch or successful handoff; no invented conflict.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The interesting part is where they",
+        "disagree: [OBSERVED_COORDINATION_EVENT]."
+      ],
+      "presentationText": "HANDOFFS COST SOMETHING",
+      "presentationNarration": "Track disagreements, merges, and coordinator interventions during the real run. Parallel work still has integration overhead.",
+      "presentationCaptionChunks": [
+        "Track disagreements, merges, and coordinator interventions",
+        "during the real run. Parallel work",
+        "still has integration overhead."
+      ]
+    },
+    {
+      "id": "D05R1-S5",
+      "start": 38.96666666666667,
+      "end": 46.63333333333333,
+      "type": "result",
+      "text": "[TESTED TEAM RESULT]",
+      "narration": "The final board [FUNCTIONAL_RESULT]. The team took [ELAPSED_TIME], including [COORDINATION_COST].",
+      "concept": "Create and update one item; show persistence and test report.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Create and update one item; show persistence and test report.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The final board [FUNCTIONAL_RESULT]. The team",
+        "took [ELAPSED_TIME], including [COORDINATION_COST]."
+      ],
+      "presentationText": "VERIFY THE FINAL BOARD",
+      "presentationNarration": "Check creation, status changes, validation, and reload persistence. Record elapsed time and coordination effort before drawing a conclusion.",
+      "presentationCaptionChunks": [
+        "Check creation, status changes, validation, and",
+        "reload persistence. Record elapsed time and",
+        "coordination effort before drawing a conclusion."
+      ]
+    },
+    {
+      "id": "D05R1-S6",
+      "start": 46.63333333333333,
+      "end": 55,
+      "type": "question",
+      "text": "WORTH THE COORDINATION?",
+      "narration": "[SINGLE_AGENT_COMPARISON_IF_RUN_OTHERWISE_NO_COMPARISON]. Would you use a team for this size of job?",
+      "concept": "Pull back from real app to roles, with measured overhead still visible.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Pull back from real app to roles, with measured overhead still visible.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[SINGLE_AGENT_COMPARISON_IF_RUN_OTHERWISE_NO_COMPARISON]. Would you use a team",
+        "for this size of job?"
+      ],
+      "presentationText": "WORTH THE COORDINATION?",
+      "presentationNarration": "This is a directed team-workflow study. A faster-than-one-agent claim needs a matched single-agent run too. Would you use a team here?",
+      "presentationCaptionChunks": [
+        "This is a directed team-workflow study.",
+        "A faster-than-one-agent claim needs a matched",
+        "single-agent run too. Would you use",
+        "a team here?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

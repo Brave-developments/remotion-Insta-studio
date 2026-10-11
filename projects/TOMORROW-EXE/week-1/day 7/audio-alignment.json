@@ -1,0 +1,497 @@
+{
+  "fingerprint": "6a64b093272bc4dc68b8a2a6883dce34568dae75bd9d422c2212eec1e7258925",
+  "recognizedText": " What if your AI went on the first date for you? It knows your schedule, your boundaries, and the things you keep forgetting to ask. Two agents compare expectations before their humans ever meet. They find a time, a place, and an excellent match on paper. Then you arrive, and the conversation goes somewhere, neither system predicted. Would you let AI arrange the date, or does the awkward beginning matter?",
+  "words": [
+    {
+      "text": " What",
+      "timestamp": [
+        0.0,
+        0.38
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        0.38,
+        0.54
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        0.54,
+        0.68
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        0.68,
+        0.9
+      ]
+    },
+    {
+      "text": " went",
+      "timestamp": [
+        0.9,
+        1.24
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        1.24,
+        1.38
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        1.38,
+        1.5
+      ]
+    },
+    {
+      "text": " first",
+      "timestamp": [
+        1.5,
+        1.7
+      ]
+    },
+    {
+      "text": " date",
+      "timestamp": [
+        1.7,
+        1.94
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        1.94,
+        2.2
+      ]
+    },
+    {
+      "text": " you?",
+      "timestamp": [
+        2.2,
+        2.82
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        2.92,
+        2.96
+      ]
+    },
+    {
+      "text": " knows",
+      "timestamp": [
+        2.96,
+        3.14
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        3.14,
+        3.36
+      ]
+    },
+    {
+      "text": " schedule,",
+      "timestamp": [
+        3.36,
+        4.1
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        4.1,
+        4.18
+      ]
+    },
+    {
+      "text": " boundaries,",
+      "timestamp": [
+        4.18,
+        4.62
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        4.62,
+        4.98
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        4.98,
+        5.08
+      ]
+    },
+    {
+      "text": " things",
+      "timestamp": [
+        5.08,
+        5.28
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        5.28,
+        5.48
+      ]
+    },
+    {
+      "text": " keep",
+      "timestamp": [
+        5.48,
+        5.64
+      ]
+    },
+    {
+      "text": " forgetting",
+      "timestamp": [
+        5.64,
+        5.94
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        5.94,
+        6.2
+      ]
+    },
+    {
+      "text": " ask.",
+      "timestamp": [
+        6.2,
+        7.0
+      ]
+    },
+    {
+      "text": " Two",
+      "timestamp": [
+        7.32,
+        7.4
+      ]
+    },
+    {
+      "text": " agents",
+      "timestamp": [
+        7.4,
+        7.72
+      ]
+    },
+    {
+      "text": " compare",
+      "timestamp": [
+        7.72,
+        8.1
+      ]
+    },
+    {
+      "text": " expectations",
+      "timestamp": [
+        8.1,
+        8.72
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        8.72,
+        9.22
+      ]
+    },
+    {
+      "text": " their",
+      "timestamp": [
+        9.22,
+        9.44
+      ]
+    },
+    {
+      "text": " humans",
+      "timestamp": [
+        9.44,
+        9.74
+      ]
+    },
+    {
+      "text": " ever",
+      "timestamp": [
+        9.74,
+        10.02
+      ]
+    },
+    {
+      "text": " meet.",
+      "timestamp": [
+        10.02,
+        10.74
+      ]
+    },
+    {
+      "text": " They",
+      "timestamp": [
+        10.82,
+        10.94
+      ]
+    },
+    {
+      "text": " find",
+      "timestamp": [
+        10.94,
+        11.16
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        11.16,
+        11.3
+      ]
+    },
+    {
+      "text": " time,",
+      "timestamp": [
+        11.3,
+        11.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        11.96,
+        12.06
+      ]
+    },
+    {
+      "text": " place,",
+      "timestamp": [
+        12.06,
+        12.64
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        12.64,
+        12.7
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        12.7,
+        12.78
+      ]
+    },
+    {
+      "text": " excellent",
+      "timestamp": [
+        12.78,
+        13.18
+      ]
+    },
+    {
+      "text": " match",
+      "timestamp": [
+        13.18,
+        13.44
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        13.44,
+        13.62
+      ]
+    },
+    {
+      "text": " paper.",
+      "timestamp": [
+        13.62,
+        14.4
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        14.68,
+        14.8
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        14.8,
+        14.96
+      ]
+    },
+    {
+      "text": " arrive,",
+      "timestamp": [
+        14.96,
+        15.62
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        15.62,
+        15.68
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        15.68,
+        15.76
+      ]
+    },
+    {
+      "text": " conversation",
+      "timestamp": [
+        15.76,
+        16.16
+      ]
+    },
+    {
+      "text": " goes",
+      "timestamp": [
+        16.16,
+        16.52
+      ]
+    },
+    {
+      "text": " somewhere,",
+      "timestamp": [
+        16.52,
+        17.24
+      ]
+    },
+    {
+      "text": " neither",
+      "timestamp": [
+        17.24,
+        17.4
+      ]
+    },
+    {
+      "text": " system",
+      "timestamp": [
+        17.4,
+        17.78
+      ]
+    },
+    {
+      "text": " predicted.",
+      "timestamp": [
+        17.78,
+        18.82
+      ]
+    },
+    {
+      "text": " Would",
+      "timestamp": [
+        19.04,
+        19.16
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        19.16,
+        19.28
+      ]
+    },
+    {
+      "text": " let",
+      "timestamp": [
+        19.28,
+        19.44
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        19.44,
+        19.74
+      ]
+    },
+    {
+      "text": " arrange",
+      "timestamp": [
+        19.74,
+        20.16
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        20.16,
+        20.36
+      ]
+    },
+    {
+      "text": " date,",
+      "timestamp": [
+        20.36,
+        20.96
+      ]
+    },
+    {
+      "text": " or",
+      "timestamp": [
+        20.96,
+        21.12
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        21.12,
+        21.3
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        21.3,
+        21.48
+      ]
+    },
+    {
+      "text": " awkward",
+      "timestamp": [
+        21.48,
+        21.8
+      ]
+    },
+    {
+      "text": " beginning",
+      "timestamp": [
+        21.8,
+        22.14
+      ]
+    },
+    {
+      "text": " matter?",
+      "timestamp": [
+        22.14,
+        22.86
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

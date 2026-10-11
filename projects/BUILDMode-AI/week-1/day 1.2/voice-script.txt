@@ -1,0 +1,11 @@
+Could one screenshot become a working interface? Start with this original dashboard, then freeze the reference.
+
+The image needs a sidebar, two summary cards, a chart, and a working primary action. No design file required.
+
+Inspect the first attempt at the same viewport. Look for the largest spacing, typography, or alignment mistake.
+
+Allow one correction aimed at that visible error. Keep the first attempt so the change remains reviewable.
+
+A screenshot match is only half the job. Compare the final layout, then click the main action to verify behavior.
+
+This is an original interface study for the coming test. What difference would you notice first?

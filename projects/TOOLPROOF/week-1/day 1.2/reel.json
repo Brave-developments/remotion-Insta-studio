@@ -1,0 +1,270 @@
+{
+  "id": "D01R2",
+  "day": 1,
+  "reelNumber": 2,
+  "title": "Kando — Start Menu Test",
+  "format": "Test",
+  "durationSeconds": 50,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I tested Kando against the Start menu on ten everyday tasks. The list stays fixed: launch apps, open folders, and reach common commands. I counted setup separately, practiced both methods, then alternated three timed rounds. I logged wrong selections too. Fast clicking does not help if I open the wrong thing. Kando took [KANDO_MEDIAN]. Start took [START_MEDIAN]. [MISCLICK_AND_SETUP_RESULT]. [EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 68,
+  "estimatedWpm": 82,
+  "concept": "Ten identical tasks; time, setup, learning curve, misclicks and resources.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "I tested Kando against the Start menu on ten everyday tasks.",
+    "Does a radial menu beat the Start menu?",
+    "Setup takes time too. I counted it."
+  ],
+  "strongestHook": "I tested Kando against the Start menu on ten everyday tasks.",
+  "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Ten identical tasks; time, setup, learning curve, misclicks and resources. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Medium",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Use the exact ten actions from discovery. Time setup separately. Practice both methods for five minutes. Alternate Start/Kando order across three rounds, same initial desktop state and app cache condition. Start at invocation, stop at usable target. Include correction time for wrong selections. Log task-level durations, round totals, median/range, wrong selections and idle memory snapshots. Recommendation depends on observed benefit and setup cost.",
+  "evidenceRequirements": "Record both methods and actual timers; leave scores blank until tested.",
+  "sources": [
+    {
+      "label": "Kando official site",
+      "url": "https://kando.menu/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Kando Versus Start",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Kando Versus Start” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+  "cta": "WORTH THE SETUP?",
+  "instagramCaption": "Kando — Start Menu Test. Ten identical tasks; time, setup, learning curve, misclicks and resources. Full test conditions and limitations belong beside the final result. [EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+  "tiktokCaption": "Kando — Start Menu Test. WORTH THE SETUP?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Paired runs, timings, resource measurements.",
+  "scenes": [
+    {
+      "id": "D01R2-S1",
+      "start": 0,
+      "end": 8.1,
+      "type": "hook",
+      "text": "KANDO VS START",
+      "narration": "I tested Kando against the Start menu on ten everyday tasks.",
+      "concept": "Matched task one in both methods; keep normal-speed proof moment.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Matched task one in both methods; keep normal-speed proof moment.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I tested Kando against the Start",
+        "menu on ten everyday tasks."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "TEN TASKS. TWO METHODS.",
+      "presentationNarration": "The test plan is Kando against the Start menu on ten everyday tasks.",
+      "presentationCaptionChunks": [
+        "The test plan is Kando against",
+        "the Start menu on ten everyday",
+        "tasks."
+      ]
+    },
+    {
+      "id": "D01R2-S2",
+      "start": 8.1,
+      "end": 16.9,
+      "type": "workflow",
+      "text": "SAME TASK LIST",
+      "narration": "The list stays fixed: launch apps, open folders, and reach common commands.",
+      "concept": "Actual ten-task sheet, not ten claimed benchmark categories.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual ten-task sheet, not ten claimed benchmark categories.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The list stays fixed: launch apps,",
+        "open folders, and reach common commands."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "SAME TASKS. SAME ORDER.",
+      "presentationNarration": "Both methods will launch the same apps, open the same folders, and reach the same commands.",
+      "presentationCaptionChunks": [
+        "Both methods will launch the same",
+        "apps, open the same folders, and",
+        "reach the same commands."
+      ]
+    },
+    {
+      "id": "D01R2-S3",
+      "start": 16.9,
+      "end": 25.7,
+      "type": "evidence",
+      "text": "SETUP + PRACTICE + 3 ROUNDS",
+      "narration": "I counted setup separately, practiced both methods, then alternated three timed rounds.",
+      "concept": "Real setup notes and run timestamps; visibly label accelerated footage.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real setup notes and run timestamps; visibly label accelerated footage.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I counted setup separately, practiced both",
+        "methods, then alternated three timed rounds."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "PRACTICE. ALTERNATE. REPEAT.",
+      "presentationNarration": "Setup will be counted separately. After practice, three timed rounds will alternate the method order.",
+      "presentationCaptionChunks": [
+        "Setup will be counted separately. After",
+        "practice, three timed rounds will alternate",
+        "the method order."
+      ]
+    },
+    {
+      "id": "D01R2-S4",
+      "start": 25.7,
+      "end": 37.2,
+      "type": "evidence",
+      "text": "MISTAKES COUNT",
+      "narration": "I logged wrong selections too. Fast clicking does not help if I open the wrong thing.",
+      "concept": "Replay actual misclick or verified clean selection; show timer resumes through recovery.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Replay actual misclick or verified clean selection; show timer resumes through recovery.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I logged wrong selections too. Fast",
+        "clicking does not help if I",
+        "open the wrong thing."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "COUNT WRONG SELECTIONS",
+      "presentationNarration": "Every wrong selection will be logged. Speed only matters if the intended action opens.",
+      "presentationCaptionChunks": [
+        "Every wrong selection will be logged.",
+        "Speed only matters if the intended",
+        "action opens."
+      ]
+    },
+    {
+      "id": "D01R2-S5",
+      "start": 37.2,
+      "end": 42.56666666666667,
+      "type": "result",
+      "text": "[MEASURED RESULT]",
+      "narration": "Kando took [KANDO_MEDIAN]. Start took [START_MEDIAN]. [MISCLICK_AND_SETUP_RESULT].",
+      "concept": "Median across measured rounds and range; measured memory snapshot separately.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Median across measured rounds and range; measured memory snapshot separately.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Kando took [KANDO_MEDIAN]. Start took [START_MEDIAN]. [MISCLICK_AND_SETUP_RESULT]."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "MEDIAN + ERROR LOG",
+      "presentationNarration": "The result needs both median durations, error counts, and setup effort. No timings have been measured yet.",
+      "presentationCaptionChunks": [
+        "The result needs both median durations,",
+        "error counts, and setup effort. No",
+        "timings have been measured yet."
+      ]
+    },
+    {
+      "id": "D01R2-S6",
+      "start": 42.56666666666667,
+      "end": 50,
+      "type": "question",
+      "text": "WORTH THE SETUP?",
+      "narration": "[EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+      "concept": "Use the task where the difference was clearest, even if Kando loses.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Use the task where the difference was clearest, even if Kando loses.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[EVIDENCE_BASED_FIT]. Would the setup be worth",
+        "it for your workflow?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "DOES THE SETUP PAY OFF?",
+      "presentationNarration": "The verdict will depend on the recorded workflow. Which of your daily actions would belong in this menu?",
+      "presentationCaptionChunks": [
+        "The verdict will depend on the",
+        "recorded workflow. Which of your daily",
+        "actions would belong in this menu?"
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-test-plan-built"
+}

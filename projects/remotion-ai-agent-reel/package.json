@@ -1,0 +1,22 @@
+{
+  "name": "remotion-ai-agent-reel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts AIAgentReel ai-agent-era-smooth.mp4 --codec=h264",
+    "still": "remotion still src/index.ts AIAgentReel poster.png --frame=1765"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.530",
+    "@remotion/transitions": "4.0.530",
+    "remotion": "4.0.530",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.16",
+    "@types/react-dom": "19.1.9",
+    "typescript": "5.9.2"
+  }
+}

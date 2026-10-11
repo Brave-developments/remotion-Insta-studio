@@ -1,0 +1,10 @@
+{
+  "name": "tomorrow-exe-day-1",
+  "private": true,
+  "scripts": {
+    "render": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=TOMORROW-EXE --id=D01R1",
+    "proof": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=TOMORROW-EXE --id=D01R1 --proof",
+    "review": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=TOMORROW-EXE --id=D01R1 --stills",
+    "render:voiced": "node ../../../../../studio-kit/scripts/render-week.cjs --voiced --channel=TOMORROW-EXE --id=D01R1"
+  }
+}

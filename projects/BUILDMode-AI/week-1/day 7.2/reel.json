@@ -1,0 +1,259 @@
+{
+  "id": "D07R2",
+  "day": 7,
+  "reelNumber": 2,
+  "title": "AI Screenshot Cleaner",
+  "format": "Build",
+  "durationSeconds": 45,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "My screenshots folder is a mess. I asked AI to build a cleaner. Six categories, readable names, and a preview before anything changes. The app has to handle duplicates and keep the original files recoverable. I checked every image against labels written before the test. [CORRECT_CLASSIFICATIONS] were correct. Here is [REAL_MISTAKE_OR_EDGE_CASE]. [PRACTICAL_LIMITATION]. What annoying folder task should I automate next?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 60,
+  "estimatedWpm": 80,
+  "concept": "Vision-assisted rename/classification of twenty sample screenshots.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "My screenshots folder is a mess. I asked AI to build a cleaner.",
+    "Twenty screenshots. Six categories. How many mistakes?",
+    "Before AI renames anything, I want a preview."
+  ],
+  "strongestHook": "My screenshots folder is a mess. I asked AI to build a cleaner.",
+  "directorBrief": "Direct this as an observable challenge: Vision-assisted rename/classification of twenty sample screenshots. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Hard",
+  "effort": "60–90 minutes core experiment; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Prepare copies of 20 original or non-sensitive screenshots; keep untouched originals separately. Pre-label code, design, receipt, chat, game or other, including two duplicates and ambiguous examples. Build a classifier with rename preview, explicit Apply step, duplicate-safe suffixes and a rollback mapping. Audit all 20 labels and names; confirm original files remain intact and no rename collisions. Capture a real mistake or ambiguity, not a perfect fictional result.",
+  "evidenceRequirements": "Use copies; audit true classifications and show mistakes.",
+  "sources": [],
+  "thumbnail": "Screenshot Folder Rescue",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Screenshot Folder Rescue” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[PRACTICAL_LIMITATION]. What annoying folder task should I automate next?",
+  "cta": "WHAT SHOULD I AUTOMATE?",
+  "instagramCaption": "AI Screenshot Cleaner. Vision-assisted rename/classification of twenty sample screenshots. Full test conditions and limitations belong beside the final result. [PRACTICAL_LIMITATION]. What annoying folder task should I automate next?",
+  "tiktokCaption": "AI Screenshot Cleaner. WHAT SHOULD I AUTOMATE?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Before/after folder, real build, app, sample images.",
+  "scenes": [
+    {
+      "id": "D07R2-S1",
+      "start": 0,
+      "end": 9.533333333333333,
+      "type": "hook",
+      "text": "SCREENSHOT CHAOS",
+      "narration": "My screenshots folder is a mess. I asked AI to build a cleaner.",
+      "concept": "Twenty non-sensitive sample copies in an isolated folder.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Twenty non-sensitive sample copies in an isolated folder.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "My screenshots folder is a mess.",
+        "I asked AI to build a cleaner."
+      ],
+      "presentationText": "SCREENSHOT CHAOS → ORDER",
+      "presentationNarration": "An untidy screenshot folder needs a cleaner. Begin with copies and an explicit preview before any filename changes.",
+      "presentationCaptionChunks": [
+        "An untidy screenshot folder needs a",
+        "cleaner. Begin with copies and an",
+        "explicit preview before any filename changes."
+      ]
+    },
+    {
+      "id": "D07R2-S2",
+      "start": 9.533333333333333,
+      "end": 17.033333333333335,
+      "type": "workflow",
+      "text": "CLASSIFY. PREVIEW. RENAME.",
+      "narration": "Six categories, readable names, and a preview before anything changes.",
+      "concept": "Exact categories: code, design, receipt, chat, game and other.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Exact categories: code, design, receipt, chat, game and other.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Six categories, readable names, and a",
+        "preview before anything changes."
+      ],
+      "presentationText": "CLASSIFY. PREVIEW. RENAME.",
+      "presentationNarration": "Use six categories and readable names. Show the proposed mapping so a person can catch errors before applying it.",
+      "presentationCaptionChunks": [
+        "Use six categories and readable names.",
+        "Show the proposed mapping so a",
+        "person can catch errors before applying",
+        "it."
+      ]
+    },
+    {
+      "id": "D07R2-S3",
+      "start": 17.033333333333335,
+      "end": 25.9,
+      "type": "evidence",
+      "text": "KEEP THE ORIGINALS",
+      "narration": "The app has to handle duplicates and keep the original files recoverable.",
+      "concept": "Show copy-only input and rename preview with duplicate suffixes.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show copy-only input and rename preview with duplicate suffixes.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The app has to handle duplicates",
+        "and keep the original files recoverable."
+      ],
+      "presentationText": "ORIGINALS STAY RECOVERABLE",
+      "presentationNarration": "Duplicates need collision-safe suffixes. Keep the untouched source files and a rollback mapping for every applied rename.",
+      "presentationCaptionChunks": [
+        "Duplicates need collision-safe suffixes. Keep the",
+        "untouched source files and a rollback",
+        "mapping for every applied rename."
+      ]
+    },
+    {
+      "id": "D07R2-S4",
+      "start": 25.9,
+      "end": 33.4,
+      "type": "evidence",
+      "text": "20 IMAGES. MANUAL AUDIT.",
+      "narration": "I checked every image against labels written before the test.",
+      "concept": "Image, expected label and actual suggestion at matching positions.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Image, expected label and actual suggestion at matching positions.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I checked every image against labels",
+        "written before the test."
+      ],
+      "presentationText": "20 IMAGES. MANUAL AUDIT.",
+      "presentationNarration": "Pre-label twenty test images, including ambiguous cases. Compare the classifications against those labels after a real run.",
+      "presentationCaptionChunks": [
+        "Pre-label twenty test images, including ambiguous",
+        "cases. Compare the classifications against those",
+        "labels after a real run."
+      ]
+    },
+    {
+      "id": "D07R2-S5",
+      "start": 33.4,
+      "end": 38.166666666666664,
+      "type": "result",
+      "text": "[CLASSIFICATION RESULT]",
+      "narration": "[CORRECT_CLASSIFICATIONS] were correct. Here is [REAL_MISTAKE_OR_EDGE_CASE].",
+      "concept": "Show a true error or ambiguous example; do not hide failures behind batch totals.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show a true error or ambiguous example; do not hide failures behind batch totals.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[CORRECT_CLASSIFICATIONS] were correct. Here is [REAL_MISTAKE_OR_EDGE_CASE]."
+      ],
+      "presentationText": "SHOW THE MISTAKE TOO",
+      "presentationNarration": "This illustrated preview does not claim model accuracy. A real result must include wrong labels, ambiguity, and rename failures.",
+      "presentationCaptionChunks": [
+        "This illustrated preview does not claim",
+        "model accuracy. A real result must",
+        "include wrong labels, ambiguity, and rename",
+        "failures."
+      ]
+    },
+    {
+      "id": "D07R2-S6",
+      "start": 38.166666666666664,
+      "end": 45,
+      "type": "question",
+      "text": "WHAT SHOULD I AUTOMATE?",
+      "narration": "[PRACTICAL_LIMITATION]. What annoying folder task should I automate next?",
+      "concept": "Before/after folders use the same files and ordering.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Before/after folders use the same files and ordering.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[PRACTICAL_LIMITATION]. What annoying folder task should",
+        "I automate next?"
+      ],
+      "presentationText": "YOUR NEXT ANNOYING FOLDER TASK?",
+      "presentationNarration": "Build the safe file workflow first, then assess the classifier with evidence. What folder task should be automated next?",
+      "presentationCaptionChunks": [
+        "Build the safe file workflow first,",
+        "then assess the classifier with evidence.",
+        "What folder task should be automated",
+        "next?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

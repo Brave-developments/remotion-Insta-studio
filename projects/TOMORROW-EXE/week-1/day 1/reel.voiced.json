@@ -1,0 +1,311 @@
+{
+  "id": "D01R1",
+  "day": 1,
+  "reelNumber": 1,
+  "title": "AI Gets Your Wallet",
+  "format": "What If",
+  "durationSeconds": 23.733333333333334,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "What happens when your AI gets a spending limit? Payment companies are already building infrastructure for purchases made through AI agents. Now imagine groceries ordered while you sleep, and a flight booked before the fare changes. You set the budget. It decides which purchase deserves it. Then it buys something you never would. The receipt says approved. By whom? Would you give an AI a thousand-dollar limit?",
+  "audio": "audio/day 1.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 67,
+  "estimatedWpm": 134,
+  "concept": "Buying flights, cancelling subscriptions and negotiating offers leads to a question about spending authority.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "What happens when your AI gets a spending limit?",
+    "Your AI bought this. You never tapped approve.",
+    "The receipt says approved. But by whom?"
+  ],
+  "strongestHook": "What happens when your AI gets a spending limit?",
+  "directorBrief": "Direct this as a human story about Buying flights, cancelling subscriptions and negotiating offers leads to a question about spending authority. Emotional movement: curiosity \u2192 control. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Easy",
+  "effort": "60\u2013120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify agentic-payment infrastructure; future autonomous household budgets remain speculative.",
+  "sources": [
+    {
+      "label": "Mastercard Agent Pay announcement",
+      "url": "https://www.mastercard.com/us/en/news-and-trends/press/2025/april/mastercard-unveils-agent-pay-pioneering-agentic-payments-technology-to-power-commerce-in-the-age-of-ai.html",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "AI Has Your Wallet",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cAI Has Your Wallet\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Would you give an AI a thousand-dollar limit?",
+  "cta": "WOULD YOU TRUST IT?",
+  "instagramCaption": "AI Gets Your Wallet. A possible future, grounded in present technology. The dates and scenario are fictional. Would you give an AI a thousand-dollar limit?",
+  "tiktokCaption": "AI Gets Your Wallet. WOULD YOU TRUST IT? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88\u2013104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Phone, sleeping person, grocery/flight icons, spending meter.",
+  "scenes": [
+    {
+      "id": "D01R1-S1",
+      "start": 0.0,
+      "end": 3.0,
+      "type": "hook",
+      "text": "YOUR AI. YOUR MONEY.",
+      "narration": "What happens when your AI gets a spending limit?",
+      "concept": "A budget slider stops before the approval button.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "A budget slider stops before the approval button.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "What happens when your AI gets",
+        "a spending limit?"
+      ],
+      "originalStart": 0,
+      "originalEnd": 4.1,
+      "captionTimings": [
+        {
+          "text": "What happens when your AI gets",
+          "start": 0.0,
+          "end": 1.84
+        },
+        {
+          "text": "a spending limit?",
+          "start": 1.68,
+          "end": 3.0
+        }
+      ]
+    },
+    {
+      "id": "D01R1-S2",
+      "start": 3.0,
+      "end": 7.933333333333334,
+      "type": "workflow",
+      "text": "REAL TODAY: AGENT PAYMENTS",
+      "narration": "Payment companies are already building infrastructure for purchases made through AI agents.",
+      "concept": "Trace user permission to agent to merchant; show the source card.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Trace user permission to agent to merchant; show the source card.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Payment companies are already building infrastructure",
+        "for purchases made through AI agents."
+      ],
+      "originalStart": 4.1,
+      "originalEnd": 9.433333333333334,
+      "captionTimings": [
+        {
+          "text": "Payment companies are already building infrastructure",
+          "start": 0.02,
+          "end": 2.14
+        },
+        {
+          "text": "for purchases made through AI agents.",
+          "start": 1.98,
+          "end": 4.9
+        }
+      ]
+    },
+    {
+      "id": "D01R1-S3",
+      "start": 7.933333333333334,
+      "end": 13.033333333333333,
+      "type": "cinematic",
+      "text": "IMAGINE THE NEXT STEP",
+      "narration": "Now imagine groceries ordered while you sleep, and a flight booked before the fare changes.",
+      "concept": "Bedroom foreground; groceries and flight itinerary emerge in separate depth planes.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d01r1/s3.png",
+      "plannedAssetType": "image",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Bedroom foreground; groceries and flight itinerary emerge in separate depth planes.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Now imagine groceries ordered while you",
+        "sleep, and a flight booked before",
+        "the fare changes."
+      ],
+      "originalStart": 9.433333333333334,
+      "originalEnd": 16,
+      "captionTimings": [
+        {
+          "text": "Now imagine groceries ordered while you",
+          "start": 0.027,
+          "end": 1.947
+        },
+        {
+          "text": "sleep, and a flight booked before",
+          "start": 1.787,
+          "end": 3.947
+        },
+        {
+          "text": "the fare changes.",
+          "start": 3.787,
+          "end": 5.1
+        }
+      ]
+    },
+    {
+      "id": "D01R1-S4",
+      "start": 13.033333333333333,
+      "end": 16.666666666666668,
+      "type": "phone",
+      "text": "BUDGET \u2260 JUDGMENT",
+      "narration": "You set the budget. It decides which purchase deserves it.",
+      "concept": "Fictional grocery and flight requests compete for the same budget.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional grocery and flight requests compete for the same budget.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "You set the budget. It decides",
+        "which purchase deserves it."
+      ],
+      "originalStart": 16,
+      "originalEnd": 20.533333333333335,
+      "captionTimings": [
+        {
+          "text": "You set the budget. It decides",
+          "start": 0.027,
+          "end": 1.887
+        },
+        {
+          "text": "which purchase deserves it.",
+          "start": 1.727,
+          "end": 3.627
+        }
+      ]
+    },
+    {
+      "id": "D01R1-S5",
+      "start": 16.666666666666668,
+      "end": 21.2,
+      "type": "result",
+      "text": "WHO APPROVED THIS?",
+      "narration": "Then it buys something you never would. The receipt says approved. By whom?",
+      "concept": "Hold a fictional receipt; move the focus from total to authorization.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Hold a fictional receipt; move the focus from total to authorization.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Then it buys something you never",
+        "would. The receipt says approved. By whom?"
+      ],
+      "originalStart": 20.533333333333335,
+      "originalEnd": 26.3,
+      "captionTimings": [
+        {
+          "text": "Then it buys something you never",
+          "start": 0.013,
+          "end": 1.393
+        },
+        {
+          "text": "would. The receipt says approved. By whom?",
+          "start": 1.233,
+          "end": 4.533
+        }
+      ]
+    },
+    {
+      "id": "D01R1-S6",
+      "start": 21.2,
+      "end": 23.733333333333334,
+      "type": "question",
+      "text": "WOULD YOU TRUST IT?",
+      "narration": "Would you give an AI a thousand-dollar limit?",
+      "concept": "Return to the opening slider; leave the thumb waiting.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to the opening slider; leave the thumb waiting.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Would you give an AI a",
+        "thousand-dollar limit?"
+      ],
+      "originalStart": 26.3,
+      "originalEnd": 30,
+      "captionTimings": [
+        {
+          "text": "Would you give an AI a",
+          "start": 0.02,
+          "end": 1.233
+        },
+        {
+          "text": "thousand-dollar limit?",
+          "start": 1.073,
+          "end": 2.4
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration"
+}

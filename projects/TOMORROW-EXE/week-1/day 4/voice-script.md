@@ -1,0 +1,16 @@
+# TOMORROW-EXE / day 4
+
+**Every Child Gets an AI Teacher**
+
+What if your teacher remembered every mistake you made?
+
+AI tutors already offer guided learning. Now imagine one that stays with you for ten years.
+
+It knows which explanation finally worked, and which question you were too embarrassed to ask.
+
+Lessons become personal. So does the record of your confusion, attention, and confidence.
+
+When you change schools, does that history follow you? And who gets to read it?
+
+An AI might help you learn. Who should own the story of how you learned?
+

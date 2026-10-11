@@ -1,0 +1,427 @@
+{
+  "fingerprint": "fceec0effa4b6c7da1c7e98d5aac59d17bed16f2278a7d281ae56547bb6c4c01",
+  "recognizedText": " What if the last password you remembered was already behind you? Past keys already replace passwords and supported services. Imagine that same ease at your office, your hotel, and your front door. Every entrance works until one account stops recognizing you. Convenience starts looking like infrastructure when losing access means losing your day, when passwords disappear who holds the key.",
+  "words": [
+    {
+      "text": " What",
+      "timestamp": [
+        0.0,
+        0.16
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        0.16,
+        0.28
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        0.28,
+        0.4
+      ]
+    },
+    {
+      "text": " last",
+      "timestamp": [
+        0.4,
+        0.62
+      ]
+    },
+    {
+      "text": " password",
+      "timestamp": [
+        0.62,
+        1.1
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        1.1,
+        1.28
+      ]
+    },
+    {
+      "text": " remembered",
+      "timestamp": [
+        1.28,
+        1.58
+      ]
+    },
+    {
+      "text": " was",
+      "timestamp": [
+        1.58,
+        1.82
+      ]
+    },
+    {
+      "text": " already",
+      "timestamp": [
+        1.82,
+        2.18
+      ]
+    },
+    {
+      "text": " behind",
+      "timestamp": [
+        2.18,
+        2.54
+      ]
+    },
+    {
+      "text": " you?",
+      "timestamp": [
+        2.54,
+        3.24
+      ]
+    },
+    {
+      "text": " Past",
+      "timestamp": [
+        3.48,
+        3.62
+      ]
+    },
+    {
+      "text": " keys",
+      "timestamp": [
+        3.62,
+        3.84
+      ]
+    },
+    {
+      "text": " already",
+      "timestamp": [
+        3.84,
+        4.28
+      ]
+    },
+    {
+      "text": " replace",
+      "timestamp": [
+        4.28,
+        4.72
+      ]
+    },
+    {
+      "text": " passwords",
+      "timestamp": [
+        4.72,
+        5.22
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        5.22,
+        5.42
+      ]
+    },
+    {
+      "text": " supported",
+      "timestamp": [
+        5.42,
+        5.78
+      ]
+    },
+    {
+      "text": " services.",
+      "timestamp": [
+        5.78,
+        6.88
+      ]
+    },
+    {
+      "text": " Imagine",
+      "timestamp": [
+        7.22,
+        7.4
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        7.4,
+        7.64
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        7.64,
+        8.02
+      ]
+    },
+    {
+      "text": " ease",
+      "timestamp": [
+        8.02,
+        8.32
+      ]
+    },
+    {
+      "text": " at",
+      "timestamp": [
+        8.32,
+        8.48
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        8.48,
+        8.6
+      ]
+    },
+    {
+      "text": " office,",
+      "timestamp": [
+        8.6,
+        9.5
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        9.5,
+        9.6
+      ]
+    },
+    {
+      "text": " hotel,",
+      "timestamp": [
+        9.6,
+        10.36
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        10.36,
+        10.58
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        10.58,
+        10.7
+      ]
+    },
+    {
+      "text": " front",
+      "timestamp": [
+        10.7,
+        10.92
+      ]
+    },
+    {
+      "text": " door.",
+      "timestamp": [
+        10.92,
+        11.68
+      ]
+    },
+    {
+      "text": " Every",
+      "timestamp": [
+        11.9,
+        12.14
+      ]
+    },
+    {
+      "text": " entrance",
+      "timestamp": [
+        12.14,
+        12.5
+      ]
+    },
+    {
+      "text": " works",
+      "timestamp": [
+        12.5,
+        12.86
+      ]
+    },
+    {
+      "text": " until",
+      "timestamp": [
+        12.86,
+        13.52
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        13.52,
+        13.78
+      ]
+    },
+    {
+      "text": " account",
+      "timestamp": [
+        13.78,
+        14.06
+      ]
+    },
+    {
+      "text": " stops",
+      "timestamp": [
+        14.06,
+        14.44
+      ]
+    },
+    {
+      "text": " recognizing",
+      "timestamp": [
+        14.44,
+        14.98
+      ]
+    },
+    {
+      "text": " you.",
+      "timestamp": [
+        14.98,
+        15.74
+      ]
+    },
+    {
+      "text": " Convenience",
+      "timestamp": [
+        16.0,
+        16.48
+      ]
+    },
+    {
+      "text": " starts",
+      "timestamp": [
+        16.48,
+        16.76
+      ]
+    },
+    {
+      "text": " looking",
+      "timestamp": [
+        16.76,
+        17.1
+      ]
+    },
+    {
+      "text": " like",
+      "timestamp": [
+        17.1,
+        17.28
+      ]
+    },
+    {
+      "text": " infrastructure",
+      "timestamp": [
+        17.28,
+        17.86
+      ]
+    },
+    {
+      "text": " when",
+      "timestamp": [
+        17.86,
+        18.26
+      ]
+    },
+    {
+      "text": " losing",
+      "timestamp": [
+        18.26,
+        18.56
+      ]
+    },
+    {
+      "text": " access",
+      "timestamp": [
+        18.56,
+        19.04
+      ]
+    },
+    {
+      "text": " means",
+      "timestamp": [
+        19.04,
+        19.34
+      ]
+    },
+    {
+      "text": " losing",
+      "timestamp": [
+        19.34,
+        19.68
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        19.68,
+        19.92
+      ]
+    },
+    {
+      "text": " day,",
+      "timestamp": [
+        19.92,
+        20.48
+      ]
+    },
+    {
+      "text": " when",
+      "timestamp": [
+        20.68,
+        20.78
+      ]
+    },
+    {
+      "text": " passwords",
+      "timestamp": [
+        20.78,
+        21.2
+      ]
+    },
+    {
+      "text": " disappear",
+      "timestamp": [
+        21.2,
+        21.82
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        21.82,
+        22.36
+      ]
+    },
+    {
+      "text": " holds",
+      "timestamp": [
+        22.36,
+        22.68
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        22.68,
+        22.82
+      ]
+    },
+    {
+      "text": " key.",
+      "timestamp": [
+        22.82,
+        23.34
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

@@ -1,0 +1,791 @@
+{
+  "fingerprint": "c13715d70a48f62c68979e1bf90741bfc2a0ada24a32fd0214fbefbaac228bf2",
+  "recognizedText": " Can a fresh coding agent follow four project conventions? Use explicit project rules so the test has a clear basis, use the existing package manager, reuse the button component, preserve dark mode, run the named UI test, put the rules in the project, then open a fresh task asking for a settings page. Do not repeat the four rules, check commands, imports, theme behavior, and test execution. Reading instructions does not prove they were followed, audit each rule independently after a recorded run. Leave the compliance score open until the evidence exists. This is a reproducible project rules experiment, not a claim about learned memory. Which convention matters most in your repo?",
+  "words": [
+    {
+      "text": " Can",
+      "timestamp": [
+        0.0,
+        0.92
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        0.92,
+        1.02
+      ]
+    },
+    {
+      "text": " fresh",
+      "timestamp": [
+        1.02,
+        1.24
+      ]
+    },
+    {
+      "text": " coding",
+      "timestamp": [
+        1.24,
+        1.58
+      ]
+    },
+    {
+      "text": " agent",
+      "timestamp": [
+        1.58,
+        1.96
+      ]
+    },
+    {
+      "text": " follow",
+      "timestamp": [
+        1.96,
+        2.32
+      ]
+    },
+    {
+      "text": " four",
+      "timestamp": [
+        2.32,
+        2.68
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        2.68,
+        3.08
+      ]
+    },
+    {
+      "text": " conventions?",
+      "timestamp": [
+        3.08,
+        4.04
+      ]
+    },
+    {
+      "text": " Use",
+      "timestamp": [
+        4.4,
+        4.4
+      ]
+    },
+    {
+      "text": " explicit",
+      "timestamp": [
+        4.4,
+        4.86
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        4.86,
+        5.3
+      ]
+    },
+    {
+      "text": " rules",
+      "timestamp": [
+        5.3,
+        5.62
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        5.62,
+        5.9
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        5.9,
+        6.02
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        6.02,
+        6.24
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        6.24,
+        6.48
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        6.48,
+        6.6
+      ]
+    },
+    {
+      "text": " clear",
+      "timestamp": [
+        6.6,
+        6.8
+      ]
+    },
+    {
+      "text": " basis,",
+      "timestamp": [
+        6.8,
+        7.76
+      ]
+    },
+    {
+      "text": " use",
+      "timestamp": [
+        7.76,
+        7.96
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        7.96,
+        8.12
+      ]
+    },
+    {
+      "text": " existing",
+      "timestamp": [
+        8.12,
+        8.5
+      ]
+    },
+    {
+      "text": " package",
+      "timestamp": [
+        8.5,
+        8.88
+      ]
+    },
+    {
+      "text": " manager,",
+      "timestamp": [
+        8.88,
+        9.88
+      ]
+    },
+    {
+      "text": " reuse",
+      "timestamp": [
+        9.88,
+        10.12
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        10.12,
+        10.4
+      ]
+    },
+    {
+      "text": " button",
+      "timestamp": [
+        10.4,
+        10.62
+      ]
+    },
+    {
+      "text": " component,",
+      "timestamp": [
+        10.62,
+        11.64
+      ]
+    },
+    {
+      "text": " preserve",
+      "timestamp": [
+        11.92,
+        11.92
+      ]
+    },
+    {
+      "text": " dark",
+      "timestamp": [
+        11.92,
+        12.32
+      ]
+    },
+    {
+      "text": " mode,",
+      "timestamp": [
+        12.32,
+        13.02
+      ]
+    },
+    {
+      "text": " run",
+      "timestamp": [
+        13.02,
+        13.3
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.3,
+        13.48
+      ]
+    },
+    {
+      "text": " named",
+      "timestamp": [
+        13.48,
+        13.76
+      ]
+    },
+    {
+      "text": " UI",
+      "timestamp": [
+        13.76,
+        14.08
+      ]
+    },
+    {
+      "text": " test,",
+      "timestamp": [
+        14.08,
+        14.84
+      ]
+    },
+    {
+      "text": " put",
+      "timestamp": [
+        14.84,
+        15.02
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        15.02,
+        15.18
+      ]
+    },
+    {
+      "text": " rules",
+      "timestamp": [
+        15.18,
+        15.4
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        15.4,
+        15.6
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        15.6,
+        15.68
+      ]
+    },
+    {
+      "text": " project,",
+      "timestamp": [
+        15.68,
+        16.38
+      ]
+    },
+    {
+      "text": " then",
+      "timestamp": [
+        16.38,
+        16.66
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        16.66,
+        17.04
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        17.04,
+        17.18
+      ]
+    },
+    {
+      "text": " fresh",
+      "timestamp": [
+        17.18,
+        17.44
+      ]
+    },
+    {
+      "text": " task",
+      "timestamp": [
+        17.44,
+        17.76
+      ]
+    },
+    {
+      "text": " asking",
+      "timestamp": [
+        17.76,
+        18.38
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        18.38,
+        18.6
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        18.6,
+        18.72
+      ]
+    },
+    {
+      "text": " settings",
+      "timestamp": [
+        18.72,
+        18.94
+      ]
+    },
+    {
+      "text": " page.",
+      "timestamp": [
+        18.94,
+        19.72
+      ]
+    },
+    {
+      "text": " Do",
+      "timestamp": [
+        19.92,
+        20.0
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        20.0,
+        20.2
+      ]
+    },
+    {
+      "text": " repeat",
+      "timestamp": [
+        20.2,
+        20.56
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        20.56,
+        20.78
+      ]
+    },
+    {
+      "text": " four",
+      "timestamp": [
+        20.78,
+        21.0
+      ]
+    },
+    {
+      "text": " rules,",
+      "timestamp": [
+        21.0,
+        21.8
+      ]
+    },
+    {
+      "text": " check",
+      "timestamp": [
+        21.8,
+        22.08
+      ]
+    },
+    {
+      "text": " commands,",
+      "timestamp": [
+        22.08,
+        22.78
+      ]
+    },
+    {
+      "text": " imports,",
+      "timestamp": [
+        22.78,
+        23.62
+      ]
+    },
+    {
+      "text": " theme",
+      "timestamp": [
+        23.62,
+        23.78
+      ]
+    },
+    {
+      "text": " behavior,",
+      "timestamp": [
+        23.78,
+        24.56
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        24.56,
+        24.76
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        24.76,
+        25.04
+      ]
+    },
+    {
+      "text": " execution.",
+      "timestamp": [
+        25.04,
+        28.8
+      ]
+    },
+    {
+      "text": " Reading",
+      "timestamp": [
+        26.0,
+        26.48
+      ]
+    },
+    {
+      "text": " instructions",
+      "timestamp": [
+        26.48,
+        27.02
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        27.02,
+        27.28
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        27.28,
+        27.5
+      ]
+    },
+    {
+      "text": " prove",
+      "timestamp": [
+        27.5,
+        27.78
+      ]
+    },
+    {
+      "text": " they",
+      "timestamp": [
+        27.78,
+        27.98
+      ]
+    },
+    {
+      "text": " were",
+      "timestamp": [
+        27.98,
+        28.1
+      ]
+    },
+    {
+      "text": " followed,",
+      "timestamp": [
+        28.1,
+        28.92
+      ]
+    },
+    {
+      "text": " audit",
+      "timestamp": [
+        28.92,
+        29.24
+      ]
+    },
+    {
+      "text": " each",
+      "timestamp": [
+        29.24,
+        29.56
+      ]
+    },
+    {
+      "text": " rule",
+      "timestamp": [
+        29.56,
+        29.78
+      ]
+    },
+    {
+      "text": " independently",
+      "timestamp": [
+        29.78,
+        30.28
+      ]
+    },
+    {
+      "text": " after",
+      "timestamp": [
+        30.28,
+        30.78
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        30.78,
+        30.94
+      ]
+    },
+    {
+      "text": " recorded",
+      "timestamp": [
+        30.94,
+        31.3
+      ]
+    },
+    {
+      "text": " run.",
+      "timestamp": [
+        31.3,
+        32.0
+      ]
+    },
+    {
+      "text": " Leave",
+      "timestamp": [
+        32.3,
+        32.32
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        32.32,
+        32.5
+      ]
+    },
+    {
+      "text": " compliance",
+      "timestamp": [
+        32.5,
+        32.92
+      ]
+    },
+    {
+      "text": " score",
+      "timestamp": [
+        32.92,
+        33.22
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        33.22,
+        33.58
+      ]
+    },
+    {
+      "text": " until",
+      "timestamp": [
+        33.58,
+        33.84
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        33.84,
+        34.0
+      ]
+    },
+    {
+      "text": " evidence",
+      "timestamp": [
+        34.0,
+        34.28
+      ]
+    },
+    {
+      "text": " exists.",
+      "timestamp": [
+        34.28,
+        35.22
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        35.48,
+        35.5
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        35.5,
+        35.66
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        35.66,
+        35.78
+      ]
+    },
+    {
+      "text": " reproducible",
+      "timestamp": [
+        35.78,
+        36.46
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        36.46,
+        36.9
+      ]
+    },
+    {
+      "text": " rules",
+      "timestamp": [
+        36.9,
+        37.16
+      ]
+    },
+    {
+      "text": " experiment,",
+      "timestamp": [
+        37.16,
+        38.16
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        38.16,
+        38.38
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        38.38,
+        38.5
+      ]
+    },
+    {
+      "text": " claim",
+      "timestamp": [
+        38.5,
+        38.78
+      ]
+    },
+    {
+      "text": " about",
+      "timestamp": [
+        38.78,
+        39.06
+      ]
+    },
+    {
+      "text": " learned",
+      "timestamp": [
+        39.06,
+        39.32
+      ]
+    },
+    {
+      "text": " memory.",
+      "timestamp": [
+        39.32,
+        40.12
+      ]
+    },
+    {
+      "text": " Which",
+      "timestamp": [
+        40.36,
+        40.56
+      ]
+    },
+    {
+      "text": " convention",
+      "timestamp": [
+        40.56,
+        41.04
+      ]
+    },
+    {
+      "text": " matters",
+      "timestamp": [
+        41.04,
+        41.36
+      ]
+    },
+    {
+      "text": " most",
+      "timestamp": [
+        41.36,
+        41.68
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        41.68,
+        41.92
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        41.92,
+        42.04
+      ]
+    },
+    {
+      "text": " repo?",
+      "timestamp": [
+        42.04,
+        42.7
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

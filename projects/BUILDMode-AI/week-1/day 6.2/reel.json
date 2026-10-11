@@ -1,0 +1,256 @@
+{
+  "id": "D06R2",
+  "day": 6,
+  "reelNumber": 2,
+  "title": "One Sentence. One Game.",
+  "format": "Build",
+  "durationSeconds": 25,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I gave AI one sentence and asked for a playable game. Build an endless dodge game with keyboard controls, rising difficulty, a high score, and restart. This is the first playable attempt. I tested movement, collisions, restart, and whether the high score survived a refresh. [PLAYABILITY_RESULT]. [REAL_FIX_COUNT_AND_TIME]. Give me the next one-sentence game idea.",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 54,
+  "estimatedWpm": 130,
+  "concept": "Endless dodge game with keyboard control, difficulty, score, high score and restart.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I gave AI one sentence and asked for a playable game.",
+    "One prompt. Can I actually play the result?",
+    "The game looks finished. Now press restart."
+  ],
+  "strongestHook": "I gave AI one sentence and asked for a playable game.",
+  "directorBrief": "Direct this as an observable challenge: Endless dodge game with keyboard control, difficulty, score, high score and restart. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Easy",
+  "effort": "15–60 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Prompt exactly: Build an endless dodge game with keyboard controls, rising difficulty, a high score, and restart. Use an isolated local browser project. Preserve first output. Verify left/right movement, collision loss, restart reset and high-score persistence across refresh. Record 30 seconds of actual play at normal speed, elapsed time and correction count. Failure can be the ending; do not author a fake working gameplay clip.",
+  "evidenceRequirements": "Build and play it; count real fixes/time; don’t fabricate playability.",
+  "sources": [],
+  "thumbnail": "One Sentence Game",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “One Sentence Game” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Give me the next one-sentence game idea.",
+  "cta": "YOUR GAME IDEA?",
+  "instagramCaption": "One Sentence. One Game.. Endless dodge game with keyboard control, difficulty, score, high score and restart. Full test conditions and limitations belong beside the final result. Give me the next one-sentence game idea.",
+  "tiktokCaption": "One Sentence. One Game.. YOUR GAME IDEA?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Prompt, coding run, actual gameplay.",
+  "scenes": [
+    {
+      "id": "D06R2-S1",
+      "start": 0,
+      "end": 5,
+      "type": "hook",
+      "text": "ONE SENTENCE. ONE GAME.",
+      "narration": "I gave AI one sentence and asked for a playable game.",
+      "concept": "Exact single prompt appears over empty local browser.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Exact single prompt appears over empty local browser.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I gave AI one sentence and",
+        "asked for a playable game."
+      ],
+      "presentationText": "ONE SENTENCE. ONE GAME.",
+      "presentationNarration": "Can one sentence describe a playable dodge game? Start with a focused brief rather than a sprawling game design.",
+      "presentationCaptionChunks": [
+        "Can one sentence describe a playable",
+        "dodge game? Start with a focused",
+        "brief rather than a sprawling game",
+        "design."
+      ]
+    },
+    {
+      "id": "D06R2-S2",
+      "start": 5,
+      "end": 11.666666666666666,
+      "type": "workflow",
+      "text": "DODGE. SCORE. RESTART.",
+      "narration": "Build an endless dodge game with keyboard controls, rising difficulty, a high score, and restart.",
+      "concept": "Prompt holds long enough to read; show real build start.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Prompt holds long enough to read; show real build start.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Build an endless dodge game with",
+        "keyboard controls, rising difficulty, a high",
+        "score, and restart."
+      ],
+      "presentationText": "DODGE. SCORE. RESTART.",
+      "presentationNarration": "Keyboard controls, rising difficulty, a high score, and restart. Four clear requirements keep the first build judgeable.",
+      "presentationCaptionChunks": [
+        "Keyboard controls, rising difficulty, a high",
+        "score, and restart. Four clear requirements",
+        "keep the first build judgeable."
+      ]
+    },
+    {
+      "id": "D06R2-S3",
+      "start": 11.666666666666666,
+      "end": 14.6,
+      "type": "evidence",
+      "text": "FIRST ATTEMPT",
+      "narration": "This is the first playable attempt.",
+      "concept": "Capture actual gameplay at normal speed; keep input indicator unobtrusive.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Capture actual gameplay at normal speed; keep input indicator unobtrusive.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "This is the first playable attempt."
+      ],
+      "presentationText": "MAKE MOTION READABLE",
+      "presentationNarration": "This authored motion study shows falling obstacles and a moving player. It is animation, not recorded model gameplay.",
+      "presentationCaptionChunks": [
+        "This authored motion study shows falling",
+        "obstacles and a moving player. It",
+        "is animation, not recorded model gameplay."
+      ]
+    },
+    {
+      "id": "D06R2-S4",
+      "start": 14.6,
+      "end": 20.433333333333334,
+      "type": "evidence",
+      "text": "FOUR GAME CHECKS",
+      "narration": "I tested movement, collisions, restart, and whether the high score survived a refresh.",
+      "concept": "One unmistakable interaction for each check, including the refresh.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "One unmistakable interaction for each check, including the refresh.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I tested movement, collisions, restart, and",
+        "whether the high score survived a refresh."
+      ],
+      "presentationText": "FOUR GAME CHECKS",
+      "presentationNarration": "On the playable local fixture, test movement, collision loss, restart reset, and saved high score after refresh.",
+      "presentationCaptionChunks": [
+        "On the playable local fixture, test",
+        "movement, collision loss, restart reset, and",
+        "saved high score after refresh."
+      ]
+    },
+    {
+      "id": "D06R2-S5",
+      "start": 20.433333333333334,
+      "end": 21.666666666666668,
+      "type": "result",
+      "text": "[PLAY TEST RESULT]",
+      "narration": "[PLAYABILITY_RESULT]. [REAL_FIX_COUNT_AND_TIME].",
+      "concept": "Show failed behavior if any before repaired gameplay; never fabricate score.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show failed behavior if any before repaired gameplay; never fabricate score.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[PLAYABILITY_RESULT]. [REAL_FIX_COUNT_AND_TIME]."
+      ],
+      "presentationText": "PLAY BEFORE CLAIMING",
+      "presentationNarration": "A model-build experiment needs actual first output and normal-speed gameplay. Do not invent completion time or correction count.",
+      "presentationCaptionChunks": [
+        "A model-build experiment needs actual first",
+        "output and normal-speed gameplay. Do not",
+        "invent completion time or correction count."
+      ]
+    },
+    {
+      "id": "D06R2-S6",
+      "start": 21.666666666666668,
+      "end": 25,
+      "type": "question",
+      "text": "YOUR GAME IDEA?",
+      "narration": "Give me the next one-sentence game idea.",
+      "concept": "Loop from restart button back to the opening state.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Loop from restart button back to the opening state.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Give me the next one-sentence game idea."
+      ],
+      "presentationText": "YOUR ONE-SENTENCE IDEA?",
+      "presentationNarration": "The development fixture is included beside this study. What game would you describe in one sentence?",
+      "presentationCaptionChunks": [
+        "The development fixture is included beside",
+        "this study. What game would you",
+        "describe in one sentence?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

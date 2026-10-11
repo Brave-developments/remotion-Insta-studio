@@ -1,0 +1,4131 @@
+{
+ "RETENTION": [
+  {
+   "n": 1,
+   "title": "Your Retention Graph Is a Bug Report",
+   "hook": "Your Reel already tells you exactly where it broke.",
+   "core": "Use retention like a debugger: early drop = weak opening, middle drop = weak body, late drop = delayed payoff.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Open on a crashing retention graph and the words “REEL FAILED”.",
+     "beat": "Your Reel already tells you where it broke."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Transform the graph into a developer-style debugger with error markers.",
+     "beat": "Treat retention like a bug report."
+    },
+    {
+     "time": "10–23s",
+     "visual": "Zoom through three graph shapes: early cliff, middle cliff, late cliff.",
+     "beat": "Early drop: opening. Middle drop: body. Late drop: payoff."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Cursor selects the section immediately before each drop.",
+     "beat": "Fix the section before the cliff—not the whole video."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Show before/after graph and a green “PATCHED” state.",
+     "beat": "Stop guessing. Debug the video."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 2,
+   "title": "The First Second Has One Job",
+   "hook": "Your first second does not need to explain anything.",
+   "core": "The opening only needs to earn the next moment; explanation comes after attention.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Fast montage of bad openings freezing on logos and greetings.",
+     "beat": "Your first second has one job."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Large text becomes “EARN SECOND 2”.",
+     "beat": "Not explain. Not introduce. Just make them stay."
+    },
+    {
+     "time": "10–24s",
+     "visual": "Compare three openings: greeting, context dump, immediate result.",
+     "beat": "Result-first wins visually because the viewer sees why they should care."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Rebuild a weak intro by moving the payoff preview to frame one.",
+     "beat": "Show the interesting thing before explaining it."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Timeline locks into Hook → Context → Value.",
+     "beat": "Attention first. Context second."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 3,
+   "title": "Your Hook Made a Promise",
+   "hook": "A hook can be great and still ruin the video.",
+   "core": "If the body does not fulfill the promise implied by the hook, viewers feel the mismatch and leave.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Show a bold hook card: “I FIXED THIS IN 30 SECONDS”.",
+     "beat": "A hook is a promise."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Open a contract-style UI showing PROMISE vs DELIVERY.",
+     "beat": "And viewers notice when you break it."
+    },
+    {
+     "time": "11–24s",
+     "visual": "Example: hook promises a fix, body gives history and filler.",
+     "beat": "The problem is not always the hook. Sometimes the body changes the subject."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Delete filler blocks and bring proof forward.",
+     "beat": "Every section should move toward the promise."
+    },
+    {
+     "time": "36–45s",
+     "visual": "PROMISE and DELIVERY snap together with a checkmark.",
+     "beat": "Match the payoff to the hook."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 4,
+   "title": "Curiosity Without Clickbait",
+   "hook": "Curiosity works best when the answer is actually worth waiting for.",
+   "core": "Create a clear unanswered question, then continuously add value instead of hiding everything until the end.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Lock icon closes over a blurred result.",
+     "beat": "Curiosity is not the same as hiding the answer."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Show “QUESTION → CLUES → ANSWER”.",
+     "beat": "Give people clues while they wait."
+    },
+    {
+     "time": "11–25s",
+     "visual": "Animate three progressive reveals of a tool/result.",
+     "beat": "Each reveal should answer part of the question."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Show bad version: 35 seconds of blur, then one reveal.",
+     "beat": "If nothing happens, curiosity becomes frustration."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Good version completes the image in stages.",
+     "beat": "Delay the full answer, not all the value."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 5,
+   "title": "Show the Result Before the Tutorial",
+   "hook": "Tutorials get stronger when you spoil the ending.",
+   "core": "Preview the finished result first, then explain how it was made.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Show final polished output at full screen.",
+     "beat": "Show them what they are staying for."
+    },
+    {
+     "time": "4–11s",
+     "visual": "Rewind animation back to an empty canvas/editor.",
+     "beat": "Then rewind."
+    },
+    {
+     "time": "11–26s",
+     "visual": "Three fast build stages appear: setup, key action, refinement.",
+     "beat": "Now the steps have context."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Before/after split with key change highlighted.",
+     "beat": "The viewer knows why each step matters."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Final result returns with “RESULT FIRST”.",
+     "beat": "Spoil the ending. Improve the journey."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 6,
+   "title": "Stop Saying “Welcome Back”",
+   "hook": "Your viewer did not open Instagram to attend a meeting.",
+   "core": "Remove greetings and channel housekeeping from short-form intros.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Meeting-room graphic appears with “WELCOME BACK EVERYONE”.",
+     "beat": "Your Reel is not a meeting."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Viewer swipes away; screen changes to a direct hook.",
+     "beat": "Nobody needs a greeting before the interesting part."
+    },
+    {
+     "time": "10–24s",
+     "visual": "Side-by-side: 4-second intro vs direct result.",
+     "beat": "Four seconds can be half the attention battle."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Trim greeting block from timeline.",
+     "beat": "Cut anything the viewer can understand without."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Clean opener plays at full speed.",
+     "beat": "Start where the value starts."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 7,
+   "title": "The Visual Hook Matters Too",
+   "hook": "A strong sentence can still look boring.",
+   "core": "The first visual should create movement, contrast, novelty, or an immediately understandable result.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Same voiceover over two versions: static text vs moving UI.",
+     "beat": "Same words. Different attention."
+    },
+    {
+     "time": "3–12s",
+     "visual": "Freeze both and label AUDIO HOOK / VISUAL HOOK.",
+     "beat": "Your opening is doing two jobs."
+    },
+    {
+     "time": "12–25s",
+     "visual": "Cycle through useful visual hooks: result reveal, cursor action, transformation, graph movement.",
+     "beat": "Give the eye something to decode."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Rebuild a plain title card into an animated UI moment.",
+     "beat": "Do not animate randomly—show meaning."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Both hooks merge into one polished opener.",
+     "beat": "Hook the ear and the eye."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 8,
+   "title": "Pattern Interrupts Need a Reason",
+   "hook": "Random zooms are not retention.",
+   "core": "Visual changes should mark a new idea, reveal, example, or emotional beat—not happen on a timer.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Rapid meaningless zooms and shakes become chaotic.",
+     "beat": "Random motion is not pacing."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Everything freezes; label “NO NEW INFORMATION”.",
+     "beat": "A pattern interrupt should signal something."
+    },
+    {
+     "time": "10–25s",
+     "visual": "Show four meaningful resets: screenshot → diagram → result → comparison.",
+     "beat": "Change the visual when the thought changes."
+    },
+    {
+     "time": "25–36s",
+     "visual": "Map each visual reset to a narration beat.",
+     "beat": "Meaning creates the timing."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Smooth sequence plays once.",
+     "beat": "Motion should clarify, not decorate."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 9,
+   "title": "Find the Retention Cliff",
+   "hook": "The drop is not the problem. The second before it is.",
+   "core": "Diagnose what happened immediately before a major retention drop.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Graph cliff fills screen.",
+     "beat": "Do not stare at the drop."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Playhead rewinds two seconds before the cliff.",
+     "beat": "Rewind."
+    },
+    {
+     "time": "11–24s",
+     "visual": "Show what happened: long pause, repeated idea, confusing term.",
+     "beat": "Ask what changed right here."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Replace that section with a shorter visual example.",
+     "beat": "Patch the cause, not the symptom."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Graph overlays old vs revised structure.",
+     "beat": "The clue is usually before the cliff."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 10,
+   "title": "Why Viewers Leave in the Middle",
+   "hook": "If people survive your hook and still leave, your opening probably worked.",
+   "core": "A mid-video drop often points to pacing, clarity, repetition, or loss of novelty.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Healthy start of graph, sudden middle fall.",
+     "beat": "This is not a hook problem."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Highlight middle section of timeline.",
+     "beat": "They stayed long enough to give you a chance."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Four suspects appear: SLOW, CONFUSING, REPEATED, PREDICTABLE.",
+     "beat": "Look inside the body."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Compress one section and swap text explanation for demo.",
+     "beat": "Make the next beat earn attention again."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Graph stabilizes.",
+     "beat": "Fix the body, not the thumbnail."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 11,
+   "title": "Your Payoff Is Too Late",
+   "hook": "Some Reels lose viewers because the answer arrives after the viewer does.",
+   "core": "Bring meaningful payoff earlier, then use the remaining time for proof, nuance, or a bonus.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Viewer icon exits while ANSWER sits at second 42.",
+     "beat": "The answer arrived too late."
+    },
+    {
+     "time": "3–12s",
+     "visual": "Cursor drags PAYOFF block earlier.",
+     "beat": "Move the reward forward."
+    },
+    {
+     "time": "12–25s",
+     "visual": "Timeline becomes Hook → Value → Payoff → Proof.",
+     "beat": "You can still keep people watching after the answer."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Show proof/example after payoff.",
+     "beat": "Give them evidence instead of filler."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Final timeline locks.",
+     "beat": "Reward first. Depth second."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 12,
+   "title": "Reset Attention Without Changing Topic",
+   "hook": "A re-hook should feel like chapter two, not a new video.",
+   "core": "Use a visual or narrative reset that deepens the same question.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Screen says “DON’T START OVER”.",
+     "beat": "A re-hook is not another intro."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Original question stays pinned while visual format changes.",
+     "beat": "Keep the same promise."
+    },
+    {
+     "time": "11–25s",
+     "visual": "Example sequence: claim → proof → exception → result.",
+     "beat": "Reset the format, not the topic."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Animate one sentence becoming a diagram.",
+     "beat": "Change how the idea is shown."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Question resolves.",
+     "beat": "Same story. Fresh attention."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 13,
+   "title": "Three Retention Graphs, Three Problems",
+   "hook": "These three graphs are three completely different problems.",
+   "core": "Teach viewers to distinguish early, middle, and late retention failure patterns.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Three mini graphs appear side by side.",
+     "beat": "Same low views. Different reason."
+    },
+    {
+     "time": "4–14s",
+     "visual": "Graph A expands: immediate drop.",
+     "beat": "A: opening failed."
+    },
+    {
+     "time": "14–24s",
+     "visual": "Graph B expands: strong start, mid drop.",
+     "beat": "B: body failed."
+    },
+    {
+     "time": "24–34s",
+     "visual": "Graph C expands: late drop.",
+     "beat": "C: payoff or ending dragged."
+    },
+    {
+     "time": "34–45s",
+     "visual": "All three return with fixes underneath.",
+     "beat": "Diagnose before you rewrite."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 14,
+   "title": "Why Some Videos Get Rewatched",
+   "hook": "The best loop is the one viewers barely notice.",
+   "core": "A satisfying loop can connect the ending visually or narratively back to the beginning without feeling forced.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "End frame morphs directly into opening frame.",
+     "beat": "You just watched the loop."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Timeline circles instead of stopping.",
+     "beat": "A loop works when the ending completes the beginning."
+    },
+    {
+     "time": "11–25s",
+     "visual": "Show three loop types: visual, sentence, unresolved object.",
+     "beat": "Make the replay feel natural."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Build a sample end→start transition.",
+     "beat": "Do not cut mid-sentence just to force a replay."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Loop runs twice seamlessly.",
+     "beat": "Make the second view feel earned."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 15,
+   "title": "Dead Space Is Expensive",
+   "hook": "A one-second pause feels much longer on a phone.",
+   "core": "Remove pauses, duplicated context, loading moments, and visually empty beats unless they create intentional tension.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Stopwatch counts one empty second in silence.",
+     "beat": "This feels longer than one second."
+    },
+    {
+     "time": "3–12s",
+     "visual": "Timeline highlights gaps between spoken beats.",
+     "beat": "Dead space adds up."
+    },
+    {
+     "time": "12–25s",
+     "visual": "Show three common gaps: cursor waiting, logo hold, repeated setup.",
+     "beat": "Cut or cover them."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Compress the same sequence while keeping comprehension.",
+     "beat": "Fast does not mean frantic."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Before/after duration counter.",
+     "beat": "Remove time that says nothing."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 16,
+   "title": "Predictable Videos Feel Longer",
+   "hook": "Viewers leave when they can guess the rest.",
+   "core": "Retention can improve when each section adds a new piece of information rather than repeating the opening in different words.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Autocomplete predicts the next three scenes.",
+     "beat": "If I can predict it, why watch it?"
+    },
+    {
+     "time": "3–12s",
+     "visual": "Timeline shows repeated blocks labelled SAME IDEA.",
+     "beat": "Repetition feels longer than duration."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Replace repeats with escalation: claim → proof → exception → result.",
+     "beat": "Each beat should add something."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Progressively unlock new information cards.",
+     "beat": "Progress creates curiosity."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Autocomplete fails and displays “UNKNOWN”.",
+     "beat": "Make the next beat worth discovering."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 17,
+   "title": "Reveal Cadence Beats Constant Motion",
+   "hook": "You do not need movement every frame. You need progress.",
+   "core": "A steady cadence of meaningful reveals often feels more premium than constant animation.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Overanimated UI shakes everywhere.",
+     "beat": "More motion is not more attention."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Strip it back to one calm frame.",
+     "beat": "Watch what happens when information arrives in beats."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Reveal 1, 2, 3, 4 at intentional narration points.",
+     "beat": "Every reveal advances the idea."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Show timeline with reveal markers.",
+     "beat": "Design around information, not effects."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Final clean composition.",
+     "beat": "Progress is the animation."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 18,
+   "title": "Problem → Proof → Payoff",
+   "hook": "This three-part structure can carry an entire 45-second Reel.",
+   "core": "Use one clear problem, demonstrate evidence, then show the solution/result.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Three blocks appear: PROBLEM / PROOF / PAYOFF.",
+     "beat": "You only need three things."
+    },
+    {
+     "time": "4–14s",
+     "visual": "Problem scene shows a failing result.",
+     "beat": "First: make the pain obvious."
+    },
+    {
+     "time": "14–29s",
+     "visual": "Proof scene demonstrates why it happens.",
+     "beat": "Second: prove the diagnosis."
+    },
+    {
+     "time": "29–40s",
+     "visual": "Payoff shows the fixed result.",
+     "beat": "Third: resolve it."
+    },
+    {
+     "time": "40–45s",
+     "visual": "Blocks compress into a reusable template.",
+     "beat": "That is a complete story."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 19,
+   "title": "Open Loops That Actually Close",
+   "hook": "An unanswered question is only useful if you eventually answer it.",
+   "core": "Introduce one clear open loop and visibly close it before the end.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Question card opens like a browser tab.",
+     "beat": "Why did this video fail?"
+    },
+    {
+     "time": "3–12s",
+     "visual": "Pin the question in a small top bar.",
+     "beat": "Keep one unanswered question alive."
+    },
+    {
+     "time": "12–29s",
+     "visual": "Add evidence below it while the question remains.",
+     "beat": "Each beat narrows the answer."
+    },
+    {
+     "time": "29–39s",
+     "visual": "Question transforms into the answer.",
+     "beat": "Then close the loop."
+    },
+    {
+     "time": "39–45s",
+     "visual": "Tab receives a checkmark and closes.",
+     "beat": "Closure is the payoff."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 20,
+   "title": "The 45-Second Case Study",
+   "hook": "One tiny case study can teach more than ten tips.",
+   "core": "Structure a short-form case study around baseline, change, and outcome.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Show BEFORE metric/result.",
+     "beat": "This was the starting point."
+    },
+    {
+     "time": "4–13s",
+     "visual": "State the single change made.",
+     "beat": "We changed one thing."
+    },
+    {
+     "time": "13–27s",
+     "visual": "Show the implementation visually.",
+     "beat": "Here is exactly what changed."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Show AFTER result with caveat that one example is not universal proof.",
+     "beat": "Then we measured the outcome."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Summarize lesson.",
+     "beat": "Use the result as evidence, not a law."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 21,
+   "title": "Before/After Is a Story Engine",
+   "hook": "Before-and-after works because the viewer instantly understands the destination.",
+   "core": "Use transformation as the narrative spine of a Reel.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Split screen BEFORE / AFTER.",
+     "beat": "The story is visible immediately."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Zoom into the biggest difference.",
+     "beat": "Now give the viewer a reason for the change."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Show three transformation steps.",
+     "beat": "Step by step, without overexplaining."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Slider reveals the final state.",
+     "beat": "Make the improvement undeniable."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Return to split screen.",
+     "beat": "Transformation is the payoff."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 22,
+   "title": "Give the Video a Constraint",
+   "hook": "Constraints make short stories easier to follow.",
+   "core": "Frame the video around one limit: 30 minutes, one tool, no paid software, one prompt, etc.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Constraint stamp slams onto screen.",
+     "beat": "One rule makes the story clearer."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Display the challenge condition.",
+     "beat": "Today: one tool. No paid plugins."
+    },
+    {
+     "time": "12–28s",
+     "visual": "Progress meter moves through attempts.",
+     "beat": "Now every action relates to the rule."
+    },
+    {
+     "time": "28–39s",
+     "visual": "Reveal whether the constraint was beaten.",
+     "beat": "The constraint creates tension."
+    },
+    {
+     "time": "39–45s",
+     "visual": "Final lesson.",
+     "beat": "Give the experiment a boundary."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 23,
+   "title": "Tell a Story Without Showing Your Face",
+   "hook": "Your screen can be the character.",
+   "core": "Build personality through cursor behavior, progress, mistakes, decisions, and results instead of a talking head.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Cursor hesitates over two choices.",
+     "beat": "You do not need a presenter for a story."
+    },
+    {
+     "time": "3–12s",
+     "visual": "Browser/editor becomes the main stage.",
+     "beat": "Make the screen the character."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Show decision → mistake → correction.",
+     "beat": "Actions create narrative."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Result appears from the same interface.",
+     "beat": "The viewer follows the process."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Cursor closes the tab on final result.",
+     "beat": "Let the work tell the story."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 24,
+   "title": "Build an Information Ladder",
+   "hook": "Do not dump the hardest part first.",
+   "core": "Layer information from simple observation to explanation to implication.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Three steps rise vertically.",
+     "beat": "Build upward."
+    },
+    {
+     "time": "4–13s",
+     "visual": "Step 1: WHAT happened.",
+     "beat": "Start with what the viewer can see."
+    },
+    {
+     "time": "13–24s",
+     "visual": "Step 2: WHY it happened.",
+     "beat": "Then explain the mechanism."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Step 3: WHY IT MATTERS.",
+     "beat": "Finally give the consequence."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Camera reaches top step.",
+     "beat": "Complexity feels easy when it has stairs."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 25,
+   "title": "Contrast Makes Explanations Stick",
+   "hook": "One comparison can replace twenty seconds of explanation.",
+   "core": "Use A/B contrast to make abstract advice immediately visible.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "A/B split screen appears.",
+     "beat": "Compare, do not lecture."
+    },
+    {
+     "time": "4–14s",
+     "visual": "A shows weak version, B shows strong version.",
+     "beat": "The difference becomes obvious."
+    },
+    {
+     "time": "14–28s",
+     "visual": "Highlight only the changed variable.",
+     "beat": "Keep everything else the same."
+    },
+    {
+     "time": "28–38s",
+     "visual": "Play both at real speed.",
+     "beat": "Let the viewer feel the difference."
+    },
+    {
+     "time": "38–45s",
+     "visual": "One-line takeaway.",
+     "beat": "Contrast is compression."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 26,
+   "title": "Cut When the Thought Changes",
+   "hook": "Good cuts follow meaning, not a stopwatch.",
+   "core": "Scene changes should align with new ideas, examples, or proof points.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Metronome-driven cuts look mechanical.",
+     "beat": "Do not cut just because three seconds passed."
+    },
+    {
+     "time": "3–12s",
+     "visual": "Waveform and transcript appear together.",
+     "beat": "Cut when the thought changes."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Mark four semantic beats in narration.",
+     "beat": "Each beat gets the visual it needs."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Play the edited version.",
+     "beat": "The pacing feels fast without feeling random."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Timeline labels semantic beats.",
+     "beat": "Edit ideas, not seconds."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 27,
+   "title": "Zoom With a Purpose",
+   "hook": "If everything zooms, nothing feels important.",
+   "core": "Use zoom to direct attention to a specific UI detail or reveal.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Multiple random zooms stack rapidly.",
+     "beat": "This is not emphasis."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Freeze on one interface.",
+     "beat": "Zoom only when the viewer needs to look somewhere."
+    },
+    {
+     "time": "11–25s",
+     "visual": "Three purposeful zooms: button, number, changed setting.",
+     "beat": "Each zoom answers “where should I look?”"
+    },
+    {
+     "time": "25–37s",
+     "visual": "Show camera path across one screenshot.",
+     "beat": "Guide the eye."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Return to full composition.",
+     "beat": "Camera movement should explain."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 28,
+   "title": "Your B-Roll Can Make the Video Worse",
+   "hook": "Pretty footage can destroy clarity.",
+   "core": "B-roll should support the spoken idea; generic footage can create cognitive mismatch.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Narration about analytics over irrelevant city footage.",
+     "beat": "Looks good. Explains nothing."
+    },
+    {
+     "time": "3–12s",
+     "visual": "Replace it with graph/UI footage.",
+     "beat": "Relevant visuals reduce mental work."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Show three narration lines with matching vs mismatched visuals.",
+     "beat": "Match the picture to the sentence."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Build an asset-selection rule: SHOW / PROVE / CLARIFY.",
+     "beat": "Every asset needs a job."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Clean relevant montage.",
+     "beat": "Useful beats aesthetic."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 29,
+   "title": "Caption Hierarchy Beats Giant Subtitles",
+   "hook": "Captions should guide attention, not cover the video.",
+   "core": "Use short caption chunks with selective emphasis instead of turning every spoken sentence into giant text.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Huge subtitles cover the interface.",
+     "beat": "If the caption hides the proof, it failed."
+    },
+    {
+     "time": "4–13s",
+     "visual": "Shrink to 3–6 word chunks.",
+     "beat": "Keep captions readable and brief."
+    },
+    {
+     "time": "13–27s",
+     "visual": "Emphasize only one key word per beat.",
+     "beat": "Hierarchy tells the eye what matters."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Move caption around important UI zones.",
+     "beat": "Protect the visual evidence."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Show clean final layout.",
+     "beat": "Caption the voice. Do not replace the video."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 30,
+   "title": "Design for the Mobile Safe Zone",
+   "hook": "Your best animation is useless if Instagram covers it.",
+   "core": "Keep essential text and controls away from app chrome and edge-cropped areas.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Overlay fake Instagram UI over a design; key text gets covered.",
+     "beat": "This looked perfect in the editor."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Reveal safe-zone guides.",
+     "beat": "Then the app UI arrived."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Move captions, CTA, and critical UI inward.",
+     "beat": "Protect the important information."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Show desktop preview vs phone preview.",
+     "beat": "Always check the real viewing surface."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Safe-zone overlay fades.",
+     "beat": "Design for the phone, not the canvas."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 31,
+   "title": "Make Browser UI Feel Cinematic",
+   "hook": "A browser screenshot does not have to feel like a screenshot.",
+   "core": "Animate browsing actions: focus, cursor, scroll, zoom, highlight, and result reveal.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Flat screenshot appears.",
+     "beat": "This is information, not a scene."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Browser chrome builds around it.",
+     "beat": "Give it context."
+    },
+    {
+     "time": "11–25s",
+     "visual": "Cursor types, scrolls, clicks, and highlights one result.",
+     "beat": "Let the viewer follow an action."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Zoom into the useful result and dim everything else.",
+     "beat": "Control the eye."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Result expands into next scene.",
+     "beat": "Turn screenshots into sequences."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 32,
+   "title": "Animate Code Without Making It Fake",
+   "hook": "Code animation looks premium until it types nonsense.",
+   "core": "Use real snippets, focus on one meaningful change, and visualize the result beside it.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Fake random code rains down.",
+     "beat": "Do not use code as wallpaper."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Replace with a small real snippet.",
+     "beat": "Show only the line that matters."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Highlight one change; result pane updates beside it.",
+     "beat": "Cause and effect is the story."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Diff view shows before/after code.",
+     "beat": "Keep it readable."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Result takes over screen.",
+     "beat": "Code should prove the change."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 33,
+   "title": "Use Motion Continuity",
+   "hook": "The cleanest transition is often the same object continuing into the next scene.",
+   "core": "Carry a visual object across scenes instead of replacing the whole frame.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Card moves from dashboard into full-screen detail view.",
+     "beat": "Watch the card."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Explain that it never disappears.",
+     "beat": "The scene changes, but the object continues."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Show three continuity examples: card→panel, graph→line, button→badge.",
+     "beat": "Reuse the visual anchor."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Play a connected mini sequence.",
+     "beat": "Continuity feels expensive."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Object returns to original position.",
+     "beat": "Transitions can tell the story."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 34,
+   "title": "Sound Design Is Invisible Editing",
+   "hook": "Mute this edit and it feels half as fast.",
+   "core": "Subtle clicks, impacts, swishes, and confirmation sounds can reinforce actions without overwhelming narration.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Play a UI sequence silently.",
+     "beat": "Looks fine."
+    },
+    {
+     "time": "4–10s",
+     "visual": "Replay with restrained sound accents.",
+     "beat": "Now it feels responsive."
+    },
+    {
+     "time": "10–24s",
+     "visual": "Label four sound roles: CLICK, MOVE, REVEAL, CONFIRM.",
+     "beat": "Each sound should match an event."
+    },
+    {
+     "time": "24–37s",
+     "visual": "Show waveform aligned with visual actions.",
+     "beat": "Sync creates polish."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Music ducks under final line.",
+     "beat": "Sound should support, never compete."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 35,
+   "title": "Turn a Screenshot Into a Scene",
+   "hook": "One screenshot can carry ten seconds if you animate the attention.",
+   "core": "Use crop, zoom, highlight, cursor, labels, and sequential reveals rather than showing the entire screenshot statically.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Full screenshot appears.",
+     "beat": "Do not make the viewer search."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Spotlight one region.",
+     "beat": "Tell them where to look."
+    },
+    {
+     "time": "12–25s",
+     "visual": "Zoom, cursor, tooltip, and annotation reveal sequentially.",
+     "beat": "Turn reading into a guided action."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Pan to second relevant area.",
+     "beat": "One image can contain multiple beats."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Zoom back to full screenshot.",
+     "beat": "Guide the eye, then restore context."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 36,
+   "title": "Give Value Before the CTA",
+   "hook": "If your CTA arrives before the payoff, it feels like a tax.",
+   "core": "Deliver a satisfying useful result before asking for follow, save, comment, or profile action.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "CTA popup interrupts before result.",
+     "beat": "This is too early."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Drag CTA to the end of timeline.",
+     "beat": "Earn the ask."
+    },
+    {
+     "time": "11–27s",
+     "visual": "Show useful explanation/result first.",
+     "beat": "Give the viewer something complete."
+    },
+    {
+     "time": "27–38s",
+     "visual": "CTA appears only after payoff.",
+     "beat": "Now the ask has context."
+    },
+    {
+     "time": "38–45s",
+     "visual": "CTA becomes small and optional.",
+     "beat": "Value first. CTA second."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 37,
+   "title": "Ask for the Right Action",
+   "hook": "Follow for more” is not always the best ending.",
+   "core": "Match CTA to the content: save for reference, share for utility, comment for genuine opinion, follow for recurring series.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Four CTA buttons appear.",
+     "beat": "Choose the action that matches the video."
+    },
+    {
+     "time": "4–13s",
+     "visual": "SAVE paired with checklist/tutorial.",
+     "beat": "Reference content? Save."
+    },
+    {
+     "time": "13–22s",
+     "visual": "SHARE paired with useful discovery.",
+     "beat": "Useful to a friend? Share."
+    },
+    {
+     "time": "22–31s",
+     "visual": "COMMENT paired with real choice/question.",
+     "beat": "Need an opinion? Comment."
+    },
+    {
+     "time": "31–40s",
+     "visual": "FOLLOW paired with recurring series.",
+     "beat": "Series? Follow."
+    },
+    {
+     "time": "40–45s",
+     "visual": "One CTA remains based on content.",
+     "beat": "One clear ask."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 38,
+   "title": "Trust Can Outperform Virality",
+   "hook": "The video with fewer views can still be more valuable.",
+   "core": "Evaluate content by the goal: attention, profile visits, saves, leads, sales, or authority—not views alone.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Two Reel cards: 500K views vs 35K views.",
+     "beat": "Which one won?"
+    },
+    {
+     "time": "4–12s",
+     "visual": "Reveal different outcomes beneath them.",
+     "beat": "Depends on the goal."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Dashboard cycles through views, saves, profile visits, conversions.",
+     "beat": "Views are one metric."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Assign each video a primary objective.",
+     "beat": "Judge content against its job."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Scorecard replaces vanity metric.",
+     "beat": "Pick the metric before you post."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 39,
+   "title": "Turn Viewers Into Profile Visitors",
+   "hook": "A viral Reel can still send nobody to your profile.",
+   "core": "Create continuity between Reel topic, profile promise, pinned content, and bio.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Viewer finishes Reel, taps profile, sees unrelated grid.",
+     "beat": "This is where conversion dies."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Map Reel → Profile → Pinned Reel → Offer.",
+     "beat": "The journey continues after the video."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Fix profile headline and pinned content to match the Reel topic.",
+     "beat": "Make the next step obvious."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Animate viewer path through the improved profile.",
+     "beat": "Reduce the topic switch."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Path ends at clear action.",
+     "beat": "Your Reel and profile should feel like one product."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 40,
+   "title": "Test Three Hooks, Not Three Videos",
+   "hook": "When a video fails, you may only need a new first five seconds.",
+   "core": "Keep the body constant and test different opening angles before rebuilding everything.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "One body timeline branches into Hook A/B/C.",
+     "beat": "Test the variable."
+    },
+    {
+     "time": "4–13s",
+     "visual": "Hook A = result, B = problem, C = contradiction.",
+     "beat": "Three openings. Same content."
+    },
+    {
+     "time": "13–27s",
+     "visual": "Play 2-second preview of each.",
+     "beat": "Now you can compare framing."
+    },
+    {
+     "time": "27–38s",
+     "visual": "One hook becomes the selected version.",
+     "beat": "Change one major variable at a time."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Branch collapses into final cut.",
+     "beat": "Do not throw away a good body."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 41,
+   "title": "Remake an Underperformer",
+   "hook": "A weak post can contain a strong idea.",
+   "core": "Reuse the concept while changing the packaging, structure, proof, and visuals.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Old Reel card stamped LOW RETENTION.",
+     "beat": "Do not delete the idea."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Extract the core idea into a small card.",
+     "beat": "Separate concept from execution."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Swap hook, tighten body, move payoff, upgrade visual proof.",
+     "beat": "Rebuild the delivery."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Old/new timelines compare.",
+     "beat": "Same idea. Different story."
+    },
+    {
+     "time": "38–45s",
+     "visual": "New version renders.",
+     "beat": "Recycle insight, not footage."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 42,
+   "title": "Build a Content Pillar Matrix",
+   "hook": "You do not need 100 ideas. You need a system that multiplies them.",
+   "core": "Combine a few content pillars with repeatable formats to generate a large idea bank.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "3×4 matrix appears.",
+     "beat": "Ideas multiply."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Columns: Teach / Test / Compare / Build.",
+     "beat": "Use repeatable formats."
+    },
+    {
+     "time": "12–22s",
+     "visual": "Rows: Hooks / Editing / Tools.",
+     "beat": "Use repeatable topics."
+    },
+    {
+     "time": "22–36s",
+     "visual": "Cells populate into video ideas.",
+     "beat": "Every intersection becomes a Reel."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Matrix expands into calendar.",
+     "beat": "Build a system, not a brainstorm."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 43,
+   "title": "Posting More Is Not a Magic Trick",
+   "hook": "More posts cannot rescue content people do not want to watch.",
+   "core": "Frequency matters only when quality and learning loops are sustainable; avoid fixed “spam the algorithm” myths.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Upload counter races from 1 to 10/day.",
+     "beat": "Volume is not a cheat code."
+    },
+    {
+     "time": "4–13s",
+     "visual": "Quality/learning gauges drop as volume rises.",
+     "beat": "More can reduce feedback quality."
+    },
+    {
+     "time": "13–27s",
+     "visual": "Show sustainable loop: publish → measure → improve.",
+     "beat": "Frequency should support learning."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Compare one rushed batch vs fewer improved posts.",
+     "beat": "Choose a pace you can maintain."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Calendar settles into a consistent rhythm.",
+     "beat": "Consistency beats superstition."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 44,
+   "title": "The Weekly Content Review",
+   "hook": "Your analytics are useless if you never change anything because of them.",
+   "core": "Use a simple weekly review: best hook, worst drop, strongest save/share signal, next test.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Analytics dashboard piles up unread.",
+     "beat": "Data is not a strategy."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Four-question checklist appears.",
+     "beat": "Turn numbers into decisions."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Highlight best hook, biggest cliff, strongest useful-action metric.",
+     "beat": "Find patterns."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Convert each finding into one test for next week.",
+     "beat": "Every insight needs an action."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Next-week board populates.",
+     "beat": "Review. Change. Repeat."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 45,
+   "title": "One Idea, Five Reel Formats",
+   "hook": "You are probably throwing away ideas after one post.",
+   "core": "Repackage one core insight as tutorial, myth-bust, case study, comparison, and experiment.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "One idea card duplicates five times.",
+     "beat": "One idea is not one video."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Label five formats.",
+     "beat": "Change the lens."
+    },
+    {
+     "time": "12–28s",
+     "visual": "Rapid previews of each format using same topic.",
+     "beat": "The information stays; the story changes."
+    },
+    {
+     "time": "28–39s",
+     "visual": "Show all five in a content calendar.",
+     "beat": "This reduces idea pressure."
+    },
+    {
+     "time": "39–45s",
+     "visual": "Original idea remains at center.",
+     "beat": "Reuse the concept, not the script."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 46,
+   "title": "Build a 30-Day Content Bank",
+   "hook": "Posting consistently gets easier when creation and publishing are separate jobs.",
+   "core": "Batch ideas, scripts, assets, renders, and scheduled posts through a production pipeline.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Empty calendar flashes red.",
+     "beat": "Daily improvisation is expensive."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Pipeline appears: IDEA → SCRIPT → ASSETS → RENDER → SCHEDULE.",
+     "beat": "Separate the jobs."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Cards move through stages in batches.",
+     "beat": "Batch similar work."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Calendar fills without showing frantic daily creation.",
+     "beat": "Build inventory."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Next day post publishes automatically/manual depending workflow.",
+     "beat": "Create ahead. Publish calmly."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 47,
+   "title": "Quality vs Consistency Is the Wrong Question",
+   "hook": "You do not need to choose between quality and consistency.",
+   "core": "Choose a repeatable quality floor that can be produced reliably, then improve the system.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "QUALITY and CONSISTENCY fight like opposing sliders.",
+     "beat": "Wrong tradeoff."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Introduce “QUALITY FLOOR”.",
+     "beat": "Set a minimum standard."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Checklist: clear hook, useful point, proof, clean audio, readable visuals.",
+     "beat": "Ship only above the floor."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Template system reduces production cost.",
+     "beat": "Templates protect consistency."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Both sliders rise together.",
+     "beat": "Improve the system, not the stress."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 48,
+   "title": "Teach the Algorithm Your Niche",
+   "hook": "If every post serves a different person, your profile becomes hard to understand.",
+   "core": "Use a clear audience/problem cluster so viewers—and recommendation systems—receive consistent topical signals, without claiming a secret algorithm rule.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Profile grid jumps across five unrelated topics.",
+     "beat": "Who is this for?"
+    },
+    {
+     "time": "4–12s",
+     "visual": "Topics cluster into one audience map.",
+     "beat": "Group around a clear viewer."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Show three related pillars feeding the same audience.",
+     "beat": "Different formats, same people."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Profile grid becomes coherent.",
+     "beat": "A clear promise helps humans first."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Audience icon stays fixed while topics orbit it.",
+     "beat": "Pick the audience before the topic."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 49,
+   "title": "Viral Does Not Mean Useful",
+   "hook": "A million views can still teach you the wrong lesson.",
+   "core": "Separate novelty-driven reach from content that attracts the audience you actually want.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Huge views number explodes.",
+     "beat": "Big number."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Audience composition reveals mismatch.",
+     "beat": "Wrong people?"
+    },
+    {
+     "time": "12–26s",
+     "visual": "Compare viral novelty post vs niche useful post.",
+     "beat": "Different jobs."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Metrics change from views to saves/profile visits/qualified actions.",
+     "beat": "Measure intent."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Label both as valid for different goals.",
+     "beat": "Know what success means."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 50,
+   "title": "The Hook–Proof Gap",
+   "hook": "The bigger your claim, the faster you need proof.",
+   "core": "Strong claims require visible evidence quickly to maintain trust.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Massive claim appears: “THIS CHANGED EVERYTHING”.",
+     "beat": "Big claim."
+    },
+    {
+     "time": "4–11s",
+     "visual": "Timer starts while no evidence appears.",
+     "beat": "Where is the proof?"
+    },
+    {
+     "time": "11–25s",
+     "visual": "Show proof types: demo, screenshot, result, source.",
+     "beat": "Reduce the gap."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Place proof immediately after claim.",
+     "beat": "Claim → evidence."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Trust meter rises.",
+     "beat": "Do not make viewers wait to believe you."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 51,
+   "title": "Use Examples Before Definitions",
+   "hook": "People understand abstract ideas faster after seeing one.",
+   "core": "Show a concrete example first, then name the concept.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Play a short example without label.",
+     "beat": "Watch this."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Freeze and highlight what happened.",
+     "beat": "You already understand the pattern."
+    },
+    {
+     "time": "12–24s",
+     "visual": "Now reveal the term/name.",
+     "beat": "Now give it a label."
+    },
+    {
+     "time": "24–37s",
+     "visual": "Show a second example so the rule generalizes.",
+     "beat": "One more example locks it in."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Definition becomes one short line.",
+     "beat": "Example first. Definition second."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 52,
+   "title": "Make the Viewer Predict",
+   "hook": "A tiny prediction turns passive watching into participation.",
+   "core": "Ask the viewer to mentally choose an outcome before revealing the answer.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "A/B options appear.",
+     "beat": "Which one keeps more viewers?"
+    },
+    {
+     "time": "4–12s",
+     "visual": "Short countdown without overdelaying.",
+     "beat": "Pick one."
+    },
+    {
+     "time": "12–25s",
+     "visual": "Play both examples.",
+     "beat": "Now test the prediction."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Reveal result or reasoning.",
+     "beat": "The reveal has tension."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Explain the variable that mattered.",
+     "beat": "Prediction creates attention."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 53,
+   "title": "Use a Progress Promise",
+   "hook": "A progress bar can tell viewers there is a destination.",
+   "core": "Visible progress works best when it corresponds to real stages, not fake suspense.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Progress bar starts at 0%.",
+     "beat": "Give the story a destination."
+    },
+    {
+     "time": "4–13s",
+     "visual": "Stage 1 completes.",
+     "beat": "Each step should mean something."
+    },
+    {
+     "time": "13–25s",
+     "visual": "Stage 2 completes with new evidence.",
+     "beat": "Progress must equal progress."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Final stage unlocks result.",
+     "beat": "No fake 99% stall."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Bar completes and disappears.",
+     "beat": "Use progress to clarify structure."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 54,
+   "title": "Replace Explanation With Demonstration",
+   "hook": "If you can show it in three seconds, do not explain it for ten.",
+   "core": "Demonstrations compress information and increase credibility.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Long text paragraph appears.",
+     "beat": "I could explain this."
+    },
+    {
+     "time": "4–10s",
+     "visual": "Paragraph collapses into a live demo.",
+     "beat": "Or show you."
+    },
+    {
+     "time": "10–26s",
+     "visual": "Cursor performs the action.",
+     "beat": "Demonstration carries the explanation."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Freeze on before/after result.",
+     "beat": "Now explain only what is not obvious."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Text count shrinks dramatically.",
+     "beat": "Show first. Explain second."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 55,
+   "title": "One Reel, One Main Question",
+   "hook": "If your Reel answers five questions, viewers may remember none.",
+   "core": "Keep one dominant question and let supporting details serve it.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Five question tabs open at once.",
+     "beat": "Too many stories."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Close four tabs.",
+     "beat": "Pick one."
+    },
+    {
+     "time": "12–27s",
+     "visual": "Supporting evidence attaches beneath main question.",
+     "beat": "Everything points upward."
+    },
+    {
+     "time": "27–38s",
+     "visual": "Answer becomes clear and concise.",
+     "beat": "The video has a spine."
+    },
+    {
+     "time": "38–45s",
+     "visual": "One tab closes as COMPLETE.",
+     "beat": "One Reel. One main question."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 56,
+   "title": "The Proof Stack",
+   "hook": "One claim feels like an opinion. Three kinds of proof feel much stronger.",
+   "core": "Combine demonstration, data/source, and outcome when appropriate.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Claim card appears alone.",
+     "beat": "Claim."
+    },
+    {
+     "time": "4–13s",
+     "visual": "Add live demo beneath it.",
+     "beat": "Proof one: demonstration."
+    },
+    {
+     "time": "13–23s",
+     "visual": "Add source/data card.",
+     "beat": "Proof two: evidence."
+    },
+    {
+     "time": "23–33s",
+     "visual": "Add outcome/result card.",
+     "beat": "Proof three: outcome."
+    },
+    {
+     "time": "33–45s",
+     "visual": "Cards stack into a strong conclusion.",
+     "beat": "Stack proof instead of adding hype."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 57,
+   "title": "Build a Re-Hook at the Exact Weak Point",
+   "hook": "Do not sprinkle re-hooks everywhere. Put one where interest actually fades.",
+   "core": "Use retention or editorial judgment to place a new question/example at the weak section.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Timeline shows one obvious weak grey section.",
+     "beat": "This is where the energy dies."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Retention marker aligns with it.",
+     "beat": "Now we know where to intervene."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Insert a new example or contrast question.",
+     "beat": "Add novelty with purpose."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Play before/after sequence.",
+     "beat": "The reset belongs here."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Marker turns green.",
+     "beat": "Re-hook the weak point, not the whole video."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 58,
+   "title": "Use Numbers as Visual Objects",
+   "hook": "Do not just say the number. Make the viewer feel the difference.",
+   "core": "Animate numbers through scale, comparison, counters, or spatial relationships.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Tiny “3%” and huge “47%” occupy proportional space.",
+     "beat": "Numbers can be visual."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Counter animates from baseline to result.",
+     "beat": "Show the change."
+    },
+    {
+     "time": "12–25s",
+     "visual": "Bar/stack comparison appears.",
+     "beat": "Give the number context."
+    },
+    {
+     "time": "25–37s",
+     "visual": "Highlight what the number means in plain language.",
+     "beat": "Then translate it."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Numbers settle into one takeaway.",
+     "beat": "Visualize before you explain."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 59,
+   "title": "The Mini Experiment Reel",
+   "hook": "I changed one variable to see what actually happened.",
+   "core": "Structure a Reel around a simple test with a controlled change.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "EXPERIMENT card and one variable highlighted.",
+     "beat": "Change one thing."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Show baseline/control.",
+     "beat": "This is the starting point."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Apply the change.",
+     "beat": "Keep everything else as similar as possible."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Reveal result with limitations.",
+     "beat": "Here is what happened in this test."
+    },
+    {
+     "time": "38–45s",
+     "visual": "State next test, not a universal law.",
+     "beat": "One test gives evidence, not certainty."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 60,
+   "title": "Turn Comments Into the Next Reel",
+   "hook": "Your best content ideas may already be under your last post.",
+   "core": "Use recurring questions, objections, and misunderstandings as source material.",
+   "beats": [
+    {
+     "time": "0–4s",
+     "visual": "Comment stack rises from bottom.",
+     "beat": "Your audience is writing prompts for you."
+    },
+    {
+     "time": "4–12s",
+     "visual": "Highlight one repeated question.",
+     "beat": "Find repetition."
+    },
+    {
+     "time": "12–26s",
+     "visual": "Comment expands into a storyboard: question → example → answer.",
+     "beat": "One comment becomes one Reel."
+    },
+    {
+     "time": "26–38s",
+     "visual": "Several comments map into future content cards.",
+     "beat": "Now you have a queue."
+    },
+    {
+     "time": "38–45s",
+     "visual": "Reply icon becomes camera icon.",
+     "beat": "Turn questions into content."
+    }
+   ],
+   "spine": ""
+  }
+ ],
+ "UI": [
+  {
+   "n": 1,
+   "title": "The Upload That Wasted 30 Seconds",
+   "hook": "The worst time to reject a file is after it finishes uploading.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:04",
+     "beat": "Hook",
+     "visual": "Drag a large `design.psd` file into a beautiful upload zone. Text: **48 MB. HERE WE GO.**"
+    },
+    {
+     "time": "0:04–0:12",
+     "beat": "Tension",
+     "visual": "Progress races 0 → 100%. Tiny network/data animation keeps moving. User waits."
+    },
+    {
+     "time": "0:12–0:17",
+     "beat": "Failure",
+     "visual": "At 100%, UI flashes **“.PSD NOT SUPPORTED.”** Cursor freezes. Everything desaturates."
+    },
+    {
+     "time": "0:17–0:29",
+     "beat": "Rewind",
+     "visual": "Timeline scrubs backwards. Rebuild the upload box with accepted formats and preflight validation. Invalid file is rejected instantly, before transfer."
+    },
+    {
+     "time": "0:29–0:39",
+     "beat": "Better state",
+     "visual": "Valid PNG uploads with remaining time, cancel button, and persistent filename."
+    },
+    {
+     "time": "0:39–0:45",
+     "beat": "Payoff",
+     "visual": "Three labels appear: **VALIDATE EARLY · SHOW PROGRESS · RECOVER CLEANLY**."
+    }
+   ],
+   "spine": "A user drops a 48-megabyte design file into your app. The progress bar reaches one hundred percent. Then you tell them the format isn’t supported. Technically, the error is correct. The experience is terrible. Check file type and size before upload when you can. Show accepted formats near the drop zone. If processing can still fail, explain what happened without deleting the user’s work. Good upload UX answers three questions early: can I upload this, how long will it take, and what do I do if it fails? The best error is the one you prevent before the progress bar starts."
+  },
+  {
+   "n": 2,
+   "title": "Your Backend Is Fast. Your App Still Feels Slow.",
+   "hook": "Your API can respond in 90 milliseconds and the app can still feel slow.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Click **Open project**. HUD says **API 92ms ✓**, but drawer crawls in. Text: **WHY DOES THIS FEEL SLOW?**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Zoom into timeline: click → dead pause → long animation."
+    },
+    {
+     "time": "0:13–0:22",
+     "beat": "",
+     "visual": "Rebuild: instant button press + shorter drawer movement."
+    },
+    {
+     "time": "0:22–0:31",
+     "beat": "",
+     "visual": "Show linear vs eased motion using two identical cards and timing curves."
+    },
+    {
+     "time": "0:31–0:38",
+     "beat": "",
+     "visual": "Menu first teleports from center, then correctly unfolds from avatar trigger."
+    },
+    {
+     "time": "0:38–0:45",
+     "beat": "",
+     "visual": "Same original interaction now feels fast. HUD still says **API 92ms**. Text: **THE BACKEND NEVER CHANGED.**"
+    }
+   ],
+   "spine": "Speed isn’t only backend latency. The interface decides when the user *feels* the response. If a button does nothing for half a second, then a drawer slowly glides in, the product feels delayed even when the data was ready instantly. Give immediate click feedback. Keep frequent micro-interactions brief. Use easing so movement accelerates and settles naturally. Make menus originate from the control that opened them. And don’t spring every component like it’s made of rubber. Good motion is almost invisible. It makes the product feel immediate, connected, and calm — without changing the API at all."
+  },
+  {
+   "n": 3,
+   "title": "Search That Pretends Nothing Exists",
+   "hook": "Your search can have the right result and still make users think it doesn’t.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "User types **invoice export**. Empty result: **0 results**. Behind the panel, the actual “Export invoices” feature is visibly present."
+    },
+    {
+     "time": "0:05–0:12",
+     "beat": "",
+     "visual": "Search tries exact match only. Query characters lock into rigid blocks."
+    },
+    {
+     "time": "0:12–0:20",
+     "beat": "",
+     "visual": "One typo — `invocie` — makes results disappear completely."
+    },
+    {
+     "time": "0:20–0:31",
+     "beat": "",
+     "visual": "UI transforms: suggestions appear, matching terms highlight, filter chips remain visible, near-match result surfaces."
+    },
+    {
+     "time": "0:31–0:39",
+     "beat": "",
+     "visual": "No-result state offers **Try “invoice”**, recent searches, and category shortcut."
+    },
+    {
+     "time": "0:39–0:45",
+     "beat": "",
+     "visual": "Text: **SEARCH FOR INTENT, NOT PERFECT TYPING.**"
+    }
+   ],
+   "spine": "Imagine searching for “invoice export.” The feature exists, but the search only matches exact titles, waits for Enter, hides filters, and returns a blank screen for one typo. That’s not a search box. That’s a memory test. A useful search reacts as the query becomes meaningful, tolerates small mistakes when appropriate, highlights why a result matched, preserves useful filters, and gives a recovery path when there’s no exact result. Search isn’t successful when it technically runs a query. It’s successful when the user can get from vague intent to the thing they meant."
+  },
+  {
+   "n": 4,
+   "title": "The Modal That Trapped the User",
+   "hook": "If users can’t figure out how to close a popup, they’ll close your product instead.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:04",
+     "beat": "",
+     "visual": "Giant modal covers app. Cursor searches corners. Text: **HOW DO I CLOSE THIS?**"
+    },
+    {
+     "time": "0:04–0:12",
+     "beat": "",
+     "visual": "User clicks backdrop: nothing. Esc: nothing. Tiny hidden X appears only on hover."
+    },
+    {
+     "time": "0:12–0:21",
+     "beat": "",
+     "visual": "Modal expands with tabs, long text, two scrollbars, six buttons."
+    },
+    {
+     "time": "0:21–0:31",
+     "beat": "",
+     "visual": "Freeze. UI peels apart. Simple confirmation becomes compact modal; complex task becomes a full screen."
+    },
+    {
+     "time": "0:31–0:39",
+     "beat": "",
+     "visual": "Demonstrate clear close, Esc, cancel, and destructive action hierarchy."
+    },
+    {
+     "time": "0:39–0:45",
+     "beat": "",
+     "visual": "Text: **A MODAL IS A PAUSE, NOT A NEW APP.**"
+    }
+   ],
+   "spine": "A modal interrupts the entire interface, so it has to earn that interruption. The common failure isn’t just a missing X. It’s unclear escape behavior, hidden actions, dangerous defaults, and a dialog that grows until it becomes a second page. If the task is simple, keep the modal focused. Give it an obvious close path. Keep destructive actions visually distinct. Preserve work if closing is accidental. And if the content needs scrolling, navigation, or several decisions, it probably wants to be a real screen. A modal should reduce context — not create another application inside your application."
+  },
+  {
+   "n": 5,
+   "title": "Your Sign-In Button Is Invisible to the Keyboard",
+   "hook": "Watch what happens when I try to sign in without touching the mouse.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:06",
+     "beat": "",
+     "visual": "Mouse physically slides off screen. Text: **NO MOUSE. SIGN IN.**"
+    },
+    {
+     "time": "0:06–0:14",
+     "beat": "",
+     "visual": "Animated Tab key drives focus: email → password → footer link, skipping primary button."
+    },
+    {
+     "time": "0:14–0:20",
+     "beat": "",
+     "visual": "User presses Enter. Wrong element activates."
+    },
+    {
+     "time": "0:20–0:31",
+     "beat": "",
+     "visual": "DOM-like layer rearranges. Focus order is repaired; strong focus ring appears."
+    },
+    {
+     "time": "0:31–0:39",
+     "beat": "",
+     "visual": "Open a small dialog and move focus correctly to its first meaningful action."
+    },
+    {
+     "time": "0:39–0:45",
+     "beat": "",
+     "visual": "Text: **IF TAB CAN’T REACH IT, IT’S NOT REALLY AVAILABLE.**"
+    }
+   ],
+   "spine": "Tab. Email field. Tab. Password. Tab… and the focus jumps straight past Sign in to a footer link. That tiny mistake can make the entire login unusable for someone navigating by keyboard. Focus order should follow the visual and logical task. Interactive controls need a visible focus state. Custom components need to behave like actual controls, not decorative divs with click handlers. And when a dialog opens, focus should move somewhere sensible. Accessibility isn’t a separate version of the interface. It’s whether the interface still works when the mouse disappears."
+  },
+  {
+   "n": 6,
+   "title": "Back Should Take Me Back, Not Start Me Over",
+   "hook": "You scroll through 400 rows, open one item, hit Back… and the app sends you to row one.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Counter flies past rows: 1…80…220…400. User opens row 417."
+    },
+    {
+     "time": "0:05–0:11",
+     "beat": "",
+     "visual": "Detail page. User taps Back."
+    },
+    {
+     "time": "0:11–0:17",
+     "beat": "",
+     "visual": "List returns to row 1. Filters vanish. Dramatic zoom out. Text: **START AGAIN.**"
+    },
+    {
+     "time": "0:17–0:28",
+     "beat": "",
+     "visual": "Show user repeating the journey faster, building frustration as a trail of cursor paths stacks up."
+    },
+    {
+     "time": "0:28–0:38",
+     "beat": "",
+     "visual": "Repair state: Back returns directly to row 417 with filter chips and search intact."
+    },
+    {
+     "time": "0:38–0:45",
+     "beat": "",
+     "visual": "Text: **GOOD NAVIGATION REMEMBERS CONTEXT.**"
+    }
+   ],
+   "spine": "This is one of those bugs that doesn’t look dramatic in a screenshot. But use the product for ten minutes and it becomes exhausting. If I open an item from a long list, Back should usually return me to the same place, with my sort, filters, and search state intact. Otherwise every detail view becomes a punishment. Preserve meaningful navigation state. Restore scroll position. Keep filters unless the user resets them. And don’t make them rebuild context you already had. Good navigation has memory. It lets people explore without being afraid of losing their place."
+  },
+  {
+   "n": 7,
+   "title": "Nine Minutes of Writing. Gone in One Error.",
+   "hook": "The send failed. The real bug is that the message disappeared.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:06",
+     "beat": "",
+     "visual": "Timer reads **09:04** as user finishes a long message."
+    },
+    {
+     "time": "0:06–0:11",
+     "beat": "",
+     "visual": "Click Send. Network line snaps. Error toast appears."
+    },
+    {
+     "time": "0:11–0:16",
+     "beat": "",
+     "visual": "Textarea clears itself. Silence. Text: **EMPTY.**"
+    },
+    {
+     "time": "0:16–0:27",
+     "beat": "",
+     "visual": "Timeline rewinds. Rebuild: message stays, error appears inline, Retry button becomes available."
+    },
+    {
+     "time": "0:27–0:38",
+     "beat": "",
+     "visual": "Brief autosave indicator: **Saved locally 2s ago**. Network returns. Retry succeeds."
+    },
+    {
+     "time": "0:38–0:45",
+     "beat": "",
+     "visual": "Text: **FAIL THE REQUEST. NOT THE USER’S WORK.**"
+    }
+   ],
+   "spine": "A network request can fail. That’s normal. Destroying nine minutes of user input because it failed is not. Long text, forms, comments, and drafts should survive temporary errors whenever practical. Keep the content in the field. Tell the user what failed. Let them retry. Autosave longer work locally or remotely when it makes sense. And never use a generic error if the next action isn’t obvious. Reliability isn’t pretending nothing ever breaks. It’s designing the failure so the user doesn’t pay for it twice."
+  },
+  {
+   "n": 8,
+   "title": "Three UX Laws You Can Actually See",
+   "hook": "UX rules make more sense when you can watch them fail.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:04",
+     "beat": "",
+     "visual": "Text: **DON’T MEMORIZE UX LAWS. WATCH THEM.**"
+    },
+    {
+     "time": "0:04–0:15",
+     "beat": "",
+     "visual": "Tiny close target. Cursor misses twice. Target expands; hit succeeds immediately."
+    },
+    {
+     "time": "0:15–0:26",
+     "beat": "",
+     "visual": "Six equally styled buttons. Cursor hesitates. One becomes primary, others quiet down."
+    },
+    {
+     "time": "0:26–0:37",
+     "beat": "",
+     "visual": "Two labels float between two fields. Move labels closer to their inputs; confusion disappears."
+    },
+    {
+     "time": "0:37–0:45",
+     "beat": "",
+     "visual": "Three cards lock into place: **TARGET · HIERARCHY · PROXIMITY**."
+    }
+   ],
+   "spine": "Here are three principles you can feel immediately. First: targets that are tiny take longer to hit, especially on touch. Second: choices get slower when every option screams for equal attention. Third: elements that look related are assumed to belong together. None of that requires a lecture. Make the icon bigger — the cursor lands faster. Give one action priority — the decision becomes easier. Move the label closer to the correct field — the relationship becomes obvious. Good UX principles aren’t magic formulas. They’re useful because they predict where people hesitate."
+  },
+  {
+   "n": 9,
+   "title": "The Login Form Isn’t Boring. It’s Trust.",
+   "hook": "A login screen only has two fields. So why do so many of them feel bad?",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Minimal login form. Text: **ONLY TWO FIELDS. STILL EASY TO GET WRONG.**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Placeholder labels vanish while typing. User forgets which field is active."
+    },
+    {
+     "time": "0:13–0:20",
+     "beat": "",
+     "visual": "Password error appears only after submit; both inputs clear."
+    },
+    {
+     "time": "0:20–0:31",
+     "beat": "",
+     "visual": "Form rebuilds live: persistent labels, inline state, stable show-password icon, autofill visual."
+    },
+    {
+     "time": "0:31–0:39",
+     "beat": "",
+     "visual": "Wrong password error preserves email and password field state appropriately."
+    },
+    {
+     "time": "0:39–0:45",
+     "beat": "",
+     "visual": "Text: **LOGIN SHOULD FEEL UNEVENTFUL.**"
+    }
+   ],
+   "spine": "Because every tiny decision is noticeable. Placeholder-only labels disappear as soon as you type. Password rules arrive after the error. The show-password control moves the layout. The submit button activates without explaining what’s missing. And an auth error can wipe both fields. A good login screen is boring in the best way. Labels stay visible. Errors sit beside the thing that needs fixing. Password visibility doesn’t move the interface. Autofill works. And failed authentication doesn’t erase valid input. Two fields are enough to reveal whether a product respects the user’s time."
+  },
+  {
+   "n": 10,
+   "title": "Why This Button Looks Expensive",
+   "hook": "These two buttons do the same thing. One feels noticeably better.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Two buttons: same words, same location. Text: **SAME ACTION. DIFFERENT FEELING.**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Bad button: tiny hit area, weak contrast, hover shifts position."
+    },
+    {
+     "time": "0:13–0:22",
+     "beat": "",
+     "visual": "Click changes size; spinner causes layout jump."
+    },
+    {
+     "time": "0:22–0:34",
+     "beat": "",
+     "visual": "Rebuild the button: comfortable area, stable width, press scale, loading label, success state."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Cursor rapidly tests default → hover → pressed → loading → success."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **DESIGN THE STATES, NOT JUST THE RECTANGLE.**"
+    }
+   ],
+   "spine": "The difference isn’t a fancy gradient. It’s the decisions around the button. The label is specific. The contrast is clear. The hit area is comfortable. Hover doesn’t move the layout. Pressing it gives immediate feedback. Loading keeps the button stable instead of swapping it for a random spinner. And disabled doesn’t mean invisible. A polished button communicates state before, during, and after the click. The goal isn’t to decorate the primary action. It’s to remove uncertainty around the most important interaction on the screen."
+  },
+  {
+   "n": 11,
+   "title": "A Bank Balance Without Context Is Just a Number",
+   "hook": "$4,820. Is that good news or bad news?",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Giant **$4,820** floats alone. Text: **GOOD OR BAD?**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "More raw numbers rain onto the screen: transactions, pending, due dates."
+    },
+    {
+     "time": "0:13–0:21",
+     "beat": "",
+     "visual": "User tries to calculate mentally; small calculator bubbles appear and pile up."
+    },
+    {
+     "time": "0:21–0:34",
+     "beat": "",
+     "visual": "UI reorganizes: available balance, pending amount, next bill, recent unusual spend."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Tap transaction; merchant/category context expands in place."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **DATA NEEDS CONTEXT.**"
+    }
+   ],
+   "spine": "A banking app can show perfectly accurate numbers and still make them hard to understand. A balance needs context. What changed? What’s pending? What’s safe to spend? When is the next bill? Which transaction caused the spike? Instead of turning the screen into a dashboard full of charts, reveal context where the decision happens. Show pending money differently from settled money. Pair unusual spending with the category or merchant. Make dates and signs unambiguous. Financial UI isn’t about showing more data. It’s about helping people answer the next question without doing mental accounting in their head."
+  },
+  {
+   "n": 12,
+   "title": "Your Onboarding Is Asking for Too Much, Too Soon",
+   "hook": "The user just installed your app. Why are you already asking seven questions?",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "User opens app. Seven permission/profile cards slam onto screen. Text: **WELCOME. FILL THIS OUT.**"
+    },
+    {
+     "time": "0:05–0:15",
+     "beat": "",
+     "visual": "Progress says `1 of 9`; cursor visibly slows."
+    },
+    {
+     "time": "0:15–0:22",
+     "beat": "",
+     "visual": "User exits. Funnel counter drops: `100 → 71 → 43` as steps stack."
+    },
+    {
+     "time": "0:22–0:34",
+     "beat": "",
+     "visual": "Rebuild to two steps: choose goal → perform first useful action."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Optional profile and permission prompts appear later, attached to relevant features."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **VALUE FIRST. QUESTIONS LATER.**"
+    }
+   ],
+   "spine": "Name. Company size. Job title. Phone number. Notifications. Contacts. Location. Before the user has seen any value, the product has turned onboarding into paperwork. Ask only what you need to get them to the first useful moment. Defer optional profile questions. Request permissions when the feature actually needs them, not all at launch. Show progress only when the steps are real. And let users skip what can be skipped. Great onboarding doesn’t explain the whole product. It gets someone to one successful action quickly enough that they want to learn the rest."
+  },
+  {
+   "n": 13,
+   "title": "Checkout Friction You Don’t Notice Until You Buy",
+   "hook": "The product didn’t lose the sale. The checkout did.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Product card moves smoothly into cart. Text: **SALE WON.** Then checkout loads: **MAYBE NOT.**"
+    },
+    {
+     "time": "0:05–0:15",
+     "beat": "",
+     "visual": "Forced account prompt, hidden shipping, coupon field dominates."
+    },
+    {
+     "time": "0:15–0:22",
+     "beat": "",
+     "visual": "Card error clears several correct fields. Cursor pulls away."
+    },
+    {
+     "time": "0:22–0:34",
+     "beat": "",
+     "visual": "Rebuild: guest path, visible total, stable fields, inline address correction."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Pay button remains visually dominant; success receipt slides in."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **DON’T RESELL THE PURCHASE AT CHECKOUT.**"
+    }
+   ],
+   "spine": "You’ve already convinced someone to buy. Then checkout asks them to create an account, hides the total until the end, rejects an address without saying why, resets the card form after one error, and makes the discount box look more important than the Pay button. Every extra uncertainty gives the buyer another chance to leave. Keep costs visible. Preserve valid input after errors. Make guest checkout obvious when it exists. Explain exactly what needs fixing. And keep the final action unmistakable. Checkout isn’t the place to be clever. It’s the place to make the decision the customer already made feel safe to finish."
+  },
+  {
+   "n": 14,
+   "title": "A Spinner Tells Me Almost Nothing",
+   "hook": "Seven seconds feels much longer when the screen can’t explain what’s happening.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:07",
+     "beat": "",
+     "visual": "Spinner rotates. Counter: `1s…3s…5s…7s`. Text: **STILL LOADING?**"
+    },
+    {
+     "time": "0:07–0:15",
+     "beat": "",
+     "visual": "Duplicate spinner examples stack everywhere: button, page, card."
+    },
+    {
+     "time": "0:15–0:25",
+     "beat": "",
+     "visual": "Split by wait type: instant/no loader; skeleton for content; progress for known work."
+    },
+    {
+     "time": "0:25–0:36",
+     "beat": "",
+     "visual": "Long export shows current stage and lets user leave while background operation continues."
+    },
+    {
+     "time": "0:36–0:42",
+     "beat": "",
+     "visual": "Final app feels calmer even though timer shows same 7 seconds."
+    },
+    {
+     "time": "0:42–0:45",
+     "beat": "",
+     "visual": "Text: **GIVE WAITING A SHAPE.**"
+    }
+   ],
+   "spine": "A spinner says one thing: wait. It doesn’t tell me whether the app started, whether anything is progressing, or whether it’s stuck. For short waits, you may need almost no loading UI. For predictable work, show progress. For content pages, skeletons can preserve layout while data arrives. For long operations, tell the user what the system is doing and whether they can leave safely. And don’t fake precision you don’t actually have. The best loading state doesn’t make the server faster. It gives the waiting time shape, context, and a clear next expectation."
+  },
+  {
+   "n": 15,
+   "title": "Pricing Tables Should Help Me Choose",
+   "hook": "If every pricing plan is highlighted, none of them is.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Three giant plans flash `BEST`, `POPULAR`, `VALUE`. Text: **WHICH ONE?**"
+    },
+    {
+     "time": "0:05–0:14",
+     "beat": "",
+     "visual": "Checkmarks duplicate down all columns until screen is visually noisy."
+    },
+    {
+     "time": "0:14–0:22",
+     "beat": "",
+     "visual": "Cursor jumps between tiny differences and billing toggle."
+    },
+    {
+     "time": "0:22–0:34",
+     "beat": "",
+     "visual": "Table simplifies: common features collapse; meaningful differences remain; one plan gets contextual “Best for teams of 5+”."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Monthly/annual cost changes with total clearly displayed."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **PRICING IS A DECISION TOOL.**"
+    }
+   ],
+   "spine": "Pricing pages often present three plans as three equally loud boxes filled with checkmarks. But the user’s real question is simpler: which one fits me, and what changes if I pay more? Make the differences scannable. Group shared features instead of repeating them endlessly. Explain the limit that actually changes the decision. Use a recommendation only when you can justify who it’s for. Keep billing periods and total costs unambiguous. And don’t hide important restrictions in tiny text. A pricing table isn’t a feature database. It’s a decision interface."
+  },
+  {
+   "n": 16,
+   "title": "Your Empty State Is Part of the Product",
+   "hook": "For a brand-new user, the empty state might be the entire product.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Beautiful dashboard preview drains until every card becomes blank. Text: **THIS IS WHAT NEW USERS SEE.**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Generic message: `No data.` Cursor wanders."
+    },
+    {
+     "time": "0:13–0:23",
+     "beat": "",
+     "visual": "Three empty causes branch: first use / no search results / loading error."
+    },
+    {
+     "time": "0:23–0:35",
+     "beat": "",
+     "visual": "First-use screen gets explanation, sample preview, and **Create first project** action."
+    },
+    {
+     "time": "0:35–0:41",
+     "beat": "",
+     "visual": "Search-empty and error states get different recovery actions."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **EMPTY IS A STATE, NOT A DEAD END.**"
+    }
+   ],
+   "spine": "Designers often build the perfect populated dashboard and treat the zero-data version as an afterthought. But new users start with zero projects, zero messages, zero reports, and zero history. Don’t greet them with a giant blank rectangle and “No data.” Explain what belongs here. Give them one obvious first action. Add a small example when the result is unfamiliar. And distinguish “nothing created yet” from “nothing matched your search” or “something failed to load.” Empty isn’t one state. It’s several different moments that need different next steps."
+  },
+  {
+   "n": 17,
+   "title": "Icon-Only Navigation Is a Memory Test",
+   "hook": "Which one of these icons opens billing?",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Six unlabeled icons. Text: **FIND BILLING.** Timer starts."
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Cursor hovers three wrong icons; tooltips appear one by one."
+    },
+    {
+     "time": "0:13–0:20",
+     "beat": "",
+     "visual": "User finally finds billing; nav then reorders on next page."
+    },
+    {
+     "time": "0:20–0:33",
+     "beat": "",
+     "visual": "Rebuild with stable positions, clear active state, concise labels."
+    },
+    {
+     "time": "0:33–0:41",
+     "beat": "",
+     "visual": "Collapse to compact nav only after user-triggered action; tooltips remain secondary."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **NAVIGATION ISN’T A LOGO QUIZ.**"
+    }
+   ],
+   "spine": "A house, a grid, a spark, a briefcase, a sliders icon, and a mysterious hexagon. Icon-only navigation can look beautifully minimal while forcing users to memorize your private visual language. Familiar icons are useful. Unfamiliar destinations usually need labels. Keep the current location obvious. Don’t move navigation items depending on the page. Separate global navigation from actions. And if an icon needs a tooltip every time, that may be evidence the label should simply be visible. Navigation should reduce the number of decisions required to move around — not turn every click into a guess."
+  },
+  {
+   "n": 18,
+   "title": "“No Results” Should Still Be Useful",
+   "hook": "Zero results is not the end of the search. It’s the next UI state.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Search + filters → giant `0`. Text: **NOW WHAT?**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Bad state says only **No results found**."
+    },
+    {
+     "time": "0:13–0:22",
+     "beat": "",
+     "visual": "Spotlight reveals hidden active filters causing the zero state."
+    },
+    {
+     "time": "0:22–0:33",
+     "beat": "",
+     "visual": "New state shows removable chips, spelling suggestion, and **Clear filters**."
+    },
+    {
+     "time": "0:33–0:40",
+     "beat": "",
+     "visual": "Remove one chip; results immediately return underneath."
+    },
+    {
+     "time": "0:40–0:45",
+     "beat": "",
+     "visual": "Text: **ZERO SHOULD HAVE A NEXT STEP.**"
+    }
+   ],
+   "spine": "The user searches for a customer, applies two filters, and gets zero results. A weak interface just says “Nothing found.” A useful one helps answer why. Show the active filters. Make them removable in one tap. Suggest a broader query when the spelling is close. Preserve the original search so the user can edit it. And distinguish between an empty database and a query that’s too narrow. The goal of a no-results screen isn’t to report zero. The system already knows that. The job is to help the user get from zero to something useful."
+  },
+  {
+   "n": 19,
+   "title": "03/04/26 Is a Bad Date",
+   "hook": "March fourth… or April third?",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "`03/04/26` fills screen. It splits into **MARCH 4?** and **APRIL 3?**"
+    },
+    {
+     "time": "0:05–0:14",
+     "beat": "",
+     "visual": "Two users on opposite sides choose different interpretations; booking card duplicates into different days."
+    },
+    {
+     "time": "0:14–0:23",
+     "beat": "",
+     "visual": "Date picker and confirmation use different formats. Warning pulse."
+    },
+    {
+     "time": "0:23–0:34",
+     "beat": "",
+     "visual": "Rebuild with `4 Mar 2026` / locale-aware variant and explicit timezone where relevant."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Input, picker, and confirmation stay consistent."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **DATES SHOULD NOT NEED DECODING.**"
+    }
+   ],
+   "spine": "`03/04/26` looks compact until two users read two different dates. Dates are data, but they’re also language. If the consequence matters — bookings, payments, deadlines, medicine, travel — remove unnecessary ambiguity. Use the user’s locale when appropriate. Spell out the month when space allows. Keep input and display formats consistent. And don’t make users guess whether the date picker starts on Sunday or Monday, or whether a timezone changed the day after they saved it. A date field should communicate a moment in time, not test which convention the user grew up with."
+  },
+  {
+   "n": 20,
+   "title": "Don’t Wait Until Submit to Explain the Form",
+   "hook": "The form knew this was wrong three fields ago. It waited until Submit to tell you.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "User completes five-field form. Clicks Submit. Entire page turns red."
+    },
+    {
+     "time": "0:05–0:14",
+     "beat": "",
+     "visual": "Scroll jumps unpredictably; generic banner: **There are errors**."
+    },
+    {
+     "time": "0:14–0:22",
+     "beat": "",
+     "visual": "User hunts for the first problem."
+    },
+    {
+     "time": "0:22–0:34",
+     "beat": "",
+     "visual": "Rebuild timing: guidance before input, validation after blur, inline message beside exact field."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Submit focuses first unresolved field while preserving everything else."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **HELP THEM FINISH. DON’T GRADE THEM.**"
+    }
+   ],
+   "spine": "There’s a difference between helpful validation and a screen full of red errors while someone is still typing. Validate at the moment it becomes useful. Required formatting can be explained before input. A field can be checked after the user leaves it. Server-only rules can wait until the server knows. When something fails, put the message next to the field, keep valid values intact, and move focus or summary attention to what needs fixing. A form shouldn’t feel like an exam that gets graded at the end. It should help the user finish correctly as they go."
+  },
+  {
+   "n": 21,
+   "title": "The Table Has 12 Columns. I Need Two.",
+   "hook": "The data is all here. That’s exactly the problem.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Table expands wider than the phone frame. Text: **EVERYTHING FITS. NOTHING SCANS.**"
+    },
+    {
+     "time": "0:05–0:14",
+     "beat": "",
+     "visual": "Horizontal scroll hides identity column; header disappears on vertical scroll."
+    },
+    {
+     "time": "0:14–0:22",
+     "beat": "",
+     "visual": "Currency and percentages misalign; user’s eyes zig-zag."
+    },
+    {
+     "time": "0:22–0:34",
+     "beat": "",
+     "visual": "Columns collapse to core decision set; sticky header/identity column, aligned numerics, clear sort arrow."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Optional-columns menu reveals secondary data on demand."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **A TABLE IS FOR COMPARISON, NOT STORAGE.**"
+    }
+   ],
+   "spine": "Enterprise tables often become storage containers for every field the database owns. The user gets twelve columns, tiny text, horizontal scrolling, mystery abbreviations, and a checkbox column that pushes the important value off screen. Start with the task. Which columns help make the decision? Keep headers visible while scrolling. Align numbers so they can be compared. Make sort state obvious. Let secondary columns be optional. And keep row actions predictable. A powerful table doesn’t show the most data. It lets someone scan, compare, and act without fighting the grid."
+  },
+  {
+   "n": 22,
+   "title": "Menus Should Not Make You Hunt",
+   "hook": "Why is Rename here… but Delete is somewhere completely different?",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Three-dot menu opens. Text: **FIND RENAME.**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Menu order reshuffles between two files; cursor overshoots."
+    },
+    {
+     "time": "0:13–0:21",
+     "beat": "",
+     "visual": "Nested submenu closes as cursor crosses a tiny gap."
+    },
+    {
+     "time": "0:21–0:33",
+     "beat": "",
+     "visual": "Rebuild into stable groups: edit actions / organization / danger zone."
+    },
+    {
+     "time": "0:33–0:41",
+     "beat": "",
+     "visual": "User opens three different item menus; Rename remains in same predictable location."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **PREDICTABLE MENUS FEEL FASTER.**"
+    }
+   ],
+   "spine": "Menus become slow when the structure changes every time you open them. The same action moves. Common tasks hide under “More.” Destructive actions sit between everyday commands. Labels switch between nouns and verbs. And nested menus require pixel-perfect steering. Group actions by meaning. Keep recurring items in stable positions. Put dangerous actions apart from routine ones. Prefer clear labels over clever icons. And avoid extra nesting when a flat group is easier to scan. A menu feels fast when the user can predict where the next action will be before they open it."
+  },
+  {
+   "n": 23,
+   "title": "Four Tiny Layout Choices That Change the Whole Screen",
+   "hook": "Nothing on this screen is technically broken. It still feels wrong.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Flat dashboard with identical weights. Text: **NOT BROKEN. STILL CONFUSING.**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Heatmap-like gaze dots scatter everywhere."
+    },
+    {
+     "time": "0:13–0:20",
+     "beat": "",
+     "visual": "Change 1: title hierarchy."
+    },
+    {
+     "time": "0:20–0:27",
+     "beat": "",
+     "visual": "Change 2: grouping/proximity."
+    },
+    {
+     "time": "0:27–0:34",
+     "beat": "",
+     "visual": "Change 3: whitespace replaces excess dividers."
+    },
+    {
+     "time": "0:34–0:41",
+     "beat": "",
+     "visual": "Change 4: primary action gains emphasis; eye path becomes simple."
+    },
+    {
+     "time": "0:41–0:45",
+     "beat": "",
+     "visual": "Text: **HIERARCHY IS INSTRUCTIONS WITHOUT WORDS.**"
+    }
+   ],
+   "spine": "Sometimes the problem isn’t a missing feature. It’s that every element is asking for attention at the same volume. Watch four small changes. Increase contrast between the page title and metadata. Group controls that belong together. Add space between unrelated sections instead of putting borders around everything. And make one primary action visually dominant. Same content. Same features. But the eye now knows where to start, what belongs together, and what to do next. Visual hierarchy isn’t decoration. It’s the interface explaining its structure before the user reads a word."
+  },
+  {
+   "n": 24,
+   "title": "One Toggle Signed Out 24 People",
+   "hook": "This toggle looks personal. It actually affects the whole company.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Tiny toggle: **Require SSO**. Cursor clicks casually."
+    },
+    {
+     "time": "0:05–0:11",
+     "beat": "",
+     "visual": "24 avatar circles instantly turn grey. Counter: **24 sessions ended**."
+    },
+    {
+     "time": "0:11–0:20",
+     "beat": "",
+     "visual": "Zoom out reveals toggle lived beside harmless personal preferences."
+    },
+    {
+     "time": "0:20–0:32",
+     "beat": "",
+     "visual": "Settings restructure into **Your account** and **Organization**. Impact label: **Affects 24 members**."
+    },
+    {
+     "time": "0:32–0:40",
+     "beat": "",
+     "visual": "Confirmation states the exact consequence and recovery path."
+    },
+    {
+     "time": "0:40–0:45",
+     "beat": "",
+     "visual": "Text: **SHOW THE BLAST RADIUS BEFORE THE CLICK.**"
+    }
+   ],
+   "spine": "Settings are dangerous when the visual scale doesn’t match the real-world consequence. A tiny toggle can rotate an API key, disable a workspace, remove access, or sign out an entire team. The control needs to communicate scope before activation. Say who or what will be affected. Separate personal settings from organization settings. Use confirmation when the consequence is difficult to reverse — but make the confirmation specific, not a generic “Are you sure?” And for high-impact actions, show the effect in plain language. Small control. Large blast radius. The interface should make that difference impossible to miss."
+  },
+  {
+   "n": 25,
+   "title": "Why Some Cards Feel Like Buttons and Others Don’t",
+   "hook": "Can you click this card? The design should answer before the cursor does.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Product/project card. Cursor circles it. Text: **WHAT CAN I CLICK?**"
+    },
+    {
+     "time": "0:05–0:14",
+     "beat": "",
+     "visual": "Hover raises whole card, but click only works on tiny title."
+    },
+    {
+     "time": "0:14–0:21",
+     "beat": "",
+     "visual": "Three-dot menu click accidentally triggers card navigation."
+    },
+    {
+     "time": "0:21–0:33",
+     "beat": "",
+     "visual": "Rebuild with one interaction model: full-card navigation + isolated secondary action."
+    },
+    {
+     "time": "0:33–0:40",
+     "beat": "",
+     "visual": "Keyboard focus and touch tap demonstrate same predictable behavior."
+    },
+    {
+     "time": "0:40–0:45",
+     "beat": "",
+     "visual": "Text: **MAKE THE HIT AREA MATCH THE VISUAL PROMISE.**"
+    }
+   ],
+   "spine": "Cards get confusing when they’re simultaneously containers, links, menus, checkboxes, and action bars. If the whole card opens a detail view, make that behavior visually consistent. If only the title is a link, don’t add a giant hover shadow to the entire surface. Keep secondary actions separate from the primary card action. Avoid stacking too many borders inside borders. And don’t use hover as the only clue — touch users never see it. A good card has a clear reading order and a clear interaction model. The user should know what’s clickable before experimenting."
+  },
+  {
+   "n": 26,
+   "title": "Accessibility Problems Hiding in a “Clean” UI",
+   "hook": "This interface looks clean. Now remove three things the designer assumed you had.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:05",
+     "beat": "",
+     "visual": "Beautiful polished dashboard. Text: **LOOKS CLEAN. TEST THE ASSUMPTIONS.**"
+    },
+    {
+     "time": "0:05–0:13",
+     "beat": "",
+     "visual": "Contrast simulation fades secondary labels until they nearly disappear."
+    },
+    {
+     "time": "0:13–0:21",
+     "beat": "",
+     "visual": "Cursor vanishes. Tab navigation reveals missing focus."
+    },
+    {
+     "time": "0:21–0:29",
+     "beat": "",
+     "visual": "Color drains from green/red statuses; meaning disappears."
+    },
+    {
+     "time": "0:29–0:39",
+     "beat": "",
+     "visual": "Rebuild: stronger contrast, focus rings, icons + labels, reduced-motion toggle."
+    },
+    {
+     "time": "0:39–0:45",
+     "beat": "",
+     "visual": "Text: **ACCESSIBLE = FEWER ASSUMPTIONS.**"
+    }
+   ],
+   "spine": "First remove perfect vision: low-contrast labels start disappearing. Remove the mouse: focus becomes invisible and some controls can’t be reached. Remove color as the only signal: green and red status dots become meaningless without labels or icons. Accessibility problems often hide because the designer is testing the interface with the exact abilities and device they built it with. Use sufficient contrast. Keep visible focus. Pair color with another cue. Give controls understandable names. And respect reduced-motion preferences. Accessible design isn’t adding a special mode. It’s removing assumptions from the default one."
+  },
+  {
+   "n": 27,
+   "title": "Refresh Shouldn’t Delete My Filters",
+   "hook": "Six filters. One refresh. Back to 1,204 rows.",
+   "core": "",
+   "beats": [
+    {
+     "time": "0:00–0:06",
+     "beat": "",
+     "visual": "Filter chips stack until table count becomes **14 results**."
+    },
+    {
+     "time": "0:06–0:11",
+     "beat": "",
+     "visual": "User clicks Refresh."
+    },
+    {
+     "time": "0:11–0:17",
+     "beat": "",
+     "visual": "Chips vanish. Counter explodes back to **1,204**. Text: **WHY?**"
+    },
+    {
+     "time": "0:17–0:28",
+     "beat": "",
+     "visual": "Rebuild refresh: spinner affects only data layer; filter bar remains pinned and unchanged."
+    },
+    {
+     "time": "0:28–0:38",
+     "beat": "",
+     "visual": "Remove one filter, show count updating; save current configuration as a named view."
+    },
+    {
+     "time": "0:38–0:45",
+     "beat": "",
+     "visual": "Text: **REFRESH THE DATA. KEEP THE CONTEXT.**"
+    }
+   ],
+   "spine": "The user narrowed twelve hundred rows down to fourteen. Status, owner, date, region, risk, sort order — all chosen deliberately. Then the data refreshes and the interface silently resets everything. Filters are part of the user’s working context. Keep them through refreshes. Make active filters visible. Show how many are applied. Let users clear one without clearing all. For complex workflows, consider saving useful views. And if the system must reset something because it’s no longer valid, say exactly what changed. A refresh should refresh the data — not erase the question the user was asking."
+  }
+ ],
+ "BUILD": [
+  {
+   "n": 1,
+   "title": "Most Claude Code Setups Are Backwards",
+   "hook": "Most people upgrade the model first. That’s usually the wrong upgrade.",
+   "core": "AI coding quality comes from the system around the model: effort, context, reusable skills, tools and verification.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "A huge shiny model chip upgrades twice, but a performance bar barely moves.",
+     "beat": "Model chip + tiny unchanged output gauge."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Pull the camera back to reveal five empty layers underneath: effort, context, skills, tools, verify.",
+     "beat": "3D stack diagram."
+    },
+    {
+     "time": "11–24s",
+     "visual": "Fill the first three layers rapidly: effort dial, `CLAUDE.md`, reusable skill cards.",
+     "beat": "Dial → editor → modular cards."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Connect Supabase/Vercel/browser-style tools, then run tests.",
+     "beat": "Animated connection graph + terminal test run."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Return to the full stack. The model is only one layer.",
+     "beat": "Final stack locks together; text: **CONTEXT · TOOLS · PROOF**."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 2,
+   "title": "You’re Probably Using the Wrong Effort Level",
+   "hook": "Max reasoning is not the best setting for every coding task.",
+   "core": "Match effort to task complexity instead of leaving one setting on permanently.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "MAX dial slams to 100%; timer and token meter explode upward.",
+     "beat": "Effort dial + cost/time meters."
+    },
+    {
+     "time": "3–11s",
+     "visual": "A tiny task appears: rename a button. MAX looks absurd.",
+     "beat": "One-line diff next to huge reasoning animation."
+    },
+    {
+     "time": "11–23s",
+     "visual": "Four task cards arrive: rename, feature, bug hunt, security review.",
+     "beat": "Cards snap onto LOW/MEDIUM/HIGH/MAX lanes."
+    },
+    {
+     "time": "23–36s",
+     "visual": "Show why higher effort matters on hidden edge cases, not simple edits.",
+     "beat": "Bug branches multiply under a code card."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Final rule: “Use the cheapest effort that reliably solves the task.”",
+     "beat": "Dial settles; task cards stay mapped."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 3,
+   "title": "`CLAUDE.md` Is Better Than Repeating Yourself",
+   "hook": "If you explain your project rules in every chat, your setup is broken.",
+   "core": "Persistent project instructions beat repeatedly pasting the same context.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "A giant prompt is pasted for the fifth time.",
+     "beat": "Prompt block fills the terminal."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Highlight repeated lines: build command, folder rules, test command.",
+     "beat": "Duplicate lines flash red."
+    },
+    {
+     "time": "11–23s",
+     "visual": "Those rules detach and move into `CLAUDE.md`.",
+     "beat": "Code editor creates a clean project file."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Start a fresh session; the rules appear as compact context chips.",
+     "beat": "New terminal opens; chips dock automatically."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Compare: 40-line repeated prompt vs 1-line task request.",
+     "beat": "Split screen collapses to simple task prompt."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 4,
+   "title": "Give Your AI Coder Eyes and Hands",
+   "hook": "Pasting screenshots into your coding agent is the slow version.",
+   "core": "MCP-style connections let an agent inspect real systems instead of guessing from manually pasted context.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Screenshot drops into chat with “why is this broken?”",
+     "beat": "Blurry screenshot + confused cursor."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Pull out to show the agent isolated from database, deployment and browser.",
+     "beat": "Agent node in center; disconnected nodes around it."
+    },
+    {
+     "time": "11–25s",
+     "visual": "Connect three nodes: database, deployment logs, browser DevTools.",
+     "beat": "SVG cables draw outward."
+    },
+    {
+     "time": "25–36s",
+     "visual": "Agent reads an error, inspects a table, then checks the deployment.",
+     "beat": "Fast UI zooms inside each node."
+    },
+    {
+     "time": "36–45s",
+     "visual": "“Better context beats better guessing.”",
+     "beat": "All nodes pulse together; screenshot is discarded."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 5,
+   "title": "The “Done” Trap",
+   "hook": "Your coding agent saying ‘done’ proves almost nothing.",
+   "core": "Completion should mean tests, logs, browser behaviour and review all agree.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Giant green `DONE ✓`.",
+     "beat": "Terminal result fills screen."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Camera pulls back: one test failed, console is red, deployment warning exists.",
+     "beat": "Hidden failures appear behind the DONE card."
+    },
+    {
+     "time": "10–24s",
+     "visual": "Build a verification pipeline: TEST → LOGS → BROWSER → REVIEW.",
+     "beat": "Horizontal CI-like pipeline."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Each stage runs; one fails, agent fixes it, pipeline restarts.",
+     "beat": "Checkmarks + one red stop + diff patch."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Only after all four pass does `DONE` return.",
+     "beat": "Final green pipeline + restrained payoff."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 6,
+   "title": "Two Models, One Pull Request",
+   "hook": "The easiest way to make an AI coder less overconfident is to give it an opponent.",
+   "core": "One model writes; another reviews the diff with a deliberately different role.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "One agent stamps its own code `APPROVED`.",
+     "beat": "Builder agent approving itself."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Split the screen: BUILDER on left, REVIEWER on right.",
+     "beat": "Two distinct agent cards."
+    },
+    {
+     "time": "11–23s",
+     "visual": "Builder creates a diff; reviewer flags security, test and edge-case issues.",
+     "beat": "Diff viewer with three callouts."
+    },
+    {
+     "time": "23–36s",
+     "visual": "Builder patches; reviewer re-runs review; issue count drops 3 → 1 → 0.",
+     "beat": "Animated issue counter."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Final line: “Independent review is the point — not the second logo.”",
+     "beat": "Two agents collapse into BUILD ↔ REVIEW loop."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 7,
+   "title": "Make Claude and Codex Argue Until the Code Survives",
+   "hook": "What if the second AI is paid to disagree with the first?",
+   "core": "Turn multi-model review into an adversarial loop rather than simple duplication.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Code sits between two agent panels labelled CLAIM and CHALLENGE.",
+     "beat": "Debate arena layout."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Agent A proposes implementation and assumptions.",
+     "beat": "Left panel writes plan."
+    },
+    {
+     "time": "11–23s",
+     "visual": "Agent B attacks assumptions: auth, race conditions, bad input.",
+     "beat": "Red challenge cards hit the plan."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Agent A must either fix or defend every item with evidence/tests.",
+     "beat": "Cards switch to FIXED / PROVED."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Ship only when the disagreement counter reaches zero.",
+     "beat": "Counter 5 → 0; merge button unlocks."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 8,
+   "title": "Stop Copy-Pasting the Same Giant Prompt",
+   "hook": "If your best prompt is 200 lines long, turn it into a workflow.",
+   "core": "Stable repeated procedures belong in reusable skills, commands or plugins.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Endless prompt scroll races past camera.",
+     "beat": "Huge prompt ribbon."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Highlight four repeated sections: plan, code, test, review.",
+     "beat": "Sections get coloured borders."
+    },
+    {
+     "time": "10–22s",
+     "visual": "Cut them into modular cards: `/plan`, `/build`, `/test`, `/review`.",
+     "beat": "Cards snap into a dock."
+    },
+    {
+     "time": "22–35s",
+     "visual": "Invoke one card on a new task; it executes the stored workflow.",
+     "beat": "Terminal command → mini pipeline."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Prompts describe. Workflows repeat.”",
+     "beat": "Prompt sheet folds into reusable modules."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 9,
+   "title": "What a Good AI Coding Plugin Actually Adds",
+   "hook": "A plugin that only adds another prompt is barely a plugin.",
+   "core": "The useful plugin layers are instructions/skills, agents, hooks and external tool connections.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "“PLUGIN INSTALLED” appears, followed by… one text file.",
+     "beat": "Underwhelming reveal."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Four empty sockets appear: SKILL, AGENT, HOOK, TOOL.",
+     "beat": "Hardware-like plugin board."
+    },
+    {
+     "time": "11–26s",
+     "visual": "Fill each socket with one practical example.",
+     "beat": "Skill = review checklist; agent = specialist; hook = post-edit test; tool = external system."
+    },
+    {
+     "time": "26–37s",
+     "visual": "Run a task; all four fire in sequence.",
+     "beat": "Compact task timeline."
+    },
+    {
+     "time": "37–45s",
+     "visual": "“Judge plugins by what they automate, not the install count.”",
+     "beat": "Plugin board becomes scorecard."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 10,
+   "title": "Your Browser Is Better Debug Context Than a Screenshot",
+   "hook": "A screenshot shows the symptom. DevTools shows the cause.",
+   "core": "Browser console, network requests and performance traces give agents far richer debugging context.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Broken checkout screenshot.",
+     "beat": "Red error toast only."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Ask “what can you actually learn from this image?”",
+     "beat": "Image zooms; almost no technical data."
+    },
+    {
+     "time": "10–24s",
+     "visual": "Open DevTools: console error → failed network request → stack trace.",
+     "beat": "Browser panels slide out."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Agent follows the failed request back to one line of code.",
+     "beat": "Animated connection from request ID to editor line."
+    },
+    {
+     "time": "36–45s",
+     "visual": "Fix, reload, successful request.",
+     "beat": "Network row turns 200; checkout succeeds."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 11,
+   "title": "Let the Agent Read Your Deployment Logs",
+   "hook": "Your code can be correct and your deployment can still be broken.",
+   "core": "Deployment logs are part of the debugging loop, not something checked only after the agent gives up.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Local terminal: `works on my machine ✓`.",
+     "beat": "Green local status."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Cut to production: 500 error.",
+     "beat": "Browser goes red."
+    },
+    {
+     "time": "10–23s",
+     "visual": "Deployment timeline expands; failed build step is isolated.",
+     "beat": "Vercel-style deployment card + logs."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Agent patches env/config/build issue and re-deploys.",
+     "beat": "Diff + deployment progress bar."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Local and production both show green.",
+     "beat": "Two environment cards sync."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 12,
+   "title": "Let the Agent Query the Database — But Not Production Blindly",
+   "hook": "Database access makes an AI coder powerful. Production write access makes it dangerous.",
+   "core": "Tool access should be scoped: inspect broadly, write narrowly, require confirmation for destructive actions.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Agent receives giant red button: `DROP / MIGRATE / DELETE`.",
+     "beat": "Danger UI."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Show three permission lanes: READ, STAGING WRITE, PROD WRITE.",
+     "beat": "Permission matrix."
+    },
+    {
+     "time": "11–24s",
+     "visual": "Agent inspects schema and runs a read query safely.",
+     "beat": "Table browser + SQL query."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Migration is generated in staging, tests pass, prod approval stays locked.",
+     "beat": "Staging card green; prod lock icon."
+    },
+    {
+     "time": "36–45s",
+     "visual": "“Tool access needs boundaries, not trust.”",
+     "beat": "Permission matrix becomes final rule."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 13,
+   "title": "The Hidden Prompt Is Part of the Product",
+   "hook": "The model is only half the behaviour you’re talking to.",
+   "core": "System instructions, tool definitions, safety rules and product orchestration heavily shape an assistant’s output.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "User prompt: “Book this trip.”",
+     "beat": "Tiny user prompt in center."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Camera pulls back; a huge hidden scaffold appears behind it.",
+     "beat": "Layers labelled SYSTEM / TOOLS / MEMORY / POLICY."
+    },
+    {
+     "time": "10–24s",
+     "visual": "Show how the same user prompt routes through those layers.",
+     "beat": "Animated prompt packet travels through stack."
+    },
+    {
+     "time": "24–36s",
+     "visual": "Remove the tool layer: capability disappears; remove instructions: behaviour changes.",
+     "beat": "Side-by-side controlled experiment."
+    },
+    {
+     "time": "36–45s",
+     "visual": "“When judging an AI product, judge the orchestration too.”",
+     "beat": "Model logo shrinks to one component in larger product diagram."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 14,
+   "title": "Why Benchmarks Don’t Tell You Which Model to Use",
+   "hook": "The highest coding score can still be the wrong model for your app.",
+   "core": "Real choice is a multi-variable decision: quality, latency, price, effort scaling and tool/browser reliability.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "One benchmark bar wins dramatically.",
+     "beat": "Big 1st-place bar."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Add a price column; winner changes.",
+     "beat": "Cost axis slides in."
+    },
+    {
+     "time": "10–21s",
+     "visual": "Add latency and tool-use reliability.",
+     "beat": "Scorecard grows to four dimensions."
+    },
+    {
+     "time": "21–34s",
+     "visual": "Map three workloads: autocomplete, hard debugging, autonomous browser task.",
+     "beat": "Workload cards select different model profiles."
+    },
+    {
+     "time": "34–45s",
+     "visual": "“Choose for the workload, not the leaderboard.”",
+     "beat": "Leaderboard morphs into workload router."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 15,
+   "title": "New Model? Run This Four-Test Scorecard",
+   "hook": "Before switching your entire stack to a new model, run four tests.",
+   "core": "A practical evaluation framework inspired by new-model launch content without repeating marketing numbers.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "“NEW MODEL” notification lands.",
+     "beat": "Product launch card."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Test 1: difficult coding task.",
+     "beat": "Benchmark card labelled QUALITY."
+    },
+    {
+     "time": "10–18s",
+     "visual": "Test 2: same task at different reasoning/effort levels.",
+     "beat": "Effort dial + result score."
+    },
+    {
+     "time": "18–28s",
+     "visual": "Test 3: cost and time for the full task, not token sticker price alone.",
+     "beat": "Cost/time meter."
+    },
+    {
+     "time": "28–37s",
+     "visual": "Test 4: browser/computer/tool use on a real workflow.",
+     "beat": "Browser agent completing checkout-like flow."
+    },
+    {
+     "time": "37–45s",
+     "visual": "Score all four; only then decide whether to migrate.",
+     "beat": "4-quadrant decision card."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 16,
+   "title": "The Best AI UI Trick Is a Better Waiting State",
+   "hook": "AI apps feel slow because most of them show the same dead spinner.",
+   "core": "Waiting feels shorter when the interface communicates meaningful state: thinking, searching, coding, verifying.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Generic spinner spins in silence.",
+     "beat": "Empty black screen + spinner."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Replace it with a reactive orb and state label.",
+     "beat": "Orb forms from particles."
+    },
+    {
+     "time": "10–23s",
+     "visual": "Orb changes behaviour for THINKING / SEARCHING / CODING.",
+     "beat": "Three distinct motion patterns."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Add a small progress/status trail that reflects real state.",
+     "beat": "State timeline below orb."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Same wait time; one UI feels dramatically faster.",
+     "beat": "Split-screen perception comparison."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 17,
+   "title": "You Don’t Need a Designer for Every Loading Animation",
+   "hook": "This premium AI animation can be open-source, not a week of custom motion work.",
+   "core": "Use high-quality open-source UI primitives, but inspect licence, performance and accessibility before shipping.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Premium orb animation appears with a fake $3,000 invoice.",
+     "beat": "Orb + invoice."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Invoice tears away to reveal an open-source repository.",
+     "beat": "GitHub-style repo card."
+    },
+    {
+     "time": "10–21s",
+     "visual": "Show multiple states/components available.",
+     "beat": "Grid of orb/loading variants."
+    },
+    {
+     "time": "21–34s",
+     "visual": "Run three checks: licence, FPS/performance, reduced motion.",
+     "beat": "Three green/red check cards."
+    },
+    {
+     "time": "34–45s",
+     "visual": "Drop it into an app waiting state.",
+     "beat": "Browser app preview with integrated component."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 18,
+   "title": "Build One Interface, Feed It Real Agent States",
+   "hook": "Your AI interface doesn’t need ten animations. It needs one animation that understands state.",
+   "core": "Drive UI animation from an agent state machine rather than arbitrary looping motion.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "One orb loops randomly while the app does different tasks.",
+     "beat": "Bad UI state."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Reveal state machine: idle → thinking → tool call → coding → verify.",
+     "beat": "Node diagram."
+    },
+    {
+     "time": "10–25s",
+     "visual": "Map each state to orb movement + label + icon.",
+     "beat": "State chips trigger unique motion."
+    },
+    {
+     "time": "25–36s",
+     "visual": "Simulate one agent run; UI follows the real state sequence.",
+     "beat": "Timeline drives visuals."
+    },
+    {
+     "time": "36–45s",
+     "visual": "“Animation should explain what the system is doing.”",
+     "beat": "State machine and orb merge into final component."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 19,
+   "title": "Your AI App Should Show What the Agent Is Doing",
+   "hook": "A blank ‘thinking…’ screen is terrible debugging UX.",
+   "core": "Users trust agentic apps more when they can see meaningful actions without exposing noisy internal chain-of-thought.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Screen says only `Thinking…` for 15 seconds.",
+     "beat": "Blank loader."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Replace it with action-level status: searching docs, checking build, running test.",
+     "beat": "Three compact status chips."
+    },
+    {
+     "time": "11–25s",
+     "visual": "Show a real task and status updates as tools execute.",
+     "beat": "Browser/terminal actions synced to chips."
+    },
+    {
+     "time": "25–36s",
+     "visual": "Hide private reasoning; expose only useful observable actions/results.",
+     "beat": "“internal reasoning” stays blurred/locked."
+    },
+    {
+     "time": "36–45s",
+     "visual": "“Show progress, not private thoughts.”",
+     "beat": "Clean status timeline completes."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 20,
+   "title": "One Giant Model Is Often Worse Than a Small Agent Team",
+   "hook": "One AI doing planning, coding and reviewing is grading its own exam.",
+   "core": "Separate roles can create better checks and clearer context boundaries.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "One giant agent wears PLAN / BUILD / REVIEW badges simultaneously.",
+     "beat": "Overloaded agent card."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Split into three smaller role cards.",
+     "beat": "Planner, Builder, Reviewer."
+    },
+    {
+     "time": "11–24s",
+     "visual": "Planner outputs a spec; builder receives only needed context.",
+     "beat": "Spec packet passes to builder."
+    },
+    {
+     "time": "24–35s",
+     "visual": "Reviewer examines diff and tests independently.",
+     "beat": "Review card finds one hidden bug."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Compare self-review vs role-separated loop.",
+     "beat": "Error counter shows why separation helps."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 21,
+   "title": "Zero Users Can Still Create a Cloud Bill",
+   "hook": "Your app can have zero customers and still generate a painful bill.",
+   "core": "Public endpoints, bots, storage, image generation, logging or bandwidth can create costs before meaningful traction.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Analytics: `0 users`; bill counter keeps climbing.",
+     "beat": "Split analytics/billing card."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Reveal bot traffic repeatedly hitting one expensive endpoint.",
+     "beat": "Request dots flood API route."
+    },
+    {
+     "time": "11–23s",
+     "visual": "Show three cost sources: compute, storage/egress, third-party API calls.",
+     "beat": "Meter trio."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Add rate limit, spending cap/alert, caching/auth.",
+     "beat": "Guardrails snap onto route."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Bill curve flattens. “No users does not mean no usage.”",
+     "beat": "Cost graph stabilises."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 22,
+   "title": "A Beautiful App Can Still Have a Public Database",
+   "hook": "The scariest vibe-coding bug is the one your UI completely hides.",
+   "core": "A polished frontend can sit on top of weak database authorization or row-level security.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Gorgeous dashboard loads.",
+     "beat": "Premium app screen."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Camera passes through the UI into the database underneath.",
+     "beat": "3D cutaway transition."
+    },
+    {
+     "time": "10–22s",
+     "visual": "Another user ID is swapped; private rows suddenly appear.",
+     "beat": "Request inspector + unexpected data rows."
+    },
+    {
+     "time": "22–35s",
+     "visual": "Add per-user authorization/RLS test; attack request now returns denied.",
+     "beat": "Policy rule + test cases."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Security is what the backend refuses, not what the button hides.”",
+     "beat": "UI fades; backend lock remains."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 23,
+   "title": "Session Replay Can Record More Than You Think",
+   "hook": "That analytics script may be watching the exact field you forgot to mask.",
+   "core": "Session replay and analytics tools need deliberate masking for passwords, payment fields and other sensitive data.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Replay video shows a user typing into a form.",
+     "beat": "Phone/browser mockup."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Zoom into one sensitive field that is visible in the replay.",
+     "beat": "Field gets red border."
+    },
+    {
+     "time": "11–23s",
+     "visual": "Map page → analytics script → stored replay.",
+     "beat": "Data flow diagram."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Turn on masking/exclusion and replay again.",
+     "beat": "Characters become blocked immediately."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Install analytics after you decide what it must never collect.”",
+     "beat": "Final privacy checklist."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 24,
+   "title": "Signup Is Where Legal Risk Starts",
+   "hook": "You can create compliance problems before the user reaches the dashboard.",
+   "core": "Signup decisions determine what personal data is collected, age assumptions, consent and retention obligations.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Simple signup form looks harmless.",
+     "beat": "Email/password form."
+    },
+    {
+     "time": "3–11s",
+     "visual": "Data labels multiply behind each field: identity, age, marketing, analytics.",
+     "beat": "Hidden data tags appear."
+    },
+    {
+     "time": "11–23s",
+     "visual": "Show three questions: do we need it, can minors use this, what consent is required?",
+     "beat": "Decision cards."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Redesign signup to collect less and separate optional consent.",
+     "beat": "Form becomes simpler."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“The safest personal data is often the data you never collect.”",
+     "beat": "Unneeded fields delete themselves."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 25,
+   "title": "Marketing Automation Can Become a Compliance Problem",
+   "hook": "Automating a message is easy. Automating permission is the hard part.",
+   "core": "SMS/email automation needs consent, unsubscribe handling, suppression logic and jurisdiction-aware rules.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "AI agent prepares 10,000 messages.",
+     "beat": "Send counter races upward."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Big SEND button gets blocked by `CONSENT?`.",
+     "beat": "Permission gate slams shut."
+    },
+    {
+     "time": "10–23s",
+     "visual": "Show consent record, unsubscribe state and suppression list.",
+     "beat": "Three database rows/cards."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Only eligible contacts flow through; others are removed automatically.",
+     "beat": "Funnel animation."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Automate the rules before you automate the reach.”",
+     "beat": "Final send count is smaller but clean."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 26,
+   "title": "Global Checkout Means Global Obligations",
+   "hook": "One checkout button can turn a local side project into an international business problem.",
+   "core": "Selling globally can introduce tax, consumer, refund, privacy and payment obligations that differ by market.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "One `BUY $29` button.",
+     "beat": "Minimal checkout."
+    },
+    {
+     "time": "3–10s",
+     "visual": "World map lights up with purchases from multiple regions.",
+     "beat": "Transaction arcs."
+    },
+    {
+     "time": "10–23s",
+     "visual": "Four obligation cards appear: TAX, REFUNDS, PRIVACY, PAYMENTS.",
+     "beat": "Cards anchor to regions."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Show merchant-of-record / tax tooling / region rules as possible approaches.",
+     "beat": "Architecture options, not legal prescription."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Global distribution is instant. Compliance isn’t.”",
+     "beat": "Checkout remains simple; backend becomes layered."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 27,
+   "title": "AI-Written Terms Don’t Make You Compliant",
+   "hook": "A perfect Terms page cannot fix what your app actually does.",
+   "core": "Policies need to match product behaviour, data collection, subscription flow and operational controls.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "AI generates a polished 12-page policy instantly.",
+     "beat": "Document prints rapidly."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Put policy beside the live app; contradictions appear.",
+     "beat": "Side-by-side mismatch highlights."
+    },
+    {
+     "time": "10–23s",
+     "visual": "Examples: policy says no tracking while analytics is active; cancellation language vs missing cancel control.",
+     "beat": "Two mismatch cards."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Create implementation checklist tied to each policy promise.",
+     "beat": "Promise → control mapping."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Compliance is behaviour first, paperwork second.”",
+     "beat": "Document shrinks; product controls remain dominant."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 28,
+   "title": "Your App Doesn’t Need 40 Paid UGC Creators on Day One",
+   "hook": "Spending thousands on creators before you know which message works is backwards.",
+   "core": "Test hooks cheaply first, then spend on human creators/production only after a message proves itself. Synthetic creators can be one testing tool if clearly disclosed and used lawfully.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Grid of 40 creator thumbnails + giant cost counter.",
+     "beat": "Creator wall."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Collapse them into one variable: the hook/message.",
+     "beat": "40 cards compress into five hook cards."
+    },
+    {
+     "time": "10–23s",
+     "visual": "Generate/test 5–10 message variants with a consistent demo format.",
+     "beat": "Same app, different opening lines."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Performance graph identifies two winning angles.",
+     "beat": "CTR/watch-time bars."
+    },
+    {
+     "time": "35–45s",
+     "visual": "Only then scale production around winners.",
+     "beat": "Two winners expand into proper creator campaign."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 29,
+   "title": "The YC Application Mistake: Writing for Investors Instead of Users",
+   "hook": "The fastest way to make a startup application weaker is to sound like a pitch deck.",
+   "core": "Specific user/problem/traction language is stronger than buzzwords, market-size theatre and unnecessary tech-stack detail.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Application line: “AI-powered next-gen platform disrupting…”",
+     "beat": "Buzzword sentence stretches across screen."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Delete adjectives until only vague nothing remains.",
+     "beat": "Words vanish one by one."
+    },
+    {
+     "time": "10–22s",
+     "visual": "Replace with: who uses it, what they do now, what changed.",
+     "beat": "Three factual cards."
+    },
+    {
+     "time": "22–35s",
+     "visual": "Compare a weak traction claim with a concrete number/example.",
+     "beat": "Before/after application fields."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Write like someone checking whether the business is real.”",
+     "beat": "Clean application answer locks in."
+    }
+   ],
+   "spine": ""
+  },
+  {
+   "n": 30,
+   "title": "AI Didn’t “Kill” Designers — It Killed Parts of the Workflow",
+   "hook": "When someone says AI killed an entire job, ask which exact step disappeared.",
+   "core": "AI usually compresses specific tasks first — drafts, variants, research, boilerplate — while judgment, direction, verification and accountability remain.",
+   "beats": [
+    {
+     "time": "0–3s",
+     "visual": "Giant headline: `AI KILLED DESIGNERS`.",
+     "beat": "Viral-style claim flashes, then cracks."
+    },
+    {
+     "time": "3–10s",
+     "visual": "Break “designer” into workflow blocks: research, concepts, production, critique, handoff.",
+     "beat": "Workflow chain."
+    },
+    {
+     "time": "10–23s",
+     "visual": "AI accelerates three blocks; two remain human-heavy.",
+     "beat": "Blocks compress in duration."
+    },
+    {
+     "time": "23–35s",
+     "visual": "Show the new role: directing, selecting, editing, validating.",
+     "beat": "Human decision nodes around AI outputs."
+    },
+    {
+     "time": "35–45s",
+     "visual": "“Jobs rarely disappear in one click. Workflows get rewritten first.”",
+     "beat": "Old workflow morphs into shorter new workflow."
+    }
+   ],
+   "spine": ""
+  }
+ ]
+}

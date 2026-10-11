@@ -1,0 +1,422 @@
+[
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 1",
+    "id": "D01R1",
+    "title": "AI Gets Your Wallet",
+    "durationSeconds": 30,
+    "project": "projects/TOMORROW-EXE/week-1/day 1",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 1.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 1.2",
+    "id": "D01R2",
+    "title": "Your AI Went to Work",
+    "durationSeconds": 48,
+    "project": "projects/TOMORROW-EXE/week-1/day 1.2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 1.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 2",
+    "id": "D02R1",
+    "title": "The Last Password",
+    "durationSeconds": 26,
+    "project": "projects/TOMORROW-EXE/week-1/day 2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 2.2",
+    "id": "D02R2",
+    "title": "The Internet Leaves Your Phone",
+    "durationSeconds": 46,
+    "project": "projects/TOMORROW-EXE/week-1/day 2.2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 2.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 3",
+    "id": "D03R1",
+    "title": "Robots Cheaper Than Cars",
+    "durationSeconds": 32,
+    "project": "projects/TOMORROW-EXE/week-1/day 3",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 3.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 3.2",
+    "id": "D03R2",
+    "title": "Rent a Robot",
+    "durationSeconds": 50,
+    "project": "projects/TOMORROW-EXE/week-1/day 3.2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 3.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 4",
+    "id": "D04R1",
+    "title": "Every Child Gets an AI Teacher",
+    "durationSeconds": 33,
+    "project": "projects/TOMORROW-EXE/week-1/day 4",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 4.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 4.2",
+    "id": "D04R2",
+    "title": "The Classroom of 2033",
+    "durationSeconds": 48,
+    "project": "projects/TOMORROW-EXE/week-1/day 4.2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 4.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 5",
+    "id": "D05R1",
+    "title": "Your Thoughts Become Text",
+    "durationSeconds": 32,
+    "project": "projects/TOMORROW-EXE/week-1/day 5",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 5.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 5.2",
+    "id": "D05R2",
+    "title": "Your Brain Gets a Privacy Policy",
+    "durationSeconds": 46,
+    "project": "projects/TOMORROW-EXE/week-1/day 5.2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 5.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 6",
+    "id": "D06R1",
+    "title": "What If Nobody Owned Cars?",
+    "durationSeconds": 29,
+    "project": "projects/TOMORROW-EXE/week-1/day 6",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 6.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 6.2",
+    "id": "D06R2",
+    "title": "The City Without Parking",
+    "durationSeconds": 44,
+    "project": "projects/TOMORROW-EXE/week-1/day 6.2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 6.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 7",
+    "id": "D07R1",
+    "title": "AI Dates For You",
+    "durationSeconds": 30,
+    "project": "projects/TOMORROW-EXE/week-1/day 7",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 7.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOMORROW-EXE",
+    "name": "day 7.2",
+    "id": "D07R2",
+    "title": "The Video Call You Can’t Trust",
+    "durationSeconds": 50,
+    "project": "projects/TOMORROW-EXE/week-1/day 7.2",
+    "output": "projects/TOMORROW-EXE/out/week-1/day 7.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 1",
+    "id": "D01R1",
+    "title": "Three AI Coders. One Broken App.",
+    "durationSeconds": 48,
+    "project": "projects/BUILDMode-AI/week-1/day 1",
+    "output": "projects/BUILDMode-AI/out/week-1/day 1.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 1.2",
+    "id": "D01R2",
+    "title": "I Gave AI One Screenshot",
+    "durationSeconds": 30,
+    "project": "projects/BUILDMode-AI/week-1/day 1.2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 1.2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 2",
+    "id": "D02R1",
+    "title": "Can an AI Finish a Browser Task?",
+    "durationSeconds": 50,
+    "project": "projects/BUILDMode-AI/week-1/day 2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 2.2",
+    "id": "D02R2",
+    "title": "I Described an App. AI Built It.",
+    "durationSeconds": 30,
+    "project": "projects/BUILDMode-AI/week-1/day 2.2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 2.2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 3",
+    "id": "D03R1",
+    "title": "Does Cursor Remember Your Project?",
+    "durationSeconds": 40,
+    "project": "projects/BUILDMode-AI/week-1/day 3",
+    "output": "projects/BUILDMode-AI/out/week-1/day 3.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 3.2",
+    "id": "D03R2",
+    "title": "AI Rescues a Terrible Website",
+    "durationSeconds": 30,
+    "project": "projects/BUILDMode-AI/week-1/day 3.2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 3.2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 4",
+    "id": "D04R1",
+    "title": "Open-Source Browser Agent Test",
+    "durationSeconds": 40,
+    "project": "projects/BUILDMode-AI/week-1/day 4",
+    "output": "projects/BUILDMode-AI/out/week-1/day 4.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 4.2",
+    "id": "D04R2",
+    "title": "Same AI. One Extra Skill.",
+    "durationSeconds": 30,
+    "project": "projects/BUILDMode-AI/week-1/day 4.2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 4.2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 5",
+    "id": "D05R1",
+    "title": "AI Builds Its Own Dev Team",
+    "durationSeconds": 55,
+    "project": "projects/BUILDMode-AI/week-1/day 5",
+    "output": "projects/BUILDMode-AI/out/week-1/day 5.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 5.2",
+    "id": "D05R2",
+    "title": "One GitHub Issue Into a PR",
+    "durationSeconds": 40,
+    "project": "projects/BUILDMode-AI/week-1/day 5.2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 5.2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 6",
+    "id": "D06R1",
+    "title": "Codex Versus Codex Speed Test",
+    "durationSeconds": 35,
+    "project": "projects/BUILDMode-AI/week-1/day 6",
+    "output": "projects/BUILDMode-AI/out/week-1/day 6.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 6.2",
+    "id": "D06R2",
+    "title": "One Sentence. One Game.",
+    "durationSeconds": 25,
+    "project": "projects/BUILDMode-AI/week-1/day 6.2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 6.2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 7",
+    "id": "D07R1",
+    "title": "A Harmless Trap for an AI Coder",
+    "durationSeconds": 40,
+    "project": "projects/BUILDMode-AI/week-1/day 7",
+    "output": "projects/BUILDMode-AI/out/week-1/day 7.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "BUILDMode-AI",
+    "name": "day 7.2",
+    "id": "D07R2",
+    "title": "AI Screenshot Cleaner",
+    "durationSeconds": 45,
+    "project": "projects/BUILDMode-AI/week-1/day 7.2",
+    "output": "projects/BUILDMode-AI/out/week-1/day 7.2.mp4",
+    "edition": "illustrated-experiment-plan"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 1",
+    "id": "D01R1",
+    "title": "Kando — Discovery",
+    "durationSeconds": 35,
+    "project": "projects/TOOLPROOF/week-1/day 1",
+    "output": "projects/TOOLPROOF/out/week-1/day 1.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 1.2",
+    "id": "D01R2",
+    "title": "Kando — Start Menu Test",
+    "durationSeconds": 50,
+    "project": "projects/TOOLPROOF/week-1/day 1.2",
+    "output": "projects/TOOLPROOF/out/week-1/day 1.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 2",
+    "id": "D02R1",
+    "title": "LocalSend — Discovery",
+    "durationSeconds": 35,
+    "project": "projects/TOOLPROOF/week-1/day 2",
+    "output": "projects/TOOLPROOF/out/week-1/day 2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 2.2",
+    "id": "D02R2",
+    "title": "LocalSend — Transfer Test",
+    "durationSeconds": 50,
+    "project": "projects/TOOLPROOF/week-1/day 2.2",
+    "output": "projects/TOOLPROOF/out/week-1/day 2.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 3",
+    "id": "D03R1",
+    "title": "Stirling PDF — Discovery",
+    "durationSeconds": 35,
+    "project": "projects/TOOLPROOF/week-1/day 3",
+    "output": "projects/TOOLPROOF/out/week-1/day 3.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 3.2",
+    "id": "D03R2",
+    "title": "Stirling PDF — Acrobat Test",
+    "durationSeconds": 55,
+    "project": "projects/TOOLPROOF/week-1/day 3.2",
+    "output": "projects/TOOLPROOF/out/week-1/day 3.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 4",
+    "id": "D04R1",
+    "title": "Cap — Discovery",
+    "durationSeconds": 35,
+    "project": "projects/TOOLPROOF/week-1/day 4",
+    "output": "projects/TOOLPROOF/out/week-1/day 4.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 4.2",
+    "id": "D04R2",
+    "title": "Cap — Loom Test",
+    "durationSeconds": 55,
+    "project": "projects/TOOLPROOF/week-1/day 4.2",
+    "output": "projects/TOOLPROOF/out/week-1/day 4.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 5",
+    "id": "D05R1",
+    "title": "OpenCut — Discovery",
+    "durationSeconds": 37,
+    "project": "projects/TOOLPROOF/week-1/day 5",
+    "output": "projects/TOOLPROOF/out/week-1/day 5.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 5.2",
+    "id": "D05R2",
+    "title": "OpenCut — CapCut Test",
+    "durationSeconds": 55,
+    "project": "projects/TOOLPROOF/week-1/day 5.2",
+    "output": "projects/TOOLPROOF/out/week-1/day 5.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 6",
+    "id": "D06R1",
+    "title": "AppFlowy — Discovery",
+    "durationSeconds": 37,
+    "project": "projects/TOOLPROOF/week-1/day 6",
+    "output": "projects/TOOLPROOF/out/week-1/day 6.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 6.2",
+    "id": "D06R2",
+    "title": "AppFlowy — Notion Test",
+    "durationSeconds": 55,
+    "project": "projects/TOOLPROOF/week-1/day 6.2",
+    "output": "projects/TOOLPROOF/out/week-1/day 6.2.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 7",
+    "id": "D07R1",
+    "title": "Butterfly — Discovery",
+    "durationSeconds": 35,
+    "project": "projects/TOOLPROOF/week-1/day 7",
+    "output": "projects/TOOLPROOF/out/week-1/day 7.mp4",
+    "edition": "directed-illustration"
+  },
+  {
+    "channel": "TOOLPROOF",
+    "name": "day 7.2",
+    "id": "D07R2",
+    "title": "Butterfly — Goodnotes Test",
+    "durationSeconds": 50,
+    "project": "projects/TOOLPROOF/week-1/day 7.2",
+    "output": "projects/TOOLPROOF/out/week-1/day 7.2.mp4",
+    "edition": "directed-illustration"
+  }
+]

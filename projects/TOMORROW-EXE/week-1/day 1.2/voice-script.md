@@ -1,0 +1,16 @@
+# TOMORROW-EXE / day 1.2
+
+**Your AI Went to Work**
+
+It is 2032. You are late for work. Nobody noticed.
+
+Your AI joined the morning meeting, answered three messages, and repaired the spreadsheet you forgot about.
+
+On the train, you read a summary of a conversation you never had.
+
+Your manager says the presentation was excellent. You say thanks, then open the file for the first time.
+
+At five, HR asks a new question: which hours were yours, and which belonged to the agent?
+
+The work got done. But if the AI did your shift, who gets paid?
+

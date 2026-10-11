@@ -1,0 +1,16 @@
+# TOOLPROOF / day 6.2
+
+**AppFlowy — Notion Test**
+
+The comparison will rebuild the same small workspace in AppFlowy and Notion.
+
+A table, board, calendar, project page, and form are the fixtures. Unavailable features will be marked.
+
+The test device will go offline before opening, editing, and saving the workspace.
+
+Exported data will be opened elsewhere. Missing fields or broken relationships will count as evidence.
+
+Offline behavior, export fidelity, team limits, and feature access need observed results. No switching recommendation has been earned yet.
+
+The eventual verdict will identify who benefits and who should stay. What data could your workspace never lose?
+

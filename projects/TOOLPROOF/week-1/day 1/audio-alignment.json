@@ -1,0 +1,630 @@
+{
+  "fingerprint": "9e7449d7a06ea0a99874f9b891f9d1fcd2e611ab6db23d1c1883a186ce106852",
+  "recognizedText": " This free app turns a keyboard shortcut into a menu around your cursor. Kando uses a radial menu. You point toward an action instead of searching through a list. You can launch apps, open folders, and trigger shortcuts from the same place. It's official site lists, windows, macOS, and Linux. The project is free and open source. The part I want to test is habit. A clever menu is only useful if it is easier to use. Next, 10 tasks against the start menu, which would you bet on?",
+  "words": [
+    {
+      "text": " This",
+      "timestamp": [
+        0.0,
+        0.26
+      ]
+    },
+    {
+      "text": " free",
+      "timestamp": [
+        0.26,
+        0.5
+      ]
+    },
+    {
+      "text": " app",
+      "timestamp": [
+        0.5,
+        0.82
+      ]
+    },
+    {
+      "text": " turns",
+      "timestamp": [
+        0.82,
+        1.06
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        1.06,
+        1.24
+      ]
+    },
+    {
+      "text": " keyboard",
+      "timestamp": [
+        1.24,
+        1.54
+      ]
+    },
+    {
+      "text": " shortcut",
+      "timestamp": [
+        1.54,
+        2.02
+      ]
+    },
+    {
+      "text": " into",
+      "timestamp": [
+        2.02,
+        2.42
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.42,
+        2.6
+      ]
+    },
+    {
+      "text": " menu",
+      "timestamp": [
+        2.6,
+        2.9
+      ]
+    },
+    {
+      "text": " around",
+      "timestamp": [
+        2.9,
+        3.22
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        3.22,
+        3.42
+      ]
+    },
+    {
+      "text": " cursor.",
+      "timestamp": [
+        3.42,
+        4.36
+      ]
+    },
+    {
+      "text": " Kando",
+      "timestamp": [
+        4.64,
+        4.82
+      ]
+    },
+    {
+      "text": " uses",
+      "timestamp": [
+        4.82,
+        5.16
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        5.16,
+        5.36
+      ]
+    },
+    {
+      "text": " radial",
+      "timestamp": [
+        5.36,
+        5.68
+      ]
+    },
+    {
+      "text": " menu.",
+      "timestamp": [
+        5.68,
+        6.42
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        6.64,
+        6.68
+      ]
+    },
+    {
+      "text": " point",
+      "timestamp": [
+        6.68,
+        6.92
+      ]
+    },
+    {
+      "text": " toward",
+      "timestamp": [
+        6.92,
+        7.16
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        7.16,
+        7.36
+      ]
+    },
+    {
+      "text": " action",
+      "timestamp": [
+        7.36,
+        7.68
+      ]
+    },
+    {
+      "text": " instead",
+      "timestamp": [
+        7.68,
+        8.06
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        8.06,
+        8.2
+      ]
+    },
+    {
+      "text": " searching",
+      "timestamp": [
+        8.2,
+        8.56
+      ]
+    },
+    {
+      "text": " through",
+      "timestamp": [
+        8.56,
+        8.82
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        8.82,
+        8.94
+      ]
+    },
+    {
+      "text": " list.",
+      "timestamp": [
+        8.94,
+        9.58
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        9.78,
+        9.86
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        9.86,
+        10.0
+      ]
+    },
+    {
+      "text": " launch",
+      "timestamp": [
+        10.0,
+        10.22
+      ]
+    },
+    {
+      "text": " apps,",
+      "timestamp": [
+        10.22,
+        10.98
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        10.98,
+        11.2
+      ]
+    },
+    {
+      "text": " folders,",
+      "timestamp": [
+        11.2,
+        11.94
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        11.94,
+        12.04
+      ]
+    },
+    {
+      "text": " trigger",
+      "timestamp": [
+        12.04,
+        12.3
+      ]
+    },
+    {
+      "text": " shortcuts",
+      "timestamp": [
+        12.3,
+        12.76
+      ]
+    },
+    {
+      "text": " from",
+      "timestamp": [
+        12.76,
+        13.06
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.06,
+        13.18
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        13.18,
+        13.4
+      ]
+    },
+    {
+      "text": " place.",
+      "timestamp": [
+        13.4,
+        14.24
+      ]
+    },
+    {
+      "text": " It's",
+      "timestamp": [
+        14.42,
+        14.62
+      ]
+    },
+    {
+      "text": " official",
+      "timestamp": [
+        14.62,
+        14.98
+      ]
+    },
+    {
+      "text": " site",
+      "timestamp": [
+        14.98,
+        15.32
+      ]
+    },
+    {
+      "text": " lists,",
+      "timestamp": [
+        15.32,
+        15.9
+      ]
+    },
+    {
+      "text": " windows,",
+      "timestamp": [
+        15.9,
+        16.56
+      ]
+    },
+    {
+      "text": " macOS,",
+      "timestamp": [
+        16.56,
+        17.32
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        17.32,
+        17.44
+      ]
+    },
+    {
+      "text": " Linux.",
+      "timestamp": [
+        17.44,
+        18.16
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        18.32,
+        18.42
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        18.42,
+        18.8
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        18.8,
+        19.02
+      ]
+    },
+    {
+      "text": " free",
+      "timestamp": [
+        19.02,
+        19.3
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        19.3,
+        19.58
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        19.58,
+        19.84
+      ]
+    },
+    {
+      "text": " source.",
+      "timestamp": [
+        19.84,
+        20.66
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        20.78,
+        20.86
+      ]
+    },
+    {
+      "text": " part",
+      "timestamp": [
+        20.86,
+        21.04
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        21.04,
+        21.22
+      ]
+    },
+    {
+      "text": " want",
+      "timestamp": [
+        21.22,
+        21.36
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        21.36,
+        21.46
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        21.46,
+        21.7
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        21.7,
+        22.04
+      ]
+    },
+    {
+      "text": " habit.",
+      "timestamp": [
+        22.04,
+        22.84
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        22.98,
+        23.08
+      ]
+    },
+    {
+      "text": " clever",
+      "timestamp": [
+        23.08,
+        23.3
+      ]
+    },
+    {
+      "text": " menu",
+      "timestamp": [
+        23.3,
+        23.74
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        23.74,
+        23.98
+      ]
+    },
+    {
+      "text": " only",
+      "timestamp": [
+        23.98,
+        24.26
+      ]
+    },
+    {
+      "text": " useful",
+      "timestamp": [
+        24.26,
+        24.68
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        24.68,
+        24.9
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        24.9,
+        25.0
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        25.0,
+        25.08
+      ]
+    },
+    {
+      "text": " easier",
+      "timestamp": [
+        25.08,
+        25.46
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        25.46,
+        25.66
+      ]
+    },
+    {
+      "text": " use.",
+      "timestamp": [
+        25.66,
+        26.44
+      ]
+    },
+    {
+      "text": " Next,",
+      "timestamp": [
+        26.48,
+        27.1
+      ]
+    },
+    {
+      "text": " 10",
+      "timestamp": [
+        27.1,
+        27.34
+      ]
+    },
+    {
+      "text": " tasks",
+      "timestamp": [
+        27.34,
+        27.64
+      ]
+    },
+    {
+      "text": " against",
+      "timestamp": [
+        27.64,
+        28.18
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        28.18,
+        28.42
+      ]
+    },
+    {
+      "text": " start",
+      "timestamp": [
+        28.42,
+        28.64
+      ]
+    },
+    {
+      "text": " menu,",
+      "timestamp": [
+        28.64,
+        29.28
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        29.28,
+        29.56
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        29.56,
+        29.72
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        29.72,
+        29.84
+      ]
+    },
+    {
+      "text": " bet",
+      "timestamp": [
+        29.84,
+        30.0
+      ]
+    },
+    {
+      "text": " on?",
+      "timestamp": [
+        30.0,
+        30.54
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

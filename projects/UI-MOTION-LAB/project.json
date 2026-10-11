@@ -1,0 +1,15 @@
+{
+  "name": "UI MOTION LAB",
+  "position": "Interface problems demonstrated, then rebuilt on screen.",
+  "bank": "story board/README_UI_MOTION_45S (1).md",
+  "port": 3025,
+  "palette": {
+    "background": "#05090A",
+    "panel": "#0E1518",
+    "accent": "#2DD4BF",
+    "secondary": "#7DD3FC",
+    "text": "#FFFFFF",
+    "muted": "#93A3A8"
+  },
+  "fontFamily": "Inter, Segoe UI, sans-serif"
+}

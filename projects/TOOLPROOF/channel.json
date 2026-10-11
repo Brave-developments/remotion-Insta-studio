@@ -1,0 +1,24 @@
+{
+  "name": "TOOLPROOF",
+  "position": "I test internet tools so you don’t have to.",
+  "palette": {
+    "background": "#0A0A0A",
+    "panel": "#161616",
+    "accent": "#A3FF12",
+    "secondary": "#D7FF72",
+    "text": "#FFFFFF",
+    "muted": "#A1A1AA"
+  },
+  "visualStyle": "Evidence-first software testing: real app windows, recordings, pricing evidence, timers and comparisons dominate. Acid-lime passes and restrained red failures.",
+  "port": 3023,
+  "source": "https://chatgpt.com/share/6ac2257c-2e48-83ec-ba52-d3d271715ee9",
+  "pillars": [
+    "Useful tool discovery",
+    "Objective hands-on tests",
+    "Free versus paid",
+    "Open-source software",
+    "Creator/productivity tools",
+    "Honest limitations"
+  ],
+  "fontFamily": "Inter, Segoe UI, sans-serif"
+}

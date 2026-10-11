@@ -1,0 +1,476 @@
+{
+  "fingerprint": "8355308f41be6d9ba775da8acdebdb948b6ea67b39bdb6532c6d8191a81e0114",
+  "recognizedText": " What happens when your AI gets a spending limit? Payment companies are already building infrastructure for purchases made through AI agents. Now imagine groceries ordered while you sleep, and a flight booked before the fair changes. You set the budget. It decides which purchase deserves it. Then it buys something you never would. The receipt says approved. By whom? Would you give an AI $1,000 limit?",
+  "words": [
+    {
+      "text": " What",
+      "timestamp": [
+        0.0,
+        0.62
+      ]
+    },
+    {
+      "text": " happens",
+      "timestamp": [
+        0.62,
+        0.88
+      ]
+    },
+    {
+      "text": " when",
+      "timestamp": [
+        0.88,
+        1.1
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        1.1,
+        1.26
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        1.26,
+        1.44
+      ]
+    },
+    {
+      "text": " gets",
+      "timestamp": [
+        1.44,
+        1.74
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        1.74,
+        1.9
+      ]
+    },
+    {
+      "text": " spending",
+      "timestamp": [
+        1.9,
+        2.18
+      ]
+    },
+    {
+      "text": " limit?",
+      "timestamp": [
+        2.18,
+        2.92
+      ]
+    },
+    {
+      "text": " Payment",
+      "timestamp": [
+        3.08,
+        3.28
+      ]
+    },
+    {
+      "text": " companies",
+      "timestamp": [
+        3.28,
+        3.64
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        3.64,
+        3.86
+      ]
+    },
+    {
+      "text": " already",
+      "timestamp": [
+        3.86,
+        4.16
+      ]
+    },
+    {
+      "text": " building",
+      "timestamp": [
+        4.16,
+        4.5
+      ]
+    },
+    {
+      "text": " infrastructure",
+      "timestamp": [
+        4.5,
+        5.04
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        5.04,
+        5.36
+      ]
+    },
+    {
+      "text": " purchases",
+      "timestamp": [
+        5.36,
+        5.76
+      ]
+    },
+    {
+      "text": " made",
+      "timestamp": [
+        5.76,
+        6.14
+      ]
+    },
+    {
+      "text": " through",
+      "timestamp": [
+        6.14,
+        6.44
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        6.44,
+        6.68
+      ]
+    },
+    {
+      "text": " agents.",
+      "timestamp": [
+        6.68,
+        7.8
+      ]
+    },
+    {
+      "text": " Now",
+      "timestamp": [
+        8.02,
+        8.12
+      ]
+    },
+    {
+      "text": " imagine",
+      "timestamp": [
+        8.12,
+        8.54
+      ]
+    },
+    {
+      "text": " groceries",
+      "timestamp": [
+        8.54,
+        8.92
+      ]
+    },
+    {
+      "text": " ordered",
+      "timestamp": [
+        8.92,
+        9.42
+      ]
+    },
+    {
+      "text": " while",
+      "timestamp": [
+        9.42,
+        9.64
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        9.64,
+        9.78
+      ]
+    },
+    {
+      "text": " sleep,",
+      "timestamp": [
+        9.78,
+        10.5
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        10.5,
+        10.76
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        10.76,
+        10.86
+      ]
+    },
+    {
+      "text": " flight",
+      "timestamp": [
+        10.86,
+        11.14
+      ]
+    },
+    {
+      "text": " booked",
+      "timestamp": [
+        11.14,
+        11.44
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        11.44,
+        11.78
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        11.78,
+        11.96
+      ]
+    },
+    {
+      "text": " fair",
+      "timestamp": [
+        11.96,
+        12.16
+      ]
+    },
+    {
+      "text": " changes.",
+      "timestamp": [
+        12.16,
+        13.06
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        13.12,
+        13.18
+      ]
+    },
+    {
+      "text": " set",
+      "timestamp": [
+        13.18,
+        13.38
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.38,
+        13.58
+      ]
+    },
+    {
+      "text": " budget.",
+      "timestamp": [
+        13.58,
+        14.36
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        14.48,
+        14.5
+      ]
+    },
+    {
+      "text": " decides",
+      "timestamp": [
+        14.5,
+        14.82
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        14.82,
+        15.18
+      ]
+    },
+    {
+      "text": " purchase",
+      "timestamp": [
+        15.18,
+        15.58
+      ]
+    },
+    {
+      "text": " deserves",
+      "timestamp": [
+        15.58,
+        15.98
+      ]
+    },
+    {
+      "text": " it.",
+      "timestamp": [
+        15.98,
+        16.56
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        16.74,
+        16.82
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        16.82,
+        16.92
+      ]
+    },
+    {
+      "text": " buys",
+      "timestamp": [
+        16.92,
+        17.16
+      ]
+    },
+    {
+      "text": " something",
+      "timestamp": [
+        17.16,
+        17.56
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        17.56,
+        17.72
+      ]
+    },
+    {
+      "text": " never",
+      "timestamp": [
+        17.72,
+        17.96
+      ]
+    },
+    {
+      "text": " would.",
+      "timestamp": [
+        17.96,
+        18.62
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        18.66,
+        18.7
+      ]
+    },
+    {
+      "text": " receipt",
+      "timestamp": [
+        18.7,
+        18.98
+      ]
+    },
+    {
+      "text": " says",
+      "timestamp": [
+        18.98,
+        19.32
+      ]
+    },
+    {
+      "text": " approved.",
+      "timestamp": [
+        19.32,
+        20.24
+      ]
+    },
+    {
+      "text": " By",
+      "timestamp": [
+        20.4,
+        20.46
+      ]
+    },
+    {
+      "text": " whom?",
+      "timestamp": [
+        20.46,
+        21.16
+      ]
+    },
+    {
+      "text": " Would",
+      "timestamp": [
+        21.28,
+        21.4
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        21.4,
+        21.46
+      ]
+    },
+    {
+      "text": " give",
+      "timestamp": [
+        21.46,
+        21.6
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        21.6,
+        21.74
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        21.74,
+        22.06
+      ]
+    },
+    {
+      "text": " $1",
+      "timestamp": [
+        22.06,
+        22.32
+      ]
+    },
+    {
+      "text": ",000",
+      "timestamp": [
+        22.32,
+        22.88
+      ]
+    },
+    {
+      "text": " limit?",
+      "timestamp": [
+        22.88,
+        23.5
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

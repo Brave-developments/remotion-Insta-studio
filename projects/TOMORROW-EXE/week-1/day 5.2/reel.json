@@ -1,0 +1,222 @@
+{
+  "id": "D05R2",
+  "day": 5,
+  "reelNumber": 2,
+  "title": "Your Brain Gets a Privacy Policy",
+  "format": "Future Story",
+  "durationSeconds": 46,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "It is 2038. Your insurance app asks for brain data. Sharing is optional. So is the discount beside the button. At work, a second app offers focus analytics. It says the team will only see averages. You open the policy. The message you intended to send is only one part of the data being collected. You can refuse. But refusing now has a cost attached to it. The interface made communication easier. Would you trade neural privacy for a discount?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 80,
+  "estimatedWpm": 104,
+  "concept": "Insurance discounts and focus analytics make neural-data consent complicated.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "It is 2038. Your insurance app asks for brain data.",
+    "The discount asks for something more personal than money.",
+    "Sharing is optional. Refusing has a cost."
+  ],
+  "strongestHook": "It is 2038. Your insurance app asks for brain data.",
+  "directorBrief": "Direct this as a human story about Insurance discounts and focus analytics make neural-data consent complicated. Emotional movement: convenience → consent. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Medium",
+  "effort": "60–120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Commercial neural-data offers are fiction; verify current medical/research context.",
+  "sources": [
+    {
+      "label": "Clinical brain-to-voice research",
+      "url": "https://www.nature.com/articles/s41593-025-01905-6",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Brain Data Discount",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Brain Data Discount” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "The interface made communication easier. Would you trade neural privacy for a discount?",
+  "cta": "WOULD YOU TRADE IT?",
+  "instagramCaption": "Your Brain Gets a Privacy Policy. A possible future, grounded in present technology. The dates and scenario are fictional. The interface made communication easier. Would you trade neural privacy for a discount?",
+  "tiktokCaption": "Your Brain Gets a Privacy Policy. WOULD YOU TRADE IT? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88–104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Apartment, subtle interface, consent screens.",
+  "scenes": [
+    {
+      "id": "D05R2-S1",
+      "start": 0,
+      "end": 5.9,
+      "type": "hook",
+      "text": "2038 · FICTIONAL SCENARIO",
+      "narration": "It is 2038. Your insurance app asks for brain data.",
+      "concept": "Fictional insurer offer; no real insurer logo or current product claim.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional insurer offer; no real insurer logo or current product claim.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "It is 2038. Your insurance app",
+        "asks for brain data."
+      ]
+    },
+    {
+      "id": "D05R2-S2",
+      "start": 5.9,
+      "end": 11.8,
+      "type": "phone",
+      "text": "OPTIONAL. WITH A DISCOUNT.",
+      "narration": "Sharing is optional. So is the discount beside the button.",
+      "concept": "Two choices hold equal visual weight; discount has no numerical value.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Two choices hold equal visual weight; discount has no numerical value.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Sharing is optional. So is the",
+        "discount beside the button."
+      ]
+    },
+    {
+      "id": "D05R2-S3",
+      "start": 11.8,
+      "end": 20.9,
+      "type": "cinematic",
+      "text": "ANOTHER REQUEST",
+      "narration": "At work, a second app offers focus analytics. It says the team will only see averages.",
+      "concept": "Home morning match cuts to office; same person receives another consent card.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d05r2/s3.png",
+      "plannedAssetType": "image",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Home morning match cuts to office; same person receives another consent card.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "At work, a second app offers",
+        "focus analytics. It says the team",
+        "will only see averages."
+      ]
+    },
+    {
+      "id": "D05R2-S4",
+      "start": 20.9,
+      "end": 31.6,
+      "type": "workflow",
+      "text": "MORE THAN THE MESSAGE",
+      "narration": "You open the policy. The message you intended to send is only one part of the data being collected.",
+      "concept": "Separate intended words, signal history and inferred metrics; mark all fictional.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Separate intended words, signal history and inferred metrics; mark all fictional.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "You open the policy. The message",
+        "you intended to send is only",
+        "one part of the data being collected."
+      ]
+    },
+    {
+      "id": "D05R2-S5",
+      "start": 31.6,
+      "end": 38.5,
+      "type": "phone",
+      "text": "CAN CONSENT STILL BE FREE?",
+      "narration": "You can refuse. But refusing now has a cost attached to it.",
+      "concept": "Decline button stays accessible; show the fictional tradeoff without fear imagery.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Decline button stays accessible; show the fictional tradeoff without fear imagery.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "You can refuse. But refusing now",
+        "has a cost attached to it."
+      ]
+    },
+    {
+      "id": "D05R2-S6",
+      "start": 38.5,
+      "end": 46,
+      "type": "question",
+      "text": "WOULD YOU TRADE IT?",
+      "narration": "The interface made communication easier. Would you trade neural privacy for a discount?",
+      "concept": "Pull back from policy to the person; silence before last line.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Pull back from policy to the person; silence before last line.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "The interface made communication easier. Would",
+        "you trade neural privacy for a discount?"
+      ]
+    }
+  ]
+}

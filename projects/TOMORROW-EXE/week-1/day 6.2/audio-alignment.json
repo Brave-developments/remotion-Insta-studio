@@ -1,0 +1,609 @@
+{
+  "fingerprint": "104597da28494ff8daec69bfeeecdd0f55321420196eca94ad0764785b23eac1",
+  "recognizedText": " It is 2032. Your city starts demolishing a parking garage. The residents expect another tower. The plan shows homes, a clinic, and a small public square. In this version of the future, shared autonomous rides need fewer places to wait. Concrete disappears. A tree arrives. The old entrance becomes a path to a playground. Then a neighbor asks who this new space is actually for. Better transport did not settle the housing debate. If your city needed less parking, what would you put in its place?",
+  "words": [
+    {
+      "text": " It",
+      "timestamp": [
+        0.0,
+        0.26
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        0.26,
+        0.34
+      ]
+    },
+    {
+      "text": " 2032.",
+      "timestamp": [
+        0.34,
+        1.7
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        1.7,
+        1.84
+      ]
+    },
+    {
+      "text": " city",
+      "timestamp": [
+        1.84,
+        2.1
+      ]
+    },
+    {
+      "text": " starts",
+      "timestamp": [
+        2.1,
+        2.38
+      ]
+    },
+    {
+      "text": " demolishing",
+      "timestamp": [
+        2.38,
+        2.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.96,
+        3.1
+      ]
+    },
+    {
+      "text": " parking",
+      "timestamp": [
+        3.1,
+        3.38
+      ]
+    },
+    {
+      "text": " garage.",
+      "timestamp": [
+        3.38,
+        4.28
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        4.28,
+        4.48
+      ]
+    },
+    {
+      "text": " residents",
+      "timestamp": [
+        4.48,
+        4.82
+      ]
+    },
+    {
+      "text": " expect",
+      "timestamp": [
+        4.82,
+        5.24
+      ]
+    },
+    {
+      "text": " another",
+      "timestamp": [
+        5.24,
+        5.62
+      ]
+    },
+    {
+      "text": " tower.",
+      "timestamp": [
+        5.62,
+        6.46
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        6.6,
+        6.66
+      ]
+    },
+    {
+      "text": " plan",
+      "timestamp": [
+        6.66,
+        6.94
+      ]
+    },
+    {
+      "text": " shows",
+      "timestamp": [
+        6.94,
+        7.28
+      ]
+    },
+    {
+      "text": " homes,",
+      "timestamp": [
+        7.28,
+        8.1
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        8.1,
+        8.18
+      ]
+    },
+    {
+      "text": " clinic,",
+      "timestamp": [
+        8.18,
+        8.84
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        8.84,
+        9.02
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        9.02,
+        9.08
+      ]
+    },
+    {
+      "text": " small",
+      "timestamp": [
+        9.08,
+        9.36
+      ]
+    },
+    {
+      "text": " public",
+      "timestamp": [
+        9.36,
+        9.74
+      ]
+    },
+    {
+      "text": " square.",
+      "timestamp": [
+        9.74,
+        10.68
+      ]
+    },
+    {
+      "text": " In",
+      "timestamp": [
+        10.68,
+        10.92
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        10.92,
+        11.08
+      ]
+    },
+    {
+      "text": " version",
+      "timestamp": [
+        11.08,
+        11.38
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        11.38,
+        11.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        11.5,
+        11.58
+      ]
+    },
+    {
+      "text": " future,",
+      "timestamp": [
+        11.58,
+        12.36
+      ]
+    },
+    {
+      "text": " shared",
+      "timestamp": [
+        12.62,
+        12.7
+      ]
+    },
+    {
+      "text": " autonomous",
+      "timestamp": [
+        12.7,
+        13.22
+      ]
+    },
+    {
+      "text": " rides",
+      "timestamp": [
+        13.22,
+        13.64
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        13.64,
+        13.88
+      ]
+    },
+    {
+      "text": " fewer",
+      "timestamp": [
+        13.88,
+        14.2
+      ]
+    },
+    {
+      "text": " places",
+      "timestamp": [
+        14.2,
+        14.6
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        14.6,
+        14.82
+      ]
+    },
+    {
+      "text": " wait.",
+      "timestamp": [
+        14.82,
+        15.48
+      ]
+    },
+    {
+      "text": " Concrete",
+      "timestamp": [
+        15.48,
+        16.0
+      ]
+    },
+    {
+      "text": " disappears.",
+      "timestamp": [
+        16.0,
+        17.18
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        17.18,
+        17.36
+      ]
+    },
+    {
+      "text": " tree",
+      "timestamp": [
+        17.36,
+        17.62
+      ]
+    },
+    {
+      "text": " arrives.",
+      "timestamp": [
+        17.62,
+        18.54
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        18.54,
+        18.72
+      ]
+    },
+    {
+      "text": " old",
+      "timestamp": [
+        18.72,
+        18.94
+      ]
+    },
+    {
+      "text": " entrance",
+      "timestamp": [
+        19.14,
+        19.26
+      ]
+    },
+    {
+      "text": " becomes",
+      "timestamp": [
+        19.26,
+        19.66
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        19.66,
+        19.88
+      ]
+    },
+    {
+      "text": " path",
+      "timestamp": [
+        19.88,
+        20.14
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        20.14,
+        20.46
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        20.46,
+        20.56
+      ]
+    },
+    {
+      "text": " playground.",
+      "timestamp": [
+        20.56,
+        21.54
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        21.54,
+        21.9
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        21.9,
+        22.04
+      ]
+    },
+    {
+      "text": " neighbor",
+      "timestamp": [
+        22.04,
+        22.28
+      ]
+    },
+    {
+      "text": " asks",
+      "timestamp": [
+        22.28,
+        22.72
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        22.72,
+        23.0
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        23.0,
+        23.18
+      ]
+    },
+    {
+      "text": " new",
+      "timestamp": [
+        23.18,
+        23.4
+      ]
+    },
+    {
+      "text": " space",
+      "timestamp": [
+        23.4,
+        23.66
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        23.66,
+        23.92
+      ]
+    },
+    {
+      "text": " actually",
+      "timestamp": [
+        23.92,
+        24.26
+      ]
+    },
+    {
+      "text": " for.",
+      "timestamp": [
+        24.26,
+        24.98
+      ]
+    },
+    {
+      "text": " Better",
+      "timestamp": [
+        25.04,
+        25.42
+      ]
+    },
+    {
+      "text": " transport",
+      "timestamp": [
+        25.42,
+        25.98
+      ]
+    },
+    {
+      "text": " did",
+      "timestamp": [
+        25.98,
+        26.22
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        26.22,
+        26.44
+      ]
+    },
+    {
+      "text": " settle",
+      "timestamp": [
+        26.44,
+        26.76
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        26.76,
+        26.96
+      ]
+    },
+    {
+      "text": " housing",
+      "timestamp": [
+        26.96,
+        27.22
+      ]
+    },
+    {
+      "text": " debate.",
+      "timestamp": [
+        27.22,
+        27.94
+      ]
+    },
+    {
+      "text": " If",
+      "timestamp": [
+        28.22,
+        28.28
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        28.28,
+        28.4
+      ]
+    },
+    {
+      "text": " city",
+      "timestamp": [
+        28.4,
+        28.64
+      ]
+    },
+    {
+      "text": " needed",
+      "timestamp": [
+        28.64,
+        28.96
+      ]
+    },
+    {
+      "text": " less",
+      "timestamp": [
+        28.96,
+        29.2
+      ]
+    },
+    {
+      "text": " parking,",
+      "timestamp": [
+        29.2,
+        30.12
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        30.12,
+        30.32
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        30.32,
+        30.44
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        30.44,
+        30.56
+      ]
+    },
+    {
+      "text": " put",
+      "timestamp": [
+        30.56,
+        30.74
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        30.74,
+        30.88
+      ]
+    },
+    {
+      "text": " its",
+      "timestamp": [
+        30.88,
+        31.02
+      ]
+    },
+    {
+      "text": " place?",
+      "timestamp": [
+        31.02,
+        31.66
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

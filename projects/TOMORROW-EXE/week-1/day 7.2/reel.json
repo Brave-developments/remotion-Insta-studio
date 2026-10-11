@@ -1,0 +1,224 @@
+{
+  "id": "D07R2",
+  "day": 7,
+  "reelNumber": 2,
+  "title": "The Video Call You Can’t Trust",
+  "format": "Future Story",
+  "durationSeconds": 50,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "It is 2035. Your mother calls. Your phone says unverified. Her face looks right. Her voice sounds right. She says she needs money immediately. You almost tap send. Then you end the call and use the number you already know. Your mother answers. She is fine. The first call was someone else wearing her face. Watermarking and provenance tools exist today, but no universal badge can guarantee every caller is real. In a world of convincing copies, would you trust appearance alone?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 82,
+  "estimatedWpm": 98,
+  "concept": "A convincing fake call forces a choice between appearance and proof of origin.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "It is 2035. Your mother calls. Your phone says unverified.",
+    "Her face is familiar. The call is not.",
+    "You almost sent the money. Then you called back."
+  ],
+  "strongestHook": "It is 2035. Your mother calls. Your phone says unverified.",
+  "directorBrief": "Direct this as a human story about A convincing fake call forces a choice between appearance and proof of origin. Emotional movement: urgency → verification. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Hard",
+  "effort": "60–120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify synthetic-media/provenance technology; future call verification is fictional.",
+  "sources": [
+    {
+      "label": "Google SynthID",
+      "url": "https://deepmind.google/models/synthid/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "The Unverified Call",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “The Unverified Call” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "In a world of convincing copies, would you trust appearance alone?",
+  "cta": "WHAT WOULD YOU TRUST?",
+  "instagramCaption": "The Video Call You Can’t Trust. A possible future, grounded in present technology. The dates and scenario are fictional. In a world of convincing copies, would you trust appearance alone?",
+  "tiktokCaption": "The Video Call You Can’t Trust. WHAT WOULD YOU TRUST? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88–104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Matched calls, dark apartment, waveform, credential seal.",
+  "scenes": [
+    {
+      "id": "D07R2-S1",
+      "start": 0,
+      "end": 6.266666666666667,
+      "type": "hook",
+      "text": "2035 · A POSSIBLE FUTURE",
+      "narration": "It is 2035. Your mother calls. Your phone says unverified.",
+      "concept": "Fictional call card; familiar caller portrait created for this story only.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional call card; familiar caller portrait created for this story only.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "It is 2035. Your mother calls.",
+        "Your phone says unverified."
+      ]
+    },
+    {
+      "id": "D07R2-S2",
+      "start": 6.266666666666667,
+      "end": 14.8,
+      "type": "cinematic",
+      "text": "EVERYTHING LOOKS FAMILIAR",
+      "narration": "Her face looks right. Her voice sounds right. She says she needs money immediately.",
+      "concept": "Restrained fictional call crop; never use a real relative or clone their voice.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d07r2/s2.png",
+      "plannedAssetType": "image",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Restrained fictional call crop; never use a real relative or clone their voice.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Her face looks right. Her voice",
+        "sounds right. She says she needs",
+        "money immediately."
+      ]
+    },
+    {
+      "id": "D07R2-S3",
+      "start": 14.8,
+      "end": 24.466666666666665,
+      "type": "phone",
+      "text": "PAUSE. CALL BACK.",
+      "narration": "You almost tap send. Then you end the call and use the number you already know.",
+      "concept": "Finger stops before transfer; camera follows the separate callback action.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Finger stops before transfer; camera follows the separate callback action.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "You almost tap send. Then you",
+        "end the call and use the",
+        "number you already know."
+      ]
+    },
+    {
+      "id": "D07R2-S4",
+      "start": 24.466666666666665,
+      "end": 33.56666666666667,
+      "type": "cinematic",
+      "text": "THE OTHER CALL",
+      "narration": "Your mother answers. She is fine. The first call was someone else wearing her face.",
+      "concept": "Same fictional portrait, calmer setting; no tutorial for generating impersonations.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d07r2/s4.png",
+      "plannedAssetType": "image",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Same fictional portrait, calmer setting; no tutorial for generating impersonations.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Your mother answers. She is fine.",
+        "The first call was someone else",
+        "wearing her face."
+      ]
+    },
+    {
+      "id": "D07R2-S5",
+      "start": 33.56666666666667,
+      "end": 43.166666666666664,
+      "type": "evidence",
+      "text": "ORIGIN TOOLS HAVE LIMITS",
+      "narration": "Watermarking and provenance tools exist today, but no universal badge can guarantee every caller is real.",
+      "concept": "Official SynthID source; do not present a watermark as live-call identity verification.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r2/s5.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Official SynthID source; do not present a watermark as live-call identity verification.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Watermarking and provenance tools exist today,",
+        "but no universal badge can guarantee",
+        "every caller is real."
+      ]
+    },
+    {
+      "id": "D07R2-S6",
+      "start": 43.166666666666664,
+      "end": 50,
+      "type": "question",
+      "text": "WHAT WOULD YOU TRUST?",
+      "narration": "In a world of convincing copies, would you trust appearance alone?",
+      "concept": "Return to stopped transfer action; finish on the human choice.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to stopped transfer action; finish on the human choice.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "In a world of convincing copies,",
+        "would you trust appearance alone?"
+      ]
+    }
+  ]
+}

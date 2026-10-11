@@ -1,0 +1,16 @@
+# BUILDMode-AI / day 4.2
+
+**Same AI. One Extra Skill.**
+
+Same model. Same code change. Two fresh sessions. Only one receives an extra focused review checklist.
+
+The fixture includes a missing permission check, an empty-input edge case, and a control that traps keyboard users.
+
+Freeze the prompt and diff. Add the checklist only to the second session so the comparison has one clear change.
+
+Score validated findings, missed issues, and false alarms. A longer answer is not automatically a better review.
+
+Do not fill the scorecard until both recorded reviews are checked against the seeded issues. Keep useful extra findings separate.
+
+This is the review experiment design. What focused checklist would you want every reviewer to carry?
+

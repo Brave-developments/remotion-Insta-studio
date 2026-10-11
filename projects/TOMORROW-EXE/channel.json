@@ -1,0 +1,24 @@
+{
+  "name": "TOMORROW.EXE",
+  "position": "Stories from the future.",
+  "palette": {
+    "background": "#050509",
+    "panel": "#171126",
+    "accent": "#8B5CF6",
+    "secondary": "#D946EF",
+    "text": "#F5F3FF",
+    "muted": "#A6A0B7"
+  },
+  "visualStyle": "Cinematic near-future documentary: photographs, symbolic objects, phones, maps, city environments and restrained depth. Violet for technology, magenta for consequences, cold blue for factual grounding.",
+  "port": 3021,
+  "source": "https://chatgpt.com/share/6ac2255e-1c68-83ec-9547-ea75c52a0126",
+  "pillars": [
+    "Work and money",
+    "Robotics and daily life",
+    "Education",
+    "Identity and privacy",
+    "Transport and cities",
+    "Relationships and synthetic media"
+  ],
+  "fontFamily": "Manrope, Inter, DM Sans, Segoe UI, sans-serif"
+}

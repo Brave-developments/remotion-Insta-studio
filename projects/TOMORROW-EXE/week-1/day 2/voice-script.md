@@ -1,0 +1,16 @@
+# TOMORROW-EXE / day 2
+
+**The Last Password**
+
+What if the last password you remembered was already behind you?
+
+Passkeys already replace passwords in supported services.
+
+Imagine that same ease at your office, your hotel, and your front door.
+
+Every entrance works, until one account stops recognizing you.
+
+Convenience starts looking like infrastructure when losing access means losing your day.
+
+When passwords disappear, who holds the key?
+

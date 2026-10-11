@@ -1,0 +1,2825 @@
+{
+  "reels": [
+    {
+      "id": "B01-DONE-TRAP",
+      "title": "The Done Trap",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 9,
+          "type": "hook",
+          "text": "“Done” proves almost nothing.",
+          "narration": "Your coding agent saying done proves almost nothing. One green line can quietly hide a failed test, a red console, and a deployment that broke ten minutes earlier.",
+          "concept": "Giant green confirmation, then the camera pulls back.",
+          "camera": {
+            "fromScale": 1.05,
+            "toScale": 1,
+            "fromX": 0,
+            "toX": 12
+          },
+          "visual": {
+            "items": [
+              "TESTS",
+              "LOGS",
+              "BROWSER",
+              "REVIEW"
+            ],
+            "note": "A claim, not a result."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 9,
+          "end": 18,
+          "type": "checklist",
+          "text": "Pull the camera back.",
+          "narration": "Pull the camera back and the truth appears beside it: the test failed, the console is full of errors, and the deploy is warning you about config.",
+          "concept": "Hidden failures appear behind the confirmation card.",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.04,
+            "fromX": -10,
+            "toX": 10
+          },
+          "visual": {
+            "label": "WHAT ELSE IS TRUE",
+            "items": [
+              "1 test failed",
+              "Console errors",
+              "Deployment warning"
+            ]
+          }
+        },
+        {
+          "id": "s3",
+          "start": 18,
+          "end": 27,
+          "type": "diagram",
+          "text": "Build a real pipeline.",
+          "narration": "So build a real pipeline instead: tests first, then logs, then actual browser behaviour, and finally a human or independent review, in that order, every time.",
+          "concept": "Four verification stages connect left to right.",
+          "visual": {
+            "label": "VERIFICATION",
+            "items": [
+              "TESTS",
+              "LOGS",
+              "BROWSER",
+              "REVIEW"
+            ],
+            "note": "Agreement across four sources."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 36,
+          "type": "code",
+          "text": "Fail, patch, run again.",
+          "narration": "Each stage runs, one of them fails, the agent patches the cause, and the whole pipeline starts again from the very top until everything agrees.",
+          "concept": "One failing assertion highlights, then the fix lands.",
+          "visual": {
+            "label": "VERIFICATION",
+            "file": "verify.ts",
+            "code": [
+              "const result = await run(task);",
+              "",
+              "if (!result.tests.passed) {",
+              "  throw new Error('not done');",
+              "}",
+              "",
+              "return result.review.approved;"
+            ],
+            "highlight": [
+              2,
+              3
+            ],
+            "note": "Failure is information, not a verdict."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Done means agreement.",
+          "narration": "Only when all four pass should the word done come back into the output. Completion is agreement between evidence and claim, never a confident sentence on its own.",
+          "concept": "All four stages green, confirmation returns.",
+          "camera": {
+            "fromScale": 0.98,
+            "toScale": 1.03,
+            "fromX": 0,
+            "toX": 0
+          },
+          "visual": {
+            "label": "STANDARD",
+            "a": "Tests · Logs · Browser · Review — all green."
+          }
+        }
+      ],
+      "audio": "audio/B01-DONE-TRAP.wav",
+      "audioSeconds": 47.36
+    },
+    {
+      "id": "B02-SETUP-BACKWARDS",
+      "title": "Most AI Coding Setups Are Backwards",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 9,
+          "type": "hook",
+          "text": "Upgrading the model is the wrong upgrade.",
+          "narration": "Most people upgrade the model first, and that is usually the wrong upgrade, because the model is only ever one layer of the system around it.",
+          "concept": "Model chip upgrades twice; the output gauge barely moves.",
+          "camera": {
+            "fromScale": 1.05,
+            "toScale": 1,
+            "fromX": -10,
+            "toX": 10
+          },
+          "visual": {
+            "items": [
+              "EFFORT",
+              "CONTEXT",
+              "SKILLS",
+              "TOOLS"
+            ],
+            "note": "The gauge never moves."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 9,
+          "end": 18,
+          "type": "diagram",
+          "text": "Five layers sit underneath.",
+          "narration": "Pull the camera back and you find five layers sitting underneath: effort, context, skills, tools, and verification, each one doing work the model never sees.",
+          "concept": "Stack diagram reveals the layers beneath the model.",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.04,
+            "fromX": 8,
+            "toX": -12
+          },
+          "visual": {
+            "label": "THE STACK",
+            "items": [
+              "EFFORT",
+              "CONTEXT",
+              "SKILLS",
+              "TOOLS",
+              "VERIFY"
+            ]
+          }
+        },
+        {
+          "id": "s3",
+          "start": 18,
+          "end": 27,
+          "type": "checklist",
+          "text": "Fill the first three layers.",
+          "narration": "Fill the first three quickly: set the effort dial to match the task, write the project rules to disk, and turn everything you repeat into reusable skills.",
+          "concept": "Three layers fill in sequence with the spoken line.",
+          "visual": {
+            "label": "FIRST THREE",
+            "items": [
+              "Effort matched to task",
+              "Project rules on disk",
+              "Reusable skills"
+            ]
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 36,
+          "type": "code",
+          "text": "Connect tools. Run the tests.",
+          "narration": "Then connect the tools the agent actually needs, and make it run the tests before it is allowed to claim anything at all about the work.",
+          "concept": "Project file docks, then the test command executes.",
+          "visual": {
+            "label": "PROJECT RULES",
+            "file": "PROJECT.md",
+            "code": [
+              "## Build",
+              "npm run build",
+              "",
+              "## Test",
+              "npm test -- --watch=false",
+              "",
+              "## Verify before claiming done"
+            ],
+            "highlight": [
+              4,
+              6
+            ],
+            "note": "Rules persist instead of being retyped."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Context, tools and proof.",
+          "narration": "The model is only one layer of the stack. Context, tools, and proof are what make it genuinely useful inside a real repository with real consequences.",
+          "concept": "Full stack locks together.",
+          "camera": {
+            "fromScale": 0.99,
+            "toScale": 1.03,
+            "fromX": 0,
+            "toX": 0
+          },
+          "visual": {
+            "label": "THE UPGRADE",
+            "a": "Improve the system around the model, not just the model."
+          }
+        }
+      ],
+      "audio": "audio/B02-SETUP-BACKWARDS.wav",
+      "audioSeconds": 43.84
+    },
+    {
+      "id": "B02-YOURE-PROBABLY-USING-THE",
+      "title": "You’re Probably Using the Wrong Effort Level",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Effort dial + cost/time meters.",
+          "narration": "Max reasoning is not the best setting for every coding task.",
+          "visual": {
+            "label": "EFFORT DIAL COST/TIME",
+            "items": [
+              "MAX dial slams to 100%",
+              "timer",
+              "token meter explode upward."
+            ],
+            "note": "Effort dial + cost/time meters."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "code",
+          "text": "One-line diff next to huge reasoning animation.",
+          "narration": "Turning it on permanently feels safe and quietly costs you time and tokens. Renaming a button does not need a wall of reasoning animation.",
+          "visual": {
+            "label": "ONE-LINE DIFF NEXT",
+            "file": "reel.ts",
+            "code": [
+              "// One-line diff next to huge reasoning",
+              "// A tiny task appears: rename a button"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "One-line diff next to huge reasoning animation."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 23,
+          "type": "diagram",
+          "text": "Cards snap onto LOW/MEDIUM/HIGH/MAX lanes.",
+          "narration": "Match the effort to the task instead of leaving one dial stuck on maximum. A rename belongs on low, a feature belongs somewhere in the middle. A bug hunt across hidden edge cases earns the higher setting.",
+          "visual": {
+            "label": "CARDS SNAP ONTO",
+            "items": [
+              "rename",
+              "feature",
+              "bug hunt",
+              "security review."
+            ],
+            "note": "Cards snap onto LOW/MEDIUM/HIGH/MAX lanes."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 36,
+          "type": "code",
+          "text": "Bug branches multiply under a code card.",
+          "narration": "A security review earns the full budget, because being wrong there is expensive. Higher effort helps where the answer is not already obvious in the diff. It will not save a task you described badly.",
+          "visual": {
+            "label": "BUG BRANCHES MULTIPLY",
+            "file": "reel.ts",
+            "code": [
+              "// Bug branches multiply under a code card.",
+              "// Show why higher effort matters on"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Bug branches multiply under a code card."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Dial settles; task cards stay mapped.",
+          "narration": "Settle the dial on the cheapest level that reliably solves the task. That one rule cuts most of the waiting, and most of the bill.",
+          "visual": {
+            "label": "DIAL SETTLES TASK",
+            "items": [
+              "Dial settles",
+              "task cards stay mapped."
+            ],
+            "note": "Dial settles; task cards stay mapped."
+          }
+        }
+      ],
+      "audio": "audio/B02-YOURE-PROBABLY-USING-THE.wav",
+      "audioSeconds": 40.96
+    },
+    {
+      "id": "B03-CLAUDEMD-IS-BETTER-THAN",
+      "title": "`CLAUDE.md` Is Better Than Repeating Yourself",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Prompt block fills the terminal.",
+          "narration": "If you explain your project rules in every chat, your setup is broken.",
+          "visual": {
+            "label": "PROMPT BLOCK FILLS",
+            "items": [
+              "Prompt block fills the terminal."
+            ],
+            "note": "Prompt block fills the terminal."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "code",
+          "text": "Duplicate lines flash red.",
+          "narration": "The same build command, the same folder rules, pasted for the fifth time. Repetition does not make the model smarter, it just makes the context longer.",
+          "visual": {
+            "label": "DUPLICATE LINES FLASH",
+            "file": "reel.ts",
+            "code": [
+              "// build command",
+              "// folder rules"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Duplicate lines flash red."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 23,
+          "type": "timeline",
+          "text": "Code editor creates a clean project file.",
+          "narration": "So move the rules into a file the project owns. Write them once, and every new session reads them before it writes anything. Duplicate lines stop flashing, and the prompt shrinks to the actual task.",
+          "visual": {
+            "label": "CODE EDITOR CREATES",
+            "items": [
+              "Those rules detach",
+              "move into `CLAUDE.md`."
+            ],
+            "note": "Code editor creates a clean project file."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "code",
+          "text": "New terminal opens; chips dock automatically.",
+          "narration": "A fresh terminal opens with the context already docked in place. Compare forty lines of history against one line of intent. Persistent instructions beat repeated explanations every single time.",
+          "visual": {
+            "label": "NEW TERMINAL OPENS",
+            "file": "reel.ts",
+            "code": [
+              "// Start a fresh session",
+              "// the rules appear as compact context chips."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "New terminal opens; chips dock automatically."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Split screen collapses to simple task prompt.",
+          "narration": "Explain the project once, then spend the conversation on the work. Write the rules once in a file and let every session inherit them.",
+          "visual": {
+            "label": "SPLIT SCREEN COLLAPSES",
+            "items": [
+              "Split screen collapses to simple task prompt."
+            ],
+            "note": "Split screen collapses to simple task prompt."
+          }
+        }
+      ],
+      "audio": "audio/B03-CLAUDEMD-IS-BETTER-THAN.wav",
+      "audioSeconds": 45.28
+    },
+    {
+      "id": "B04-GIVE-YOUR-AI-CODER",
+      "title": "Give Your AI Coder Eyes and Hands",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Blurry screenshot + confused cursor.",
+          "narration": "Pasting screenshots into your coding agent is the slow version of context.",
+          "visual": {
+            "label": "BLURRY SCREENSHOT CONF",
+            "items": [
+              "Blurry screenshot + confused cursor."
+            ],
+            "note": "Blurry screenshot + confused cursor."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Agent node in center; disconnected nodes around it.",
+          "narration": "A blurry image and the question why is this broken, typed by hand. The agent guesses from a picture because nobody gave it a door.",
+          "visual": {
+            "label": "AGENT NODE IN",
+            "items": [
+              "deployment",
+              "browser."
+            ],
+            "note": "Agent node in center; disconnected nodes around it."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "code",
+          "text": "SVG cables draw outward.",
+          "narration": "Pull the camera back and the agent sits alone in the middle. Database, deployment logs and browser tools all live outside the conversation. Connect them with cables and the agent can read instead of imagine. It inspects the table, reads the error, checks the deployment state.",
+          "visual": {
+            "label": "SVG CABLES DRAW",
+            "file": "reel.ts",
+            "code": [
+              "// database",
+              "// deployment logs"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "SVG cables draw outward."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 36,
+          "type": "diagram",
+          "text": "Fast UI zooms inside each node.",
+          "narration": "Each node pulses, and the screenshot quietly leaves the chat. Real systems beat reconstructed guesses every single time. Context you can query always outperforms context you pasted.",
+          "visual": {
+            "label": "FAST UI ZOOMS",
+            "items": [
+              "Agent reads an error",
+              "inspects a table",
+              "checks the deployment."
+            ],
+            "note": "Fast UI zooms inside each node."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "All nodes pulse together; screenshot is discarded.",
+          "narration": "Give the model eyes and hands rather than a photograph of both. Better context beats better guessing, and it starts with the connection.",
+          "visual": {
+            "label": "ALL NODES PULSE",
+            "items": [
+              "All nodes pulse together",
+              "screenshot is discarded."
+            ],
+            "note": "All nodes pulse together; screenshot is discarded."
+          }
+        }
+      ],
+      "audio": "audio/B04-GIVE-YOUR-AI-CODER.wav",
+      "audioSeconds": 47.79
+    },
+    {
+      "id": "B06-TWO-MODELS-ONE-PULL",
+      "title": "Two Models, One Pull Request",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Builder agent approving itself.",
+          "narration": "The easiest way to make an AI coder less overconfident is to give it an opponent.",
+          "visual": {
+            "label": "BUILDER AGENT APPROVIN",
+            "items": [
+              "Builder agent approving itself."
+            ],
+            "note": "Builder agent approving itself."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "compare",
+          "text": "Two distinct agent cards.",
+          "narration": "One agent approving its own code is a rubber stamp with extra steps. Split the screen: builder on the left, reviewer on the right.",
+          "visual": {
+            "label": "TWO DISTINCT AGENT",
+            "a": "BUILDER on left",
+            "b": "REVIEWER on right.",
+            "note": "Two distinct agent cards."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 23,
+          "type": "code",
+          "text": "Diff viewer with three callouts.",
+          "narration": "The builder writes the diff and the reviewer reads it with a different job. Security, tests and edge cases get flagged by someone who did not write them. The builder patches, the reviewer re-runs, and the counter falls.",
+          "visual": {
+            "label": "DIFF VIEWER WITH",
+            "file": "reel.ts",
+            "code": [
+              "// Builder creates a diff",
+              "// reviewer flags security"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Diff viewer with three callouts."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 36,
+          "type": "graph",
+          "text": "Animated issue counter.",
+          "narration": "Independent review is the point, not the second logo. Two models only help when the second one is allowed to disagree. If it just agrees politely, you paid for a mirror.",
+          "visual": {
+            "label": "ANIMATED ISSUE COUNTER",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "Animated issue counter."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Two agents collapse into BUILD ↔ REVIEW loop.",
+          "narration": "Give the reviewer a role and a reason to reject the change. Then the pull request survives contact with production.",
+          "visual": {
+            "label": "TWO AGENTS COLLAPSE",
+            "items": [
+              "“Independent review is the point",
+              "not the second logo.”"
+            ],
+            "note": "Two agents collapse into BUILD ↔ REVIEW loop."
+          }
+        }
+      ],
+      "audio": "audio/B06-TWO-MODELS-ONE-PULL.wav",
+      "audioSeconds": 40.48
+    },
+    {
+      "id": "B07-MAKE-CLAUDE-AND-CODEX",
+      "title": "Make Claude and Codex Argue Until the Code Survives",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Debate arena layout.",
+          "narration": "What if the second AI was paid to disagree with the first?",
+          "visual": {
+            "label": "DEBATE ARENA LAYOUT.",
+            "items": [
+              "Debate arena layout."
+            ],
+            "note": "Debate arena layout."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Left panel writes plan.",
+          "narration": "Code sits between two panels, one labelled claim, the other challenge. The first agent writes the plan and states its assumptions out loud.",
+          "visual": {
+            "label": "LEFT PANEL WRITES",
+            "items": [
+              "Agent A proposes implementation",
+              "assumptions."
+            ],
+            "note": "Left panel writes plan."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 23,
+          "type": "diagram",
+          "text": "Red challenge cards hit the plan.",
+          "narration": "The second one attacks them: authentication, race conditions, bad input. Every challenge card either gets fixed or gets proved wrong. Defending with evidence means tests, not confidence.",
+          "visual": {
+            "label": "RED CHALLENGE CARDS",
+            "items": [
+              "auth",
+              "race conditions",
+              "bad input."
+            ],
+            "note": "Red challenge cards hit the plan."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "code",
+          "text": "Cards switch to FIXED / PROVED.",
+          "narration": "The counter drops from five objections down to zero. Only then does the merge button unlock. Turn multi-model review into an argument, not a duplicate.",
+          "visual": {
+            "label": "CARDS SWITCH TO",
+            "file": "reel.ts",
+            "code": [
+              "// Cards switch to FIXED / PROVED.",
+              "// Agent A must either fix or defend every"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Cards switch to FIXED / PROVED."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Counter 5 → 0; merge button unlocks.",
+          "narration": "Two agents that agree are one agent with extra compute. Adversarial review finds the edge case your first pass already liked. Ship when the disagreement reaches zero, and not one commit earlier. Ship only when the second model has run out of objections.",
+          "visual": {
+            "label": "COUNTER 5 0",
+            "items": [
+              "Counter 5 → 0",
+              "merge button unlocks."
+            ],
+            "note": "Counter 5 → 0; merge button unlocks."
+          }
+        }
+      ],
+      "audio": "audio/B07-MAKE-CLAUDE-AND-CODEX.wav",
+      "audioSeconds": 47.52
+    },
+    {
+      "id": "B08-STOP-COPY-PASTING-THE-SA",
+      "title": "Stop Copy-Pasting the Same Giant Prompt",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Huge prompt ribbon.",
+          "narration": "If your best prompt is two hundred lines long, it has become a workflow.",
+          "visual": {
+            "label": "HUGE PROMPT RIBBON.",
+            "items": [
+              "Huge prompt ribbon."
+            ],
+            "note": "Huge prompt ribbon."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "code",
+          "text": "Sections get coloured borders.",
+          "narration": "Pasting it again is not prompting; it is re-implementing your own tooling. Watch the sections scroll past: plan, code, test, review.",
+          "visual": {
+            "label": "SECTIONS GET COLOURED",
+            "file": "reel.ts",
+            "code": [
+              "// plan",
+              "// code"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Sections get coloured borders."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 22,
+          "type": "code",
+          "text": "Cards snap into a dock.",
+          "narration": "Colour the borders and the repetition becomes obvious. Cut those sections into modular cards you can invoke by name. One card for planning, one for building, one for testing, one for review.",
+          "visual": {
+            "label": "CARDS SNAP INTO",
+            "file": "reel.ts",
+            "code": [
+              "// `/plan`",
+              "// `/build`"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Cards snap into a dock."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 35,
+          "type": "diagram",
+          "text": "Terminal command → mini pipeline.",
+          "narration": "Call a single card on a new task and the stored procedure runs. The prompt folds, the modules dock, and nothing has to be retyped. Prompts describe; workflows repeat.",
+          "visual": {
+            "label": "TERMINAL COMMAND MINI",
+            "items": [
+              "Invoke one card on a new task",
+              "it executes the stored workflow."
+            ],
+            "note": "Terminal command → mini pipeline."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Prompt sheet folds into reusable modules.",
+          "narration": "Repetition is a signal that something should already be code. Turn the giant paste into a command and stop paying for it daily. Turn the paste into a command and stop paying for it every time.",
+          "visual": {
+            "label": "PROMPT SHEET FOLDS",
+            "items": [
+              "Prompt sheet folds into reusable modules."
+            ],
+            "note": "Prompt sheet folds into reusable modules."
+          }
+        }
+      ],
+      "audio": "audio/B08-STOP-COPY-PASTING-THE-SA.wav",
+      "audioSeconds": 47.68
+    },
+    {
+      "id": "B09-WHAT-A-GOOD-AI",
+      "title": "What a Good AI Coding Plugin Actually Adds",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Underwhelming reveal.",
+          "narration": "A plugin that only adds another prompt is barely a plugin.",
+          "visual": {
+            "label": "UNDERWHELMING REVEAL.",
+            "items": [
+              "“PLUGIN INSTALLED” appears",
+              "followed by… one text file."
+            ],
+            "note": "Underwhelming reveal."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Hardware-like plugin board.",
+          "narration": "Installed, and behind it sits one more text file. Judge it by the sockets it fills, not by the install count.",
+          "visual": {
+            "label": "HARDWARE-LIKE PLUGIN B",
+            "items": [
+              "SKILL",
+              "AGENT",
+              "HOOK",
+              "TOOL."
+            ],
+            "note": "Hardware-like plugin board."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 26,
+          "type": "code",
+          "text": "Skill = review checklist; agent = specialist; hook =",
+          "narration": "Skills hold reusable instructions and checklists the agent can pull. Agents add specialists with their own scope and tools. Hooks fire after an edit, running tests before anything ships. Connections reach external systems that the model cannot touch alone.",
+          "visual": {
+            "label": "SKILL REVIEW CHECKLIST",
+            "file": "reel.ts",
+            "code": [
+              "// Skill = review checklist",
+              "// agent = specialist"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Skill = review checklist; agent = specialist; hook = post-edit"
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 37,
+          "type": "timeline",
+          "text": "Compact task timeline.",
+          "narration": "Fill those four sockets with real examples and the plugin earns its place. Run one task and watch them fire in sequence. Instructions, agents, hooks, tools, in that order down the board.",
+          "visual": {
+            "label": "COMPACT TASK TIMELINE.",
+            "items": [
+              "Run a task",
+              "all four fire in sequence."
+            ],
+            "note": "Compact task timeline."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Plugin board becomes scorecard.",
+          "narration": "Anything beyond that is decoration with a version number. Judge plugins by what they automate, not by what they promise. Four working sockets beat four paragraphs of documentation any day.",
+          "visual": {
+            "label": "PLUGIN BOARD BECOMES",
+            "items": [
+              "“Judge plugins by what they automate",
+              "not the install count.”"
+            ],
+            "note": "Plugin board becomes scorecard."
+          }
+        }
+      ],
+      "audio": "audio/B09-WHAT-A-GOOD-AI.wav",
+      "audioSeconds": 50.03
+    },
+    {
+      "id": "B10-YOUR-BROWSER-IS-BETTER",
+      "title": "Your Browser Is Better Debug Context Than a Screenshot",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Red error toast only.",
+          "narration": "A screenshot shows the symptom; DevTools shows the cause.",
+          "visual": {
+            "label": "RED ERROR TOAST",
+            "items": [
+              "Red error toast only."
+            ],
+            "note": "Red error toast only."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Image zooms; almost no technical data.",
+          "narration": "The broken checkout image tells you almost nothing technical. Ask what you can actually learn from it and the answer is colour.",
+          "visual": {
+            "label": "IMAGE ZOOMS ALMOST",
+            "items": [
+              "Image zooms",
+              "almost no technical data."
+            ],
+            "note": "Image zooms; almost no technical data."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 24,
+          "type": "browser",
+          "text": "Browser panels slide out.",
+          "narration": "Open the console and the first real sentence appears. Follow the failed network request, then the stack trace underneath it. Trace the request id back to the exact line that produced it. Console, network and performance are context a photograph can never carry.",
+          "visual": {
+            "label": "BROWSER PANELS SLIDE",
+            "a": "Open DevTools: console error → failed network request →",
+            "items": [
+              "Browser panels slide out."
+            ],
+            "note": "Browser panels slide out."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 36,
+          "type": "code",
+          "text": "Animated connection from request ID to editor line.",
+          "narration": "Give the agent that instead of a picture of a red toast. It reads the error, finds the handler, and writes the fix. Reload, watch the row turn two hundred, and the checkout succeeds.",
+          "visual": {
+            "label": "ANIMATED CONNECTION FR",
+            "file": "reel.ts",
+            "code": [
+              "// Animated connection from request ID to",
+              "// Agent follows the failed request back"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Animated connection from request ID to editor line."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Network row turns 200; checkout succeeds.",
+          "narration": "Symptoms get pasted; causes get inspected. So hand over the browser, not the crop. Hand the agent the console and the network tab, not the crop.",
+          "visual": {
+            "label": "NETWORK ROW TURNS",
+            "items": [
+              "reload",
+              "successful request."
+            ],
+            "note": "Network row turns 200; checkout succeeds."
+          }
+        }
+      ],
+      "audio": "audio/B10-YOUR-BROWSER-IS-BETTER.wav",
+      "audioSeconds": 47.84
+    },
+    {
+      "id": "B11-LET-THE-AGENT-READ",
+      "title": "Let the Agent Read Your Deployment Logs",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Green local status.",
+          "narration": "Your code can be correct and your deployment can still be broken.",
+          "visual": {
+            "label": "GREEN LOCAL STATUS.",
+            "items": [
+              "Green local status."
+            ],
+            "note": "Green local status."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "browser",
+          "text": "Browser goes red.",
+          "narration": "It works on your machine, and production answers with a five hundred. Deployment logs are part of the debugging loop, not a last resort.",
+          "visual": {
+            "label": "BROWSER GOES RED.",
+            "a": "Cut to production: 500 error.",
+            "items": [
+              "Browser goes red."
+            ],
+            "note": "Browser goes red."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 23,
+          "type": "code",
+          "text": "Vercel-style deployment card + logs.",
+          "narration": "Expand the deployment timeline and isolate the failed build step. Let the agent read the environment variables, the config, the build output. Then it patches the real cause instead of guessing at the code.",
+          "visual": {
+            "label": "VERCEL-STYLE DEPLOYMEN",
+            "file": "reel.ts",
+            "code": [
+              "// Deployment timeline expands",
+              "// failed build step is isolated."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Vercel-style deployment card + logs."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "code",
+          "text": "Diff + deployment progress bar.",
+          "narration": "Re-deploy, watch the progress bar complete, and check both cards. Local green and production green at the same time is the actual finish line. Most agent failures are context failures wearing a different hat.",
+          "visual": {
+            "label": "DIFF DEPLOYMENT PROGRE",
+            "file": "reel.ts",
+            "code": [
+              "// Agent patches env/config/build issue",
+              "// re-deploys."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Diff + deployment progress bar."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Two environment cards sync.",
+          "narration": "Read the logs first and the fix is usually obvious. Debug the system, not just the file you were editing. Read the deployment before you blame the code you already wrote.",
+          "visual": {
+            "label": "TWO ENVIRONMENT CARDS",
+            "items": [
+              "Local",
+              "production both show green."
+            ],
+            "note": "Two environment cards sync."
+          }
+        }
+      ],
+      "audio": "audio/B11-LET-THE-AGENT-READ.wav",
+      "audioSeconds": 46.72
+    },
+    {
+      "id": "B12-LET-THE-AGENT-QUERY",
+      "title": "Let the Agent Query the Database — But Not Production Blindly",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Danger UI.",
+          "narration": "Database access makes an AI coder powerful; production write access makes it dangerous.",
+          "visual": {
+            "label": "DANGER UI.",
+            "items": [
+              "Danger UI."
+            ],
+            "note": "Danger UI."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "checklist",
+          "text": "Permission matrix.",
+          "narration": "A giant red button labelled drop, migrate or delete is not a tool call. Scope the permissions into lanes before you hand anything over.",
+          "visual": {
+            "label": "PERMISSION MATRIX.",
+            "items": [
+              "READ",
+              "STAGING WRITE",
+              "PROD WRITE."
+            ],
+            "note": "Permission matrix."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 24,
+          "type": "browser",
+          "text": "Table browser + SQL query.",
+          "narration": "Read everywhere, write in staging, and keep production approval locked. Inspecting the schema and running a select is safe and useful. Generating the migration in staging lets the tests speak first. If they pass, a human approves the last step.",
+          "visual": {
+            "label": "TABLE BROWSER SQL",
+            "a": "Agent inspects schema and runs a read query safely.",
+            "items": [
+              "Agent inspects schema",
+              "runs a read query safely."
+            ],
+            "note": "Table browser + SQL query."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 36,
+          "type": "code",
+          "text": "Staging card green; prod lock icon.",
+          "narration": "Destructive actions should require confirmation, never momentum. Tool access needs boundaries, not trust. Trust is what you extend after the boundary already worked.",
+          "visual": {
+            "label": "STAGING CARD GREEN",
+            "file": "reel.ts",
+            "code": [
+              "// Migration is generated in staging",
+              "// tests pass"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Staging card green; prod lock icon."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Permission matrix becomes final rule.",
+          "narration": "Broad inspection gives the agent context; narrow writes keep the data alive. That asymmetry is the whole safety model. Inspect broadly, write narrowly, and require a human for the dangerous call.",
+          "visual": {
+            "label": "PERMISSION MATRIX BECO",
+            "items": [
+              "“Tool access needs boundaries",
+              "not trust.”"
+            ],
+            "note": "Permission matrix becomes final rule."
+          }
+        }
+      ],
+      "audio": "audio/B12-LET-THE-AGENT-QUERY.wav",
+      "audioSeconds": 51.95
+    },
+    {
+      "id": "B13-THE-HIDDEN-PROMPT-IS",
+      "title": "The Hidden Prompt Is Part of the Product",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Tiny user prompt in center.",
+          "narration": "The model is only half the behaviour you are talking to.",
+          "visual": {
+            "label": "TINY USER PROMPT",
+            "items": [
+              "Tiny user prompt in center."
+            ],
+            "note": "Tiny user prompt in center."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Layers labelled SYSTEM / TOOLS / MEMORY / POLICY.",
+          "narration": "Your request is one line; the scaffold behind it is enormous. System instructions, tool definitions, memory and policy all shape the reply.",
+          "visual": {
+            "label": "LAYERS LABELLED SYSTEM",
+            "items": [
+              "Camera pulls back",
+              "a huge hidden scaffold appears behind it."
+            ],
+            "note": "Layers labelled SYSTEM / TOOLS / MEMORY / POLICY."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 24,
+          "type": "code",
+          "text": "Animated prompt packet travels through stack.",
+          "narration": "Pull the camera back and the hidden stack appears. The same prompt routes through every layer before anyone sees an answer. Remove the tools and the capability disappears entirely. Remove the instructions and the behaviour changes without the model changing.",
+          "visual": {
+            "label": "ANIMATED PROMPT PACKET",
+            "file": "reel.ts",
+            "code": [
+              "// Animated prompt packet travels through stack.",
+              "// Show how the same user prompt routes"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Animated prompt packet travels through stack."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 36,
+          "type": "diagram",
+          "text": "Side-by-side controlled experiment.",
+          "narration": "Nothing about the weights moved, and yet the product is different. Judge an AI product by its orchestration, not by its logo. Two assistants on the same model can ship completely different experiences.",
+          "visual": {
+            "label": "SIDE-BY-SIDE CONTROLLE",
+            "items": [
+              "capability disappears",
+              "remove instructions: behaviour changes."
+            ],
+            "note": "Side-by-side controlled experiment."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Model logo shrinks to one component in larger product",
+          "narration": "Look at the layers you never see before you blame the model. Judge the orchestration, because that is the product people actually touch.",
+          "visual": {
+            "label": "MODEL LOGO SHRINKS",
+            "items": [
+              "“When judging an AI product",
+              "judge the orchestration too.”"
+            ],
+            "note": "Model logo shrinks to one component in larger product diagram."
+          }
+        }
+      ],
+      "audio": "audio/B13-THE-HIDDEN-PROMPT-IS.wav",
+      "audioSeconds": 46.08
+    },
+    {
+      "id": "B14-WHY-BENCHMARKS-DONT-TELL",
+      "title": "Why Benchmarks Don’t Tell You Which Model to Use",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Big 1st-place bar.",
+          "narration": "The highest coding score can still be the wrong model for your app.",
+          "visual": {
+            "label": "BIG 1ST-PLACE BAR.",
+            "items": [
+              "Big 1st-place bar."
+            ],
+            "note": "Big 1st-place bar."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Cost axis slides in.",
+          "narration": "One benchmark bar wins dramatically and everyone screenshots it. Slide the price column in and the winner changes.",
+          "visual": {
+            "label": "COST AXIS SLIDES",
+            "items": [
+              "Add a price column",
+              "winner changes."
+            ],
+            "note": "Cost axis slides in."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 21,
+          "type": "diagram",
+          "text": "Scorecard grows to four dimensions.",
+          "narration": "Add latency, then tool reliability, and the ranking moves again. Real choice is a multi-variable decision, not a podium. Autocomplete wants a fast, cheap model and nothing more.",
+          "visual": {
+            "label": "SCORECARD GROWS TO",
+            "items": [
+              "Add latency",
+              "tool-use reliability."
+            ],
+            "note": "Scorecard grows to four dimensions."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 21,
+          "end": 34,
+          "type": "code",
+          "text": "Workload cards select different model profiles.",
+          "narration": "Hard debugging wants reasoning depth and will wait for it. An autonomous browser task wants tool reliability above everything else. Three workloads, three different winners, no contradiction anywhere. Choose for the workload, not for the leaderboard.",
+          "visual": {
+            "label": "WORKLOAD CARDS SELECT",
+            "file": "reel.ts",
+            "code": [
+              "// autocomplete",
+              "// hard debugging"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Workload cards select different model profiles."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 45,
+          "type": "payoff",
+          "text": "Leaderboard morphs into workload router.",
+          "narration": "Scores are a starting filter, not a final answer. Then the model you pick matches the job you actually run. Choose the model for your workload instead of the top of the leaderboard.",
+          "visual": {
+            "label": "LEADERBOARD MORPHS INT",
+            "items": [
+              "“Choose for the workload",
+              "not the leaderboard.”"
+            ],
+            "note": "Leaderboard morphs into workload router."
+          }
+        }
+      ],
+      "audio": "audio/B14-WHY-BENCHMARKS-DONT-TELL.wav",
+      "audioSeconds": 48.16
+    },
+    {
+      "id": "B15-NEW-MODEL-RUN-THIS",
+      "title": "New Model? Run This Four-Test Scorecard",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Product launch card.",
+          "narration": "Before you switch your entire stack, run four tests and nothing else.",
+          "visual": {
+            "label": "PRODUCT LAUNCH CARD.",
+            "items": [
+              "Product launch card."
+            ],
+            "note": "Product launch card."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "code",
+          "text": "Benchmark card labelled QUALITY.",
+          "narration": "The launch notification lands and the benchmark card looks inevitable. Test one: give it a genuinely difficult coding task from your own repo.",
+          "visual": {
+            "label": "BENCHMARK CARD LABELLE",
+            "file": "reel.ts",
+            "code": [
+              "// Benchmark card labelled QUALITY.",
+              "// Test 1: difficult coding task."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Benchmark card labelled QUALITY."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 18,
+          "type": "code",
+          "text": "Effort dial + result score.",
+          "narration": "Test two: run the same task at different effort levels and compare the result. Test three: measure cost and time for the whole job, not just the token price.",
+          "visual": {
+            "label": "EFFORT DIAL RESULT",
+            "file": "reel.ts",
+            "code": [
+              "// Effort dial + result score.",
+              "// Test 2: same task at different"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Effort dial + result score."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 18,
+          "end": 28,
+          "type": "code",
+          "text": "Cost/time meter.",
+          "narration": "Sticker price lies when the model takes three times as long. Test four: let it drive a browser through a real workflow.",
+          "visual": {
+            "label": "COST/TIME METER.",
+            "file": "reel.ts",
+            "code": [
+              "// cost",
+              "// time for the full task"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Cost/time meter."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 28,
+          "end": 37,
+          "type": "diagram",
+          "text": "Browser agent completing checkout-like flow.",
+          "narration": "Watch whether it recovers when a click does not do what it expected. Score all four quadrants before anyone mentions migration.",
+          "visual": {
+            "label": "BROWSER AGENT COMPLETI",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Browser agent completing checkout-like flow."
+          }
+        },
+        {
+          "id": "s6",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "4-quadrant decision card.",
+          "narration": "A single leaderboard number cannot decide an architecture. Then the decision is yours instead of the marketing team's.",
+          "visual": {
+            "label": "4-QUADRANT DECISION CA",
+            "items": [
+              "Score all four",
+              "only",
+              "decide whether to migrate."
+            ],
+            "note": "4-quadrant decision card."
+          }
+        }
+      ],
+      "audio": "audio/B15-NEW-MODEL-RUN-THIS.wav",
+      "audioSeconds": 44.48
+    },
+    {
+      "id": "B16-THE-BEST-AI-UI",
+      "title": "The Best AI UI Trick Is a Better Waiting State",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Empty black screen + spinner.",
+          "narration": "AI apps feel slow because most of them show the same dead spinner.",
+          "visual": {
+            "label": "EMPTY BLACK SCREEN",
+            "items": [
+              "Empty black screen + spinner."
+            ],
+            "note": "Empty black screen + spinner."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Orb forms from particles.",
+          "narration": "An empty screen and a circle going nowhere tells the viewer nothing. The user does not need certainty; they need evidence of movement.",
+          "visual": {
+            "label": "ORB FORMS FROM",
+            "items": [
+              "Replace it with a reactive orb",
+              "state label."
+            ],
+            "note": "Orb forms from particles."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 23,
+          "type": "checklist",
+          "text": "Three distinct motion patterns.",
+          "narration": "Replace it with a state that actually reports what is happening. Thinking, searching, coding, verifying, each one with its own motion. The orb changes behaviour because the system changed, not because a timer fired.",
+          "visual": {
+            "label": "THREE DISTINCT MOTION",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Three distinct motion patterns."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "timeline",
+          "text": "State timeline below orb.",
+          "narration": "Add a small trail underneath that reflects real progress. Same wait time on both sides, and one feels dramatically faster. Perception is a design surface you can actually work on.",
+          "visual": {
+            "label": "STATE TIMELINE BELOW",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "State timeline below orb."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Split-screen perception comparison.",
+          "narration": "Waiting feels shorter when the interface keeps talking. A silent spinner is the interface giving up in public. Report state, and the seconds stop feeling empty.",
+          "visual": {
+            "label": "SPLIT-SCREEN PERCEPTIO",
+            "items": [
+              "Same wait time",
+              "one UI feels dramatically faster."
+            ],
+            "note": "Split-screen perception comparison."
+          }
+        }
+      ],
+      "audio": "audio/B16-THE-BEST-AI-UI.wav",
+      "audioSeconds": 47.52
+    },
+    {
+      "id": "B17-YOU-DONT-NEED-A",
+      "title": "You Don’t Need a Designer for Every Loading Animation",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Orb + invoice.",
+          "narration": "This premium animation can be open source instead of a week of motion work.",
+          "visual": {
+            "label": "ORB INVOICE.",
+            "items": [
+              "Premium orb animation appears with a fake $3",
+              "000 invoice."
+            ],
+            "note": "Orb + invoice."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "GitHub-style repo card.",
+          "narration": "The invoice for three thousand dollars tears away and reveals a repository. High quality UI primitives already exist, and most of them are free.",
+          "visual": {
+            "label": "GITHUB-STYLE REPO CARD",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "GitHub-style repo card."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 21,
+          "type": "diagram",
+          "text": "Grid of orb/loading variants.",
+          "narration": "Before you ship one, run three checks on it. Licence first, because free to view is not free to use. Then performance: does it drop frames on a mid-range phone.",
+          "visual": {
+            "label": "GRID OF ORB/LOADING",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Grid of orb/loading variants."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 21,
+          "end": 34,
+          "type": "checklist",
+          "text": "Three green/red check cards.",
+          "narration": "Then accessibility: does reduced motion actually disable it. A grid of variants gives you the state you need without inventing it. Drop the component into a real waiting state and watch it behave.",
+          "visual": {
+            "label": "THREE GREEN/RED CHECK",
+            "items": [
+              "licence",
+              "FPS/performance",
+              "reduced motion."
+            ],
+            "note": "Three green/red check cards."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 45,
+          "type": "payoff",
+          "text": "Browser app preview with integrated component.",
+          "narration": "Inspection takes an afternoon; a custom animation takes a week. Borrow the craft, keep the checks. Borrow the component, then verify licence, performance and motion yourself.",
+          "visual": {
+            "label": "BROWSER APP PREVIEW",
+            "items": [],
+            "note": "Browser app preview with integrated component."
+          }
+        }
+      ],
+      "audio": "audio/B17-YOU-DONT-NEED-A.wav",
+      "audioSeconds": 45.12
+    },
+    {
+      "id": "B18-BUILD-ONE-INTERFACE-FEED",
+      "title": "Build One Interface, Feed It Real Agent States",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Bad UI state.",
+          "narration": "Your AI interface does not need ten animations; it needs one that understands state.",
+          "visual": {
+            "label": "BAD UI STATE.",
+            "items": [
+              "Bad UI state."
+            ],
+            "note": "Bad UI state."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Node diagram.",
+          "narration": "An orb looping randomly while the app does four different jobs is a lie. Reveal the state machine underneath: idle, thinking, tool call, coding, verify.",
+          "visual": {
+            "label": "NODE DIAGRAM.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Node diagram."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 25,
+          "type": "checklist",
+          "text": "State chips trigger unique motion.",
+          "narration": "Map each state to its own motion, label and icon. Now simulate one run and watch the interface follow reality. Every transition means something because a real transition caused it. Arbitrary looping is decoration; state-driven motion is communication.",
+          "visual": {
+            "label": "STATE CHIPS TRIGGER",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "State chips trigger unique motion."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 36,
+          "type": "timeline",
+          "text": "Timeline drives visuals.",
+          "narration": "Animation should explain what the system is doing, not merely that it is alive. One component, five states, zero guesswork for the person waiting. Then the interface and the agent finally agree about what is happening.",
+          "visual": {
+            "label": "TIMELINE DRIVES VISUAL",
+            "items": [
+              "Simulate one agent run",
+              "UI follows the real state sequence."
+            ],
+            "note": "Timeline drives visuals."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "State machine and orb merge into final component.",
+          "narration": "Drive one animation from the state machine and the interface starts explaining itself.",
+          "visual": {
+            "label": "STATE MACHINE AND",
+            "items": [],
+            "note": "State machine and orb merge into final component."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B19-YOUR-AI-APP-SHOULD",
+      "title": "Your AI App Should Show What the Agent Is Doing",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Blank loader.",
+          "narration": "A blank thinking screen for fifteen seconds is terrible debugging UX.",
+          "visual": {
+            "label": "BLANK LOADER.",
+            "items": [
+              "Blank loader."
+            ],
+            "note": "Blank loader."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "code",
+          "text": "Three compact status chips.",
+          "narration": "The user cannot tell whether it is working or quietly broken. Show action-level status instead: searching docs, checking build, running test.",
+          "visual": {
+            "label": "THREE COMPACT STATUS",
+            "file": "reel.ts",
+            "code": [
+              "// searching docs",
+              "// checking build"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Three compact status chips."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "browser",
+          "text": "Browser/terminal actions synced to chips.",
+          "narration": "Those three chips cost almost nothing to render and buy enormous trust. Sync them to the real tools as they execute. Keep private reasoning blurred and locked away from the log. Expose useful observable actions and results, nothing internal.",
+          "visual": {
+            "label": "BROWSER/TERMINAL ACTIO",
+            "a": "Show a real task and status updates as tools execute.",
+            "items": [
+              "Show a real task",
+              "status updates as tools execute."
+            ],
+            "note": "Browser/terminal actions synced to chips."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 36,
+          "type": "diagram",
+          "text": "“internal reasoning” stays blurred/locked.",
+          "narration": "Transparency at the action level is a feature, not a debug panel. Show progress, not private thoughts, and the wait becomes legible. People forgive slowness far more easily than silence.",
+          "visual": {
+            "label": "INTERNAL REASONING STA",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "“internal reasoning” stays blurred/locked."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Clean status timeline completes.",
+          "narration": "Tell them what happened and they will wait for what happens next. Show observable actions and results, and keep the private reasoning private.",
+          "visual": {
+            "label": "CLEAN STATUS TIMELINE",
+            "items": [
+              "“Show progress",
+              "not private thoughts.”"
+            ],
+            "note": "Clean status timeline completes."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B20-ONE-GIANT-MODEL-IS",
+      "title": "One Giant Model Is Often Worse Than a Small Agent Team",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Overloaded agent card.",
+          "narration": "One AI doing planning, coding and reviewing is grading its own exam.",
+          "visual": {
+            "label": "OVERLOADED AGENT CARD.",
+            "items": [
+              "Overloaded agent card."
+            ],
+            "note": "Overloaded agent card."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "checklist",
+          "text": "Planner, Builder, Reviewer.",
+          "narration": "It wrote the answer, so of course it thinks the answer is right. Split the roles: planner, builder, reviewer, three smaller cards.",
+          "visual": {
+            "label": "PLANNER BUILDER REVIEW",
+            "items": [
+              "Planner",
+              "Builder",
+              "Reviewer."
+            ],
+            "note": "Planner, Builder, Reviewer."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 24,
+          "type": "diagram",
+          "text": "Spec packet passes to builder.",
+          "narration": "The planner outputs a spec and the builder receives only the context it needs. The reviewer reads the diff and runs the tests independently. You do not need a bigger model; you need a second opinion.",
+          "visual": {
+            "label": "SPEC PACKET PASSES",
+            "items": [
+              "Planner outputs a spec",
+              "builder receives only needed context."
+            ],
+            "note": "Spec packet passes to builder."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 35,
+          "type": "code",
+          "text": "Review card finds one hidden bug.",
+          "narration": "Independence is what makes the check mean something. Compare self review against a role separated loop and the gap is visible. Smaller roles also create cleaner context boundaries for each step.",
+          "visual": {
+            "label": "REVIEW CARD FINDS",
+            "file": "reel.ts",
+            "code": [
+              "// Reviewer examines diff",
+              "// tests independently."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Review card finds one hidden bug."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Error counter shows why separation helps.",
+          "narration": "Nobody is holding the whole conversation at once. Separate the duties and the mistakes get caught by someone with no stake. Separate the roles and the mistakes get caught by someone with no stake in them.",
+          "visual": {
+            "label": "ERROR COUNTER SHOWS",
+            "items": [
+              "Error counter shows why separation helps."
+            ],
+            "note": "Error counter shows why separation helps."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B21-ZERO-USERS-CAN-STILL",
+      "title": "Zero Users Can Still Create a Cloud Bill",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Split analytics/billing card.",
+          "narration": "Your app can have zero customers and still generate a painful bill.",
+          "visual": {
+            "label": "SPLIT ANALYTICS/BILLIN",
+            "items": [
+              "`0 users`",
+              "bill counter keeps climbing."
+            ],
+            "note": "Split analytics/billing card."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Request dots flood API route.",
+          "narration": "Analytics say zero users while the counter on the invoice keeps climbing. Bots are hammering one expensive endpoint and nobody is watching.",
+          "visual": {
+            "label": "REQUEST DOTS FLOOD",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Request dots flood API route."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 23,
+          "type": "checklist",
+          "text": "Meter trio.",
+          "narration": "No users does not mean no usage. Compute, storage and egress, third party calls, all three keep metering. Image generation and logging are the quiet ones that surprise you.",
+          "visual": {
+            "label": "METER TRIO.",
+            "items": [
+              "compute",
+              "storage/egress",
+              "third-party API calls."
+            ],
+            "note": "Meter trio."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "diagram",
+          "text": "Guardrails snap onto route.",
+          "narration": "Guard the route: rate limit, spending cap, alert, cache, authenticate. Add the cap before the first spike, not after the invoice. Then watch the cost curve flatten while the traffic stays.",
+          "visual": {
+            "label": "GUARDRAILS SNAP ONTO",
+            "items": [
+              "Add rate limit",
+              "spending cap/alert",
+              "caching/auth."
+            ],
+            "note": "Guardrails snap onto route."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Cost graph stabilises.",
+          "narration": "Traction and spend are separate numbers, and only one of them needs permission. Cheap failure is still failure; make it cheap on purpose. Set the cap before the traffic arrives, not after the invoice does.",
+          "visual": {
+            "label": "COST GRAPH STABILISES.",
+            "items": [
+              "Cost graph stabilises."
+            ],
+            "note": "Cost graph stabilises."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B22-A-BEAUTIFUL-APP-CAN",
+      "title": "A Beautiful App Can Still Have a Public Database",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Premium app screen.",
+          "narration": "The scariest vibe-coding bug is the one your interface completely hides.",
+          "visual": {
+            "label": "PREMIUM APP SCREEN.",
+            "items": [
+              "Premium app screen."
+            ],
+            "note": "Premium app screen."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "3D cutaway transition.",
+          "narration": "A gorgeous dashboard loads, and everything about it says safe. Pass the camera through the UI and the database underneath is wide open.",
+          "visual": {
+            "label": "3D CUTAWAY TRANSITION.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "3D cutaway transition."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 22,
+          "type": "diagram",
+          "text": "Request inspector + unexpected data rows.",
+          "narration": "Swap the user id and private rows appear on screen. The frontend never checks anything, because the frontend cannot check anything. Add per-user authorization or row level security and the same request is denied.",
+          "visual": {
+            "label": "REQUEST INSPECTOR UNEX",
+            "items": [
+              "Another user ID is swapped",
+              "private rows suddenly appear."
+            ],
+            "note": "Request inspector + unexpected data rows."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 35,
+          "type": "code",
+          "text": "Policy rule + test cases.",
+          "narration": "Write the test that attacks your own endpoint, then keep it. Security is what the backend refuses, not what the button hides. A polished surface is not a permission model.",
+          "visual": {
+            "label": "POLICY RULE TEST",
+            "file": "reel.ts",
+            "code": [
+              "// Add per-user authorization/RLS test",
+              "// attack request now returns denied."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Policy rule + test cases."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "UI fades; backend lock remains.",
+          "narration": "Beautiful and exposed are not opposites; they are often neighbours. Look under the skin before you ship the screenshot. Test your own endpoint the way an attacker would, then keep the test.",
+          "visual": {
+            "label": "UI FADES BACKEND",
+            "items": [
+              "“Security is what the backend refuses",
+              "not what the button hides.”"
+            ],
+            "note": "UI fades; backend lock remains."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B23-SESSION-REPLAY-CAN-RECOR",
+      "title": "Session Replay Can Record More Than You Think",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Phone/browser mockup.",
+          "narration": "That analytics script may be watching the exact field you forgot to mask.",
+          "visual": {
+            "label": "PHONE/BROWSER MOCKUP.",
+            "items": [
+              "Phone/browser mockup."
+            ],
+            "note": "Phone/browser mockup."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Field gets red border.",
+          "narration": "A session replay shows a user typing, character by character. Zoom into one sensitive field and the red border finally appears.",
+          "visual": {
+            "label": "FIELD GETS RED",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Field gets red border."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 23,
+          "type": "code",
+          "text": "Data flow diagram.",
+          "narration": "Map the path: page, script, stored replay, third party storage. Everything the browser sees, the tool sees too. Passwords, payment fields and health data all need deliberate masking.",
+          "visual": {
+            "label": "DATA FLOW DIAGRAM.",
+            "file": "reel.ts",
+            "code": [
+              "// Data flow diagram.",
+              "// Map page → analytics script → stored"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Data flow diagram."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "timeline",
+          "text": "Characters become blocked immediately.",
+          "narration": "Turn the exclusion on, replay again, and the characters are blocks. Install analytics after you decide what it must never collect. The order of those two decisions determines your exposure.",
+          "visual": {
+            "label": "CHARACTERS BECOME BLOC",
+            "items": [
+              "Turn on masking/exclusion",
+              "replay again."
+            ],
+            "note": "Characters become blocked immediately."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Final privacy checklist.",
+          "narration": "Privacy is a configuration you choose before the first session starts. Then the insight survives without the secrets going with it. Decide what the tool must never collect before you install it.",
+          "visual": {
+            "label": "FINAL PRIVACY CHECKLIS",
+            "items": [
+              "Final privacy checklist."
+            ],
+            "note": "Final privacy checklist."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B24-SIGNUP-IS-WHERE-LEGAL",
+      "title": "Signup Is Where Legal Risk Starts",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Email/password form.",
+          "narration": "You can create compliance problems before the user ever reaches the dashboard.",
+          "visual": {
+            "label": "EMAIL/PASSWORD FORM.",
+            "items": [
+              "Email/password form."
+            ],
+            "note": "Email/password form."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "checklist",
+          "text": "Hidden data tags appear.",
+          "narration": "The form looks harmless: email, password, maybe a name. Behind each field sit data tags nobody wrote down.",
+          "visual": {
+            "label": "HIDDEN DATA TAGS",
+            "items": [
+              "identity",
+              "marketing",
+              "analytics."
+            ],
+            "note": "Hidden data tags appear."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 23,
+          "type": "checklist",
+          "text": "Decision cards.",
+          "narration": "Identity, age, marketing consent, analytics, all collected by default. Every input box you ship is a promise you now have to keep. Ask three questions about every field you add.",
+          "visual": {
+            "label": "DECISION CARDS.",
+            "items": [
+              "do we need it",
+              "can minors use this",
+              "what consent is required?"
+            ],
+            "note": "Decision cards."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "diagram",
+          "text": "Form becomes simpler.",
+          "narration": "Do we need it, can minors use this, what consent does it require. Then redesign the form to collect less and separate the optional. Unneeded fields should delete themselves before launch.",
+          "visual": {
+            "label": "FORM BECOMES SIMPLER.",
+            "items": [
+              "Redesign signup to collect less",
+              "separate optional consent."
+            ],
+            "note": "Form becomes simpler."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Unneeded fields delete themselves.",
+          "narration": "The safest personal data is often the data you never collect. Retention obligations start the moment you store the value. Collect on purpose, or do not collect the field at all, because storage is a promise.",
+          "visual": {
+            "label": "UNNEEDED FIELDS DELETE",
+            "items": [
+              "Unneeded fields delete themselves."
+            ],
+            "note": "Unneeded fields delete themselves."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B25-MARKETING-AUTOMATION-CAN",
+      "title": "Marketing Automation Can Become a Compliance Problem",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Send counter races upward.",
+          "narration": "Automating a message is easy; automating permission is the hard part.",
+          "visual": {
+            "label": "SEND COUNTER RACES",
+            "items": [
+              "AI agent prepares 10",
+              "000 messages."
+            ],
+            "note": "Send counter races upward."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "timeline",
+          "text": "Permission gate slams shut.",
+          "narration": "The agent prepares ten thousand messages and reaches for send. A consent gate slams shut before anything leaves the queue.",
+          "visual": {
+            "label": "PERMISSION GATE SLAMS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Permission gate slams shut."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 23,
+          "type": "checklist",
+          "text": "Three database rows/cards.",
+          "narration": "Every contact needs a record, a state, and an opt out that works. Unsubscribe handling and suppression lists are not optional extras. Only eligible contacts flow through; the rest are removed automatically. Jurisdiction rules decide who may be messaged at all.",
+          "visual": {
+            "label": "THREE DATABASE ROWS/CA",
+            "items": [
+              "Show consent record",
+              "unsubscribe state",
+              "suppression list."
+            ],
+            "note": "Three database rows/cards."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "diagram",
+          "text": "Funnel animation.",
+          "narration": "The final count is smaller, and every single one of them is allowed. Automate the rules before you automate the reach. Scale without permission is how a campaign becomes a complaint.",
+          "visual": {
+            "label": "FUNNEL ANIMATION.",
+            "items": [
+              "Only eligible contacts flow through",
+              "others are removed automatically."
+            ],
+            "note": "Funnel animation."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Final send count is smaller but clean.",
+          "narration": "Consent, unsubscribe, suppression, in that order, checked every time. Then volume stops being a liability. Automate consent and suppression first, and only then automate the reach.",
+          "visual": {
+            "label": "FINAL SEND COUNT",
+            "items": [
+              "Final send count is smaller but clean."
+            ],
+            "note": "Final send count is smaller but clean."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B26-GLOBAL-CHECKOUT-MEANS-GL",
+      "title": "Global Checkout Means Global Obligations",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Minimal checkout.",
+          "narration": "One checkout button can turn a side project into an international business problem.",
+          "visual": {
+            "label": "MINIMAL CHECKOUT.",
+            "items": [
+              "Minimal checkout."
+            ],
+            "note": "Minimal checkout."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Transaction arcs.",
+          "narration": "Press buy for twenty-nine dollars and the map lights up. Four obligation cards arrive: tax, refunds, privacy, payments.",
+          "visual": {
+            "label": "TRANSACTION ARCS.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Transaction arcs."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 23,
+          "type": "diagram",
+          "text": "Cards anchor to regions.",
+          "narration": "Each region answers those four questions differently, and none of them ask you first. Consumer rules, refund windows and data residency all vary by market. Merchant of record tooling, tax services and region rules are possible approaches, not prescriptions.",
+          "visual": {
+            "label": "CARDS ANCHOR TO",
+            "items": [
+              "REFUNDS",
+              "PRIVACY",
+              "PAYMENTS."
+            ],
+            "note": "Cards anchor to regions."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "code",
+          "text": "Architecture options, not legal prescription.",
+          "narration": "This is architecture, not legal advice, and the shape is worth knowing. The checkout stays simple while the backend quietly becomes layered. Global distribution is instant; compliance is neither instant nor automatic.",
+          "visual": {
+            "label": "ARCHITECTURE OPTIONS N",
+            "file": "reel.ts",
+            "code": [
+              "// Architecture options",
+              "// not legal prescription."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Architecture options, not legal prescription."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Checkout remains simple; backend becomes layered.",
+          "narration": "Selling worldwide is a decision you make in the infrastructure. Then the first international order is not a surprise. Global sales are instant; the obligations behind them are neither.",
+          "visual": {
+            "label": "CHECKOUT REMAINS SIMPL",
+            "items": [
+              "Checkout remains simple",
+              "backend becomes layered."
+            ],
+            "note": "Checkout remains simple; backend becomes layered."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B27-AI-WRITTEN-TERMS-DONT-MA",
+      "title": "AI-Written Terms Don’t Make You Compliant",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Document prints rapidly.",
+          "narration": "A perfect terms page cannot fix what your app actually does.",
+          "visual": {
+            "label": "DOCUMENT PRINTS RAPIDL",
+            "items": [
+              "Document prints rapidly."
+            ],
+            "note": "Document prints rapidly."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Side-by-side mismatch highlights.",
+          "narration": "The model generates a polished twelve page policy in seconds. Users read the policy after the product disappoints them, not before.",
+          "visual": {
+            "label": "SIDE-BY-SIDE MISMATCH ",
+            "items": [
+              "Put policy beside the live app",
+              "contradictions appear."
+            ],
+            "note": "Side-by-side mismatch highlights."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 23,
+          "type": "compare",
+          "text": "Two mismatch cards.",
+          "narration": "Put it beside the live product and the contradictions appear. The policy promises no tracking while analytics runs on every page. The cancellation language describes a control that does not exist. Mapping every promise to a control is the real work.",
+          "visual": {
+            "label": "TWO MISMATCH CARDS.",
+            "a": "Two mismatch cards.",
+            "b": "Examples: policy says no tracking",
+            "note": "Two mismatch cards."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "diagram",
+          "text": "Promise → control mapping.",
+          "narration": "Write the implementation checklist that the document implies. Compliance is behaviour first and paperwork second. If the product cannot honour the sentence, delete the sentence.",
+          "visual": {
+            "label": "PROMISE CONTROL MAPPIN",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Promise → control mapping."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Document shrinks; product controls remain dominant.",
+          "narration": "Text that outruns your controls is a liability with good grammar. Then the document shrinks and the controls get stronger. Write only what the product can actually honour in production.",
+          "visual": {
+            "label": "DOCUMENT SHRINKS PRODU",
+            "items": [
+              "“Compliance is behaviour first",
+              "paperwork second.”"
+            ],
+            "note": "Document shrinks; product controls remain dominant."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B28-YOUR-APP-DOESNT-NEED",
+      "title": "Your App Doesn’t Need 40 Paid UGC Creators on Day One",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Creator wall.",
+          "narration": "Spending thousands on creators before you know which message works is backwards.",
+          "visual": {
+            "label": "CREATOR WALL.",
+            "items": [
+              "Creator wall."
+            ],
+            "note": "Creator wall."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "40 cards compress into five hook cards.",
+          "narration": "Forty thumbnails and a cost counter, and not one of them has taught you anything. Compress the wall into a single variable: the hook or the message.",
+          "visual": {
+            "label": "40 CARDS COMPRESS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "40 cards compress into five hook cards."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 23,
+          "type": "code",
+          "text": "Same app, different opening lines.",
+          "narration": "Test five to ten opening lines with the same demo format underneath. Watch time and click through bars separate the angles for free. Two winners emerge before any production budget is committed.",
+          "visual": {
+            "label": "SAME APP DIFFERENT",
+            "file": "reel.ts",
+            "code": [
+              "// Same app",
+              "// different opening lines."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Same app, different opening lines."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "graph",
+          "text": "CTR/watch-time bars.",
+          "narration": "Only then scale human production around the message that already proved itself. Test the words first; pay for the performance later. Synthetic creators can be one testing tool if they are disclosed and lawful.",
+          "visual": {
+            "label": "CTR/WATCH-TIME BARS.",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "CTR/watch-time bars."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Two winners expand into proper creator campaign.",
+          "narration": "Cheap tests buy information, expensive shoots only buy footage. Order matters, and so does the receipt. Prove the message cheaply, then spend on the creators who fit it.",
+          "visual": {
+            "label": "TWO WINNERS EXPAND",
+            "items": [
+              "Only",
+              "scale production around winners."
+            ],
+            "note": "Two winners expand into proper creator campaign."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B29-THE-YC-APPLICATION-MISTA",
+      "title": "The YC Application Mistake: Writing for Investors Instead of Users",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Buzzword sentence stretches across screen.",
+          "narration": "The fastest way to weaken an application is to sound like a pitch deck.",
+          "visual": {
+            "label": "BUZZWORD SENTENCE STRE",
+            "items": [
+              "Buzzword sentence stretches across screen."
+            ],
+            "note": "Buzzword sentence stretches across screen."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Words vanish one by one.",
+          "narration": "AI-powered next-gen platform disrupting something nobody can check. Delete the adjectives one by one until only vague nothing remains.",
+          "visual": {
+            "label": "WORDS VANISH ONE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Words vanish one by one."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 22,
+          "type": "checklist",
+          "text": "Three factual cards.",
+          "narration": "Then write three factual cards instead. Who uses it, what they do now, and what changed because of you. Specific user, specific problem, specific traction, all verifiable in a sentence.",
+          "visual": {
+            "label": "THREE FACTUAL CARDS.",
+            "items": [
+              "who uses it",
+              "what they do now",
+              "what changed."
+            ],
+            "note": "Three factual cards."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 35,
+          "type": "compare",
+          "text": "Before/after application fields.",
+          "narration": "Compare a weak traction claim against one concrete number. The concrete one survives a second reading; the buzzword does not. Write like someone checking whether the business is real.",
+          "visual": {
+            "label": "BEFORE/AFTER APPLICATI",
+            "a": "Before/after application fields.",
+            "b": "Compare a weak traction claim",
+            "note": "Before/after application fields."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Clean application answer locks in.",
+          "narration": "Readers trust specificity because specificity can be wrong, and they notice when it is not. Remove the theatre and let the facts do the persuading. Write specifics a reader could verify, and drop the adjectives entirely.",
+          "visual": {
+            "label": "CLEAN APPLICATION ANSW",
+            "items": [
+              "Clean application answer locks in."
+            ],
+            "note": "Clean application answer locks in."
+          }
+        }
+      ]
+    },
+    {
+      "id": "B30-AI-DIDNT-KILL-DESIGNERS",
+      "title": "AI Didn’t “Kill” Designers — It Killed Parts of the Workflow",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Viral-style claim flashes, then cracks.",
+          "narration": "When someone says AI killed an entire job, ask which exact step disappeared.",
+          "visual": {
+            "label": "VIRAL-STYLE CLAIM FLAS",
+            "items": [
+              "Viral-style claim flashes",
+              "then cracks."
+            ],
+            "note": "Viral-style claim flashes, then cracks."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "timeline",
+          "text": "Workflow chain.",
+          "narration": "The headline cracks because the claim is too coarse to be true. Break the role into blocks: research, concepts, production, critique, handoff.",
+          "visual": {
+            "label": "WORKFLOW CHAIN.",
+            "items": [
+              "research",
+              "concepts",
+              "production",
+              "critique"
+            ],
+            "note": "Workflow chain."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 23,
+          "type": "checklist",
+          "text": "Blocks compress in duration.",
+          "narration": "Three of those blocks compress dramatically under automation. Drafts, variants and boilerplate get faster, sometimes ten times faster. Two blocks stay stubbornly human: direction and accountability.",
+          "visual": {
+            "label": "BLOCKS COMPRESS IN",
+            "items": [
+              "AI accelerates three blocks",
+              "two remain human-heavy."
+            ],
+            "note": "Blocks compress in duration."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "timeline",
+          "text": "Human decision nodes around AI outputs.",
+          "narration": "The new role is directing, selecting, editing and validating the output. Judgment did not disappear; it moved earlier in the chain. Verification and responsibility still belong to a person with a name.",
+          "visual": {
+            "label": "HUMAN DECISION NODES",
+            "items": [
+              "directing",
+              "selecting",
+              "editing",
+              "validating."
+            ],
+            "note": "Human decision nodes around AI outputs."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 45,
+          "type": "payoff",
+          "text": "Old workflow morphs into shorter new workflow.",
+          "narration": "Jobs rarely vanish in one click; workflows get rewritten first. Then the job title changes and the work underneath it changes shape. Ask which step disappeared before you accept that the whole job did.",
+          "visual": {
+            "label": "OLD WORKFLOW MORPHS",
+            "items": [],
+            "note": "Old workflow morphs into shorter new workflow."
+          }
+        }
+      ]
+    }
+  ]
+}

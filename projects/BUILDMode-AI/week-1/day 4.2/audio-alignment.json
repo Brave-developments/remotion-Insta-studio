@@ -1,0 +1,763 @@
+{
+  "fingerprint": "6482884703095ebb8336fc246acf55ffc302057404c1136921f551355412eabd",
+  "recognizedText": " Same model, same code change, two fresh sessions. Only one receives an extra focused review checklist. The fixture includes a missing permission check, an empty input edge case, and a control that traps keyboard users. Freeze the prompt and diff, add the checklist only to the second session. So the comparison has one clear change. Score validated findings, missed issues, and false alarms. A longer answer is not automatically a better review. Do not fill the scorecard until both recorded reviews are checked against the seated issues. Keep useful extra finding separate. This is the review experiment design. What focus checklist would you want every reviewer to carry?",
+  "words": [
+    {
+      "text": " Same",
+      "timestamp": [
+        0.0,
+        0.22
+      ]
+    },
+    {
+      "text": " model,",
+      "timestamp": [
+        0.22,
+        0.94
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        0.94,
+        1.14
+      ]
+    },
+    {
+      "text": " code",
+      "timestamp": [
+        1.14,
+        1.42
+      ]
+    },
+    {
+      "text": " change,",
+      "timestamp": [
+        1.42,
+        2.22
+      ]
+    },
+    {
+      "text": " two",
+      "timestamp": [
+        2.22,
+        2.54
+      ]
+    },
+    {
+      "text": " fresh",
+      "timestamp": [
+        2.54,
+        2.8
+      ]
+    },
+    {
+      "text": " sessions.",
+      "timestamp": [
+        2.8,
+        3.68
+      ]
+    },
+    {
+      "text": " Only",
+      "timestamp": [
+        4.12,
+        4.14
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        4.14,
+        4.42
+      ]
+    },
+    {
+      "text": " receives",
+      "timestamp": [
+        4.42,
+        4.76
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        4.76,
+        4.98
+      ]
+    },
+    {
+      "text": " extra",
+      "timestamp": [
+        4.98,
+        5.36
+      ]
+    },
+    {
+      "text": " focused",
+      "timestamp": [
+        5.36,
+        5.76
+      ]
+    },
+    {
+      "text": " review",
+      "timestamp": [
+        5.76,
+        6.12
+      ]
+    },
+    {
+      "text": " checklist.",
+      "timestamp": [
+        6.12,
+        7.2
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        7.24,
+        7.32
+      ]
+    },
+    {
+      "text": " fixture",
+      "timestamp": [
+        7.32,
+        7.66
+      ]
+    },
+    {
+      "text": " includes",
+      "timestamp": [
+        7.66,
+        8.06
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        8.06,
+        8.26
+      ]
+    },
+    {
+      "text": " missing",
+      "timestamp": [
+        8.26,
+        8.48
+      ]
+    },
+    {
+      "text": " permission",
+      "timestamp": [
+        8.48,
+        8.88
+      ]
+    },
+    {
+      "text": " check,",
+      "timestamp": [
+        8.88,
+        9.56
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        9.78,
+        9.9
+      ]
+    },
+    {
+      "text": " empty",
+      "timestamp": [
+        9.9,
+        10.26
+      ]
+    },
+    {
+      "text": " input",
+      "timestamp": [
+        10.26,
+        10.64
+      ]
+    },
+    {
+      "text": " edge",
+      "timestamp": [
+        10.64,
+        10.96
+      ]
+    },
+    {
+      "text": " case,",
+      "timestamp": [
+        10.96,
+        11.4
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        11.4,
+        11.8
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        11.8,
+        11.88
+      ]
+    },
+    {
+      "text": " control",
+      "timestamp": [
+        11.88,
+        12.28
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        12.4,
+        12.48
+      ]
+    },
+    {
+      "text": " traps",
+      "timestamp": [
+        12.48,
+        12.8
+      ]
+    },
+    {
+      "text": " keyboard",
+      "timestamp": [
+        12.8,
+        13.14
+      ]
+    },
+    {
+      "text": " users.",
+      "timestamp": [
+        13.14,
+        14.24
+      ]
+    },
+    {
+      "text": " Freeze",
+      "timestamp": [
+        14.5,
+        14.58
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        14.58,
+        14.78
+      ]
+    },
+    {
+      "text": " prompt",
+      "timestamp": [
+        14.78,
+        15.0
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        15.0,
+        15.22
+      ]
+    },
+    {
+      "text": " diff,",
+      "timestamp": [
+        15.22,
+        15.98
+      ]
+    },
+    {
+      "text": " add",
+      "timestamp": [
+        15.98,
+        16.14
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        16.14,
+        16.3
+      ]
+    },
+    {
+      "text": " checklist",
+      "timestamp": [
+        16.3,
+        16.66
+      ]
+    },
+    {
+      "text": " only",
+      "timestamp": [
+        16.92,
+        17.12
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        17.12,
+        17.28
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        17.28,
+        17.4
+      ]
+    },
+    {
+      "text": " second",
+      "timestamp": [
+        17.4,
+        17.66
+      ]
+    },
+    {
+      "text": " session.",
+      "timestamp": [
+        17.66,
+        18.44
+      ]
+    },
+    {
+      "text": " So",
+      "timestamp": [
+        18.48,
+        18.64
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        18.64,
+        18.74
+      ]
+    },
+    {
+      "text": " comparison",
+      "timestamp": [
+        18.74,
+        19.16
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        19.16,
+        19.44
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        19.44,
+        19.78
+      ]
+    },
+    {
+      "text": " clear",
+      "timestamp": [
+        19.78,
+        20.12
+      ]
+    },
+    {
+      "text": " change.",
+      "timestamp": [
+        20.12,
+        21.18
+      ]
+    },
+    {
+      "text": " Score",
+      "timestamp": [
+        21.18,
+        21.34
+      ]
+    },
+    {
+      "text": " validated",
+      "timestamp": [
+        21.34,
+        21.78
+      ]
+    },
+    {
+      "text": " findings,",
+      "timestamp": [
+        21.78,
+        22.86
+      ]
+    },
+    {
+      "text": " missed",
+      "timestamp": [
+        22.86,
+        23.02
+      ]
+    },
+    {
+      "text": " issues,",
+      "timestamp": [
+        23.02,
+        23.5
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        23.5,
+        23.94
+      ]
+    },
+    {
+      "text": " false",
+      "timestamp": [
+        23.94,
+        24.18
+      ]
+    },
+    {
+      "text": " alarms.",
+      "timestamp": [
+        24.18,
+        25.14
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        25.26,
+        25.38
+      ]
+    },
+    {
+      "text": " longer",
+      "timestamp": [
+        25.38,
+        25.66
+      ]
+    },
+    {
+      "text": " answer",
+      "timestamp": [
+        25.66,
+        26.04
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        26.04,
+        26.26
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        26.26,
+        26.46
+      ]
+    },
+    {
+      "text": " automatically",
+      "timestamp": [
+        26.46,
+        27.1
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        27.1,
+        27.3
+      ]
+    },
+    {
+      "text": " better",
+      "timestamp": [
+        27.3,
+        27.48
+      ]
+    },
+    {
+      "text": " review.",
+      "timestamp": [
+        27.48,
+        28.44
+      ]
+    },
+    {
+      "text": " Do",
+      "timestamp": [
+        28.4,
+        28.52
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        28.52,
+        28.72
+      ]
+    },
+    {
+      "text": " fill",
+      "timestamp": [
+        28.72,
+        28.94
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        28.94,
+        29.12
+      ]
+    },
+    {
+      "text": " scorecard",
+      "timestamp": [
+        29.12,
+        29.62
+      ]
+    },
+    {
+      "text": " until",
+      "timestamp": [
+        29.62,
+        29.94
+      ]
+    },
+    {
+      "text": " both",
+      "timestamp": [
+        29.94,
+        30.24
+      ]
+    },
+    {
+      "text": " recorded",
+      "timestamp": [
+        30.24,
+        30.66
+      ]
+    },
+    {
+      "text": " reviews",
+      "timestamp": [
+        30.66,
+        31.04
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        31.04,
+        31.24
+      ]
+    },
+    {
+      "text": " checked",
+      "timestamp": [
+        31.24,
+        31.44
+      ]
+    },
+    {
+      "text": " against",
+      "timestamp": [
+        31.44,
+        31.82
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        31.82,
+        31.98
+      ]
+    },
+    {
+      "text": " seated",
+      "timestamp": [
+        31.98,
+        32.24
+      ]
+    },
+    {
+      "text": " issues.",
+      "timestamp": [
+        32.24,
+        33.02
+      ]
+    },
+    {
+      "text": " Keep",
+      "timestamp": [
+        33.26,
+        33.34
+      ]
+    },
+    {
+      "text": " useful",
+      "timestamp": [
+        33.34,
+        33.74
+      ]
+    },
+    {
+      "text": " extra",
+      "timestamp": [
+        33.74,
+        34.08
+      ]
+    },
+    {
+      "text": " finding",
+      "timestamp": [
+        34.08,
+        34.46
+      ]
+    },
+    {
+      "text": " separate.",
+      "timestamp": [
+        34.46,
+        35.46
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        35.58,
+        35.64
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        35.64,
+        35.76
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        35.76,
+        35.88
+      ]
+    },
+    {
+      "text": " review",
+      "timestamp": [
+        35.88,
+        36.14
+      ]
+    },
+    {
+      "text": " experiment",
+      "timestamp": [
+        36.14,
+        36.7
+      ]
+    },
+    {
+      "text": " design.",
+      "timestamp": [
+        36.7,
+        37.7
+      ]
+    },
+    {
+      "text": " What",
+      "timestamp": [
+        37.7,
+        37.8
+      ]
+    },
+    {
+      "text": " focus",
+      "timestamp": [
+        37.8,
+        38.14
+      ]
+    },
+    {
+      "text": " checklist",
+      "timestamp": [
+        38.14,
+        38.58
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        38.58,
+        38.84
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        38.84,
+        38.96
+      ]
+    },
+    {
+      "text": " want",
+      "timestamp": [
+        38.96,
+        39.14
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        39.14,
+        39.52
+      ]
+    },
+    {
+      "text": " reviewer",
+      "timestamp": [
+        39.52,
+        39.98
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        39.98,
+        40.08
+      ]
+    },
+    {
+      "text": " carry?",
+      "timestamp": [
+        40.08,
+        40.62
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

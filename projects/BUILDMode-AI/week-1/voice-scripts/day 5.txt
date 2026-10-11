@@ -1,0 +1,11 @@
+A tiny dev team needs one shared job. Give four agent roles an original feedback board and a clear integration contract.
+
+Frontend composes the interface. API stores feedback. Tests verify behavior. Review inspects the change.
+
+Create, list, and update feedback. All roles use the same fields and endpoints so the pieces have a chance to fit.
+
+Track disagreements, merges, and coordinator interventions during the real run. Parallel work still has integration overhead.
+
+Check creation, status changes, validation, and reload persistence. Record elapsed time and coordination effort before drawing a conclusion.
+
+This is a directed team-workflow study. A faster-than-one-agent claim needs a matched single-agent run too. Would you use a team here?

@@ -1,0 +1,224 @@
+{
+  "id": "D03R2",
+  "day": 3,
+  "reelNumber": 2,
+  "title": "Rent a Robot",
+  "format": "Future Story",
+  "durationSeconds": 50,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "You do not own a robot. You rent one for two hours. At nine, a van arrives. A machine steps out and waits for permission to enter. You point at the sofa. It scans the room, protects the doorway, and moves the heavy end. For the first hour, this feels like renting a tool. Then you ask it to stay for another job. The robot cannot. Someone across town has already booked the next slot. The van leaves. Your furniture moved, and physical labour started looking like cloud computing. Would you let it in?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 94,
+  "estimatedWpm": 113,
+  "concept": "A humanoid arrives in a van, moves furniture and leaves for its next booking.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "You do not own a robot. You rent one for two hours.",
+    "The van brought a robot, not a delivery.",
+    "You booked two hours of physical labour in an app."
+  ],
+  "strongestHook": "You do not own a robot. You rent one for two hours.",
+  "directorBrief": "Direct this as a human story about A humanoid arrives in a van, moves furniture and leaves for its next booking. Emotional movement: convenience → access. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Hard",
+  "effort": "60–120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify robot-fleet concepts; consumer hourly-rental narrative is fictional.",
+  "sources": [
+    {
+      "label": "Agility commercial robot deployment",
+      "url": "https://www.agilityrobotics.com/content/digit-deployed-at-gxo-in-historic-humanoid-raas-agreement",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Rent A Robot",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Rent A Robot” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "The van leaves. Your furniture moved, and physical labour started looking like cloud computing. Would you let it in?",
+  "cta": "WOULD YOU LET IT IN?",
+  "instagramCaption": "Rent a Robot. A possible future, grounded in present technology. The dates and scenario are fictional. The van leaves. Your furniture moved, and physical labour started looking like cloud computing. Would you let it in?",
+  "tiktokCaption": "Rent a Robot. WOULD YOU LET IT IN? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88–104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Van, robot, sofa, booking timer, fleet map.",
+  "scenes": [
+    {
+      "id": "D03R2-S1",
+      "start": 0,
+      "end": 6.5,
+      "type": "hook",
+      "text": "2034 · A POSSIBLE FUTURE",
+      "narration": "You do not own a robot. You rent one for two hours.",
+      "concept": "Fictional booking confirmation, then van headlights reflected in the window.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional booking confirmation, then van headlights reflected in the window.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "You do not own a robot.",
+        "You rent one for two hours."
+      ]
+    },
+    {
+      "id": "D03R2-S2",
+      "start": 6.5,
+      "end": 14.5,
+      "type": "cinematic",
+      "text": "YOUR BOOKING HAS ARRIVED",
+      "narration": "At nine, a van arrives. A machine steps out and waits for permission to enter.",
+      "concept": "Continuous robot identity; doorway pause communicates human control.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d03r2/s2.png",
+      "plannedAssetType": "image",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Continuous robot identity; doorway pause communicates human control.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "At nine, a van arrives. A",
+        "machine steps out and waits for",
+        "permission to enter."
+      ]
+    },
+    {
+      "id": "D03R2-S3",
+      "start": 14.5,
+      "end": 23.5,
+      "type": "cinematic",
+      "text": "ONE HEAVY JOB",
+      "narration": "You point at the sofa. It scans the room, protects the doorway, and moves the heavy end.",
+      "concept": "Wide shot of clearance assessment; close shot of protected contact points.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d03r2/s3.png",
+      "plannedAssetType": "image",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Wide shot of clearance assessment; close shot of protected contact points.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "You point at the sofa. It",
+        "scans the room, protects the doorway,",
+        "and moves the heavy end."
+      ]
+    },
+    {
+      "id": "D03R2-S4",
+      "start": 23.5,
+      "end": 33.5,
+      "type": "phone",
+      "text": "TIME BECOMES A SERVICE",
+      "narration": "For the first hour, this feels like renting a tool. Then you ask it to stay for another job.",
+      "concept": "Fictional booking timer; extension request shown without invented market price.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional booking timer; extension request shown without invented market price.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "For the first hour, this feels",
+        "like renting a tool. Then you",
+        "ask it to stay for another job."
+      ]
+    },
+    {
+      "id": "D03R2-S5",
+      "start": 33.5,
+      "end": 40,
+      "type": "workflow",
+      "text": "NEXT CUSTOMER WAITING",
+      "narration": "The robot cannot. Someone across town has already booked the next slot.",
+      "concept": "Map route pulls away from the home; no invented actual fleet data.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Map route pulls away from the home; no invented actual fleet data.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The robot cannot. Someone across town",
+        "has already booked the next slot."
+      ]
+    },
+    {
+      "id": "D03R2-S6",
+      "start": 40,
+      "end": 50,
+      "type": "question",
+      "text": "WOULD YOU LET IT IN?",
+      "narration": "The van leaves. Your furniture moved, and physical labour started looking like cloud computing. Would you let it in?",
+      "concept": "Empty doorway echoes arrival shot; soften sound into room tone.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Empty doorway echoes arrival shot; soften sound into room tone.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "The van leaves. Your furniture moved,",
+        "and physical labour started looking like",
+        "cloud computing. Would you let it in?"
+      ]
+    }
+  ]
+}

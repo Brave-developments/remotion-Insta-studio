@@ -1,0 +1,252 @@
+{
+  "startedAt": "2026-10-09T14:30:55.920Z",
+  "project": "RETENTION-LAB",
+  "mode": "full",
+  "quality": "1080x1920 / 30fps / H.264 CRF 18",
+  "completed": 60,
+  "total": 60,
+  "reels": {
+    "R01-BUG-REPORT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R01-BUG-REPORT.mp4"
+    },
+    "R02-RETENTION-CLIFF": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R02-RETENTION-CLIFF.mp4"
+    },
+    "R02-THE-FIRST-SECOND-HAS": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R02-THE-FIRST-SECOND-HAS.mp4"
+    },
+    "R03-YOUR-HOOK-MADE-A": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R03-YOUR-HOOK-MADE-A.mp4"
+    },
+    "R04-CURIOSITY-WITHOUT-CLICKB": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R04-CURIOSITY-WITHOUT-CLICKB.mp4"
+    },
+    "R05-SHOW-THE-RESULT-BEFORE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R05-SHOW-THE-RESULT-BEFORE.mp4"
+    },
+    "R06-STOP-SAYING-WELCOME-BACK": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R06-STOP-SAYING-WELCOME-BACK.mp4"
+    },
+    "R07-THE-VISUAL-HOOK-MATTERS": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R07-THE-VISUAL-HOOK-MATTERS.mp4"
+    },
+    "R08-PATTERN-INTERRUPTS-NEED": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R08-PATTERN-INTERRUPTS-NEED.mp4"
+    },
+    "R10-WHY-VIEWERS-LEAVE-IN": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R10-WHY-VIEWERS-LEAVE-IN.mp4"
+    },
+    "R11-YOUR-PAYOFF-IS-TOO": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R11-YOUR-PAYOFF-IS-TOO.mp4"
+    },
+    "R12-RESET-ATTENTION-WITHOUT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R12-RESET-ATTENTION-WITHOUT.mp4"
+    },
+    "R13-THREE-RETENTION-GRAPHS-T": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R13-THREE-RETENTION-GRAPHS-T.mp4"
+    },
+    "R14-WHY-SOME-VIDEOS-GET": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R14-WHY-SOME-VIDEOS-GET.mp4"
+    },
+    "R15-DEAD-SPACE-IS-EXPENSIVE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R15-DEAD-SPACE-IS-EXPENSIVE.mp4"
+    },
+    "R16-PREDICTABLE-VIDEOS-FEEL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R16-PREDICTABLE-VIDEOS-FEEL.mp4"
+    },
+    "R17-REVEAL-CADENCE-BEATS-CON": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R17-REVEAL-CADENCE-BEATS-CON.mp4"
+    },
+    "R18-PROBLEM-PROOF-PAYOFF": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R18-PROBLEM-PROOF-PAYOFF.mp4"
+    },
+    "R19-OPEN-LOOPS-THAT-ACTUALLY": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R19-OPEN-LOOPS-THAT-ACTUALLY.mp4"
+    },
+    "R20-THE-45-SECOND-CASE-STUDY": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R20-THE-45-SECOND-CASE-STUDY.mp4"
+    },
+    "R21-BEFOREAFTER-IS-A-STORY": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R21-BEFOREAFTER-IS-A-STORY.mp4"
+    },
+    "R22-GIVE-THE-VIDEO-A": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R22-GIVE-THE-VIDEO-A.mp4"
+    },
+    "R23-TELL-A-STORY-WITHOUT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R23-TELL-A-STORY-WITHOUT.mp4"
+    },
+    "R24-BUILD-AN-INFORMATION-LAD": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R24-BUILD-AN-INFORMATION-LAD.mp4"
+    },
+    "R25-CONTRAST-MAKES-EXPLANATI": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R25-CONTRAST-MAKES-EXPLANATI.mp4"
+    },
+    "R26-CUT-WHEN-THE-THOUGHT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R26-CUT-WHEN-THE-THOUGHT.mp4"
+    },
+    "R27-ZOOM-WITH-A-PURPOSE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R27-ZOOM-WITH-A-PURPOSE.mp4"
+    },
+    "R28-YOUR-B-ROLL-CAN-MAKE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R28-YOUR-B-ROLL-CAN-MAKE.mp4"
+    },
+    "R29-CAPTION-HIERARCHY-BEATS": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R29-CAPTION-HIERARCHY-BEATS.mp4"
+    },
+    "R30-DESIGN-FOR-THE-MOBILE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R30-DESIGN-FOR-THE-MOBILE.mp4"
+    },
+    "R31-MAKE-BROWSER-UI-FEEL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R31-MAKE-BROWSER-UI-FEEL.mp4"
+    },
+    "R32-ANIMATE-CODE-WITHOUT-MAK": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R32-ANIMATE-CODE-WITHOUT-MAK.mp4"
+    },
+    "R33-USE-MOTION-CONTINUITY": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R33-USE-MOTION-CONTINUITY.mp4"
+    },
+    "R34-SOUND-DESIGN-IS-INVISIBL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R34-SOUND-DESIGN-IS-INVISIBL.mp4"
+    },
+    "R35-TURN-A-SCREENSHOT-INTO": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R35-TURN-A-SCREENSHOT-INTO.mp4"
+    },
+    "R36-GIVE-VALUE-BEFORE-THE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R36-GIVE-VALUE-BEFORE-THE.mp4"
+    },
+    "R37-ASK-FOR-THE-RIGHT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R37-ASK-FOR-THE-RIGHT.mp4"
+    },
+    "R38-TRUST-CAN-OUTPERFORM-VIR": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R38-TRUST-CAN-OUTPERFORM-VIR.mp4"
+    },
+    "R39-TURN-VIEWERS-INTO-PROFIL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R39-TURN-VIEWERS-INTO-PROFIL.mp4"
+    },
+    "R40-TEST-THREE-HOOKS-NOT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R40-TEST-THREE-HOOKS-NOT.mp4"
+    },
+    "R41-REMAKE-AN-UNDERPERFORMER": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R41-REMAKE-AN-UNDERPERFORMER.mp4"
+    },
+    "R42-BUILD-A-CONTENT-PILLAR": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R42-BUILD-A-CONTENT-PILLAR.mp4"
+    },
+    "R43-POSTING-MORE-IS-NOT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R43-POSTING-MORE-IS-NOT.mp4"
+    },
+    "R44-THE-WEEKLY-CONTENT-REVIE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R44-THE-WEEKLY-CONTENT-REVIE.mp4"
+    },
+    "R45-ONE-IDEA-FIVE-REEL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R45-ONE-IDEA-FIVE-REEL.mp4"
+    },
+    "R46-BUILD-A-30-DAY-CONTENT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R46-BUILD-A-30-DAY-CONTENT.mp4"
+    },
+    "R47-QUALITY-VS-CONSISTENCY-I": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R47-QUALITY-VS-CONSISTENCY-I.mp4"
+    },
+    "R48-TEACH-THE-ALGORITHM-YOUR": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R48-TEACH-THE-ALGORITHM-YOUR.mp4"
+    },
+    "R49-VIRAL-DOES-NOT-MEAN": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R49-VIRAL-DOES-NOT-MEAN.mp4"
+    },
+    "R50-THE-HOOKPROOF-GAP": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R50-THE-HOOKPROOF-GAP.mp4"
+    },
+    "R51-USE-EXAMPLES-BEFORE-DEFI": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R51-USE-EXAMPLES-BEFORE-DEFI.mp4"
+    },
+    "R52-MAKE-THE-VIEWER-PREDICT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R52-MAKE-THE-VIEWER-PREDICT.mp4"
+    },
+    "R53-USE-A-PROGRESS-PROMISE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R53-USE-A-PROGRESS-PROMISE.mp4"
+    },
+    "R54-REPLACE-EXPLANATION-WITH": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R54-REPLACE-EXPLANATION-WITH.mp4"
+    },
+    "R55-ONE-REEL-ONE-MAIN": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R55-ONE-REEL-ONE-MAIN.mp4"
+    },
+    "R56-THE-PROOF-STACK": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R56-THE-PROOF-STACK.mp4"
+    },
+    "R57-BUILD-A-RE-HOOK-AT": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R57-BUILD-A-RE-HOOK-AT.mp4"
+    },
+    "R58-USE-NUMBERS-AS-VISUAL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R58-USE-NUMBERS-AS-VISUAL.mp4"
+    },
+    "R59-THE-MINI-EXPERIMENT-REEL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R59-THE-MINI-EXPERIMENT-REEL.mp4"
+    },
+    "R60-TURN-COMMENTS-INTO-THE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\RETENTION-LAB\\out\\R60-TURN-COMMENTS-INTO-THE.mp4"
+    }
+  },
+  "status": "complete",
+  "updatedAt": "2026-10-09T14:30:59.318Z"
+}

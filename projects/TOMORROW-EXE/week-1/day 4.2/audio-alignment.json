@@ -1,0 +1,588 @@
+{
+  "fingerprint": "62fe0ed0977734c0021af7fc3fa52dda9d6f66acb1cb265fc7974b412088846a",
+  "recognizedText": " It is 2033, one classroom, 28 AI tutors, one student learns fractions with a pizza, another gets a football diagram, a third needs the problem read aloud. The teacher stops repeating the explanation and starts noticing who has gone quiet. A tutor recommends the easier course. The student asks whether that means they are not good enough. The teacher closes the suggestion, some decisions need more than a prediction. If every child gets an AI tutor, what should it never decide for them?",
+  "words": [
+    {
+      "text": " It",
+      "timestamp": [
+        0.0,
+        0.44
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        0.44,
+        0.54
+      ]
+    },
+    {
+      "text": " 2033,",
+      "timestamp": [
+        0.54,
+        1.96
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        1.96,
+        2.26
+      ]
+    },
+    {
+      "text": " classroom,",
+      "timestamp": [
+        2.26,
+        3.28
+      ]
+    },
+    {
+      "text": " 28",
+      "timestamp": [
+        3.28,
+        3.7
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        3.7,
+        4.04
+      ]
+    },
+    {
+      "text": " tutors,",
+      "timestamp": [
+        4.04,
+        5.02
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        5.02,
+        5.24
+      ]
+    },
+    {
+      "text": " student",
+      "timestamp": [
+        5.24,
+        5.58
+      ]
+    },
+    {
+      "text": " learns",
+      "timestamp": [
+        5.58,
+        5.84
+      ]
+    },
+    {
+      "text": " fractions",
+      "timestamp": [
+        5.84,
+        6.3
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        6.3,
+        6.58
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        6.58,
+        6.66
+      ]
+    },
+    {
+      "text": " pizza,",
+      "timestamp": [
+        6.66,
+        7.52
+      ]
+    },
+    {
+      "text": " another",
+      "timestamp": [
+        7.52,
+        7.78
+      ]
+    },
+    {
+      "text": " gets",
+      "timestamp": [
+        7.94,
+        8.0
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        8.0,
+        8.16
+      ]
+    },
+    {
+      "text": " football",
+      "timestamp": [
+        8.16,
+        8.4
+      ]
+    },
+    {
+      "text": " diagram,",
+      "timestamp": [
+        8.4,
+        9.44
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        9.44,
+        9.64
+      ]
+    },
+    {
+      "text": " third",
+      "timestamp": [
+        9.64,
+        9.96
+      ]
+    },
+    {
+      "text": " needs",
+      "timestamp": [
+        9.96,
+        10.32
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        10.32,
+        10.52
+      ]
+    },
+    {
+      "text": " problem",
+      "timestamp": [
+        10.52,
+        10.88
+      ]
+    },
+    {
+      "text": " read",
+      "timestamp": [
+        10.88,
+        11.1
+      ]
+    },
+    {
+      "text": " aloud.",
+      "timestamp": [
+        11.1,
+        12.04
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        12.18,
+        12.22
+      ]
+    },
+    {
+      "text": " teacher",
+      "timestamp": [
+        12.22,
+        12.48
+      ]
+    },
+    {
+      "text": " stops",
+      "timestamp": [
+        12.48,
+        12.78
+      ]
+    },
+    {
+      "text": " repeating",
+      "timestamp": [
+        12.78,
+        13.18
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.18,
+        13.4
+      ]
+    },
+    {
+      "text": " explanation",
+      "timestamp": [
+        13.4,
+        13.94
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        13.94,
+        14.22
+      ]
+    },
+    {
+      "text": " starts",
+      "timestamp": [
+        14.22,
+        14.46
+      ]
+    },
+    {
+      "text": " noticing",
+      "timestamp": [
+        14.46,
+        14.9
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        14.9,
+        15.2
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        15.2,
+        15.34
+      ]
+    },
+    {
+      "text": " gone",
+      "timestamp": [
+        15.34,
+        15.52
+      ]
+    },
+    {
+      "text": " quiet.",
+      "timestamp": [
+        15.52,
+        16.38
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        16.54,
+        16.6
+      ]
+    },
+    {
+      "text": " tutor",
+      "timestamp": [
+        16.6,
+        16.8
+      ]
+    },
+    {
+      "text": " recommends",
+      "timestamp": [
+        16.8,
+        17.26
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        17.26,
+        17.52
+      ]
+    },
+    {
+      "text": " easier",
+      "timestamp": [
+        17.52,
+        17.82
+      ]
+    },
+    {
+      "text": " course.",
+      "timestamp": [
+        17.82,
+        18.8
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        18.94,
+        18.98
+      ]
+    },
+    {
+      "text": " student",
+      "timestamp": [
+        18.98,
+        19.24
+      ]
+    },
+    {
+      "text": " asks",
+      "timestamp": [
+        19.24,
+        19.64
+      ]
+    },
+    {
+      "text": " whether",
+      "timestamp": [
+        19.64,
+        19.94
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        19.94,
+        20.1
+      ]
+    },
+    {
+      "text": " means",
+      "timestamp": [
+        20.1,
+        20.3
+      ]
+    },
+    {
+      "text": " they",
+      "timestamp": [
+        20.3,
+        20.52
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        20.52,
+        20.6
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        20.6,
+        20.78
+      ]
+    },
+    {
+      "text": " good",
+      "timestamp": [
+        20.78,
+        21.02
+      ]
+    },
+    {
+      "text": " enough.",
+      "timestamp": [
+        21.02,
+        21.66
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        21.72,
+        21.74
+      ]
+    },
+    {
+      "text": " teacher",
+      "timestamp": [
+        21.74,
+        22.04
+      ]
+    },
+    {
+      "text": " closes",
+      "timestamp": [
+        22.04,
+        22.46
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        22.46,
+        22.7
+      ]
+    },
+    {
+      "text": " suggestion,",
+      "timestamp": [
+        22.7,
+        23.72
+      ]
+    },
+    {
+      "text": " some",
+      "timestamp": [
+        23.72,
+        23.98
+      ]
+    },
+    {
+      "text": " decisions",
+      "timestamp": [
+        23.98,
+        24.38
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        24.38,
+        24.66
+      ]
+    },
+    {
+      "text": " more",
+      "timestamp": [
+        24.66,
+        24.92
+      ]
+    },
+    {
+      "text": " than",
+      "timestamp": [
+        24.92,
+        25.08
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        25.08,
+        25.18
+      ]
+    },
+    {
+      "text": " prediction.",
+      "timestamp": [
+        25.18,
+        26.06
+      ]
+    },
+    {
+      "text": " If",
+      "timestamp": [
+        26.22,
+        26.28
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        26.28,
+        26.5
+      ]
+    },
+    {
+      "text": " child",
+      "timestamp": [
+        26.5,
+        26.78
+      ]
+    },
+    {
+      "text": " gets",
+      "timestamp": [
+        26.78,
+        27.0
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        27.0,
+        27.18
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        27.18,
+        27.36
+      ]
+    },
+    {
+      "text": " tutor,",
+      "timestamp": [
+        27.36,
+        28.18
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        28.18,
+        28.34
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        28.34,
+        28.48
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        28.48,
+        28.58
+      ]
+    },
+    {
+      "text": " never",
+      "timestamp": [
+        28.58,
+        28.82
+      ]
+    },
+    {
+      "text": " decide",
+      "timestamp": [
+        28.82,
+        29.16
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        29.16,
+        29.42
+      ]
+    },
+    {
+      "text": " them?",
+      "timestamp": [
+        29.42,
+        29.74
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

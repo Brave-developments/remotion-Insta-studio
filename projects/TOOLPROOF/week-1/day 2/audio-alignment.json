@@ -1,0 +1,595 @@
+{
+  "fingerprint": "3f41f68d1c17f9de5a6c7682a1f766643e7aad6eaa67d9d154df19d2a53bc8b2",
+  "recognizedText": " Sending a file between different devices should not need a cloud upload. Local send transfers over your local network, both devices need to discover each other there. The official project supports Android, iOS, Windows, Mac OS, and Linux. It does not require an account. Pick a device, accept the request, and check the received file. That is useful at home. It also means network discovery and device permissions matter. Next, I am testing photos, a large video and a folder against a cloud workflow.",
+  "words": [
+    {
+      "text": " Sending",
+      "timestamp": [
+        0.0,
+        0.52
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        0.52,
+        0.66
+      ]
+    },
+    {
+      "text": " file",
+      "timestamp": [
+        0.66,
+        0.94
+      ]
+    },
+    {
+      "text": " between",
+      "timestamp": [
+        0.94,
+        1.24
+      ]
+    },
+    {
+      "text": " different",
+      "timestamp": [
+        1.24,
+        1.6
+      ]
+    },
+    {
+      "text": " devices",
+      "timestamp": [
+        1.6,
+        2.06
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        2.06,
+        2.4
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        2.4,
+        2.58
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        2.58,
+        2.82
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.82,
+        2.94
+      ]
+    },
+    {
+      "text": " cloud",
+      "timestamp": [
+        2.94,
+        3.14
+      ]
+    },
+    {
+      "text": " upload.",
+      "timestamp": [
+        3.14,
+        4.08
+      ]
+    },
+    {
+      "text": " Local",
+      "timestamp": [
+        4.38,
+        4.38
+      ]
+    },
+    {
+      "text": " send",
+      "timestamp": [
+        4.38,
+        4.68
+      ]
+    },
+    {
+      "text": " transfers",
+      "timestamp": [
+        4.68,
+        5.24
+      ]
+    },
+    {
+      "text": " over",
+      "timestamp": [
+        5.24,
+        5.6
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        5.6,
+        5.74
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        5.74,
+        6.02
+      ]
+    },
+    {
+      "text": " network,",
+      "timestamp": [
+        6.02,
+        6.88
+      ]
+    },
+    {
+      "text": " both",
+      "timestamp": [
+        6.88,
+        7.14
+      ]
+    },
+    {
+      "text": " devices",
+      "timestamp": [
+        7.14,
+        7.62
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        7.62,
+        7.92
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        7.92,
+        8.08
+      ]
+    },
+    {
+      "text": " discover",
+      "timestamp": [
+        8.08,
+        8.42
+      ]
+    },
+    {
+      "text": " each",
+      "timestamp": [
+        8.42,
+        8.7
+      ]
+    },
+    {
+      "text": " other",
+      "timestamp": [
+        8.7,
+        8.86
+      ]
+    },
+    {
+      "text": " there.",
+      "timestamp": [
+        8.86,
+        9.56
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        9.62,
+        9.74
+      ]
+    },
+    {
+      "text": " official",
+      "timestamp": [
+        9.74,
+        10.12
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        10.12,
+        10.54
+      ]
+    },
+    {
+      "text": " supports",
+      "timestamp": [
+        10.54,
+        10.94
+      ]
+    },
+    {
+      "text": " Android,",
+      "timestamp": [
+        10.94,
+        11.82
+      ]
+    },
+    {
+      "text": " iOS,",
+      "timestamp": [
+        11.82,
+        12.68
+      ]
+    },
+    {
+      "text": " Windows,",
+      "timestamp": [
+        12.68,
+        13.42
+      ]
+    },
+    {
+      "text": " Mac",
+      "timestamp": [
+        13.42,
+        13.56
+      ]
+    },
+    {
+      "text": " OS,",
+      "timestamp": [
+        13.56,
+        14.22
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        14.22,
+        14.3
+      ]
+    },
+    {
+      "text": " Linux.",
+      "timestamp": [
+        14.3,
+        15.0
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        15.2,
+        15.34
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        15.34,
+        15.48
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        15.48,
+        15.7
+      ]
+    },
+    {
+      "text": " require",
+      "timestamp": [
+        15.7,
+        16.06
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        16.06,
+        16.3
+      ]
+    },
+    {
+      "text": " account.",
+      "timestamp": [
+        16.3,
+        17.12
+      ]
+    },
+    {
+      "text": " Pick",
+      "timestamp": [
+        17.28,
+        17.3
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        17.3,
+        17.44
+      ]
+    },
+    {
+      "text": " device,",
+      "timestamp": [
+        17.44,
+        18.1
+      ]
+    },
+    {
+      "text": " accept",
+      "timestamp": [
+        18.1,
+        18.42
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        18.42,
+        18.62
+      ]
+    },
+    {
+      "text": " request,",
+      "timestamp": [
+        18.62,
+        19.22
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        19.22,
+        19.52
+      ]
+    },
+    {
+      "text": " check",
+      "timestamp": [
+        19.52,
+        19.78
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        19.78,
+        20.02
+      ]
+    },
+    {
+      "text": " received",
+      "timestamp": [
+        20.02,
+        20.38
+      ]
+    },
+    {
+      "text": " file.",
+      "timestamp": [
+        20.38,
+        21.08
+      ]
+    },
+    {
+      "text": " That",
+      "timestamp": [
+        21.28,
+        21.44
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        21.44,
+        21.54
+      ]
+    },
+    {
+      "text": " useful",
+      "timestamp": [
+        21.54,
+        21.9
+      ]
+    },
+    {
+      "text": " at",
+      "timestamp": [
+        21.9,
+        22.14
+      ]
+    },
+    {
+      "text": " home.",
+      "timestamp": [
+        22.14,
+        22.76
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        22.94,
+        23.02
+      ]
+    },
+    {
+      "text": " also",
+      "timestamp": [
+        23.02,
+        23.3
+      ]
+    },
+    {
+      "text": " means",
+      "timestamp": [
+        23.3,
+        23.54
+      ]
+    },
+    {
+      "text": " network",
+      "timestamp": [
+        23.54,
+        23.96
+      ]
+    },
+    {
+      "text": " discovery",
+      "timestamp": [
+        23.96,
+        24.54
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        24.54,
+        24.78
+      ]
+    },
+    {
+      "text": " device",
+      "timestamp": [
+        24.78,
+        25.02
+      ]
+    },
+    {
+      "text": " permissions",
+      "timestamp": [
+        25.02,
+        25.54
+      ]
+    },
+    {
+      "text": " matter.",
+      "timestamp": [
+        25.54,
+        26.34
+      ]
+    },
+    {
+      "text": " Next,",
+      "timestamp": [
+        26.32,
+        26.94
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        26.94,
+        27.04
+      ]
+    },
+    {
+      "text": " am",
+      "timestamp": [
+        27.04,
+        27.14
+      ]
+    },
+    {
+      "text": " testing",
+      "timestamp": [
+        27.14,
+        27.44
+      ]
+    },
+    {
+      "text": " photos,",
+      "timestamp": [
+        27.44,
+        28.42
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        28.42,
+        28.5
+      ]
+    },
+    {
+      "text": " large",
+      "timestamp": [
+        28.5,
+        28.76
+      ]
+    },
+    {
+      "text": " video",
+      "timestamp": [
+        28.76,
+        29.12
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        29.12,
+        29.48
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        29.48,
+        29.62
+      ]
+    },
+    {
+      "text": " folder",
+      "timestamp": [
+        29.62,
+        29.9
+      ]
+    },
+    {
+      "text": " against",
+      "timestamp": [
+        29.9,
+        30.3
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        30.3,
+        30.46
+      ]
+    },
+    {
+      "text": " cloud",
+      "timestamp": [
+        30.46,
+        30.68
+      ]
+    },
+    {
+      "text": " workflow.",
+      "timestamp": [
+        30.68,
+        31.5
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

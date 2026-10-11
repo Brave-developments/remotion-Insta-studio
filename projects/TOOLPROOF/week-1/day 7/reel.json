@@ -1,0 +1,231 @@
+{
+  "id": "D07R1",
+  "day": 7,
+  "reelNumber": 1,
+  "title": "Butterfly — Discovery",
+  "format": "Discovery",
+  "durationSeconds": 35,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "This open-source notebook starts with a canvas, not a subscription pitch. Butterfly is a local-first, cross-platform note app. I want to see the workflow, not just the feature list. Import a sample PDF, write on it, and move one note without rebuilding the page. Then export the page and open it in another viewer. Handwriting, organization, and collaboration can behave very differently across devices and versions. Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 82,
+  "estimatedWpm": 141,
+  "concept": "Draw, import a PDF, annotate, move objects and export.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "This open-source notebook starts with a canvas, not a subscription pitch.",
+    "An open-source canvas for your PDF notes.",
+    "Write on the PDF, then check what leaves the app."
+  ],
+  "strongestHook": "This open-source notebook starts with a canvas, not a subscription pitch.",
+  "directorBrief": "Direct this as a useful discovery with one important limit: Draw, import a PDF, annotate, move objects and export. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Easy",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Use a supported available device and synthetic three-page PDF. Log OS, stylus/mouse, Butterfly version and platform status. Demonstrate import, writing, highlighting, moving a note and export if supported. Inspect exported PDF independently. Capture official local-first/platform claims and experimental feature labels separately from observed actions.",
+  "evidenceRequirements": "Verify versions, platforms, preview labels and collaboration status.",
+  "sources": [
+    {
+      "label": "Butterfly repository",
+      "url": "https://github.com/LinwoodDev/Butterfly",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "An Open Source Notebook",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “An Open Source Notebook” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+  "cta": "SAME PDF. TWO NOTE APPS.",
+  "instagramCaption": "Butterfly — Discovery. Draw, import a PDF, annotate, move objects and export. Full test conditions and limitations belong beside the final result. Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+  "tiktokCaption": "Butterfly — Discovery. SAME PDF. TWO NOTE APPS.",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Canvas, PDF, exports, platform evidence.",
+  "scenes": [
+    {
+      "id": "D07R1-S1",
+      "start": 0,
+      "end": 4.766666666666667,
+      "type": "hook",
+      "text": "AN OPEN-SOURCE NOTEBOOK",
+      "narration": "This open-source notebook starts with a canvas, not a subscription pitch.",
+      "concept": "Real Butterfly canvas and installed version; use synthetic notes.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real Butterfly canvas and installed version; use synthetic notes.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "This open-source notebook starts with a",
+        "canvas, not a subscription pitch."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D07R1-S2",
+      "start": 4.766666666666667,
+      "end": 12.333333333333334,
+      "type": "evidence",
+      "text": "LOCAL-FIRST NOTES",
+      "narration": "Butterfly is a local-first, cross-platform note app. I want to see the workflow, not just the feature list.",
+      "concept": "Official README with current platform evidence; state only tested device in overlay.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Official README with current platform evidence; state only tested device in overlay.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Butterfly is a local-first, cross-platform note",
+        "app. I want to see the",
+        "workflow, not just the feature list."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D07R1-S3",
+      "start": 12.333333333333334,
+      "end": 18.7,
+      "type": "evidence",
+      "text": "IMPORT. WRITE. MOVE.",
+      "narration": "Import a sample PDF, write on it, and move one note without rebuilding the page.",
+      "concept": "Actual supported actions at normal speed; show gaps honestly.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual supported actions at normal speed; show gaps honestly.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Import a sample PDF, write on",
+        "it, and move one note without",
+        "rebuilding the page."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D07R1-S4",
+      "start": 18.7,
+      "end": 23.066666666666666,
+      "type": "evidence",
+      "text": "DOES THE EXPORT SURVIVE?",
+      "narration": "Then export the page and open it in another viewer.",
+      "concept": "Real export dialog and independent PDF view; verify annotation placement.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real export dialog and independent PDF view; verify annotation placement.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Then export the page and open",
+        "it in another viewer."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D07R1-S5",
+      "start": 23.066666666666666,
+      "end": 28.233333333333334,
+      "type": "workflow",
+      "text": "TEST THE DEVICE YOU USE",
+      "narration": "Handwriting, organization, and collaboration can behave very differently across devices and versions.",
+      "concept": "Device and version card; label experimental features when official docs do.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Device and version card; label experimental features when official docs do.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Handwriting, organization, and collaboration can behave",
+        "very differently across devices and versions."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D07R1-S6",
+      "start": 28.233333333333334,
+      "end": 35,
+      "type": "question",
+      "text": "SAME PDF. TWO NOTE APPS.",
+      "narration": "Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+      "concept": "Sample PDF returns blank, ready for paired annotation.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Sample PDF returns blank, ready for paired annotation.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Next I am using the same",
+        "PDF in Butterfly and Goodnotes. What",
+        "would make you switch?"
+      ],
+      "visualSystem": "ToolVisuals"
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-source-backed-explainer-built"
+}

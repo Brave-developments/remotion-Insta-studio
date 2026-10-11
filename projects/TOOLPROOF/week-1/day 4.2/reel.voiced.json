@@ -1,0 +1,375 @@
+{
+  "id": "D04R2",
+  "day": 4,
+  "reelNumber": 2,
+  "title": "Cap \u2014 Loom Test",
+  "format": "Test",
+  "durationSeconds": 36.2,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I recorded the same sixty-second demo in Cap and Loom. Same resolution, frame-rate target, microphone, and script. Setup time stays in the comparison. I checked readable text, cursor movement, edits, captions, and whether sharing worked for another viewer. A feature I could not access on my plan is a limit, not an automatic failure of the entire product. [OUTPUT_AND_WORKFLOW_RESULTS]. [CURRENT_LICENSE_AND_COST_OBSERVATION]. [PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+  "audio": "audio/day 4.2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 68,
+  "estimatedWpm": 74,
+  "concept": "Same 60-second demo: setup, quality, cursor, zoom, editing, captions, export and sharing.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "I recorded the same sixty-second demo in Cap and Loom.",
+    "Same demo. Which recording can someone actually use?",
+    "The export matters more than the record button."
+  ],
+  "strongestHook": "I recorded the same sixty-second demo in Cap and Loom.",
+  "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Same 60-second demo: setup, quality, cursor, zoom, editing, captions, export and sharing. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Medium",
+  "effort": "30\u201390 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Use identical 60-second demo script, viewport, resolution target, microphone, camera state and plan metadata in Cap and Loom. Log settings that cannot match. Time setup, recording-to-usable-export and sharing. Inspect text at 100%, cursor/zoom, edits, caption accuracy if available and output dimensions. Open share link in a fresh viewer session. Report feature gates and dated cost/license evidence; no unconditional free commercial-use recommendation.",
+  "evidenceRequirements": "Same capture settings; assess finished videos and true costs.",
+  "sources": [
+    {
+      "label": "Cap pricing and licensing",
+      "url": "https://cap.so/pricing",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Cap Versus Loom",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cCap Versus Loom\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+  "cta": "WHAT DO YOU RECORD?",
+  "instagramCaption": "Cap \u2014 Loom Test. Same 60-second demo: setup, quality, cursor, zoom, editing, captions, export and sharing. Full test conditions and limitations belong beside the final result. [PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+  "tiktokCaption": "Cap \u2014 Loom Test. WHAT DO YOU RECORD?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Paired recordings and export/share screens.",
+  "scenes": [
+    {
+      "id": "D04R2-S1",
+      "start": 0.0,
+      "end": 5.1,
+      "type": "hook",
+      "text": "CAP VS LOOM",
+      "narration": "I recorded the same sixty-second demo in Cap and Loom.",
+      "concept": "Same local demo page and selected recording region.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Same local demo page and selected recording region.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I recorded the same sixty-second demo",
+        "in Cap and Loom."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "SAME SIXTY-SECOND DEMO",
+      "presentationNarration": "The planned comparison records the same sixty-second demonstration in Cap and Loom.",
+      "presentationCaptionChunks": [
+        "The planned comparison records the same",
+        "sixty-second demonstration in Cap and Loom."
+      ],
+      "originalStart": 0,
+      "originalEnd": 8.166666666666666,
+      "captionTimings": [
+        {
+          "text": "The planned comparison records the same",
+          "start": 0.0,
+          "end": 2.18
+        },
+        {
+          "text": "sixty-second demonstration in Cap and Loom.",
+          "start": 2.02,
+          "end": 4.98
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S2",
+      "start": 5.1,
+      "end": 11.3,
+      "type": "workflow",
+      "text": "MATCH THE CONDITIONS",
+      "narration": "Same resolution, frame-rate target, microphone, and script. Setup time stays in the comparison.",
+      "concept": "Show actual settings and plans; note settings that cannot be matched.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show actual settings and plans; note settings that cannot be matched.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Same resolution, frame-rate target, microphone, and",
+        "script. Setup time stays in the comparison."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "MATCH THE CONDITIONS",
+      "presentationNarration": "Resolution, frame-rate target, microphone, and script will match. Setup effort stays visible.",
+      "presentationCaptionChunks": [
+        "Resolution, frame-rate target, microphone, and script",
+        "will match. Setup effort stays visible."
+      ],
+      "originalStart": 8.166666666666666,
+      "originalEnd": 18.566666666666666,
+      "captionTimings": [
+        {
+          "text": "Resolution, frame-rate target, microphone, and script",
+          "start": 0.02,
+          "end": 3.0
+        },
+        {
+          "text": "will match. Setup effort stays visible.",
+          "start": 2.84,
+          "end": 6.18
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S3",
+      "start": 11.3,
+      "end": 16.9,
+      "type": "evidence",
+      "text": "CAN SOMEONE USE THE RECORDING?",
+      "narration": "I checked readable text, cursor movement, edits, captions, and whether sharing worked for another viewer.",
+      "concept": "Identical five-second output crops; anonymous share test in fresh browser session.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Identical five-second output crops; anonymous share test in fresh browser session.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I checked readable text, cursor movement,",
+        "edits, captions, and whether sharing worked",
+        "for another viewer."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "READABILITY + SHARING",
+      "presentationNarration": "The review will inspect text, cursor movement, edits, captions, and access for another viewer.",
+      "presentationCaptionChunks": [
+        "The review will inspect text, cursor",
+        "movement, edits, captions, and access for",
+        "another viewer."
+      ],
+      "originalStart": 18.566666666666666,
+      "originalEnd": 30.466666666666665,
+      "captionTimings": [
+        {
+          "text": "The review will inspect text, cursor",
+          "start": 0.02,
+          "end": 2.22
+        },
+        {
+          "text": "movement, edits, captions, and access for",
+          "start": 2.06,
+          "end": 4.64
+        },
+        {
+          "text": "another viewer.",
+          "start": 4.48,
+          "end": 5.6
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S4",
+      "start": 16.9,
+      "end": 22.133333333333333,
+      "type": "evidence",
+      "text": "FEATURE / PLAN / LIMIT",
+      "narration": "A feature I could not access on my plan is a limit, not an automatic failure of the entire product.",
+      "concept": "Actual gated feature screen and dated terms, if encountered.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual gated feature screen and dated terms, if encountered.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "A feature I could not access",
+        "on my plan is a limit,",
+        "not an automatic failure of the",
+        "entire product."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "LIMITS BELONG IN THE RESULT",
+      "presentationNarration": "A feature outside the tested plan will be recorded as a limitation, with the plan named.",
+      "presentationCaptionChunks": [
+        "A feature outside the tested plan",
+        "will be recorded as a limitation,",
+        "with the plan named."
+      ],
+      "originalStart": 30.466666666666665,
+      "originalEnd": 46.06666666666667,
+      "captionTimings": [
+        {
+          "text": "A feature outside the tested plan",
+          "start": 0.02,
+          "end": 1.96
+        },
+        {
+          "text": "will be recorded as a limitation,",
+          "start": 1.8,
+          "end": 3.62
+        },
+        {
+          "text": "with the plan named.",
+          "start": 3.94,
+          "end": 5.233
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S5",
+      "start": 22.133333333333333,
+      "end": 29.6,
+      "type": "result",
+      "text": "[TESTED RECORDING VERDICT]",
+      "narration": "[OUTPUT_AND_WORKFLOW_RESULTS]. [CURRENT_LICENSE_AND_COST_OBSERVATION].",
+      "concept": "Evidence-based comparison with captures; no invented winner or price.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Evidence-based comparison with captures; no invented winner or price.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[OUTPUT_AND_WORKFLOW_RESULTS]. [CURRENT_LICENSE_AND_COST_OBSERVATION]."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "LICENSE + OUTPUT CHECK",
+      "presentationNarration": "Finished output and current license terms must support the comparison. No captured output or cost verdict exists yet.",
+      "presentationCaptionChunks": [
+        "Finished output and current license terms",
+        "must support the comparison. No captured",
+        "output or cost verdict exists yet."
+      ],
+      "originalStart": 46.06666666666667,
+      "originalEnd": 48.3,
+      "captionTimings": [
+        {
+          "text": "Finished output and current license terms",
+          "start": 0.007,
+          "end": 2.367
+        },
+        {
+          "text": "must support the comparison. No captured",
+          "start": 2.207,
+          "end": 5.027
+        },
+        {
+          "text": "output or cost verdict exists yet.",
+          "start": 4.867,
+          "end": 7.467
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S6",
+      "start": 29.6,
+      "end": 36.2,
+      "type": "question",
+      "text": "WHAT DO YOU RECORD?",
+      "narration": "[PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+      "concept": "Play readable output at normal speed beneath the final question.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Play readable output at normal speed beneath the final question.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most",
+        "to you?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "PERSONAL OR TEAM WORK?",
+      "presentationNarration": "The recommendation will separate personal, commercial, and team needs. Which recording job matters to you?",
+      "presentationCaptionChunks": [
+        "The recommendation will separate personal, commercial,",
+        "and team needs. Which recording job",
+        "matters to you?"
+      ],
+      "originalStart": 48.3,
+      "originalEnd": 55,
+      "captionTimings": [
+        {
+          "text": "The recommendation will separate personal, commercial,",
+          "start": 0.02,
+          "end": 3.26
+        },
+        {
+          "text": "and team needs. Which recording job",
+          "start": 3.1,
+          "end": 5.56
+        },
+        {
+          "text": "matters to you?",
+          "start": 5.4,
+          "end": 6.48
+        }
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-test-plan-built",
+  "visualStatus": "voiced-directed-illustration"
+}

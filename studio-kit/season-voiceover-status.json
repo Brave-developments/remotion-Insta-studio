@@ -1,0 +1,1025 @@
+{
+  "expected": 117,
+  "completed": 104,
+  "reels": {
+    "RETENTION-LAB/R01-BUG-REPORT": {
+      "sourceHash": "8d62f65929a48aa293a910bdd99368c7d3e39f41f8e92fbe4757b77ede1b0440",
+      "generationId": "47ca8a88-42cd-4350-84b6-675ad67b4824",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R01-BUG-REPORT.wav",
+      "bytes": 4403564,
+      "voice": "Brave 1",
+      "durationSeconds": 45.87
+    },
+    "RETENTION-LAB/R02-RETENTION-CLIFF": {
+      "sourceHash": "460e411189451a5512182c4071b8a84aa459dfcb412ff2f5919a1c973f786658",
+      "generationId": "606d4525-e6ee-4856-9db9-b15c755ca0e6",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R02-RETENTION-CLIFF.wav",
+      "bytes": 4300844,
+      "voice": "Brave 1",
+      "durationSeconds": 44.8
+    },
+    "UI-MOTION-LAB/U01-LATE-REJECT": {
+      "sourceHash": "da3be8095e78a0fb740e7c3fd21f1500edf6bb3397c22f649b4bded0e70472cc",
+      "generationId": "74fc4fd3-09ec-402c-aac4-81868fd3fc01",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U01-LATE-REJECT.wav",
+      "bytes": 4541804,
+      "voice": "Brave 1",
+      "durationSeconds": 47.31
+    },
+    "UI-MOTION-LAB/U02-PERCEIVED-SPEED": {
+      "sourceHash": "5ed4d4b9d74de40720bdfe87a209479d3e0ba137b363c22c69bc257cda20fc91",
+      "generationId": "86ea5524-c4e5-44f8-94fa-853f200aa685",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U02-PERCEIVED-SPEED.wav",
+      "bytes": 4193324,
+      "voice": "Brave 1",
+      "durationSeconds": 43.68
+    },
+    "BUILDMODE-LAB/B01-DONE-TRAP": {
+      "sourceHash": "7fc317a87e89c9b5f69528c975e95a992d274595454b835a138288d95bfd14ce",
+      "generationId": "1bc72cde-97cb-4c96-a10e-a1c332f3bfe4",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B01-DONE-TRAP.wav",
+      "bytes": 4546604,
+      "voice": "Brave 1",
+      "durationSeconds": 47.36
+    },
+    "BUILDMODE-LAB/B02-SETUP-BACKWARDS": {
+      "sourceHash": "115df96a3bca2199b349ded8798467cb98687ec902adc96316ad39df6f587394",
+      "generationId": "95b08da7-efab-4561-b933-4d05fc3c229d",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B02-SETUP-BACKWARDS.wav",
+      "bytes": 4208684,
+      "voice": "Brave 1",
+      "durationSeconds": 43.84
+    },
+    "RETENTION-LAB/R03-YOUR-HOOK-MADE-A": {
+      "sourceHash": "e5f75d20361dd7d77e846fac6a3848ba52c9dd7d73fb37de51bd801d0fa3ad44",
+      "generationId": "00b4829d-b508-469c-85f7-f2e57ebdfbdc",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R03-YOUR-HOOK-MADE-A.wav",
+      "bytes": 4224044,
+      "voice": "Brave 1",
+      "durationSeconds": 44
+    },
+    "RETENTION-LAB/R04-CURIOSITY-WITHOUT-CLICKB": {
+      "sourceHash": "6a4b8c4c32e1de0a969997243671e3d5a7a104092e0a8409b03db4db91b95c25",
+      "generationId": "a97b1ef4-c4e0-4622-8aa7-5db2a99e1c90",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R04-CURIOSITY-WITHOUT-CLICKB.wav",
+      "bytes": 4546604,
+      "voice": "Brave 1",
+      "durationSeconds": 47.36
+    },
+    "UI-MOTION-LAB/U03-SEARCH-THAT-PRETENDS-NOT": {
+      "sourceHash": "1eecf20a27a94cbe9b1008d510576198f21f0fc81d77879868a861fde16c15ec",
+      "generationId": "8be46002-07d4-484c-b868-0b2abbeefe0c",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U03-SEARCH-THAT-PRETENDS-NOT.wav",
+      "bytes": 4633964,
+      "voice": "Brave 1",
+      "durationSeconds": 48.27
+    },
+    "UI-MOTION-LAB/U04-THE-MODAL-THAT-TRAPPED": {
+      "sourceHash": "fe0e427896f8cecc75ef41c9957f54ae715e9c4d2785d238fb8f4e17574ebbf0",
+      "generationId": "77ac15c8-a271-430f-b003-d44f54cf1741",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U04-THE-MODAL-THAT-TRAPPED.wav",
+      "bytes": 4480364,
+      "voice": "Brave 1",
+      "durationSeconds": 46.67
+    },
+    "BUILDMODE-LAB/B02-YOURE-PROBABLY-USING-THE": {
+      "sourceHash": "9ebcbf7ebfae76296e261052b8169c71faa45711ed19ce617bde745aa89e26aa",
+      "generationId": "c8563c7e-9fc1-427c-8f16-6d6cc9889333",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B02-YOURE-PROBABLY-USING-THE.wav",
+      "bytes": 3932204,
+      "voice": "Brave 1",
+      "durationSeconds": 40.96
+    },
+    "BUILDMODE-LAB/B03-CLAUDEMD-IS-BETTER-THAN": {
+      "sourceHash": "0133908dac7f4333a4223bb36c09d98a330450fe419a30719075f3415b253397",
+      "generationId": "dadb7b93-b720-46b0-925b-cc91ad6c8b52",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B03-CLAUDEMD-IS-BETTER-THAN.wav",
+      "bytes": 4346924,
+      "voice": "Brave 1",
+      "durationSeconds": 45.28
+    },
+    "RETENTION-LAB/R02-THE-FIRST-SECOND-HAS": {
+      "sourceHash": "b45efa21f302567193f78e2768bf025786e426e6cf1877510023680993be430f",
+      "generationId": "9342aeb0-c228-4815-b993-ff3834c69740",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R02-THE-FIRST-SECOND-HAS.wav",
+      "bytes": 4684844,
+      "voice": "Brave 1",
+      "durationSeconds": 48.8
+    },
+    "RETENTION-LAB/R05-SHOW-THE-RESULT-BEFORE": {
+      "sourceHash": "849298d54e06b2353b55d74eae22ec8d1002e6d6f16b0f8401de2f7bd8e28fae",
+      "generationId": "7efd6b3d-03f4-4cea-9dd3-1e61ddb4803a",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R05-SHOW-THE-RESULT-BEFORE.wav",
+      "bytes": 3993644,
+      "voice": "Brave 1",
+      "durationSeconds": 41.6
+    },
+    "RETENTION-LAB/R06-STOP-SAYING-WELCOME-BACK": {
+      "sourceHash": "761cd4b2993df1be900ae00a7b56796e4e21e1661cbd8a26dbf2f764036020a2",
+      "generationId": "6754d60c-e224-4508-8776-af741fefa198",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R06-STOP-SAYING-WELCOME-BACK.wav",
+      "bytes": 4254764,
+      "voice": "Brave 1",
+      "durationSeconds": 44.32
+    },
+    "RETENTION-LAB/R07-THE-VISUAL-HOOK-MATTERS": {
+      "sourceHash": "0784b05cbf58d5f5e09368c99161bc144b394508f86180555f69fbc0aac2748e",
+      "generationId": "c17216d7-a55f-49da-85cd-b13401b3e06b",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R07-THE-VISUAL-HOOK-MATTERS.wav",
+      "bytes": 4009004,
+      "voice": "Brave 1",
+      "durationSeconds": 41.76
+    },
+    "RETENTION-LAB/R08-PATTERN-INTERRUPTS-NEED": {
+      "sourceHash": "52a0408fc37a579d9375eb99e4e594f1fde7bdb8ea4a5632107e6bdcedfe562e",
+      "generationId": "f975d5ea-9484-4f81-8540-61c92d7bc3ca",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R08-PATTERN-INTERRUPTS-NEED.wav",
+      "bytes": 4853804,
+      "voice": "Brave 1",
+      "durationSeconds": 50.56
+    },
+    "RETENTION-LAB/R10-WHY-VIEWERS-LEAVE-IN": {
+      "sourceHash": "bcb178895249b84ee8c927e92b4500d7af46e0fd2fc881cf079390c43a70b405",
+      "generationId": "4f73e2af-14e4-4152-b593-0db8b8ea2d7a",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R10-WHY-VIEWERS-LEAVE-IN.wav",
+      "bytes": 4285484,
+      "voice": "Brave 1",
+      "durationSeconds": 44.64
+    },
+    "RETENTION-LAB/R11-YOUR-PAYOFF-IS-TOO": {
+      "sourceHash": "b48020e468761e90bb4702d654373aface1f77b0dda396e1cfc0740a0772bb90",
+      "generationId": "97e7560c-8b5a-4783-bbc5-a64a9fbaf3d1",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R11-YOUR-PAYOFF-IS-TOO.wav",
+      "bytes": 4131884,
+      "voice": "Brave 1",
+      "durationSeconds": 43.04
+    },
+    "RETENTION-LAB/R12-RESET-ATTENTION-WITHOUT": {
+      "sourceHash": "2a6aa9c14dc626ff9d6e79688fccd7dd17c98991d9777c914983588988309304",
+      "generationId": "b3075b57-8c9a-47ec-91fb-e55aec8884ac",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R12-RESET-ATTENTION-WITHOUT.wav",
+      "bytes": 4546604,
+      "voice": "Brave 1",
+      "durationSeconds": 47.36
+    },
+    "RETENTION-LAB/R13-THREE-RETENTION-GRAPHS-T": {
+      "sourceHash": "8c520d02e568412d6815840ac760a09aad6ac003143bb6210d65e3864f76caac",
+      "generationId": "fa50457e-c2e3-47e3-8129-d9fdd8b83076",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R13-THREE-RETENTION-GRAPHS-T.wav",
+      "bytes": 4439084,
+      "voice": "Brave 1",
+      "durationSeconds": 46.24
+    },
+    "RETENTION-LAB/R14-WHY-SOME-VIDEOS-GET": {
+      "sourceHash": "ee56773bb7bdd8c3cf450abeb197ec4eb2610f526fab74128e6c9769d17aaf12",
+      "generationId": "fc2eb27e-913a-492b-bfeb-d00fa88c270d",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R14-WHY-SOME-VIDEOS-GET.wav",
+      "bytes": 4208684,
+      "voice": "Brave 1",
+      "durationSeconds": 43.84
+    },
+    "RETENTION-LAB/R15-DEAD-SPACE-IS-EXPENSIVE": {
+      "sourceHash": "f65b1fb0eb7e50868921df672f25b1c6073311b45ec25735fe86fb01a696304f",
+      "generationId": "8b12b089-97b2-4cb5-897c-c09ec8bfad7a",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R15-DEAD-SPACE-IS-EXPENSIVE.wav",
+      "bytes": 4131884,
+      "voice": "Brave 1",
+      "durationSeconds": 43.04
+    },
+    "RETENTION-LAB/R16-PREDICTABLE-VIDEOS-FEEL": {
+      "sourceHash": "e142abc3c002204fed35aeaf000d87ab1cc886cb55c33e3647c386bb13a441bb",
+      "generationId": "99244f7f-cb80-45cc-8e62-bf74fca0b8ca",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R16-PREDICTABLE-VIDEOS-FEEL.wav",
+      "bytes": 4941164,
+      "voice": "Brave 1",
+      "durationSeconds": 51.47
+    },
+    "RETENTION-LAB/R17-REVEAL-CADENCE-BEATS-CON": {
+      "sourceHash": "e665c9eb55926965a06ba1d5ace4323be90c4d9b47b9d6120fa78233ac0c762e",
+      "generationId": "0521ab5a-62c4-4b7f-9405-2c16b12750ea",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R17-REVEAL-CADENCE-BEATS-CON.wav",
+      "bytes": 4695404,
+      "voice": "Brave 1",
+      "durationSeconds": 48.91
+    },
+    "RETENTION-LAB/R18-PROBLEM-PROOF-PAYOFF": {
+      "sourceHash": "37dbb99b9da85b4182bc0760b74710de40e0ee948d69312e8714eb169174aae2",
+      "generationId": "75c6b2c0-b6ae-483e-941e-be272812c3bd",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R18-PROBLEM-PROOF-PAYOFF.wav",
+      "bytes": 4423724,
+      "voice": "Brave 1",
+      "durationSeconds": 46.08
+    },
+    "RETENTION-LAB/R19-OPEN-LOOPS-THAT-ACTUALLY": {
+      "sourceHash": "deb9b6ee118d4c3493671eba749f501b5ee295e1b5bd18a25465ef5da8e5f2ec",
+      "generationId": "597fc391-5040-46e3-bbeb-443f18a8cf1f",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R19-OPEN-LOOPS-THAT-ACTUALLY.wav",
+      "bytes": 4162604,
+      "voice": "Brave 1",
+      "durationSeconds": 43.36
+    },
+    "RETENTION-LAB/R20-THE-45-SECOND-CASE-STUDY": {
+      "sourceHash": "be94d3ba95cef98501cfaa33c7477dc5ab7cf9b6295bb065260831d58c5698de",
+      "generationId": "e78c0327-eb1b-4a9b-b2ec-939915f5c8eb",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R20-THE-45-SECOND-CASE-STUDY.wav",
+      "bytes": 4009004,
+      "voice": "Brave 1",
+      "durationSeconds": 41.76
+    },
+    "RETENTION-LAB/R21-BEFOREAFTER-IS-A-STORY": {
+      "sourceHash": "5c62145635b115718039b1835055ce401bbb78c3afee419b5593458d7bc1e00d",
+      "generationId": "93f326e0-6e5f-4d8c-bbf0-b1181015322b",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R21-BEFOREAFTER-IS-A-STORY.wav",
+      "bytes": 4131884,
+      "voice": "Brave 1",
+      "durationSeconds": 43.04
+    },
+    "RETENTION-LAB/R22-GIVE-THE-VIDEO-A": {
+      "sourceHash": "e688265a6242bafe8a7bb6798d43ea42181fee5f7b7cbbfa40207c23740bf5e9",
+      "generationId": "8ec9d8a6-595f-4e8d-8c94-f84721f5b407",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R22-GIVE-THE-VIDEO-A.wav",
+      "bytes": 4208684,
+      "voice": "Brave 1",
+      "durationSeconds": 43.84
+    },
+    "RETENTION-LAB/R23-TELL-A-STORY-WITHOUT": {
+      "sourceHash": "e54ea180923805d778b1913c3a06d2aa190f9b4801ada16e1f34d26a3e71c38a",
+      "generationId": "8af55713-e130-4fd5-aa78-fbc05f8a55c6",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R23-TELL-A-STORY-WITHOUT.wav",
+      "bytes": 4393004,
+      "voice": "Brave 1",
+      "durationSeconds": 45.76
+    },
+    "RETENTION-LAB/R24-BUILD-AN-INFORMATION-LAD": {
+      "sourceHash": "ebc625b8b96d468a34341db8aa1ddabd42d492ae9a35686aa770de61f299ef05",
+      "generationId": "1c3d1b85-4d8f-40ba-a711-346963cfbed1",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R24-BUILD-AN-INFORMATION-LAD.wav",
+      "bytes": 4393004,
+      "voice": "Brave 1",
+      "durationSeconds": 45.76
+    },
+    "RETENTION-LAB/R25-CONTRAST-MAKES-EXPLANATI": {
+      "sourceHash": "6250fae95a6beb17674fcbbe2f65e4a7735278c4e226b786ee030e00903a1615",
+      "generationId": "df42bdb3-59d2-4dc3-abf7-ee07c4e7ee0f",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R25-CONTRAST-MAKES-EXPLANATI.wav",
+      "bytes": 4162604,
+      "voice": "Brave 1",
+      "durationSeconds": 43.36
+    },
+    "RETENTION-LAB/R26-CUT-WHEN-THE-THOUGHT": {
+      "sourceHash": "59bc8326df9a33b0a9dac7d6601eca2e6a6c040fe6e5b2cd93ddfb69df048a8f",
+      "generationId": "5766b3dd-5046-49a8-b672-3e9b87f3e030",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R26-CUT-WHEN-THE-THOUGHT.wav",
+      "bytes": 4285484,
+      "voice": "Brave 1",
+      "durationSeconds": 44.64
+    },
+    "RETENTION-LAB/R27-ZOOM-WITH-A-PURPOSE": {
+      "sourceHash": "8ba1b0e95c42e90723fa7764a91386c09e653168b8c097a7c0695d86d21ce6ec",
+      "generationId": "1afe66e7-e016-4a8c-81a7-a54d7aefd981",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R27-ZOOM-WITH-A-PURPOSE.wav",
+      "bytes": 4362284,
+      "voice": "Brave 1",
+      "durationSeconds": 45.44
+    },
+    "RETENTION-LAB/R28-YOUR-B-ROLL-CAN-MAKE": {
+      "sourceHash": "0b85a8b93f8d577af6178726fa6289af8650579ea1eaa4f6c5119bbf941fe1cc",
+      "generationId": "f84a7324-1aff-4dc3-bc83-59bf8d4545cb",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R28-YOUR-B-ROLL-CAN-MAKE.wav",
+      "bytes": 4454444,
+      "voice": "Brave 1",
+      "durationSeconds": 46.4
+    },
+    "RETENTION-LAB/R29-CAPTION-HIERARCHY-BEATS": {
+      "sourceHash": "ca9c7a526a6807da081deab950c1afff4bde8f132ecf7d5cf15beb4427772f54",
+      "generationId": "79eacbba-f7c3-4e56-a5e7-1f3d74e2c30e",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R29-CAPTION-HIERARCHY-BEATS.wav",
+      "bytes": 4561964,
+      "voice": "Brave 1",
+      "durationSeconds": 47.52
+    },
+    "RETENTION-LAB/R30-DESIGN-FOR-THE-MOBILE": {
+      "sourceHash": "fb65c262b4d2c6db94eb796ee9794b53cb71618a91e467460e844118258cd10b",
+      "generationId": "144924c1-ba5a-443a-ba72-a4216a7c8dd5",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R30-DESIGN-FOR-THE-MOBILE.wav",
+      "bytes": 4070444,
+      "voice": "Brave 1",
+      "durationSeconds": 42.4
+    },
+    "RETENTION-LAB/R31-MAKE-BROWSER-UI-FEEL": {
+      "sourceHash": "83aca596a03e50ac926e93fe7ffce2467e677cb088cc4ed79039d3907f968403",
+      "generationId": "306e2cf8-4833-4ad6-bbce-5cd06dc5d0bc",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R31-MAKE-BROWSER-UI-FEEL.wav",
+      "bytes": 4362284,
+      "voice": "Brave 1",
+      "durationSeconds": 45.44
+    },
+    "RETENTION-LAB/R32-ANIMATE-CODE-WITHOUT-MAK": {
+      "sourceHash": "22c2767697dda983e24c22f75edebe8c72d47e79dd633883dbaf5d8b5d185b1f",
+      "generationId": "deee1ccf-25c4-4e8a-98b2-9edbd64cc2b8",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R32-ANIMATE-CODE-WITHOUT-MAK.wav",
+      "bytes": 4239404,
+      "voice": "Brave 1",
+      "durationSeconds": 44.16
+    },
+    "RETENTION-LAB/R33-USE-MOTION-CONTINUITY": {
+      "sourceHash": "96c6b444a5c9990abf6ca413aaf84f9a5328a6215935f11d9c82cf9bfd0abe45",
+      "generationId": "d42cc9bf-3d9a-4fe5-9939-5634cd61d295",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R33-USE-MOTION-CONTINUITY.wav",
+      "bytes": 4546604,
+      "voice": "Brave 1",
+      "durationSeconds": 47.36
+    },
+    "RETENTION-LAB/R34-SOUND-DESIGN-IS-INVISIBL": {
+      "sourceHash": "82f2d8826322a123e487ce08b0431abff3f3640a13a523cb1a2aec7b37ef18d9",
+      "generationId": "363c1117-1d9c-4c19-aa7b-d2ee8c750378",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R34-SOUND-DESIGN-IS-INVISIBL.wav",
+      "bytes": 4423724,
+      "voice": "Brave 1",
+      "durationSeconds": 46.08
+    },
+    "RETENTION-LAB/R35-TURN-A-SCREENSHOT-INTO": {
+      "sourceHash": "26f842f981b22f988367a9d857bfc84207985d9cc95172bc450ce5538d2dc7c9",
+      "generationId": "d46d642b-2e64-4039-8965-ad94033242b3",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R35-TURN-A-SCREENSHOT-INTO.wav",
+      "bytes": 4254764,
+      "voice": "Brave 1",
+      "durationSeconds": 44.32
+    },
+    "RETENTION-LAB/R36-GIVE-VALUE-BEFORE-THE": {
+      "sourceHash": "ab6d312a7d2cf0a49426486df4da0b3c2e1f8b7a7219d3b910382de6e2f3c284",
+      "generationId": "1393e531-94b6-44b3-acb9-ee78f3c4cf32",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R36-GIVE-VALUE-BEFORE-THE.wav",
+      "bytes": 4362284,
+      "voice": "Brave 1",
+      "durationSeconds": 45.44
+    },
+    "RETENTION-LAB/R37-ASK-FOR-THE-RIGHT": {
+      "sourceHash": "988609f4a3a321cf8bfd30db0fce6c327b2d56a4f103800cfb7189f5fbdf4568",
+      "generationId": "7171f074-6d6c-4510-9b81-25f9dfe175fe",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R37-ASK-FOR-THE-RIGHT.wav",
+      "bytes": 4101164,
+      "voice": "Brave 1",
+      "durationSeconds": 42.72
+    },
+    "RETENTION-LAB/R38-TRUST-CAN-OUTPERFORM-VIR": {
+      "sourceHash": "b8ce3ba8134cea09e9067ede73046373d392df35824caffe5963ae1e01d438bf",
+      "generationId": "6533feca-5963-4bac-9e3e-4027225819c2",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R38-TRUST-CAN-OUTPERFORM-VIR.wav",
+      "bytes": 3978284,
+      "voice": "Brave 1",
+      "durationSeconds": 41.44
+    },
+    "RETENTION-LAB/R39-TURN-VIEWERS-INTO-PROFIL": {
+      "sourceHash": "4ff1a95f40c62e9e8d78128203a1c00b256d8b6e42723cb4f9e64b0559b82f61",
+      "generationId": "45ace424-6ab2-4870-9660-0bed28336f8b",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R39-TURN-VIEWERS-INTO-PROFIL.wav",
+      "bytes": 4454444,
+      "voice": "Brave 1",
+      "durationSeconds": 46.4
+    },
+    "RETENTION-LAB/R40-TEST-THREE-HOOKS-NOT": {
+      "sourceHash": "56871079a9ae6c93968fda9cf9b038e3b18247110ffe5a3f80cc1c367d21109c",
+      "generationId": "e1c817b7-2b55-44d8-b851-b1c5d00ecccd",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R40-TEST-THREE-HOOKS-NOT.wav",
+      "bytes": 4608044,
+      "voice": "Brave 1",
+      "durationSeconds": 48
+    },
+    "RETENTION-LAB/R41-REMAKE-AN-UNDERPERFORMER": {
+      "sourceHash": "f7afc89537b32dfba4f5592888f1f3e0636d2a4f52c925c68058bc05d7a28e99",
+      "generationId": "9a37921d-e761-468e-a780-b39af9d2b070",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R41-REMAKE-AN-UNDERPERFORMER.wav",
+      "bytes": 4316204,
+      "voice": "Brave 1",
+      "durationSeconds": 44.96
+    },
+    "RETENTION-LAB/R42-BUILD-A-CONTENT-PILLAR": {
+      "sourceHash": "0542c532c0aa4025a3c6015b5b0f1da8474a78dfe16bca559f77a3adbc689c02",
+      "generationId": "03bf802d-ae7e-4422-b0af-384ec65a21dd",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R42-BUILD-A-CONTENT-PILLAR.wav",
+      "bytes": 4608044,
+      "voice": "Brave 1",
+      "durationSeconds": 48
+    },
+    "RETENTION-LAB/R43-POSTING-MORE-IS-NOT": {
+      "sourceHash": "c58b7130bf70f86fce672239fc942c67974819f02c13d32669ab475cef80d0a1",
+      "generationId": "dd70a321-ad30-4391-b241-4e8297c19da9",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R43-POSTING-MORE-IS-NOT.wav",
+      "bytes": 4193324,
+      "voice": "Brave 1",
+      "durationSeconds": 43.68
+    },
+    "RETENTION-LAB/R44-THE-WEEKLY-CONTENT-REVIE": {
+      "sourceHash": "8042a23bed948ddeab4be9566ac21c45335a6a7a791c59d571c709827809ed16",
+      "generationId": "0542081f-3d61-4f1a-88d2-39e7f55ea6da",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R44-THE-WEEKLY-CONTENT-REVIE.wav",
+      "bytes": 4316204,
+      "voice": "Brave 1",
+      "durationSeconds": 44.96
+    },
+    "RETENTION-LAB/R45-ONE-IDEA-FIVE-REEL": {
+      "sourceHash": "e92128f029fc53a22748d89a162947aa53c2ad67f3990ae8816c535ad4c984c3",
+      "generationId": "1feb4c5e-7054-4476-826d-a1375297be08",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R45-ONE-IDEA-FIVE-REEL.wav",
+      "bytes": 4393004,
+      "voice": "Brave 1",
+      "durationSeconds": 45.76
+    },
+    "RETENTION-LAB/R46-BUILD-A-30-DAY-CONTENT": {
+      "sourceHash": "9d660aa83e3d33ca0b8f7f83af086990e8ddc88cac4d0553f8b920489e538075",
+      "generationId": "85c84b9b-8606-4515-945c-b1409748066c",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R46-BUILD-A-30-DAY-CONTENT.wav",
+      "bytes": 4925804,
+      "voice": "Brave 1",
+      "durationSeconds": 51.31
+    },
+    "RETENTION-LAB/R47-QUALITY-VS-CONSISTENCY-I": {
+      "sourceHash": "23d89aa4e48a62bee862126751b09660d29465b4939f5204c6c1e76b1da3129e",
+      "generationId": "3b52f93a-8390-4d4c-bf30-9844415ad6b3",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R47-QUALITY-VS-CONSISTENCY-I.wav",
+      "bytes": 4270124,
+      "voice": "Brave 1",
+      "durationSeconds": 44.48
+    },
+    "RETENTION-LAB/R48-TEACH-THE-ALGORITHM-YOUR": {
+      "sourceHash": "b5ba2c48bcf042e2e880ef002ab98ef19936bf909d2b58edb6546797aa56fede",
+      "generationId": "4bc1fbc6-3388-4bd8-bd7b-496457536a1a",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R48-TEACH-THE-ALGORITHM-YOUR.wav",
+      "bytes": 4439084,
+      "voice": "Brave 1",
+      "durationSeconds": 46.24
+    },
+    "RETENTION-LAB/R49-VIRAL-DOES-NOT-MEAN": {
+      "sourceHash": "6fbb893783d7a21681f331e4cbc14e3d530b064d8e4f44ec2f66b64532b93dfa",
+      "generationId": "2486dd8e-b05e-4a07-8ae0-fb5dd1505990",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R49-VIRAL-DOES-NOT-MEAN.wav",
+      "bytes": 4162604,
+      "voice": "Brave 1",
+      "durationSeconds": 43.36
+    },
+    "RETENTION-LAB/R50-THE-HOOKPROOF-GAP": {
+      "sourceHash": "ba72238212d11de1c426888c31d6c08a1424c51a06952a313fed1195dec3c5a8",
+      "generationId": "b6855ae2-445f-481b-a47d-8e9140f9d90b",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R50-THE-HOOKPROOF-GAP.wav",
+      "bytes": 4362284,
+      "voice": "Brave 1",
+      "durationSeconds": 45.44
+    },
+    "RETENTION-LAB/R51-USE-EXAMPLES-BEFORE-DEFI": {
+      "sourceHash": "026fb549853acb4d16e0a1ee8f92e58399c5c52d5e6cffb652052e5b8ff75443",
+      "generationId": "cde3ff08-1d5d-45a9-9338-ace7f3b3d779",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R51-USE-EXAMPLES-BEFORE-DEFI.wav",
+      "bytes": 4454444,
+      "voice": "Brave 1",
+      "durationSeconds": 46.4
+    },
+    "RETENTION-LAB/R52-MAKE-THE-VIEWER-PREDICT": {
+      "sourceHash": "55e0083801a072312cf1aa25ce93cc9da3e7471803f6c9a1c934036b18b9ab54",
+      "generationId": "3ef88800-44f2-4cdd-be48-3a2dda4ca2c6",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R52-MAKE-THE-VIEWER-PREDICT.wav",
+      "bytes": 4116524,
+      "voice": "Brave 1",
+      "durationSeconds": 42.88
+    },
+    "RETENTION-LAB/R53-USE-A-PROGRESS-PROMISE": {
+      "sourceHash": "ff8f5620231579c96908cee569293f87d07867298d455a27f2de3775f51231c6",
+      "generationId": "78665173-b953-42e7-a0a5-84a9880ab67e",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R53-USE-A-PROGRESS-PROMISE.wav",
+      "bytes": 4208684,
+      "voice": "Brave 1",
+      "durationSeconds": 43.84
+    },
+    "RETENTION-LAB/R54-REPLACE-EXPLANATION-WITH": {
+      "sourceHash": "90fe9beeb124f921b8bf75907bda019bbe339360b245c18586ba731e2206c184",
+      "generationId": "d59c9be8-938d-4a1f-a302-74f65b13392c",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R54-REPLACE-EXPLANATION-WITH.wav",
+      "bytes": 4208684,
+      "voice": "Brave 1",
+      "durationSeconds": 43.84
+    },
+    "RETENTION-LAB/R55-ONE-REEL-ONE-MAIN": {
+      "sourceHash": "9c65f6baab3ebc982764b7ec97e05e0671c2530741e363c4aa0b426b637afffb",
+      "generationId": "a9c019fa-3e42-4651-8522-cb1eb98792d6",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R55-ONE-REEL-ONE-MAIN.wav",
+      "bytes": 4193324,
+      "voice": "Brave 1",
+      "durationSeconds": 43.68
+    },
+    "RETENTION-LAB/R56-THE-PROOF-STACK": {
+      "sourceHash": "d79488655e00e727eb000e57f20f278b67f6ef663f8281860ef5197ec1b6be3b",
+      "generationId": "d39f8bb7-5ef4-4b45-99bd-6f85d381ab48",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R56-THE-PROOF-STACK.wav",
+      "bytes": 4423724,
+      "voice": "Brave 1",
+      "durationSeconds": 46.08
+    },
+    "RETENTION-LAB/R57-BUILD-A-RE-HOOK-AT": {
+      "sourceHash": "87b48443a73d4222e8a85878a72a8fd2008f27311006955a6179516170d0e7e3",
+      "generationId": "36f6b67f-d61b-4f9f-a584-54c2852b406a",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R57-BUILD-A-RE-HOOK-AT.wav",
+      "bytes": 4147244,
+      "voice": "Brave 1",
+      "durationSeconds": 43.2
+    },
+    "RETENTION-LAB/R58-USE-NUMBERS-AS-VISUAL": {
+      "sourceHash": "55cf742a8117480a61f6fa1c1fcf51c2a4c1168039abd153f3bb0fc34d450a21",
+      "generationId": "a793a5d4-b738-450a-81dc-60078c58aaf1",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R58-USE-NUMBERS-AS-VISUAL.wav",
+      "bytes": 4162604,
+      "voice": "Brave 1",
+      "durationSeconds": 43.36
+    },
+    "RETENTION-LAB/R59-THE-MINI-EXPERIMENT-REEL": {
+      "sourceHash": "e7c27f6a6ec141f1db4f924a05a96ece87922d88836d7e1d115ad27fbe3b5cfb",
+      "generationId": "0694e099-3822-45f1-af78-88bd45f3e1cd",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R59-THE-MINI-EXPERIMENT-REEL.wav",
+      "bytes": 4316204,
+      "voice": "Brave 1",
+      "durationSeconds": 44.96
+    },
+    "RETENTION-LAB/R60-TURN-COMMENTS-INTO-THE": {
+      "sourceHash": "95114fd4c3d72a408d3f8001a3e986f9f3bf1326e742d7684b32611242057107",
+      "generationId": "e50617eb-a351-4cb2-8879-01070685429b",
+      "status": "complete",
+      "output": "projects\\RETENTION-LAB\\public\\audio\\R60-TURN-COMMENTS-INTO-THE.wav",
+      "bytes": 4101164,
+      "voice": "Brave 1",
+      "durationSeconds": 42.72
+    },
+    "UI-MOTION-LAB/U05-YOUR-SIGN-IN-BUTTON-IS": {
+      "sourceHash": "a2287654b07188a77467953a054d5df1f338bce67ebe2a3fb7b55fa0516f6634",
+      "generationId": "f5ff0298-2592-49cd-a957-23ec92a1d58c",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U05-YOUR-SIGN-IN-BUTTON-IS.wav",
+      "bytes": 4393004,
+      "voice": "Brave 1",
+      "durationSeconds": 45.76
+    },
+    "UI-MOTION-LAB/U06-BACK-SHOULD-TAKE-ME": {
+      "sourceHash": "b9081a61984d335987b30524b6a1837916772a16d944d96802fb0194d75d755f",
+      "generationId": "a04f019e-69e1-478f-8b15-0ad5cd05d264",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U06-BACK-SHOULD-TAKE-ME.wav",
+      "bytes": 4561964,
+      "voice": "Brave 1",
+      "durationSeconds": 47.52
+    },
+    "UI-MOTION-LAB/U07-NINE-MINUTES-OF-WRITING": {
+      "sourceHash": "c8895d710ca03f408fc9e55a4b401cd3a48d4fba44fb890abbdc689dc56e6ca7",
+      "generationId": "b2c4d8da-4dff-4b44-9cec-8496e9b75a0a",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U07-NINE-MINUTES-OF-WRITING.wav",
+      "bytes": 4208684,
+      "voice": "Brave 1",
+      "durationSeconds": 43.84
+    },
+    "UI-MOTION-LAB/U08-THREE-UX-LAWS-YOU": {
+      "sourceHash": "7853dfc34fa23185baa039a84060b7428639a514281098b9e2fe8f87a6ba0d8f",
+      "generationId": "2060bb17-9d6a-466f-93bb-0bea14262c80",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U08-THREE-UX-LAWS-YOU.wav",
+      "bytes": 5002604,
+      "voice": "Brave 1",
+      "durationSeconds": 52.11
+    },
+    "UI-MOTION-LAB/U09-THE-LOGIN-FORM-ISNT": {
+      "sourceHash": "0ea503bf9efcef3c3c1ffb0bc1c8b9e10889b6bcfb52e63f82dbe7e4017e8a1f",
+      "generationId": "03d42083-bcf0-4823-ad91-c7d0c6a2e309",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U09-THE-LOGIN-FORM-ISNT.wav",
+      "bytes": 3824684,
+      "voice": "Brave 1",
+      "durationSeconds": 39.84
+    },
+    "UI-MOTION-LAB/U10-WHY-THIS-BUTTON-LOOKS": {
+      "sourceHash": "0600a3130bf871121c1de791c0e7211585d3a1d30677b99cf17ea524ddf79fd1",
+      "generationId": "4871ad53-7d47-48f2-b7f5-d5c31b9684a9",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U10-WHY-THIS-BUTTON-LOOKS.wav",
+      "bytes": 4695404,
+      "voice": "Brave 1",
+      "durationSeconds": 48.91
+    },
+    "UI-MOTION-LAB/U11-A-BANK-BALANCE-WITHOUT": {
+      "sourceHash": "52f17a061cd0ece3b24fe28189775a1be1481d6f4305a9b4afe0d42ed6ce9a58",
+      "generationId": "e0032848-37fb-4acc-86ef-1bb1700614d7",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U11-A-BANK-BALANCE-WITHOUT.wav",
+      "bytes": 4485164,
+      "voice": "Brave 1",
+      "durationSeconds": 46.72
+    },
+    "UI-MOTION-LAB/U12-YOUR-ONBOARDING-IS-ASKIN": {
+      "sourceHash": "dff9fc58d9ab2b70434a16473554b3fd0f2d34000bbd59d729d8da7ed768b954",
+      "generationId": "776bd864-b511-43f4-b5cd-a2124bda3e72",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U12-YOUR-ONBOARDING-IS-ASKIN.wav",
+      "bytes": 4608044,
+      "voice": "Brave 1",
+      "durationSeconds": 48
+    },
+    "UI-MOTION-LAB/U13-CHECKOUT-FRICTION-YOU-DO": {
+      "sourceHash": "6b94c882a550441b681956e7f5f95a3fe6bd50ad4b76e276bc34bb9287841607",
+      "generationId": "b9ba900f-424e-4dc7-9d72-9f44bc979504",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U13-CHECKOUT-FRICTION-YOU-DO.wav",
+      "bytes": 4270124,
+      "voice": "Brave 1",
+      "durationSeconds": 44.48
+    },
+    "UI-MOTION-LAB/U14-A-SPINNER-TELLS-ME": {
+      "sourceHash": "e32c6dffd35f4f8d11ffc036aaa9a208bde4c4ba8a1eef657df031f4944e4049",
+      "generationId": "c2b4d3ac-0072-4a23-8d8d-0510ff82ed9b",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U14-A-SPINNER-TELLS-ME.wav",
+      "bytes": 4423724,
+      "voice": "Brave 1",
+      "durationSeconds": 46.08
+    },
+    "UI-MOTION-LAB/U15-PRICING-TABLES-SHOULD-HE": {
+      "sourceHash": "31146150d4063d40e58406e0bb5ff699960b21dafe7cc9d8bd177c5c0c0e7836",
+      "generationId": "8e1c6ce2-97a6-43f9-a3e4-16a5e98a97df",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U15-PRICING-TABLES-SHOULD-HE.wav",
+      "bytes": 4500524,
+      "voice": "Brave 1",
+      "durationSeconds": 46.88
+    },
+    "UI-MOTION-LAB/U16-YOUR-EMPTY-STATE-IS": {
+      "sourceHash": "284c8daaa68d4b351ee7afa06f2127f4e78a22000564034e86564830a1042aea",
+      "generationId": "6a576abb-73a8-4f5e-a90d-18f174725b06",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U16-YOUR-EMPTY-STATE-IS.wav",
+      "bytes": 4439084,
+      "voice": "Brave 1",
+      "durationSeconds": 46.24
+    },
+    "UI-MOTION-LAB/U17-ICON-ONLY-NAVIGATION-IS": {
+      "sourceHash": "2a65d3129c315fb37002b90f2fc33f1b9fee361d45ce00d588ffbe2600ec2e48",
+      "generationId": "960a593d-2766-48c0-9699-c91d575c793c",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U17-ICON-ONLY-NAVIGATION-IS.wav",
+      "bytes": 4572524,
+      "voice": "Brave 1",
+      "durationSeconds": 47.63
+    },
+    "UI-MOTION-LAB/U18-NO-RESULTS-SHOULD-STILL": {
+      "sourceHash": "15fd3fec2b8c752a315ae8919ccc0a6e298b3a26992f3f28c57b5c237ae80212",
+      "generationId": "ae3785ac-6318-4026-b356-1e84be4a6ea7",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U18-NO-RESULTS-SHOULD-STILL.wav",
+      "bytes": 4224044,
+      "voice": "Brave 1",
+      "durationSeconds": 44
+    },
+    "UI-MOTION-LAB/U19-030426-IS-A-BAD": {
+      "sourceHash": "eebf25d09b54edbaa9068b57e983cd8e651088c7475718d5124431b52ee63299",
+      "generationId": "af37db8f-9a90-4ca1-bb56-9e6d2bd03a13",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U19-030426-IS-A-BAD.wav",
+      "bytes": 4592684,
+      "voice": "Brave 1",
+      "durationSeconds": 47.84
+    },
+    "UI-MOTION-LAB/U20-DONT-WAIT-UNTIL-SUBMIT": {
+      "sourceHash": "05ad3e300ac13474d7c00a1becef3210dadf25b21b9dbdc951a1efe54d4ebb84",
+      "generationId": "4cc44fe0-70a9-499c-8abe-1f9c697cd044",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U20-DONT-WAIT-UNTIL-SUBMIT.wav",
+      "bytes": 4101164,
+      "voice": "Brave 1",
+      "durationSeconds": 42.72
+    },
+    "UI-MOTION-LAB/U21-THE-TABLE-HAS-12": {
+      "sourceHash": "ab9913bedbcb64935974ef3e2dcc549f5e9524334e280f715801b5667f0b2ce9",
+      "generationId": "a54c78d5-ebff-4826-a82d-a7dba16b59c6",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U21-THE-TABLE-HAS-12.wav",
+      "bytes": 4557164,
+      "voice": "Brave 1",
+      "durationSeconds": 47.47
+    },
+    "UI-MOTION-LAB/U22-MENUS-SHOULD-NOT-MAKE": {
+      "sourceHash": "c6e705e7430067c94b958aceccb84f29b286906b052db503c664d50606e3536a",
+      "generationId": "b50bf980-e582-4f73-9071-45aecdee2189",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U22-MENUS-SHOULD-NOT-MAKE.wav",
+      "bytes": 4756844,
+      "voice": "Brave 1",
+      "durationSeconds": 49.55
+    },
+    "UI-MOTION-LAB/U23-FOUR-TINY-LAYOUT-CHOICES": {
+      "sourceHash": "5d7009452585a3ea484925c4f6d8c9892b7de1e496fb6efe85f97c9a4d07bc47",
+      "generationId": "dad8e3ca-0f58-47ec-aeb3-91a178257199",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U23-FOUR-TINY-LAYOUT-CHOICES.wav",
+      "bytes": 4603244,
+      "voice": "Brave 1",
+      "durationSeconds": 47.95
+    },
+    "UI-MOTION-LAB/U24-ONE-TOGGLE-SIGNED-OUT": {
+      "sourceHash": "15f029845589568e224732e354219f19f726d3bd24f57d35bcf57a2474507362",
+      "generationId": "780b7928-0c98-47cf-9a85-6672a63ffc25",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U24-ONE-TOGGLE-SIGNED-OUT.wav",
+      "bytes": 4838444,
+      "voice": "Brave 1",
+      "durationSeconds": 50.4
+    },
+    "UI-MOTION-LAB/U25-WHY-SOME-CARDS-FEEL": {
+      "sourceHash": "e3bc6cc62de6c24c2e2cede6711581582501d2414c007bfb2c1e6d397e7dcd2a",
+      "generationId": "0e4257b6-a9ef-4968-be94-b726c2123298",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U25-WHY-SOME-CARDS-FEEL.wav",
+      "bytes": 4177964,
+      "voice": "Brave 1",
+      "durationSeconds": 43.52
+    },
+    "UI-MOTION-LAB/U26-ACCESSIBILITY-PROBLEMS-H": {
+      "sourceHash": "c87dbecf4e0bc3cf61b75394b3ede870228727b94896c33b14f5f7e355867768",
+      "generationId": "66284026-a34e-41c6-a879-7aac0a40a559",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U26-ACCESSIBILITY-PROBLEMS-H.wav",
+      "bytes": 4495724,
+      "voice": "Brave 1",
+      "durationSeconds": 46.83
+    },
+    "UI-MOTION-LAB/U27-REFRESH-SHOULDNT-DELETE": {
+      "sourceHash": "6df74f9238c0411dfca2aadffa48febda2c484a6b53f2312b8a32f1842d5e3e4",
+      "generationId": "4e372d94-43b5-45cb-925e-1d87b49df353",
+      "status": "complete",
+      "output": "projects\\UI-MOTION-LAB\\public\\audio\\U27-REFRESH-SHOULDNT-DELETE.wav",
+      "bytes": 4546604,
+      "voice": "Brave 1",
+      "durationSeconds": 47.36
+    },
+    "BUILDMODE-LAB/B04-GIVE-YOUR-AI-CODER": {
+      "sourceHash": "f687ef13e1814b4e87e694fa326d1108519618b1b0a7701cd2959b950cdf6867",
+      "generationId": "20587393-abbb-4cf4-b61b-dce4216d0b06",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B04-GIVE-YOUR-AI-CODER.wav",
+      "bytes": 4587884,
+      "voice": "Brave 1",
+      "durationSeconds": 47.79
+    },
+    "BUILDMODE-LAB/B06-TWO-MODELS-ONE-PULL": {
+      "sourceHash": "2c80b87d831e79748439cf8ec6045f31d5ba1c57aee3fa02cfcb1fa57b58259e",
+      "generationId": "6837f7e6-b890-41eb-9efa-7bd2804f82ac",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B06-TWO-MODELS-ONE-PULL.wav",
+      "bytes": 3886124,
+      "voice": "Brave 1",
+      "durationSeconds": 40.48
+    },
+    "BUILDMODE-LAB/B07-MAKE-CLAUDE-AND-CODEX": {
+      "sourceHash": "34ba06935e87022d674ffcb51c0af7835a653032ba55b6ede354252ece43432d",
+      "generationId": "71095edc-a23f-485b-a0aa-bc399f8e2de3",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B07-MAKE-CLAUDE-AND-CODEX.wav",
+      "bytes": 4561964,
+      "voice": "Brave 1",
+      "durationSeconds": 47.52
+    },
+    "BUILDMODE-LAB/B08-STOP-COPY-PASTING-THE-SA": {
+      "sourceHash": "9dc3caf87625e95ff3f32f842bb336b7ffdf0eb89234ccb9bfaf4be40e53b2e4",
+      "generationId": "eb1eefea-c339-4953-b39e-c0e957cf55c1",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B08-STOP-COPY-PASTING-THE-SA.wav",
+      "bytes": 4577324,
+      "voice": "Brave 1",
+      "durationSeconds": 47.68
+    },
+    "BUILDMODE-LAB/B09-WHAT-A-GOOD-AI": {
+      "sourceHash": "69b6cc02e7e4f3f1d3236f718b75afe1eb957692af22b56545b7afb07dd0aa71",
+      "generationId": "e7e0ebb4-9cf3-4b81-a4f7-dc0b87cee8a0",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B09-WHAT-A-GOOD-AI.wav",
+      "bytes": 4802924,
+      "voice": "Brave 1",
+      "durationSeconds": 50.03
+    },
+    "BUILDMODE-LAB/B10-YOUR-BROWSER-IS-BETTER": {
+      "sourceHash": "e9ce58b305eef1084123c00739b6890f1752ea0d8e1511dd4faa11704061b174",
+      "generationId": "4b5078c8-c365-48b2-b033-44a93563e48e",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B10-YOUR-BROWSER-IS-BETTER.wav",
+      "bytes": 4592684,
+      "voice": "Brave 1",
+      "durationSeconds": 47.84
+    },
+    "BUILDMODE-LAB/B11-LET-THE-AGENT-READ": {
+      "sourceHash": "6ce79d71ed06397db2ad4f1eca54e475ff0ee50736b7c2eebd3eb79bfd0de287",
+      "generationId": "c0ebd616-0717-4dde-9b93-6d2a65020870",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B11-LET-THE-AGENT-READ.wav",
+      "bytes": 4485164,
+      "voice": "Brave 1",
+      "durationSeconds": 46.72
+    },
+    "BUILDMODE-LAB/B12-LET-THE-AGENT-QUERY": {
+      "sourceHash": "6469bd71e5a910c312204ad8359647275c96dbf672c3c5eb6e549ded1a5830ce",
+      "generationId": "3259992d-6f94-4ddf-8ec9-2908c775b72a",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B12-LET-THE-AGENT-QUERY.wav",
+      "bytes": 4987244,
+      "voice": "Brave 1",
+      "durationSeconds": 51.95
+    },
+    "BUILDMODE-LAB/B13-THE-HIDDEN-PROMPT-IS": {
+      "sourceHash": "9128e925d1978cafb974ea2bffcff1cc646de31ef819f6bb4ea1c60bc5c7cb39",
+      "generationId": "263475e7-b15a-4c3a-b200-e20016bced1b",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B13-THE-HIDDEN-PROMPT-IS.wav",
+      "bytes": 4423724,
+      "voice": "Brave 1",
+      "durationSeconds": 46.08
+    },
+    "BUILDMODE-LAB/B14-WHY-BENCHMARKS-DONT-TELL": {
+      "sourceHash": "d3c97eafea3c227e10940fc3b74706deda50884dcd784b1b09f3cce38a7ef0f7",
+      "generationId": "6f5faf17-daf2-4d61-a2e9-8a68509ce185",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B14-WHY-BENCHMARKS-DONT-TELL.wav",
+      "bytes": 4623404,
+      "voice": "Brave 1",
+      "durationSeconds": 48.16
+    },
+    "BUILDMODE-LAB/B15-NEW-MODEL-RUN-THIS": {
+      "sourceHash": "3cca28d2fbf0d72272107b57b46bd699f4a991645edf28cbd697033dd9dcc66f",
+      "generationId": "c2faf6ab-be9a-4afd-a211-6cfdeefa5fdb",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B15-NEW-MODEL-RUN-THIS.wav",
+      "bytes": 4270124,
+      "voice": "Brave 1",
+      "durationSeconds": 44.48
+    },
+    "BUILDMODE-LAB/B16-THE-BEST-AI-UI": {
+      "sourceHash": "f929cab4c637ddb344a62146999a23a9c6e50b3139215061ea6a0185fe6bcaf3",
+      "generationId": "2adfcae0-56e0-49ac-aaf4-91913a860e17",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B16-THE-BEST-AI-UI.wav",
+      "bytes": 4561964,
+      "voice": "Brave 1",
+      "durationSeconds": 47.52
+    },
+    "BUILDMODE-LAB/B17-YOU-DONT-NEED-A": {
+      "sourceHash": "bcd04cedcfdfbb34f64b5c92693b0bf8aba2cf0882f7895004046965703b11c1",
+      "generationId": "e7ebe173-c393-4490-802f-71a2ab174efb",
+      "status": "complete",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B17-YOU-DONT-NEED-A.wav",
+      "bytes": 4331564,
+      "voice": "Brave 1",
+      "durationSeconds": 45.12
+    },
+    "BUILDMODE-LAB/B18-BUILD-ONE-INTERFACE-FEED": {
+      "sourceHash": "8129bea9a65b9502b19f26a9fd084c6cf2256984c04b39a11990c5a323b507df",
+      "generationId": "c648fe93-9549-4be9-9da9-ae6a941a63cb",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B18-BUILD-ONE-INTERFACE-FEED.wav"
+    },
+    "BUILDMODE-LAB/B19-YOUR-AI-APP-SHOULD": {
+      "sourceHash": "ac6021f5f0c4f72ab2e3477511996154c81ae7aca47cfe11f5c8e73f0aebbbc9",
+      "generationId": "3dfe0d7c-5e67-4cfc-be7a-798ecddf29b4",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B19-YOUR-AI-APP-SHOULD.wav"
+    },
+    "BUILDMODE-LAB/B20-ONE-GIANT-MODEL-IS": {
+      "sourceHash": "28ca549c022f9c09d1da6cf34573ead4787e9c903d127ecec865cbcca8c87b4a",
+      "generationId": "a4d52bb3-8a39-4682-b155-46ae901eaaa0",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B20-ONE-GIANT-MODEL-IS.wav"
+    },
+    "BUILDMODE-LAB/B21-ZERO-USERS-CAN-STILL": {
+      "sourceHash": "6f77a637ba8c3f096625ae846949e38a2e032a6cca12115cababfbb1459fb9b5",
+      "generationId": "46a5f5d9-01be-4a60-88f9-e98b8ac0933f",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B21-ZERO-USERS-CAN-STILL.wav"
+    },
+    "BUILDMODE-LAB/B22-A-BEAUTIFUL-APP-CAN": {
+      "sourceHash": "58696cc650a0f7d2b11d1f223a66c2a8ffc51030ce41e40ec2f3e2163d8622b6",
+      "generationId": "ff6511d5-5aaa-4812-b7d7-af30756bbe89",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B22-A-BEAUTIFUL-APP-CAN.wav"
+    },
+    "BUILDMODE-LAB/B23-SESSION-REPLAY-CAN-RECOR": {
+      "sourceHash": "d594ecd83be4fe3e59173f80a4272a149dd475779e2aa775af2d6e4cb0cd0c7e",
+      "generationId": "8c209d6c-dccf-45b5-9956-c948c087bc3c",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B23-SESSION-REPLAY-CAN-RECOR.wav"
+    },
+    "BUILDMODE-LAB/B24-SIGNUP-IS-WHERE-LEGAL": {
+      "sourceHash": "62c6a59453df2de9ae6c6248f831985512c020d2b95802d2e5d92bd971daa9ad",
+      "generationId": "f6748281-3a84-412a-a816-b898b6fc4e21",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B24-SIGNUP-IS-WHERE-LEGAL.wav"
+    },
+    "BUILDMODE-LAB/B25-MARKETING-AUTOMATION-CAN": {
+      "sourceHash": "fafdab9efd5814aa3b876084a74c57c35cb7b7570356048ec60c3d3586a4dd3f",
+      "generationId": "1038482b-370a-41a6-87e9-cddf5ea05c81",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B25-MARKETING-AUTOMATION-CAN.wav"
+    },
+    "BUILDMODE-LAB/B26-GLOBAL-CHECKOUT-MEANS-GL": {
+      "sourceHash": "4dbaa7b384e66470d5cd3508283f8266fd4ca992e78772983e18a9112044ca57",
+      "generationId": "6e4e5262-00b9-4e2c-8c4e-e30d2c1a420f",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B26-GLOBAL-CHECKOUT-MEANS-GL.wav"
+    },
+    "BUILDMODE-LAB/B27-AI-WRITTEN-TERMS-DONT-MA": {
+      "sourceHash": "2b4e33dc6015cf561e39c9a771d074700c8207d6619a793a4ac1c649f6810f26",
+      "generationId": "364130c3-137f-4f3f-8b7e-437b2779d62e",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B27-AI-WRITTEN-TERMS-DONT-MA.wav"
+    },
+    "BUILDMODE-LAB/B28-YOUR-APP-DOESNT-NEED": {
+      "sourceHash": "785ddb5f7e256cf119c7ad0d95adfac0d9ebe7220c62af9607492831ac024a67",
+      "generationId": "68ac1183-7678-4a89-ba11-18a6b642c454",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B28-YOUR-APP-DOESNT-NEED.wav"
+    },
+    "BUILDMODE-LAB/B29-THE-YC-APPLICATION-MISTA": {
+      "sourceHash": "b463f2d4eab49388890a63984ed4c65545b914413e132caf365ee6f1dd54f575",
+      "generationId": "db2e427d-3e82-4fe3-b402-f63e5cc8fc21",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B29-THE-YC-APPLICATION-MISTA.wav"
+    },
+    "BUILDMODE-LAB/B30-AI-DIDNT-KILL-DESIGNERS": {
+      "sourceHash": "f9774f4eaec7d9e7e0c3fe6a32b28203bb865c4657dff84bfc5bc34f54c43963",
+      "generationId": "ac641638-fb1c-4a3e-90eb-961b2a4d447c",
+      "status": "queued",
+      "output": "projects\\BUILDMODE-LAB\\public\\audio\\B30-AI-DIDNT-KILL-DESIGNERS.wav"
+    }
+  },
+  "profile": "Brave 1",
+  "engine": "voxcpm",
+  "status": "error",
+  "updatedAt": "2026-10-09T14:00:34.520Z",
+  "error": "fetch failed"
+}

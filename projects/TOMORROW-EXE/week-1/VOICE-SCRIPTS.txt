@@ -1,0 +1,195 @@
+day 1 — AI Gets Your Wallet
+
+What happens when your AI gets a spending limit?
+
+Payment companies are already building infrastructure for purchases made through AI agents.
+
+Now imagine groceries ordered while you sleep, and a flight booked before the fare changes.
+
+You set the budget. It decides which purchase deserves it.
+
+Then it buys something you never would. The receipt says approved. By whom?
+
+Would you give an AI a thousand-dollar limit?
+
+day 1.2 — Your AI Went to Work
+
+It is 2032. You are late for work. Nobody noticed.
+
+Your AI joined the morning meeting, answered three messages, and repaired the spreadsheet you forgot about.
+
+On the train, you read a summary of a conversation you never had.
+
+Your manager says the presentation was excellent. You say thanks, then open the file for the first time.
+
+At five, HR asks a new question: which hours were yours, and which belonged to the agent?
+
+The work got done. But if the AI did your shift, who gets paid?
+
+day 2 — The Last Password
+
+What if the last password you remembered was already behind you?
+
+Passkeys already replace passwords in supported services.
+
+Imagine that same ease at your office, your hotel, and your front door.
+
+Every entrance works, until one account stops recognizing you.
+
+Convenience starts looking like infrastructure when losing access means losing your day.
+
+When passwords disappear, who holds the key?
+
+day 2.2 — The Internet Leaves Your Phone
+
+It is 2031. Your phone is still at home.
+
+Your glasses place directions on the pavement. The bus time floats above the stop.
+
+At lunch, the menu translates before you finish reading. Technology has become almost invisible.
+
+Then someone says hello. A name appears, followed by where you met and what you discussed.
+
+A permission asks whether you want to remember every conversation. You notice there is no permission for everyone else.
+
+You can finally put your phone down. Would you turn People Memory on?
+
+day 3 — Robots Cheaper Than Cars
+
+What happens if a household robot costs less than a car?
+
+Humanoid robots have already been deployed in commercial logistics. A home is a much messier problem.
+
+Imagine carrying groceries, moving laundry, and cleaning under the table as ordinary appliance features.
+
+The sales pitch is saved time. The real test is whether you trust it around your family.
+
+And who fixes it when a software update changes how it behaves?
+
+Would you choose a robot or a second car?
+
+day 3.2 — Rent a Robot
+
+You do not own a robot. You rent one for two hours.
+
+At nine, a van arrives. A machine steps out and waits for permission to enter.
+
+You point at the sofa. It scans the room, protects the doorway, and moves the heavy end.
+
+For the first hour, this feels like renting a tool. Then you ask it to stay for another job.
+
+The robot cannot. Someone across town has already booked the next slot.
+
+The van leaves. Your furniture moved, and physical labour started looking like cloud computing. Would you let it in?
+
+day 4 — Every Child Gets an AI Teacher
+
+What if your teacher remembered every mistake you made?
+
+AI tutors already offer guided learning. Now imagine one that stays with you for ten years.
+
+It knows which explanation finally worked, and which question you were too embarrassed to ask.
+
+Lessons become personal. So does the record of your confusion, attention, and confidence.
+
+When you change schools, does that history follow you? And who gets to read it?
+
+An AI might help you learn. Who should own the story of how you learned?
+
+day 4.2 — The Classroom of 2033
+
+It is 2033. One classroom. Twenty-eight AI tutors.
+
+One student learns fractions with a pizza. Another gets a football diagram. A third needs the problem read aloud.
+
+The teacher stops repeating the explanation and starts noticing who has gone quiet.
+
+A tutor recommends the easier course. The student asks whether that means they are not good enough.
+
+The teacher closes the suggestion. Some decisions need more than a prediction.
+
+If every child gets an AI tutor, what should it never decide for them?
+
+day 5 — Your Thoughts Become Text
+
+What if thinking a sentence was enough to type it?
+
+Clinical research has translated brain signals into speech for people with paralysis.
+
+That is not unrestricted mind-reading. It is a carefully trained communication system.
+
+Now imagine that interface becoming an everyday way to write a message.
+
+Typing gets easier. Keeping the data private becomes a different challenge.
+
+If an interface reads the signal, who owns it?
+
+day 5.2 — Your Brain Gets a Privacy Policy
+
+It is 2038. Your insurance app asks for brain data.
+
+Sharing is optional. So is the discount beside the button.
+
+At work, a second app offers focus analytics. It says the team will only see averages.
+
+You open the policy. The message you intended to send is only one part of the data being collected.
+
+You can refuse. But refusing now has a cost attached to it.
+
+The interface made communication easier. Would you trade neural privacy for a discount?
+
+day 6 — What If Nobody Owned Cars?
+
+What if owning a car became the unusual option?
+
+Commercial driverless rides already exist. A city without private cars is still a what-if.
+
+Imagine calling a vehicle, arriving, and leaving it to find its next passenger.
+
+It charges between trips. Your garage has nothing parked inside.
+
+You save the responsibility of ownership, but depend on whoever runs the fleet.
+
+Would you rather own the car, or subscribe to the ride?
+
+day 6.2 — The City Without Parking
+
+It is 2032. Your city starts demolishing a parking garage.
+
+The residents expect another tower. The plan shows homes, a clinic, and a small public square.
+
+In this version of the future, shared autonomous rides need fewer places to wait.
+
+Concrete disappears. A tree arrives. The old entrance becomes a path to a playground.
+
+Then a neighbour asks who this new space is actually for. Better transport did not settle the housing debate.
+
+If your city needed less parking, what would you put in its place?
+
+day 7 — AI Dates For You
+
+What if your AI went on the first date for you?
+
+It knows your schedule, your boundaries, and the things you keep forgetting to ask.
+
+Two agents compare expectations before their humans ever meet.
+
+They find a time, a place, and an excellent match on paper.
+
+Then you arrive and the conversation goes somewhere neither system predicted.
+
+Would you let AI arrange the date, or does the awkward beginning matter?
+
+day 7.2 — The Video Call You Can’t Trust
+
+It is 2035. Your mother calls. Your phone says unverified.
+
+Her face looks right. Her voice sounds right. She says she needs money immediately.
+
+You almost tap send. Then you end the call and use the number you already know.
+
+Your mother answers. She is fine. The first call was someone else wearing her face.
+
+Watermarking and provenance tools exist today, but no universal badge can guarantee every caller is real.
+
+In a world of convincing copies, would you trust appearance alone?

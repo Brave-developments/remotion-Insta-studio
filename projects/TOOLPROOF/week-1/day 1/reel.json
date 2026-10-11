@@ -1,0 +1,232 @@
+{
+  "id": "D01R1",
+  "day": 1,
+  "reelNumber": 1,
+  "title": "Kando — Discovery",
+  "format": "Discovery",
+  "durationSeconds": 35,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "This free app turns a keyboard shortcut into a menu around your cursor. Kando uses a radial menu. You point toward an action instead of searching through a list. You can launch apps, open folders, and trigger shortcuts from the same place. Its official site lists Windows, macOS, and Linux. The project is free and open source. The part I want to test is habit. A clever menu is only useful if it is easier to use. Next: ten tasks against the Start menu. Which would you bet on?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 89,
+  "estimatedWpm": 153,
+  "concept": "Radial gestures, app/folder launch, shortcuts and multi-action workflow.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "This free app turns a keyboard shortcut into a menu around your cursor.",
+    "This menu follows your cursor. Will you actually use it?",
+    "A gesture opens the app. The speed test comes next."
+  ],
+  "strongestHook": "This free app turns a keyboard shortcut into a menu around your cursor.",
+  "directorBrief": "Direct this as a useful discovery with one important limit: Radial gestures, app/folder launch, shortcuts and multi-action workflow. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Easy",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Install only from the official project after checking supported OS and version. Set up ten actions: browser, editor, calculator, notes, terminal, downloads, project folder, search, screenshot command and a second folder. Replace unavailable commands consistently for both methods before timing. Capture a clean real gesture, settings and dated platform/license source. No claim of speed from a demo.",
+  "evidenceRequirements": "Verify version, license, platforms and local/cloud behavior.",
+  "sources": [
+    {
+      "label": "Kando official site",
+      "url": "https://kando.menu/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "A Menu Around You",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “A Menu Around You” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Next: ten tasks against the Start menu. Which would you bet on?",
+  "cta": "10 TASKS. ONE COMPARISON.",
+  "instagramCaption": "Kando — Discovery. Radial gestures, app/folder launch, shortcuts and multi-action workflow. Full test conditions and limitations belong beside the final result. Next: ten tasks against the Start menu. Which would you bet on?",
+  "tiktokCaption": "Kando — Discovery. 10 TASKS. ONE COMPARISON.",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Actual desktop/Kando recordings, repo/license.",
+  "scenes": [
+    {
+      "id": "D01R1-S1",
+      "start": 0,
+      "end": 5.166666666666667,
+      "type": "hook",
+      "text": "A MENU WHERE YOU ARE",
+      "narration": "This free app turns a keyboard shortcut into a menu around your cursor.",
+      "concept": "Real Kando invocation; opening action is the hook, not a logo.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real Kando invocation; opening action is the hook, not a logo.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "This free app turns a keyboard",
+        "shortcut into a menu around your cursor."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D01R1-S2",
+      "start": 5.166666666666667,
+      "end": 11.433333333333334,
+      "type": "evidence",
+      "text": "POINT TO THE ACTION",
+      "narration": "Kando uses a radial menu. You point toward an action instead of searching through a list.",
+      "concept": "Capture one deliberate gesture at normal speed with cursor visible.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Capture one deliberate gesture at normal speed with cursor visible.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Kando uses a radial menu. You",
+        "point toward an action instead of",
+        "searching through a list."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D01R1-S3",
+      "start": 11.433333333333334,
+      "end": 16.6,
+      "type": "evidence",
+      "text": "APPS. FOLDERS. SHORTCUTS.",
+      "narration": "You can launch apps, open folders, and trigger shortcuts from the same place.",
+      "concept": "Three real actions with their actual resulting windows.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Three real actions with their actual resulting windows.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "You can launch apps, open folders,",
+        "and trigger shortcuts from the same place."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D01R1-S4",
+      "start": 16.6,
+      "end": 22.5,
+      "type": "evidence",
+      "text": "FREE AND OPEN SOURCE",
+      "narration": "Its official site lists Windows, macOS, and Linux. The project is free and open source.",
+      "concept": "Dated official platform and license capture; no popularity counters.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Dated official platform and license capture; no popularity counters.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Its official site lists Windows, macOS,",
+        "and Linux. The project is free",
+        "and open source."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D01R1-S5",
+      "start": 22.5,
+      "end": 30.2,
+      "type": "workflow",
+      "text": "COOL DOES NOT MEAN FASTER",
+      "narration": "The part I want to test is habit. A clever menu is only useful if it is easier to use.",
+      "concept": "Same tasks align under Kando and Start menu; no result yet.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Same tasks align under Kando and Start menu; no result yet.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The part I want to test",
+        "is habit. A clever menu is",
+        "only useful if it is easier",
+        "to use."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D01R1-S6",
+      "start": 30.2,
+      "end": 35,
+      "type": "question",
+      "text": "10 TASKS. ONE COMPARISON.",
+      "narration": "Next: ten tasks against the Start menu. Which would you bet on?",
+      "concept": "Return to menu; end with cursor poised over the first task.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to menu; end with cursor poised over the first task.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Next: ten tasks against the Start",
+        "menu. Which would you bet on?"
+      ],
+      "visualSystem": "ToolVisuals"
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-source-backed-explainer-built"
+}

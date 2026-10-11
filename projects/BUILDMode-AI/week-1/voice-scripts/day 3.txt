@@ -1,0 +1,11 @@
+Can a fresh coding agent follow four project conventions? Use explicit project rules so the test has a clear basis.
+
+Use the existing package manager. Reuse the Button component. Preserve dark mode. Run the named UI test.
+
+Put the rules in the project, then open a fresh task asking for a settings page. Do not repeat the four rules.
+
+Check commands, imports, theme behavior, and test execution. Reading instructions does not prove they were followed.
+
+Audit each rule independently after a recorded run. Leave the compliance score open until the evidence exists.
+
+This is a reproducible project-rules experiment, not a claim about learned memory. Which convention matters most in your repo?

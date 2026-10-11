@@ -1,0 +1,21 @@
+{
+  "name": "retention-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.ts --port=3024",
+    "typecheck": "tsc --noEmit",
+    "render:bank": "node ../../studio-kit/scripts/render-bank.cjs --project=RETENTION-LAB"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "remotion": "4.0.532",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "typescript": "5.9.2"
+  }
+}

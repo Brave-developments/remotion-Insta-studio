@@ -1,0 +1,24 @@
+{
+  "name": "BUILDMode AI",
+  "position": "I build and test things with AI.",
+  "palette": {
+    "background": "#07090D",
+    "panel": "#10141C",
+    "accent": "#3B82F6",
+    "secondary": "#60A5FA",
+    "text": "#F8FAFC",
+    "muted": "#94A3B8"
+  },
+  "visualStyle": "Premium developer software: real code, terminals, browser actions, app demos, test evidence and measured comparisons. Blue is a restrained brand accent.",
+  "port": 3022,
+  "source": "https://chatgpt.com/share/6ac22572-77ec-83ec-9307-9786067165ba",
+  "pillars": [
+    "AI coding challenges",
+    "Real agent experiments",
+    "Small useful apps",
+    "Screenshot-to-interface builds",
+    "Open-source automation",
+    "Developer workflows"
+  ],
+  "fontFamily": "Inter, Geist, Manrope, Segoe UI, sans-serif"
+}

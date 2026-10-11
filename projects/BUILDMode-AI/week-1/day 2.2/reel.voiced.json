@@ -1,0 +1,389 @@
+{
+  "id": "D02R2",
+  "day": 2,
+  "reelNumber": 2,
+  "title": "I Described an App. AI Built It.",
+  "format": "Build",
+  "durationSeconds": 43.1,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I described an app for thirty seconds. Then I handed the transcript to AI. Three columns: To do, Doing, Done. Drag the cards. Keep them after a refresh. Here is what it built on the first pass. I moved a card, refreshed the page, and checked whether the board remembered. [DRAG_AND_PERSISTENCE_RESULT]. It needed [CORRECTION_COUNT] corrections. What useful app should I describe next?",
+  "audio": "audio/day 2.2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 62,
+  "estimatedWpm": 124,
+  "concept": "A voice specification becomes a local Kanban board with drag/drop and persistence.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I described an app for thirty seconds. Then I handed the transcript to AI.",
+    "Can a spoken idea survive the refresh test?",
+    "I wanted three columns, not a complicated app."
+  ],
+  "strongestHook": "I described an app for thirty seconds. Then I handed the transcript to AI.",
+  "directorBrief": "Direct this as an observable challenge: A voice specification becomes a local Kanban board with drag/drop and persistence. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Easy",
+  "effort": "15\u201360 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Record a genuine roughly 30-second specification when voice work resumes; for now feed this exact text: Build a local Kanban board with To do, Doing and Done columns. Add and delete cards, drag cards between columns, and persist the board in local storage after refresh. No backend. Save first pass. Acceptance: add card, edit/delete if implemented as requested, drag in both directions, refresh persistence, empty state, no console error. Record corrections and verified completion time.",
+  "evidenceRequirements": "Record the voice specification, transcript, build and functional checks.",
+  "sources": [],
+  "thumbnail": "Voice Into Kanban",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cVoice Into Kanban\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "What useful app should I describe next?",
+  "cta": "WHAT SHOULD I BUILD?",
+  "instagramCaption": "I Described an App. AI Built It.. A voice specification becomes a local Kanban board with drag/drop and persistence. Full test conditions and limitations belong beside the final result. What useful app should I describe next?",
+  "tiktokCaption": "I Described an App. AI Built It.. WHAT SHOULD I BUILD?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Waveform, transcript, agent run, final Kanban.",
+  "scenes": [
+    {
+      "id": "D02R2-S1",
+      "start": 0.0,
+      "end": 7.533333333333333,
+      "type": "hook",
+      "text": "30 SECONDS \u2192 AN APP",
+      "narration": "I described an app for thirty seconds. Then I handed the transcript to AI.",
+      "concept": "Use a silent waveform illustration until a real voice spec exists; label it.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Use a silent waveform illustration until a real voice spec exists; label it.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I described an app for thirty",
+        "seconds. Then I handed the transcript",
+        "to AI."
+      ],
+      "presentationText": "A SHORT BRIEF \u2192 KANBAN",
+      "presentationNarration": "Turn a short app description into a local Kanban board. Audio is deferred, so this build brief starts as text.",
+      "presentationCaptionChunks": [
+        "Turn a short app description into",
+        "a local Kanban board. Audio is",
+        "deferred, so this build brief starts",
+        "as text."
+      ],
+      "originalStart": 0,
+      "originalEnd": 6.633333333333334,
+      "captionTimings": [
+        {
+          "text": "Turn a short app description into",
+          "start": 0.0,
+          "end": 1.94
+        },
+        {
+          "text": "a local Kanban board. Audio is",
+          "start": 1.78,
+          "end": 4.34
+        },
+        {
+          "text": "deferred, so this build brief starts",
+          "start": 4.18,
+          "end": 6.58
+        },
+        {
+          "text": "as text.",
+          "start": 6.42,
+          "end": 7.52
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S2",
+      "start": 7.533333333333333,
+      "end": 15.166666666666666,
+      "type": "workflow",
+      "text": "3 COLUMNS. DRAG. SAVE.",
+      "narration": "Three columns: To do, Doing, Done. Drag the cards. Keep them after a refresh.",
+      "concept": "Show exact specification, not extra features the agent never received.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show exact specification, not extra features the agent never received.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Three columns: To do, Doing, Done.",
+        "Drag the cards. Keep them after",
+        "a refresh."
+      ],
+      "presentationText": "3 COLUMNS. DRAG. SAVE.",
+      "presentationNarration": "To do, Doing, Done. Add a card, drag it between columns, and preserve the board after a refresh.",
+      "presentationCaptionChunks": [
+        "To do, Doing, Done. Add a",
+        "card, drag it between columns, and",
+        "preserve the board after a refresh."
+      ],
+      "originalStart": 6.633333333333334,
+      "originalEnd": 13.266666666666667,
+      "captionTimings": [
+        {
+          "text": "To do, Doing, Done. Add a",
+          "start": 0.027,
+          "end": 2.887
+        },
+        {
+          "text": "card, drag it between columns, and",
+          "start": 2.727,
+          "end": 5.147
+        },
+        {
+          "text": "preserve the board after a refresh.",
+          "start": 4.987,
+          "end": 7.607
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S3",
+      "start": 15.166666666666666,
+      "end": 22.933333333333334,
+      "type": "evidence",
+      "text": "FIRST BUILD",
+      "narration": "Here is what it built on the first pass.",
+      "concept": "Uncut real board interaction; show baseline empty and added card.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Uncut real board interaction; show baseline empty and added card.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Here is what it built on",
+        "the first pass."
+      ],
+      "presentationText": "MAKE THE INTERACTION CLEAR",
+      "presentationNarration": "This original motion study follows one card from To do into Doing. The finished app needs the same clear interaction.",
+      "presentationCaptionChunks": [
+        "This original motion study follows one",
+        "card from To do into Doing.",
+        "The finished app needs the same",
+        "clear interaction."
+      ],
+      "originalStart": 13.266666666666667,
+      "originalEnd": 17.666666666666668,
+      "captionTimings": [
+        {
+          "text": "This original motion study follows one",
+          "start": 0.013,
+          "end": 2.213
+        },
+        {
+          "text": "card from To do into Doing.",
+          "start": 2.053,
+          "end": 4.213
+        },
+        {
+          "text": "The finished app needs the same",
+          "start": 4.293,
+          "end": 6.073
+        },
+        {
+          "text": "clear interaction.",
+          "start": 5.913,
+          "end": 7.653
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S4",
+      "start": 22.933333333333334,
+      "end": 28.866666666666667,
+      "type": "evidence",
+      "text": "THE REFRESH TEST",
+      "narration": "I moved a card, refreshed the page, and checked whether the board remembered.",
+      "concept": "Keep browser URL and refresh action visible; hold on the persisted state.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Keep browser URL and refresh action visible; hold on the persisted state.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I moved a card, refreshed the",
+        "page, and checked whether the board remembered."
+      ],
+      "presentationText": "THE REFRESH TEST",
+      "presentationNarration": "Store the board locally. Then reload the real page and inspect whether the card comes back in the correct column.",
+      "presentationCaptionChunks": [
+        "Store the board locally. Then reload",
+        "the real page and inspect whether",
+        "the card comes back in the",
+        "correct column."
+      ],
+      "originalStart": 17.666666666666668,
+      "originalEnd": 23.833333333333332,
+      "captionTimings": [
+        {
+          "text": "Store the board locally. Then reload",
+          "start": 0.007,
+          "end": 2.167
+        },
+        {
+          "text": "the real page and inspect whether",
+          "start": 2.007,
+          "end": 3.887
+        },
+        {
+          "text": "the card comes back in the",
+          "start": 3.727,
+          "end": 5.047
+        },
+        {
+          "text": "correct column.",
+          "start": 4.887,
+          "end": 5.933
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S5",
+      "start": 28.866666666666667,
+      "end": 37.13333333333333,
+      "type": "result",
+      "text": "[CHECKED RESULT]",
+      "narration": "[DRAG_AND_PERSISTENCE_RESULT]. It needed [CORRECTION_COUNT] corrections.",
+      "concept": "Only real pass/fail marks; show any failed behavior before its fix.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Only real pass/fail marks; show any failed behavior before its fix.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[DRAG_AND_PERSISTENCE_RESULT]. It needed [CORRECTION_COUNT] corrections."
+      ],
+      "presentationText": "CHECK THE BORING PARTS",
+      "presentationNarration": "Test adding, deleting, dragging both ways, and the empty state. Persistence has to be observed, not assumed.",
+      "presentationCaptionChunks": [
+        "Test adding, deleting, dragging both ways,",
+        "and the empty state. Persistence has",
+        "to be observed, not assumed."
+      ],
+      "originalStart": 23.833333333333332,
+      "originalEnd": 26.466666666666665,
+      "captionTimings": [
+        {
+          "text": "Test adding, deleting, dragging both ways,",
+          "start": 0.033,
+          "end": 3.833
+        },
+        {
+          "text": "and the empty state. Persistence has",
+          "start": 3.673,
+          "end": 6.193
+        },
+        {
+          "text": "to be observed, not assumed.",
+          "start": 6.033,
+          "end": 8.267
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S6",
+      "start": 37.13333333333333,
+      "end": 43.1,
+      "type": "question",
+      "text": "WHAT SHOULD I BUILD?",
+      "narration": "What useful app should I describe next?",
+      "concept": "Leave a card named by the viewer prompt in the actual board.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Leave a card named by the viewer prompt in the actual board.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "What useful app should I describe next?"
+      ],
+      "presentationText": "YOUR NEXT USEFUL APP?",
+      "presentationNarration": "The working local fixture is included for development. What small app should get the next short brief?",
+      "presentationCaptionChunks": [
+        "The working local fixture is included",
+        "for development. What small app should",
+        "get the next short brief?"
+      ],
+      "originalStart": 26.466666666666665,
+      "originalEnd": 30,
+      "captionTimings": [
+        {
+          "text": "The working local fixture is included",
+          "start": 0.027,
+          "end": 1.967
+        },
+        {
+          "text": "for development. What small app should",
+          "start": 1.807,
+          "end": 4.287
+        },
+        {
+          "text": "get the next short brief?",
+          "start": 4.127,
+          "end": 5.827
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

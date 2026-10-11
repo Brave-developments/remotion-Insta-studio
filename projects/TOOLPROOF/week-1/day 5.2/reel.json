@@ -1,0 +1,271 @@
+{
+  "id": "D05R2",
+  "day": 5,
+  "reelNumber": 2,
+  "title": "OpenCut — CapCut Test",
+  "format": "Test",
+  "durationSeconds": 55,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I edited the same Reel in OpenCut and CapCut. Eight jobs: import, trim, split, text, music, transition, vertical resize, and export. If a step was missing, I recorded the workaround and its time. I did not pretend the button existed. The finish line is a playable ten-eighty vertical file, not just a completed timeline. [EIGHT_TASK_RESULTS]. [EXPORT_TIME_AND_OUTPUT_RESULT]. [PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 66,
+  "estimatedWpm": 72,
+  "concept": "Import, trim, split, text, music, transition, resize and 1080p export.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "I edited the same Reel in OpenCut and CapCut.",
+    "Eight editing jobs. No imaginary buttons.",
+    "A finished timeline is not the same as a usable export."
+  ],
+  "strongestHook": "I edited the same Reel in OpenCut and CapCut.",
+  "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Import, trim, split, text, music, transition, resize and 1080p export. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Hard",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Use the classic OpenCut build identified in discovery and a recorded CapCut version/plan. Eight tasks on identical original media: import, trim, split, text, music, one transition, 1080×1920 resize and H.264 export. Specify final 20-second reference edit. Time each task and workarounds, then export and open independently. Check duration, dimensions, audio, title placement and visual defects. Mark unavailable tools and feature gates; no broad production claim beyond this edit.",
+  "evidenceRequirements": "Record failures, workarounds and actual export time.",
+  "sources": [
+    {
+      "label": "OpenCut repository and current status",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Eight Editor Jobs",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Eight Editor Jobs” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+  "cta": "READY FOR YOUR WORKFLOW?",
+  "instagramCaption": "OpenCut — CapCut Test. Import, trim, split, text, music, transition, resize and 1080p export. Full test conditions and limitations belong beside the final result. [PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+  "tiktokCaption": "OpenCut — CapCut Test. READY FOR YOUR WORKFLOW?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Editor recordings, identical footage, exports.",
+  "scenes": [
+    {
+      "id": "D05R2-S1",
+      "start": 0,
+      "end": 7.633333333333334,
+      "type": "hook",
+      "text": "ONE REEL. TWO EDITORS.",
+      "narration": "I edited the same Reel in OpenCut and CapCut.",
+      "concept": "Identical original footage and edit reference, visible in both project bins.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Identical original footage and edit reference, visible in both project bins.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I edited the same Reel in",
+        "OpenCut and CapCut."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "ONE REEL. TWO EDITORS.",
+      "presentationNarration": "The plan edits the same vertical Reel in OpenCut and CapCut.",
+      "presentationCaptionChunks": [
+        "The plan edits the same vertical",
+        "Reel in OpenCut and CapCut."
+      ]
+    },
+    {
+      "id": "D05R2-S2",
+      "start": 7.633333333333334,
+      "end": 17.566666666666666,
+      "type": "workflow",
+      "text": "8 PRACTICAL JOBS",
+      "narration": "Eight jobs: import, trim, split, text, music, transition, vertical resize, and export.",
+      "concept": "Reveal checklist beside exact installed versions and plans.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Reveal checklist beside exact installed versions and plans.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Eight jobs: import, trim, split, text,",
+        "music, transition, vertical resize, and export."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "EIGHT MATCHED TASKS",
+      "presentationNarration": "Import, trim, split, text, music, transition, vertical resize, and export will define the task list.",
+      "presentationCaptionChunks": [
+        "Import, trim, split, text, music, transition,",
+        "vertical resize, and export will define",
+        "the task list."
+      ]
+    },
+    {
+      "id": "D05R2-S3",
+      "start": 17.566666666666666,
+      "end": 32.833333333333336,
+      "type": "evidence",
+      "text": "WORKAROUNDS COUNT",
+      "narration": "If a step was missing, I recorded the workaround and its time. I did not pretend the button existed.",
+      "concept": "Capture actual blocker or functioning operation; accelerate waits only.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Capture actual blocker or functioning operation; accelerate waits only.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "If a step was missing, I",
+        "recorded the workaround and its time.",
+        "I did not pretend the button existed."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "LOG THE WORKAROUND",
+      "presentationNarration": "Any missing step will be recorded alongside its workaround and extra effort. No imaginary button gets credit.",
+      "presentationCaptionChunks": [
+        "Any missing step will be recorded",
+        "alongside its workaround and extra effort.",
+        "No imaginary button gets credit."
+      ]
+    },
+    {
+      "id": "D05R2-S4",
+      "start": 32.833333333333336,
+      "end": 44.3,
+      "type": "evidence",
+      "text": "OPEN THE EXPORTED FILE",
+      "narration": "The finish line is a playable ten-eighty vertical file, not just a completed timeline.",
+      "concept": "Open both exports in independent player; inspect dimensions and visible quality.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Open both exports in independent player; inspect dimensions and visible quality.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The finish line is a playable",
+        "ten-eighty vertical file, not just a",
+        "completed timeline."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "THE FILE IS THE FINISH LINE",
+      "presentationNarration": "Success requires a playable vertical output file. A completed timeline alone will not finish the test.",
+      "presentationCaptionChunks": [
+        "Success requires a playable vertical output",
+        "file. A completed timeline alone will",
+        "not finish the test."
+      ]
+    },
+    {
+      "id": "D05R2-S5",
+      "start": 44.3,
+      "end": 46.6,
+      "type": "result",
+      "text": "[EDITOR AUDIT]",
+      "narration": "[EIGHT_TASK_RESULTS]. [EXPORT_TIME_AND_OUTPUT_RESULT].",
+      "concept": "Actual checklist and timings; hold an example of any export defect.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual checklist and timings; hold an example of any export defect.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[EIGHT_TASK_RESULTS]. [EXPORT_TIME_AND_OUTPUT_RESULT]."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "INSPECT EXPORT AND TIME",
+      "presentationNarration": "Eight task outcomes, export duration, and playback quality require real editing runs. This is the protocol, not a measured verdict.",
+      "presentationCaptionChunks": [
+        "Eight task outcomes, export duration, and",
+        "playback quality require real editing runs.",
+        "This is the protocol, not a",
+        "measured verdict."
+      ]
+    },
+    {
+      "id": "D05R2-S6",
+      "start": 46.6,
+      "end": 55,
+      "type": "question",
+      "text": "READY FOR YOUR WORKFLOW?",
+      "narration": "[PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+      "concept": "Match final frames, avoiding a winner label unsupported by evidence.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Match final frames, avoiding a winner label unsupported by evidence.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[PRODUCTION_FIT_TODAY]. Promising project, or a replacement",
+        "for your current edits?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "PROMISE OR PRODUCTION FIT?",
+      "presentationNarration": "The conclusion will ask whether the tested version suits an actual deadline. What is your non-negotiable editing feature?",
+      "presentationCaptionChunks": [
+        "The conclusion will ask whether the",
+        "tested version suits an actual deadline.",
+        "What is your non-negotiable editing feature?"
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-test-plan-built"
+}

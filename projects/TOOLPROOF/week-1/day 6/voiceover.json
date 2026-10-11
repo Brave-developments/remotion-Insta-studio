@@ -1,0 +1,11 @@
+{
+  "voice": "Brave 1",
+  "profileId": "741b1aae-46cc-4941-b754-46245dfb69c9",
+  "engine": "voxcpm",
+  "file": "projects\\TOOLPROOF\\public\\audio\\day 6.wav",
+  "generationId": "f5373981-65c3-45e2-9d52-cf7ee2dfbaad",
+  "sourceHash": "528622fa9ec387b46ce4cd822c8a14d45c6adb68fc05d88a3d49b797f4690879",
+  "durationSeconds": 32.8,
+  "scriptInputExact": true,
+  "synchronization": "Audio generated; scene alignment and voiced video export still pending."
+}

@@ -1,0 +1,323 @@
+{
+  "id": "D03R1",
+  "day": 3,
+  "reelNumber": 1,
+  "title": "Robots Cheaper Than Cars",
+  "format": "What If",
+  "durationSeconds": 26.933333333333334,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "What happens if a household robot costs less than a car? Humanoid robots have already been deployed in commercial logistics. A home is a much messier problem. Imagine carrying groceries, moving laundry, and cleaning under the table as ordinary appliance features. The sales pitch is saved time. The real test is whether you trust it around your family. And who fixes it when a software update changes how it behaves? Would you choose a robot or a second car?",
+  "audio": "audio/day 3.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 79,
+  "estimatedWpm": 148,
+  "concept": "A humanoid carries groceries and tidies rooms; the next appliance has legs.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "What happens if a household robot costs less than a car?",
+    "The next appliance might have legs.",
+    "A robot carries the groceries. Who fixes its judgment?"
+  ],
+  "strongestHook": "What happens if a household robot costs less than a car?",
+  "directorBrief": "Direct this as a human story about A humanoid carries groceries and tidies rooms; the next appliance has legs. Emotional movement: usefulness \u2192 trust. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Medium",
+  "effort": "60\u2013120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify actual deployments; no invented future price or claimed consumer availability.",
+  "sources": [
+    {
+      "label": "Agility commercial robot deployment",
+      "url": "https://www.agilityrobotics.com/content/digit-deployed-at-gxo-in-historic-humanoid-raas-agreement",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "An Appliance With Legs",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cAn Appliance With Legs\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Would you choose a robot or a second car?",
+  "cta": "ROBOT OR SECOND CAR?",
+  "instagramCaption": "Robots Cheaper Than Cars. A possible future, grounded in present technology. The dates and scenario are fictional. Would you choose a robot or a second car?",
+  "tiktokCaption": "Robots Cheaper Than Cars. ROBOT OR SECOND CAR? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88\u2013104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "One consistent robot, kitchen, groceries, car comparison.",
+  "scenes": [
+    {
+      "id": "D03R1-S1",
+      "start": 0.0,
+      "end": 3.5,
+      "type": "hook",
+      "text": "AN APPLIANCE WITH LEGS",
+      "narration": "What happens if a household robot costs less than a car?",
+      "concept": "Robot and car silhouettes at matching scale; no price tags.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d03r1/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Robot and car silhouettes at matching scale; no price tags.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "What happens if a household robot",
+        "costs less than a car?"
+      ],
+      "originalStart": 0,
+      "originalEnd": 4.533333333333333,
+      "captionTimings": [
+        {
+          "text": "What happens if a household robot",
+          "start": 0.0,
+          "end": 1.7
+        },
+        {
+          "text": "costs less than a car?",
+          "start": 1.54,
+          "end": 3.38
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S2",
+      "start": 3.5,
+      "end": 9.933333333333334,
+      "type": "evidence",
+      "text": "REAL TODAY: INDUSTRIAL DEPLOYMENT",
+      "narration": "Humanoid robots have already been deployed in commercial logistics. A home is a much messier problem.",
+      "concept": "Official deployment source card beside an industrial outline; distinguish home speculation.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Official deployment source card beside an industrial outline; distinguish home speculation.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Humanoid robots have already been deployed",
+        "in commercial logistics. A home is",
+        "a much messier problem."
+      ],
+      "originalStart": 4.533333333333333,
+      "originalEnd": 10.933333333333334,
+      "captionTimings": [
+        {
+          "text": "Humanoid robots have already been deployed",
+          "start": 0.02,
+          "end": 2.04
+        },
+        {
+          "text": "in commercial logistics. A home is",
+          "start": 1.88,
+          "end": 4.5
+        },
+        {
+          "text": "a much messier problem.",
+          "start": 4.34,
+          "end": 6.22
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S3",
+      "start": 9.933333333333334,
+      "end": 15.866666666666667,
+      "type": "cinematic",
+      "text": "IMAGINE THE HOUSEHOLD VERSION",
+      "narration": "Imagine carrying groceries, moving laundry, and cleaning under the table as ordinary appliance features.",
+      "concept": "Keep one robot design through three useful tasks; imperfect movement is acceptable.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d03r1/s3.png",
+      "plannedAssetType": "image",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Keep one robot design through three useful tasks; imperfect movement is acceptable.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Imagine carrying groceries, moving laundry, and",
+        "cleaning under the table as ordinary",
+        "appliance features."
+      ],
+      "originalStart": 10.933333333333334,
+      "originalEnd": 16.566666666666666,
+      "captionTimings": [
+        {
+          "text": "Imagine carrying groceries, moving laundry, and",
+          "start": 0.007,
+          "end": 2.587
+        },
+        {
+          "text": "cleaning under the table as ordinary",
+          "start": 2.427,
+          "end": 4.287
+        },
+        {
+          "text": "appliance features.",
+          "start": 4.127,
+          "end": 5.927
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S4",
+      "start": 15.866666666666667,
+      "end": 20.833333333333332,
+      "type": "phone",
+      "text": "USEFUL IS NOT ENOUGH",
+      "narration": "The sales pitch is saved time. The real test is whether you trust it around your family.",
+      "concept": "Fictional task card gives way to a permission boundary around a family room.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional task card gives way to a permission boundary around a family room.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The sales pitch is saved time.",
+        "The real test is whether you",
+        "trust it around your family."
+      ],
+      "originalStart": 16.566666666666666,
+      "originalEnd": 23.333333333333332,
+      "captionTimings": [
+        {
+          "text": "The sales pitch is saved time.",
+          "start": 0.033,
+          "end": 2.113
+        },
+        {
+          "text": "The real test is whether you",
+          "start": 2.093,
+          "end": 3.413
+        },
+        {
+          "text": "trust it around your family.",
+          "start": 3.253,
+          "end": 4.967
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S5",
+      "start": 20.833333333333332,
+      "end": 24.533333333333335,
+      "type": "workflow",
+      "text": "WHO MAINTAINS IT?",
+      "narration": "And who fixes it when a software update changes how it behaves?",
+      "concept": "Service ticket attaches to the same robot; keep future cost unknown.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Service ticket attaches to the same robot; keep future cost unknown.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "And who fixes it when a",
+        "software update changes how it behaves?"
+      ],
+      "originalStart": 23.333333333333332,
+      "originalEnd": 28.233333333333334,
+      "captionTimings": [
+        {
+          "text": "And who fixes it when a",
+          "start": 0.027,
+          "end": 1.267
+        },
+        {
+          "text": "software update changes how it behaves?",
+          "start": 1.107,
+          "end": 3.7
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S6",
+      "start": 24.533333333333335,
+      "end": 26.933333333333334,
+      "type": "question",
+      "text": "ROBOT OR SECOND CAR?",
+      "narration": "Would you choose a robot or a second car?",
+      "concept": "Return to the two silhouettes; robot remains still.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to the two silhouettes; robot remains still.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Would you choose a robot or",
+        "a second car?"
+      ],
+      "originalStart": 28.233333333333334,
+      "originalEnd": 32,
+      "captionTimings": [
+        {
+          "text": "Would you choose a robot or",
+          "start": 0.007,
+          "end": 1.367
+        },
+        {
+          "text": "a second car?",
+          "start": 1.207,
+          "end": 2.267
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration"
+}

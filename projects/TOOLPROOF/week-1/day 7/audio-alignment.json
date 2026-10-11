@@ -1,0 +1,602 @@
+{
+  "fingerprint": "a8edeb8bdd4853d036ac01bdf670652112b1a9b21c4ae9f776cfb8de8dfcb326",
+  "recognizedText": " This open source notebook starts with a canvas, not a subscription pitch. Butterfly is a local first cross-platform note app. I want to see the workflow, not just the feature list, import a sample PDF, write on it, and move one note without rebuilding the page. Then export the page and open it in another viewer. Handwriting, organization, and collaboration can behave very differently across devices and versions. Next, I am using the same PDF and Butterfly in good notes. would make you switch.",
+  "words": [
+    {
+      "text": " This",
+      "timestamp": [
+        0.0,
+        0.52
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        0.52,
+        0.82
+      ]
+    },
+    {
+      "text": " source",
+      "timestamp": [
+        0.82,
+        1.06
+      ]
+    },
+    {
+      "text": " notebook",
+      "timestamp": [
+        1.06,
+        1.4
+      ]
+    },
+    {
+      "text": " starts",
+      "timestamp": [
+        1.4,
+        1.96
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        1.96,
+        2.2
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.2,
+        2.3
+      ]
+    },
+    {
+      "text": " canvas,",
+      "timestamp": [
+        2.3,
+        3.04
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        3.04,
+        3.3
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        3.3,
+        3.42
+      ]
+    },
+    {
+      "text": " subscription",
+      "timestamp": [
+        3.42,
+        3.8
+      ]
+    },
+    {
+      "text": " pitch.",
+      "timestamp": [
+        3.8,
+        4.8
+      ]
+    },
+    {
+      "text": " Butterfly",
+      "timestamp": [
+        4.94,
+        5.22
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        5.22,
+        5.46
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        5.46,
+        5.6
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        5.6,
+        5.84
+      ]
+    },
+    {
+      "text": " first",
+      "timestamp": [
+        5.84,
+        6.28
+      ]
+    },
+    {
+      "text": " cross",
+      "timestamp": [
+        6.28,
+        6.62
+      ]
+    },
+    {
+      "text": "-platform",
+      "timestamp": [
+        6.62,
+        7.16
+      ]
+    },
+    {
+      "text": " note",
+      "timestamp": [
+        7.16,
+        7.42
+      ]
+    },
+    {
+      "text": " app.",
+      "timestamp": [
+        7.42,
+        8.1
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        8.2,
+        8.28
+      ]
+    },
+    {
+      "text": " want",
+      "timestamp": [
+        8.28,
+        8.4
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        8.4,
+        8.5
+      ]
+    },
+    {
+      "text": " see",
+      "timestamp": [
+        8.5,
+        8.64
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        8.64,
+        8.78
+      ]
+    },
+    {
+      "text": " workflow,",
+      "timestamp": [
+        8.78,
+        9.48
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        9.48,
+        9.66
+      ]
+    },
+    {
+      "text": " just",
+      "timestamp": [
+        9.66,
+        9.88
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        9.88,
+        10.02
+      ]
+    },
+    {
+      "text": " feature",
+      "timestamp": [
+        10.02,
+        10.32
+      ]
+    },
+    {
+      "text": " list,",
+      "timestamp": [
+        10.32,
+        11.08
+      ]
+    },
+    {
+      "text": " import",
+      "timestamp": [
+        11.08,
+        11.3
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        11.3,
+        11.48
+      ]
+    },
+    {
+      "text": " sample",
+      "timestamp": [
+        11.48,
+        11.76
+      ]
+    },
+    {
+      "text": " PDF,",
+      "timestamp": [
+        11.76,
+        12.62
+      ]
+    },
+    {
+      "text": " write",
+      "timestamp": [
+        12.62,
+        12.8
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        12.8,
+        12.98
+      ]
+    },
+    {
+      "text": " it,",
+      "timestamp": [
+        12.98,
+        13.42
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        13.42,
+        13.52
+      ]
+    },
+    {
+      "text": " move",
+      "timestamp": [
+        13.66,
+        13.68
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        13.68,
+        13.98
+      ]
+    },
+    {
+      "text": " note",
+      "timestamp": [
+        13.98,
+        14.2
+      ]
+    },
+    {
+      "text": " without",
+      "timestamp": [
+        14.2,
+        14.5
+      ]
+    },
+    {
+      "text": " rebuilding",
+      "timestamp": [
+        14.5,
+        14.86
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        14.86,
+        15.1
+      ]
+    },
+    {
+      "text": " page.",
+      "timestamp": [
+        15.1,
+        15.94
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        16.18,
+        16.28
+      ]
+    },
+    {
+      "text": " export",
+      "timestamp": [
+        16.28,
+        16.62
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        16.62,
+        16.82
+      ]
+    },
+    {
+      "text": " page",
+      "timestamp": [
+        16.82,
+        17.26
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        17.26,
+        17.48
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        17.48,
+        17.76
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        17.76,
+        17.9
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        17.9,
+        18.04
+      ]
+    },
+    {
+      "text": " another",
+      "timestamp": [
+        18.04,
+        18.28
+      ]
+    },
+    {
+      "text": " viewer.",
+      "timestamp": [
+        18.28,
+        19.12
+      ]
+    },
+    {
+      "text": " Handwriting,",
+      "timestamp": [
+        19.24,
+        20.02
+      ]
+    },
+    {
+      "text": " organization,",
+      "timestamp": [
+        20.02,
+        21.04
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        21.04,
+        21.14
+      ]
+    },
+    {
+      "text": " collaboration",
+      "timestamp": [
+        21.14,
+        21.7
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        21.7,
+        22.42
+      ]
+    },
+    {
+      "text": " behave",
+      "timestamp": [
+        22.42,
+        22.7
+      ]
+    },
+    {
+      "text": " very",
+      "timestamp": [
+        22.7,
+        23.04
+      ]
+    },
+    {
+      "text": " differently",
+      "timestamp": [
+        23.04,
+        23.54
+      ]
+    },
+    {
+      "text": " across",
+      "timestamp": [
+        23.54,
+        23.94
+      ]
+    },
+    {
+      "text": " devices",
+      "timestamp": [
+        23.94,
+        24.48
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        24.72,
+        24.76
+      ]
+    },
+    {
+      "text": " versions.",
+      "timestamp": [
+        24.76,
+        25.88
+      ]
+    },
+    {
+      "text": " Next,",
+      "timestamp": [
+        26.26,
+        26.42
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        26.42,
+        26.54
+      ]
+    },
+    {
+      "text": " am",
+      "timestamp": [
+        26.54,
+        26.64
+      ]
+    },
+    {
+      "text": " using",
+      "timestamp": [
+        26.64,
+        26.86
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        26.86,
+        27.1
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        27.1,
+        27.36
+      ]
+    },
+    {
+      "text": " PDF",
+      "timestamp": [
+        27.36,
+        27.8
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        27.8,
+        28.06
+      ]
+    },
+    {
+      "text": " Butterfly",
+      "timestamp": [
+        28.06,
+        28.54
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        28.54,
+        28.72
+      ]
+    },
+    {
+      "text": " good",
+      "timestamp": [
+        28.72,
+        28.88
+      ]
+    },
+    {
+      "text": " notes.",
+      "timestamp": [
+        28.88,
+        29.66
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        29.8,
+        29.9
+      ]
+    },
+    {
+      "text": " make",
+      "timestamp": [
+        29.9,
+        30.06
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        30.06,
+        30.26
+      ]
+    },
+    {
+      "text": " switch.",
+      "timestamp": [
+        30.26,
+        30.86
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

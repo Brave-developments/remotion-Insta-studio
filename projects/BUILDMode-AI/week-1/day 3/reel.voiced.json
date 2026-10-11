@@ -1,0 +1,393 @@
+{
+  "id": "D03R1",
+  "day": 3,
+  "reelNumber": 1,
+  "title": "Does Cursor Remember Your Project?",
+  "format": "Experiment",
+  "durationSeconds": 42.93333333333333,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I gave Cursor four project rules, then opened a fresh agent. Use this package manager. Reuse this button. Keep dark mode. Run the UI test. The new task never repeated those instructions. I asked for a settings page. I inspected the commands, imports, theme behavior, and test run. Reading the rules is not the same as following them. It followed [RULES_FOLLOWED] of four rules. [MISSED_RULE_OR_CLEAN_RUN]. [RULES_VS_MEMORY_CONCLUSION]. Would you put your project conventions here?",
+  "audio": "audio/day 3.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 73,
+  "estimatedWpm": 110,
+  "concept": "Test package manager, existing button, dark-mode and UI-test recall.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I gave Cursor four project rules, then opened a fresh agent.",
+    "The new agent gets four rules. Does it follow them?",
+    "Persistent instructions are not magic memory. Let us check."
+  ],
+  "strongestHook": "I gave Cursor four project rules, then opened a fresh agent.",
+  "directorBrief": "Direct this as an observable challenge: Test package manager, existing button, dark-mode and UI-test recall. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Medium",
+  "effort": "15\u201360 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Use supported Cursor project rules explicitly, not an unverified memory feature. Put four scoped conventions in the real project rules: use the existing package manager, import the existing Button, preserve dark mode, run the named UI test. Capture rule file and scope. Start a fresh agent and ask only for a settings page with one save action. Inspect package commands, imports, theme behavior and actual test execution. Compare rule application to observed work; do not infer learning from persistent instructions.",
+  "evidenceRequirements": "Confirm feature access; audit all four rules in a fresh task.",
+  "sources": [
+    {
+      "label": "Cursor project rules",
+      "url": "https://cursor.com/docs/rules",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Four Rules Fresh Agent",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cFour Rules Fresh Agent\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[RULES_VS_MEMORY_CONCLUSION]. Would you put your project conventions here?",
+  "cta": "WOULD YOU USE PROJECT RULES?",
+  "instagramCaption": "Does Cursor Remember Your Project?. Test package manager, existing button, dark-mode and UI-test recall. Full test conditions and limitations belong beside the final result. [RULES_VS_MEMORY_CONCLUSION]. Would you put your project conventions here?",
+  "tiktokCaption": "Does Cursor Remember Your Project?. WOULD YOU USE PROJECT RULES?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Both sessions, rules, final code and tests.",
+  "scenes": [
+    {
+      "id": "D03R1-S1",
+      "start": 0.0,
+      "end": 7.666666666666667,
+      "type": "hook",
+      "text": "FRESH AGENT. FOUR RULES.",
+      "narration": "I gave Cursor four project rules, then opened a fresh agent.",
+      "concept": "Show rules file and new session creation; avoid implying invisible learned memory.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show rules file and new session creation; avoid implying invisible learned memory.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I gave Cursor four project rules,",
+        "then opened a fresh agent."
+      ],
+      "presentationText": "FRESH AGENT. FOUR RULES.",
+      "presentationNarration": "Can a fresh coding agent follow four project conventions? Use explicit project rules so the test has a clear basis.",
+      "presentationCaptionChunks": [
+        "Can a fresh coding agent follow",
+        "four project conventions? Use explicit project",
+        "rules so the test has a",
+        "clear basis."
+      ],
+      "originalStart": 0,
+      "originalEnd": 6.066666666666666,
+      "captionTimings": [
+        {
+          "text": "Can a fresh coding agent follow",
+          "start": 0.0,
+          "end": 2.42
+        },
+        {
+          "text": "four project conventions? Use explicit project",
+          "start": 2.26,
+          "end": 5.4
+        },
+        {
+          "text": "rules so the test has a",
+          "start": 5.24,
+          "end": 6.7
+        },
+        {
+          "text": "clear basis.",
+          "start": 6.54,
+          "end": 7.667
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S2",
+      "start": 7.666666666666667,
+      "end": 14.766666666666667,
+      "type": "workflow",
+      "text": "FOUR OBSERVABLE RULES",
+      "narration": "Use this package manager. Reuse this button. Keep dark mode. Run the UI test.",
+      "concept": "Four short rule cards align with actual config, component and test files.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Four short rule cards align with actual config, component and test files.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Use this package manager. Reuse this",
+        "button. Keep dark mode. Run the",
+        "UI test."
+      ],
+      "presentationText": "RULES YOU CAN OBSERVE",
+      "presentationNarration": "Use the existing package manager. Reuse the Button component. Preserve dark mode. Run the named UI test.",
+      "presentationCaptionChunks": [
+        "Use the existing package manager. Reuse",
+        "the Button component. Preserve dark mode.",
+        "Run the named UI test."
+      ],
+      "originalStart": 6.066666666666666,
+      "originalEnd": 13.666666666666666,
+      "captionTimings": [
+        {
+          "text": "Use the existing package manager. Reuse",
+          "start": 0.033,
+          "end": 2.553
+        },
+        {
+          "text": "the Button component. Preserve dark mode.",
+          "start": 2.393,
+          "end": 5.453
+        },
+        {
+          "text": "Run the named UI test.",
+          "start": 5.293,
+          "end": 7.1
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S3",
+      "start": 14.766666666666667,
+      "end": 21.733333333333334,
+      "type": "evidence",
+      "text": "THE TASK DOES NOT REPEAT THEM",
+      "narration": "The new task never repeated those instructions. I asked for a settings page.",
+      "concept": "Capture exact new prompt; leave rules scope and tool version on an evidence card.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Capture exact new prompt; leave rules scope and tool version on an evidence card.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The new task never repeated those",
+        "instructions. I asked for a settings page."
+      ],
+      "presentationText": "ASK FOR A SETTINGS PAGE",
+      "presentationNarration": "Put the rules in the project, then open a fresh task asking for a settings page. Do not repeat the four rules.",
+      "presentationCaptionChunks": [
+        "Put the rules in the project,",
+        "then open a fresh task asking",
+        "for a settings page. Do not",
+        "repeat the four rules."
+      ],
+      "originalStart": 13.666666666666666,
+      "originalEnd": 20.766666666666666,
+      "captionTimings": [
+        {
+          "text": "Put the rules in the project,",
+          "start": 0.013,
+          "end": 1.713
+        },
+        {
+          "text": "then open a fresh task asking",
+          "start": 1.553,
+          "end": 3.713
+        },
+        {
+          "text": "for a settings page. Do not",
+          "start": 3.553,
+          "end": 5.533
+        },
+        {
+          "text": "repeat the four rules.",
+          "start": 5.373,
+          "end": 6.967
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S4",
+      "start": 21.733333333333334,
+      "end": 28.833333333333332,
+      "type": "evidence",
+      "text": "CHECK THE WORK",
+      "narration": "I inspected the commands, imports, theme behavior, and test run. Reading the rules is not the same as following them.",
+      "concept": "Zoom to one relevant line per rule; show functional theme interaction.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Zoom to one relevant line per rule; show functional theme interaction.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I inspected the commands, imports, theme",
+        "behavior, and test run. Reading the",
+        "rules is not the same as",
+        "following them."
+      ],
+      "presentationText": "INSPECT THE ACTUAL WORK",
+      "presentationNarration": "Check commands, imports, theme behavior, and test execution. Reading instructions does not prove they were followed.",
+      "presentationCaptionChunks": [
+        "Check commands, imports, theme behavior, and",
+        "test execution. Reading instructions does not",
+        "prove they were followed."
+      ],
+      "originalStart": 20.766666666666666,
+      "originalEnd": 31.4,
+      "captionTimings": [
+        {
+          "text": "Check commands, imports, theme behavior, and",
+          "start": 0.007,
+          "end": 3.127
+        },
+        {
+          "text": "test execution. Reading instructions does not",
+          "start": 2.967,
+          "end": 5.867
+        },
+        {
+          "text": "prove they were followed.",
+          "start": 5.707,
+          "end": 7.1
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S5",
+      "start": 28.833333333333332,
+      "end": 35.4,
+      "type": "result",
+      "text": "[RULE AUDIT]",
+      "narration": "It followed [RULES_FOLLOWED] of four rules. [MISSED_RULE_OR_CLEAN_RUN].",
+      "concept": "Measured four-row audit; no memory feature claim beyond observed mechanism.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Measured four-row audit; no memory feature claim beyond observed mechanism.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "It followed [RULES_FOLLOWED] of four rules. [MISSED_RULE_OR_CLEAN_RUN]."
+      ],
+      "presentationText": "NO ASSUMED COMPLIANCE",
+      "presentationNarration": "Audit each rule independently after a recorded run. Leave the compliance score open until the evidence exists.",
+      "presentationCaptionChunks": [
+        "Audit each rule independently after a",
+        "recorded run. Leave the compliance score",
+        "open until the evidence exists."
+      ],
+      "originalStart": 31.4,
+      "originalEnd": 35.43333333333333,
+      "captionTimings": [
+        {
+          "text": "Audit each rule independently after a",
+          "start": 0.027,
+          "end": 2.207
+        },
+        {
+          "text": "recorded run. Leave the compliance score",
+          "start": 2.047,
+          "end": 4.487
+        },
+        {
+          "text": "open until the evidence exists.",
+          "start": 4.327,
+          "end": 6.487
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S6",
+      "start": 35.4,
+      "end": 42.93333333333333,
+      "type": "question",
+      "text": "WOULD YOU USE PROJECT RULES?",
+      "narration": "[RULES_VS_MEMORY_CONCLUSION]. Would you put your project conventions here?",
+      "concept": "Return to the real rules file and the verified settings screen.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to the real rules file and the verified settings screen.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[RULES_VS_MEMORY_CONCLUSION]. Would you put your project",
+        "conventions here?"
+      ],
+      "presentationText": "RULES, NOT MIND READING",
+      "presentationNarration": "This is a reproducible project-rules experiment, not a claim about learned memory. Which convention matters most in your repo?",
+      "presentationCaptionChunks": [
+        "This is a reproducible project-rules experiment,",
+        "not a claim about learned memory.",
+        "Which convention matters most in your",
+        "repo?"
+      ],
+      "originalStart": 35.43333333333333,
+      "originalEnd": 40,
+      "captionTimings": [
+        {
+          "text": "This is a reproducible project-rules experiment,",
+          "start": 0.02,
+          "end": 2.86
+        },
+        {
+          "text": "not a claim about learned memory.",
+          "start": 2.7,
+          "end": 4.82
+        },
+        {
+          "text": "Which convention matters most in your repo?",
+          "start": 4.9,
+          "end": 7.4
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

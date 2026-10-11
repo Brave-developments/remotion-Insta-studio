@@ -1,0 +1,15 @@
+{
+  "name": "BUILD MODE LAB",
+  "position": "AI coding systems, verification and real build evidence.",
+  "bank": "story board/BUILDMode_AI_45s_Storyboards_README (1).md",
+  "port": 3026,
+  "palette": {
+    "background": "#060A07",
+    "panel": "#0F1611",
+    "accent": "#4ADE80",
+    "secondary": "#A3E635",
+    "text": "#FFFFFF",
+    "muted": "#96A69A"
+  },
+  "fontFamily": "Inter, Segoe UI, sans-serif"
+}

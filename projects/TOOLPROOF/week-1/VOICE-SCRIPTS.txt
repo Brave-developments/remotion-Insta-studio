@@ -1,0 +1,195 @@
+day 1 — Kando — Discovery
+
+This free app turns a keyboard shortcut into a menu around your cursor.
+
+Kando uses a radial menu. You point toward an action instead of searching through a list.
+
+You can launch apps, open folders, and trigger shortcuts from the same place.
+
+Its official site lists Windows, macOS, and Linux. The project is free and open source.
+
+The part I want to test is habit. A clever menu is only useful if it is easier to use.
+
+Next: ten tasks against the Start menu. Which would you bet on?
+
+day 1.2 — Kando — Start Menu Test
+
+The test plan is Kando against the Start menu on ten everyday tasks.
+
+Both methods will launch the same apps, open the same folders, and reach the same commands.
+
+Setup will be counted separately. After practice, three timed rounds will alternate the method order.
+
+Every wrong selection will be logged. Speed only matters if the intended action opens.
+
+The result needs both median durations, error counts, and setup effort. No timings have been measured yet.
+
+The verdict will depend on the recorded workflow. Which of your daily actions would belong in this menu?
+
+day 2 — LocalSend — Discovery
+
+Sending a file between different devices should not need a cloud upload.
+
+LocalSend transfers over your local network. Both devices need to discover each other there.
+
+The official project supports Android, iOS, Windows, macOS, and Linux.
+
+It does not require an account. Pick a device, accept the request, and check the received file.
+
+That is useful at home. It also means network discovery and device permissions matter.
+
+Next I am testing photos, a large video, and a folder against a cloud workflow.
+
+day 2.2 — LocalSend — Transfer Test
+
+The plan compares LocalSend with a cloud route using exactly the same files.
+
+The inputs will be one hundred photos, a one-gigabyte video, and a five-gigabyte folder.
+
+Timing will cover sending and receiving. The cloud route must include upload and download.
+
+Received files will be checked for integrity. A separate run will interrupt Wi-Fi to examine recovery.
+
+Duration, file integrity, and recovery all need real capture. A moving diagram cannot establish transfer speed.
+
+Local networking is the starting condition. The final verdict will explain what changes when devices are apart.
+
+day 3 — Stirling PDF — Discovery
+
+Before uploading a private PDF, check whether you can do the job locally.
+
+Stirling PDF brings merging, splitting, compression, OCR, and other PDF operations into one workspace.
+
+Its project describes desktop and self-hosted options. Choose the actual local setup before making a privacy claim.
+
+The project is open core. That means the license and paid feature boundaries deserve a look.
+
+For me, the useful question is whether the exported file is right, especially after redaction.
+
+Next: seven real jobs against Acrobat. Which one would you test first?
+
+day 3.2 — Stirling PDF — Acrobat Test
+
+The test will compare Stirling PDF and Acrobat on seven clearly defined document jobs.
+
+Edit, merge, compress, OCR, redact, sign, and reorder will each start from a fresh copy.
+
+Output correctness comes before speed. Setup and any manual repair will stay in the record.
+
+The redaction check will search and copy the hidden text, then reopen the exported file.
+
+Task completion, OCR accuracy, compression quality, and redaction need actual output inspection. No winner is measured yet.
+
+The conclusion will name supported jobs and any remaining gap. Which PDF task would you check first?
+
+day 4 — Cap — Discovery
+
+The free Loom alternative has a licensing detail you should read.
+
+Cap is a screen-recording tool. Its pricing page separates personal use from commercial use.
+
+So I would not call it free for every work recording.
+
+The workflow I want is simple: record a useful demo, make it readable, and get it to someone.
+
+Export and sharing limits matter as much as the recording button.
+
+Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?
+
+day 4.2 — Cap — Loom Test
+
+The planned comparison records the same sixty-second demonstration in Cap and Loom.
+
+Resolution, frame-rate target, microphone, and script will match. Setup effort stays visible.
+
+The review will inspect text, cursor movement, edits, captions, and access for another viewer.
+
+A feature outside the tested plan will be recorded as a limitation, with the plan named.
+
+Finished output and current license terms must support the comparison. No captured output or cost verdict exists yet.
+
+The recommendation will separate personal, commercial, and team needs. Which recording job matters to you?
+
+day 5 — OpenCut — Discovery
+
+A free editor can be exciting without being your next production tool.
+
+OpenCut is an open-source editor. Its current README says the project is being rewritten, with the classic version still available.
+
+I am testing the classic version people can use today: can it handle an ordinary vertical edit?
+
+Then I need text, sound, and an export I can actually open.
+
+Open source tells me something about access. It does not tell me whether this version fits my deadline.
+
+Next: the same Reel in OpenCut and CapCut, with every missing step recorded.
+
+day 5.2 — OpenCut — CapCut Test
+
+The plan edits the same vertical Reel in OpenCut and CapCut.
+
+Import, trim, split, text, music, transition, vertical resize, and export will define the task list.
+
+Any missing step will be recorded alongside its workaround and extra effort. No imaginary button gets credit.
+
+Success requires a playable vertical output file. A completed timeline alone will not finish the test.
+
+Eight task outcomes, export duration, and playback quality require real editing runs. This is the protocol, not a measured verdict.
+
+The conclusion will ask whether the tested version suits an actual deadline. What is your non-negotiable editing feature?
+
+day 6 — AppFlowy — Discovery
+
+An open-source workspace can still have a paid cloud plan.
+
+AppFlowy offers a workspace for pages and structured work. The client and hosted service are different parts of the decision.
+
+Before comparing it with Notion, I want to know what works locally and what my plan includes.
+
+The free hosted tier has limits. Team size, storage, and AI usage need a current check.
+
+The useful question is whether my pages and tables still work when the network disappears.
+
+Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.
+
+day 6.2 — AppFlowy — Notion Test
+
+The comparison will rebuild the same small workspace in AppFlowy and Notion.
+
+A table, board, calendar, project page, and form are the fixtures. Unavailable features will be marked.
+
+The test device will go offline before opening, editing, and saving the workspace.
+
+Exported data will be opened elsewhere. Missing fields or broken relationships will count as evidence.
+
+Offline behavior, export fidelity, team limits, and feature access need observed results. No switching recommendation has been earned yet.
+
+The eventual verdict will identify who benefits and who should stay. What data could your workspace never lose?
+
+day 7 — Butterfly — Discovery
+
+This open-source notebook starts with a canvas, not a subscription pitch.
+
+Butterfly is a local-first, cross-platform note app. I want to see the workflow, not just the feature list.
+
+Import a sample PDF, write on it, and move one note without rebuilding the page.
+
+Then export the page and open it in another viewer.
+
+Handwriting, organization, and collaboration can behave very differently across devices and versions.
+
+Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?
+
+day 7.2 — Butterfly — Goodnotes Test
+
+The planned comparison gives Butterfly and Goodnotes the same PDF annotation task.
+
+Each run gets five minutes to write, highlight, draw a shape, and move a note.
+
+The review will check responsiveness, organization, and whether exported marks stay in place.
+
+Collaboration and sync will get a verdict only on accounts and devices actually tested.
+
+Writing, organization, export quality, and device limitations need captured observations. No replacement verdict exists yet.
+
+The recommendation will describe a specific fit and any gap. Which note-taking feature would stop you switching?

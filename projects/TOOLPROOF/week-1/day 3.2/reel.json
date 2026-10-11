@@ -1,0 +1,272 @@
+{
+  "id": "D03R2",
+  "day": 3,
+  "reelNumber": 2,
+  "title": "Stirling PDF — Acrobat Test",
+  "format": "Test",
+  "durationSeconds": 55,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Can Stirling PDF replace Acrobat for these seven jobs? Edit, merge, compress, OCR, redact, sign, and reorder. Each starts from a fresh copy. I compared correct output first, then time and how much setup each task needed. For redaction, I searched and copied the hidden text. A black rectangle alone does not prove it is gone. [TASK_PASS_RESULTS]. [OCR_COMPRESSION_AND_REDACTION_OBSERVATION]. [SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 66,
+  "estimatedWpm": 72,
+  "concept": "Seven jobs: edit, merge, compress, OCR, redact, sign and rearrange.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "Can Stirling PDF replace Acrobat for these seven jobs?",
+    "A black rectangle does not prove the text is gone.",
+    "Seven PDF tasks. Correct output comes first."
+  ],
+  "strongestHook": "Can Stirling PDF replace Acrobat for these seven jobs?",
+  "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Seven jobs: edit, merge, compress, OCR, redact, sign and rearrange. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Hard",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Seven synthetic input sets: editable text PDF, three merge files, high-resolution scan, OCR page with known text, redaction token page, signature form and numbered reorder pages. Run both tools on fresh copies with installed version and plan logged. Measure correct output before elapsed time. OCR compare to known text; compression compare size plus readable image quality; redaction search/copy/extract the synthetic secret token; distinguish drawn from certificate signatures. Record missing/gated features and actual workarounds.",
+  "evidenceRequirements": "Compare correct output, speed and ease; no prewritten positive verdict.",
+  "sources": [
+    {
+      "label": "Stirling PDF repository",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Seven PDF Jobs",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Seven PDF Jobs” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+  "cta": "WOULD YOU SWITCH?",
+  "instagramCaption": "Stirling PDF — Acrobat Test. Seven jobs: edit, merge, compress, OCR, redact, sign and rearrange. Full test conditions and limitations belong beside the final result. [SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+  "tiktokCaption": "Stirling PDF — Acrobat Test. WOULD YOU SWITCH?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Matching input documents and output files.",
+  "scenes": [
+    {
+      "id": "D03R2-S1",
+      "start": 0,
+      "end": 7.633333333333334,
+      "type": "hook",
+      "text": "7 PDF JOBS",
+      "narration": "Can Stirling PDF replace Acrobat for these seven jobs?",
+      "concept": "Both installed app versions beside identical input files.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Both installed app versions beside identical input files.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Can Stirling PDF replace Acrobat for",
+        "these seven jobs?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "SEVEN PDF JOBS",
+      "presentationNarration": "The test will compare Stirling PDF and Acrobat on seven clearly defined document jobs.",
+      "presentationCaptionChunks": [
+        "The test will compare Stirling PDF",
+        "and Acrobat on seven clearly defined",
+        "document jobs."
+      ]
+    },
+    {
+      "id": "D03R2-S2",
+      "start": 7.633333333333334,
+      "end": 19.1,
+      "type": "workflow",
+      "text": "MATCHED INPUTS",
+      "narration": "Edit, merge, compress, OCR, redact, sign, and reorder. Each starts from a fresh copy.",
+      "concept": "Seven task cards; distinguish drawn signature from certificate-based signing.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Seven task cards; distinguish drawn signature from certificate-based signing.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Edit, merge, compress, OCR, redact, sign,",
+        "and reorder. Each starts from a",
+        "fresh copy."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "FRESH INPUT FOR EACH TASK",
+      "presentationNarration": "Edit, merge, compress, OCR, redact, sign, and reorder will each start from a fresh copy.",
+      "presentationCaptionChunks": [
+        "Edit, merge, compress, OCR, redact, sign,",
+        "and reorder will each start from",
+        "a fresh copy."
+      ]
+    },
+    {
+      "id": "D03R2-S3",
+      "start": 19.1,
+      "end": 30.566666666666666,
+      "type": "evidence",
+      "text": "CORRECTNESS FIRST",
+      "narration": "I compared correct output first, then time and how much setup each task needed.",
+      "concept": "Real action capture plus output opening in a third viewer.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real action capture plus output opening in a third viewer.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I compared correct output first, then",
+        "time and how much setup each",
+        "task needed."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "CORRECT OUTPUT FIRST",
+      "presentationNarration": "Output correctness comes before speed. Setup and any manual repair will stay in the record.",
+      "presentationCaptionChunks": [
+        "Output correctness comes before speed. Setup",
+        "and any manual repair will stay",
+        "in the record."
+      ]
+    },
+    {
+      "id": "D03R2-S4",
+      "start": 30.566666666666666,
+      "end": 45.833333333333336,
+      "type": "evidence",
+      "text": "IS THE TEXT REALLY REMOVED?",
+      "narration": "For redaction, I searched and copied the hidden text. A black rectangle alone does not prove it is gone.",
+      "concept": "Synthetic secret token searched in extracted text and output viewer.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Synthetic secret token searched in extracted text and output viewer.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "For redaction, I searched and copied",
+        "the hidden text. A black rectangle",
+        "alone does not prove it is gone."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "BLACK BOX IS NOT PROOF",
+      "presentationNarration": "The redaction check will search and copy the hidden text, then reopen the exported file.",
+      "presentationCaptionChunks": [
+        "The redaction check will search and",
+        "copy the hidden text, then reopen",
+        "the exported file."
+      ]
+    },
+    {
+      "id": "D03R2-S5",
+      "start": 45.833333333333336,
+      "end": 48.13333333333333,
+      "type": "result",
+      "text": "[VERIFIED PDF VERDICT]",
+      "narration": "[TASK_PASS_RESULTS]. [OCR_COMPRESSION_AND_REDACTION_OBSERVATION].",
+      "concept": "Seven-row checklist; compression includes size and visual quality, not bytes alone.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Seven-row checklist; compression includes size and visual quality, not bytes alone.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[TASK_PASS_RESULTS]. [OCR_COMPRESSION_AND_REDACTION_OBSERVATION]."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "AUDIT THE EXPORTED FILE",
+      "presentationNarration": "Task completion, OCR accuracy, compression quality, and redaction need actual output inspection. No winner is measured yet.",
+      "presentationCaptionChunks": [
+        "Task completion, OCR accuracy, compression quality,",
+        "and redaction need actual output inspection.",
+        "No winner is measured yet."
+      ]
+    },
+    {
+      "id": "D03R2-S6",
+      "start": 48.13333333333333,
+      "end": 55,
+      "type": "question",
+      "text": "WOULD YOU SWITCH?",
+      "narration": "[SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+      "concept": "Open strongest and weakest output side by side; scope conclusion to tested workflows.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Open strongest and weakest output side by side; scope conclusion to tested workflows.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for",
+        "these jobs?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "WHICH JOB NEEDS PROOF?",
+      "presentationNarration": "The conclusion will name supported jobs and any remaining gap. Which PDF task would you check first?",
+      "presentationCaptionChunks": [
+        "The conclusion will name supported jobs",
+        "and any remaining gap. Which PDF",
+        "task would you check first?"
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-test-plan-built"
+}

@@ -1,0 +1,560 @@
+{
+  "fingerprint": "1b411300a647c5c1bf4eb02105d57699b8cb40f02ce4ba735d33b9351d7e2132",
+  "recognizedText": " What happens if a household robot costs less than a car? Humanoid robots have already been deployed in commercial logistics. A home is a much messier problem. Imagine carrying groceries, moving laundry, and cleaning under the table as ordinary appliance features. The sales pitch is save time. The real test is whether you trust it around your family. And who fixes it when a software update changes how it behaves? Would you choose a robot or a second car?",
+  "words": [
+    {
+      "text": " What",
+      "timestamp": [
+        0.0,
+        0.18
+      ]
+    },
+    {
+      "text": " happens",
+      "timestamp": [
+        0.18,
+        0.48
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        0.48,
+        0.72
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        0.72,
+        0.82
+      ]
+    },
+    {
+      "text": " household",
+      "timestamp": [
+        0.82,
+        1.12
+      ]
+    },
+    {
+      "text": " robot",
+      "timestamp": [
+        1.12,
+        1.6
+      ]
+    },
+    {
+      "text": " costs",
+      "timestamp": [
+        1.6,
+        1.96
+      ]
+    },
+    {
+      "text": " less",
+      "timestamp": [
+        1.96,
+        2.26
+      ]
+    },
+    {
+      "text": " than",
+      "timestamp": [
+        2.26,
+        2.46
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.46,
+        2.58
+      ]
+    },
+    {
+      "text": " car?",
+      "timestamp": [
+        2.58,
+        3.28
+      ]
+    },
+    {
+      "text": " Humanoid",
+      "timestamp": [
+        3.58,
+        3.92
+      ]
+    },
+    {
+      "text": " robots",
+      "timestamp": [
+        3.92,
+        4.22
+      ]
+    },
+    {
+      "text": " have",
+      "timestamp": [
+        4.22,
+        4.46
+      ]
+    },
+    {
+      "text": " already",
+      "timestamp": [
+        4.46,
+        4.84
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        4.84,
+        5.06
+      ]
+    },
+    {
+      "text": " deployed",
+      "timestamp": [
+        5.06,
+        5.44
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        5.44,
+        5.62
+      ]
+    },
+    {
+      "text": " commercial",
+      "timestamp": [
+        5.62,
+        5.96
+      ]
+    },
+    {
+      "text": " logistics.",
+      "timestamp": [
+        5.96,
+        7.08
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        7.3,
+        7.4
+      ]
+    },
+    {
+      "text": " home",
+      "timestamp": [
+        7.4,
+        7.72
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        7.72,
+        7.9
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        7.9,
+        7.98
+      ]
+    },
+    {
+      "text": " much",
+      "timestamp": [
+        7.98,
+        8.26
+      ]
+    },
+    {
+      "text": " messier",
+      "timestamp": [
+        8.26,
+        8.72
+      ]
+    },
+    {
+      "text": " problem.",
+      "timestamp": [
+        8.72,
+        9.62
+      ]
+    },
+    {
+      "text": " Imagine",
+      "timestamp": [
+        10.0,
+        10.02
+      ]
+    },
+    {
+      "text": " carrying",
+      "timestamp": [
+        10.02,
+        10.42
+      ]
+    },
+    {
+      "text": " groceries,",
+      "timestamp": [
+        10.42,
+        11.24
+      ]
+    },
+    {
+      "text": " moving",
+      "timestamp": [
+        11.24,
+        11.48
+      ]
+    },
+    {
+      "text": " laundry,",
+      "timestamp": [
+        11.48,
+        12.14
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        12.34,
+        12.42
+      ]
+    },
+    {
+      "text": " cleaning",
+      "timestamp": [
+        12.42,
+        12.74
+      ]
+    },
+    {
+      "text": " under",
+      "timestamp": [
+        12.74,
+        13.06
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.06,
+        13.22
+      ]
+    },
+    {
+      "text": " table",
+      "timestamp": [
+        13.22,
+        13.54
+      ]
+    },
+    {
+      "text": " as",
+      "timestamp": [
+        13.54,
+        13.76
+      ]
+    },
+    {
+      "text": " ordinary",
+      "timestamp": [
+        13.76,
+        14.12
+      ]
+    },
+    {
+      "text": " appliance",
+      "timestamp": [
+        14.12,
+        14.82
+      ]
+    },
+    {
+      "text": " features.",
+      "timestamp": [
+        14.82,
+        15.76
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        15.96,
+        16.06
+      ]
+    },
+    {
+      "text": " sales",
+      "timestamp": [
+        16.06,
+        16.36
+      ]
+    },
+    {
+      "text": " pitch",
+      "timestamp": [
+        16.36,
+        16.58
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        16.58,
+        16.82
+      ]
+    },
+    {
+      "text": " save",
+      "timestamp": [
+        16.82,
+        17.06
+      ]
+    },
+    {
+      "text": " time.",
+      "timestamp": [
+        17.06,
+        17.88
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        18.02,
+        18.12
+      ]
+    },
+    {
+      "text": " real",
+      "timestamp": [
+        18.12,
+        18.3
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        18.3,
+        18.58
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        18.58,
+        18.78
+      ]
+    },
+    {
+      "text": " whether",
+      "timestamp": [
+        18.78,
+        19.04
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        19.04,
+        19.18
+      ]
+    },
+    {
+      "text": " trust",
+      "timestamp": [
+        19.18,
+        19.44
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        19.44,
+        19.62
+      ]
+    },
+    {
+      "text": " around",
+      "timestamp": [
+        19.62,
+        19.82
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        19.82,
+        20.0
+      ]
+    },
+    {
+      "text": " family.",
+      "timestamp": [
+        20.0,
+        20.74
+      ]
+    },
+    {
+      "text": " And",
+      "timestamp": [
+        20.92,
+        21.02
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        21.02,
+        21.18
+      ]
+    },
+    {
+      "text": " fixes",
+      "timestamp": [
+        21.18,
+        21.54
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        21.54,
+        21.74
+      ]
+    },
+    {
+      "text": " when",
+      "timestamp": [
+        21.74,
+        21.88
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        21.88,
+        22.0
+      ]
+    },
+    {
+      "text": " software",
+      "timestamp": [
+        22.0,
+        22.36
+      ]
+    },
+    {
+      "text": " update",
+      "timestamp": [
+        22.36,
+        22.74
+      ]
+    },
+    {
+      "text": " changes",
+      "timestamp": [
+        22.74,
+        23.24
+      ]
+    },
+    {
+      "text": " how",
+      "timestamp": [
+        23.24,
+        23.46
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        23.46,
+        23.6
+      ]
+    },
+    {
+      "text": " behaves?",
+      "timestamp": [
+        23.6,
+        24.44
+      ]
+    },
+    {
+      "text": " Would",
+      "timestamp": [
+        24.6,
+        24.7
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        24.7,
+        24.82
+      ]
+    },
+    {
+      "text": " choose",
+      "timestamp": [
+        24.82,
+        25.06
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        25.06,
+        25.18
+      ]
+    },
+    {
+      "text": " robot",
+      "timestamp": [
+        25.18,
+        25.5
+      ]
+    },
+    {
+      "text": " or",
+      "timestamp": [
+        25.5,
+        25.8
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        25.8,
+        25.94
+      ]
+    },
+    {
+      "text": " second",
+      "timestamp": [
+        25.94,
+        26.18
+      ]
+    },
+    {
+      "text": " car?",
+      "timestamp": [
+        26.18,
+        26.7
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

@@ -1,0 +1,11 @@
+Sending a file between different devices should not need a cloud upload.
+
+LocalSend transfers over your local network. Both devices need to discover each other there.
+
+The official project supports Android, iOS, Windows, macOS, and Linux.
+
+It does not require an account. Pick a device, accept the request, and check the received file.
+
+That is useful at home. It also means network discovery and device permissions matter.
+
+Next I am testing photos, a large video, and a folder against a cloud workflow.

@@ -1,0 +1,763 @@
+{
+  "fingerprint": "b1fd204eab7093eb864d3dc7eed4bd3fa9a30adebf451926d8a56c3982c9ee01",
+  "recognizedText": " Three AI coders. One deliberately broken app. Here is the test I would run before trusting any of them. Five reproducible faults. Log in, capitalize search, mobile navigation, a disconnected save button, and one failing test. Each tool gets a separate clean copy, the same prompt, and the same limit. Every intervention goes into the log. A confidence summary earns nothing. Log in has to work. Search has to match. The save data has to survive. The scoreboard stays empty until the actual acceptance checks run. Count fixes and regressions separately. This is the experiment design, not a recorded model race, which three coders deserve the first round.",
+  "words": [
+    {
+      "text": " Three",
+      "timestamp": [
+        0.0,
+        0.48
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        0.48,
+        0.96
+      ]
+    },
+    {
+      "text": " coders.",
+      "timestamp": [
+        0.96,
+        1.82
+      ]
+    },
+    {
+      "text": " One",
+      "timestamp": [
+        1.82,
+        2.22
+      ]
+    },
+    {
+      "text": " deliberately",
+      "timestamp": [
+        2.22,
+        2.68
+      ]
+    },
+    {
+      "text": " broken",
+      "timestamp": [
+        2.68,
+        3.2
+      ]
+    },
+    {
+      "text": " app.",
+      "timestamp": [
+        3.2,
+        3.88
+      ]
+    },
+    {
+      "text": " Here",
+      "timestamp": [
+        3.88,
+        4.12
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        4.12,
+        4.26
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        4.26,
+        4.38
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        4.38,
+        4.62
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        4.62,
+        4.82
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        4.82,
+        4.96
+      ]
+    },
+    {
+      "text": " run",
+      "timestamp": [
+        4.96,
+        5.14
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        5.14,
+        5.4
+      ]
+    },
+    {
+      "text": " trusting",
+      "timestamp": [
+        5.4,
+        5.8
+      ]
+    },
+    {
+      "text": " any",
+      "timestamp": [
+        5.8,
+        6.12
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        6.12,
+        6.24
+      ]
+    },
+    {
+      "text": " them.",
+      "timestamp": [
+        6.24,
+        6.92
+      ]
+    },
+    {
+      "text": " Five",
+      "timestamp": [
+        6.92,
+        7.28
+      ]
+    },
+    {
+      "text": " reproducible",
+      "timestamp": [
+        7.28,
+        7.88
+      ]
+    },
+    {
+      "text": " faults.",
+      "timestamp": [
+        7.88,
+        8.7
+      ]
+    },
+    {
+      "text": " Log",
+      "timestamp": [
+        8.7,
+        8.86
+      ]
+    },
+    {
+      "text": " in,",
+      "timestamp": [
+        8.86,
+        9.44
+      ]
+    },
+    {
+      "text": " capitalize",
+      "timestamp": [
+        9.44,
+        9.84
+      ]
+    },
+    {
+      "text": " search,",
+      "timestamp": [
+        9.84,
+        10.66
+      ]
+    },
+    {
+      "text": " mobile",
+      "timestamp": [
+        10.66,
+        10.92
+      ]
+    },
+    {
+      "text": " navigation,",
+      "timestamp": [
+        10.92,
+        12.0
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        12.1,
+        12.1
+      ]
+    },
+    {
+      "text": " disconnected",
+      "timestamp": [
+        12.1,
+        12.5
+      ]
+    },
+    {
+      "text": " save",
+      "timestamp": [
+        12.5,
+        13.02
+      ]
+    },
+    {
+      "text": " button,",
+      "timestamp": [
+        13.02,
+        13.62
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        13.62,
+        13.82
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        13.82,
+        14.02
+      ]
+    },
+    {
+      "text": " failing",
+      "timestamp": [
+        14.02,
+        14.4
+      ]
+    },
+    {
+      "text": " test.",
+      "timestamp": [
+        14.4,
+        15.4
+      ]
+    },
+    {
+      "text": " Each",
+      "timestamp": [
+        15.4,
+        15.66
+      ]
+    },
+    {
+      "text": " tool",
+      "timestamp": [
+        15.66,
+        15.9
+      ]
+    },
+    {
+      "text": " gets",
+      "timestamp": [
+        15.9,
+        16.1
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        16.1,
+        16.26
+      ]
+    },
+    {
+      "text": " separate",
+      "timestamp": [
+        16.26,
+        16.58
+      ]
+    },
+    {
+      "text": " clean",
+      "timestamp": [
+        16.58,
+        16.92
+      ]
+    },
+    {
+      "text": " copy,",
+      "timestamp": [
+        16.92,
+        17.68
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        17.8,
+        17.82
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        17.82,
+        18.1
+      ]
+    },
+    {
+      "text": " prompt,",
+      "timestamp": [
+        18.1,
+        18.72
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        18.72,
+        18.9
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        18.9,
+        19.0
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        19.0,
+        19.26
+      ]
+    },
+    {
+      "text": " limit.",
+      "timestamp": [
+        19.26,
+        20.1
+      ]
+    },
+    {
+      "text": " Every",
+      "timestamp": [
+        20.1,
+        20.48
+      ]
+    },
+    {
+      "text": " intervention",
+      "timestamp": [
+        20.48,
+        21.06
+      ]
+    },
+    {
+      "text": " goes",
+      "timestamp": [
+        21.06,
+        21.34
+      ]
+    },
+    {
+      "text": " into",
+      "timestamp": [
+        21.34,
+        21.62
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        21.62,
+        21.78
+      ]
+    },
+    {
+      "text": " log.",
+      "timestamp": [
+        21.78,
+        22.38
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        22.38,
+        22.58
+      ]
+    },
+    {
+      "text": " confidence",
+      "timestamp": [
+        22.58,
+        22.98
+      ]
+    },
+    {
+      "text": " summary",
+      "timestamp": [
+        23.28,
+        23.46
+      ]
+    },
+    {
+      "text": " earns",
+      "timestamp": [
+        23.46,
+        23.72
+      ]
+    },
+    {
+      "text": " nothing.",
+      "timestamp": [
+        23.72,
+        24.62
+      ]
+    },
+    {
+      "text": " Log",
+      "timestamp": [
+        24.62,
+        24.86
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        24.86,
+        25.02
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        25.02,
+        25.18
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        25.18,
+        25.38
+      ]
+    },
+    {
+      "text": " work.",
+      "timestamp": [
+        25.38,
+        25.96
+      ]
+    },
+    {
+      "text": " Search",
+      "timestamp": [
+        25.96,
+        26.26
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        26.26,
+        26.46
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        26.46,
+        26.66
+      ]
+    },
+    {
+      "text": " match.",
+      "timestamp": [
+        26.66,
+        27.36
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        27.36,
+        27.54
+      ]
+    },
+    {
+      "text": " save",
+      "timestamp": [
+        27.54,
+        27.84
+      ]
+    },
+    {
+      "text": " data",
+      "timestamp": [
+        27.84,
+        28.16
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        28.16,
+        28.36
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        28.36,
+        28.54
+      ]
+    },
+    {
+      "text": " survive.",
+      "timestamp": [
+        28.54,
+        29.34
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        29.44,
+        29.52
+      ]
+    },
+    {
+      "text": " scoreboard",
+      "timestamp": [
+        29.52,
+        29.92
+      ]
+    },
+    {
+      "text": " stays",
+      "timestamp": [
+        29.92,
+        30.24
+      ]
+    },
+    {
+      "text": " empty",
+      "timestamp": [
+        30.24,
+        30.7
+      ]
+    },
+    {
+      "text": " until",
+      "timestamp": [
+        30.7,
+        31.02
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        31.02,
+        31.22
+      ]
+    },
+    {
+      "text": " actual",
+      "timestamp": [
+        31.22,
+        31.58
+      ]
+    },
+    {
+      "text": " acceptance",
+      "timestamp": [
+        31.58,
+        32.04
+      ]
+    },
+    {
+      "text": " checks",
+      "timestamp": [
+        32.04,
+        32.36
+      ]
+    },
+    {
+      "text": " run.",
+      "timestamp": [
+        32.36,
+        33.3
+      ]
+    },
+    {
+      "text": " Count",
+      "timestamp": [
+        33.42,
+        33.56
+      ]
+    },
+    {
+      "text": " fixes",
+      "timestamp": [
+        33.56,
+        33.94
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        33.94,
+        34.22
+      ]
+    },
+    {
+      "text": " regressions",
+      "timestamp": [
+        34.22,
+        34.7
+      ]
+    },
+    {
+      "text": " separately.",
+      "timestamp": [
+        34.7,
+        35.72
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        35.74,
+        35.84
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        35.84,
+        35.94
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        35.94,
+        36.1
+      ]
+    },
+    {
+      "text": " experiment",
+      "timestamp": [
+        36.1,
+        36.58
+      ]
+    },
+    {
+      "text": " design,",
+      "timestamp": [
+        36.58,
+        37.34
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        37.34,
+        37.6
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        37.6,
+        37.76
+      ]
+    },
+    {
+      "text": " recorded",
+      "timestamp": [
+        37.76,
+        38.12
+      ]
+    },
+    {
+      "text": " model",
+      "timestamp": [
+        38.12,
+        38.46
+      ]
+    },
+    {
+      "text": " race,",
+      "timestamp": [
+        38.46,
+        39.24
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        39.24,
+        39.46
+      ]
+    },
+    {
+      "text": " three",
+      "timestamp": [
+        39.46,
+        39.74
+      ]
+    },
+    {
+      "text": " coders",
+      "timestamp": [
+        39.74,
+        40.06
+      ]
+    },
+    {
+      "text": " deserve",
+      "timestamp": [
+        40.06,
+        40.36
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        40.36,
+        40.62
+      ]
+    },
+    {
+      "text": " first",
+      "timestamp": [
+        40.7,
+        40.92
+      ]
+    },
+    {
+      "text": " round.",
+      "timestamp": [
+        40.92,
+        41.42
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

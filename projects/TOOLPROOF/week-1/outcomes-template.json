@@ -1,0 +1,112 @@
+{
+  "instructions": "Record real observations here, with raw capture paths and audit notes. Null is not a result. Apply verified values to narration/screen text in remotion-week.json and its daily script before publication.",
+  "reels": [
+    {
+      "id": "D01R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "KANDO_MEDIAN": null,
+        "START_MEDIAN": null,
+        "MISCLICK_AND_SETUP_RESULT": null,
+        "EVIDENCE_BASED_FIT": null
+      }
+    },
+    {
+      "id": "D02R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "DATASET_TIMES": null,
+        "HASH_AND_RECOVERY_RESULT": null,
+        "LOCAL_USE_CASE_AND_REMOTE_LIMIT": null
+      }
+    },
+    {
+      "id": "D03R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "TASK_PASS_RESULTS": null,
+        "OCR_COMPRESSION_AND_REDACTION_OBSERVATION": null,
+        "SUPPORTED_USE_CASE": null,
+        "TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND": null
+      }
+    },
+    {
+      "id": "D04R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "OUTPUT_AND_WORKFLOW_RESULTS": null,
+        "CURRENT_LICENSE_AND_COST_OBSERVATION": null,
+        "PERSONAL_COMMERCIAL_AND_TEAM_FIT": null
+      }
+    },
+    {
+      "id": "D05R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "EIGHT_TASK_RESULTS": null,
+        "EXPORT_TIME_AND_OUTPUT_RESULT": null,
+        "PRODUCTION_FIT_TODAY": null
+      }
+    },
+    {
+      "id": "D06R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "OFFLINE_AND_EXPORT_RESULTS": null,
+        "TEAM_AND_FEATURE_LIMITS": null,
+        "WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY": null
+      }
+    },
+    {
+      "id": "D07R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "WRITING_ORGANIZATION_AND_EXPORT_RESULTS": null,
+        "DEVICE_AND_SYNC_LIMIT": null,
+        "SPECIFIC_FIT_AND_GAP": null
+      }
+    }
+  ]
+}

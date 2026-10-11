@@ -1,0 +1,80 @@
+{
+  "startedAt": "2026-10-09T14:29:49.249Z",
+  "project": "BUILDMODE-LAB",
+  "mode": "full",
+  "quality": "1080x1920 / 30fps / H.264 CRF 18",
+  "completed": 17,
+  "total": 17,
+  "reels": {
+    "B01-DONE-TRAP": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B01-DONE-TRAP.mp4"
+    },
+    "B02-SETUP-BACKWARDS": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B02-SETUP-BACKWARDS.mp4"
+    },
+    "B02-YOURE-PROBABLY-USING-THE": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B02-YOURE-PROBABLY-USING-THE.mp4"
+    },
+    "B03-CLAUDEMD-IS-BETTER-THAN": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B03-CLAUDEMD-IS-BETTER-THAN.mp4"
+    },
+    "B04-GIVE-YOUR-AI-CODER": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B04-GIVE-YOUR-AI-CODER.mp4"
+    },
+    "B06-TWO-MODELS-ONE-PULL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B06-TWO-MODELS-ONE-PULL.mp4"
+    },
+    "B07-MAKE-CLAUDE-AND-CODEX": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B07-MAKE-CLAUDE-AND-CODEX.mp4"
+    },
+    "B08-STOP-COPY-PASTING-THE-SA": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B08-STOP-COPY-PASTING-THE-SA.mp4"
+    },
+    "B09-WHAT-A-GOOD-AI": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B09-WHAT-A-GOOD-AI.mp4"
+    },
+    "B10-YOUR-BROWSER-IS-BETTER": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B10-YOUR-BROWSER-IS-BETTER.mp4"
+    },
+    "B11-LET-THE-AGENT-READ": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B11-LET-THE-AGENT-READ.mp4"
+    },
+    "B12-LET-THE-AGENT-QUERY": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B12-LET-THE-AGENT-QUERY.mp4"
+    },
+    "B13-THE-HIDDEN-PROMPT-IS": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B13-THE-HIDDEN-PROMPT-IS.mp4"
+    },
+    "B14-WHY-BENCHMARKS-DONT-TELL": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B14-WHY-BENCHMARKS-DONT-TELL.mp4"
+    },
+    "B15-NEW-MODEL-RUN-THIS": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B15-NEW-MODEL-RUN-THIS.mp4"
+    },
+    "B16-THE-BEST-AI-UI": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B16-THE-BEST-AI-UI.mp4"
+    },
+    "B17-YOU-DONT-NEED-A": {
+      "status": "verified-cache",
+      "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMODE-LAB\\out\\B17-YOU-DONT-NEED-A.mp4"
+    }
+  },
+  "status": "complete",
+  "updatedAt": "2026-10-09T14:29:52.594Z"
+}

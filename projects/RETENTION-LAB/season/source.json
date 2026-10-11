@@ -1,0 +1,5490 @@
+{
+  "reels": [
+    {
+      "id": "R01-BUG-REPORT",
+      "title": "Your Retention Graph Is a Bug Report",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 9,
+          "type": "hook",
+          "text": "Your Reel already tells you where it broke.",
+          "narration": "Your Reel already tells you exactly where it broke. The data has been sitting there since the moment you published, waiting for someone to read it like a stack trace.",
+          "concept": "Open on the graph itself, not on words about graphs.",
+          "camera": {
+            "fromScale": 1.04,
+            "toScale": 1,
+            "fromX": 0,
+            "toX": -14
+          },
+          "visual": {
+            "items": [
+              "OPENING",
+              "BODY",
+              "PAYOFF"
+            ],
+            "note": "Retention is not a score. It is a stack trace."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 9,
+          "end": 18,
+          "type": "graph",
+          "text": "Treat it like a bug report.",
+          "narration": "So stop treating retention like a mystery. Treat it like a bug report instead, with symptoms you can point at, reproduce, and fix one section at a time.",
+          "concept": "Curve drops redraw as labelled error markers.",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.05,
+            "fromX": 12,
+            "toX": -10
+          },
+          "visual": {
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "label": "SIGNAL FOUND"
+          }
+        },
+        {
+          "id": "s3",
+          "start": 18,
+          "end": 27,
+          "type": "checklist",
+          "text": "Three cliffs. Three different faults.",
+          "narration": "An early cliff means the opening promised nothing. A middle cliff means the body stopped adding information. A late cliff means the payoff simply arrived too late.",
+          "concept": "Each diagnosis ticks in sequence with the spoken line.",
+          "visual": {
+            "label": "DIAGNOSIS",
+            "items": [
+              "EARLY — the opening",
+              "MIDDLE — the body",
+              "LATE — the payoff"
+            ]
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 36,
+          "type": "timeline",
+          "text": "Fix the beat before the cliff.",
+          "narration": "Fix the section immediately before the drop, never the whole video. The cause sits one beat earlier than the symptom, so rewind, isolate that moment, and cut what says nothing.",
+          "concept": "The suspect block is selected and replaced in place.",
+          "visual": {
+            "label": "EDIT TIMELINE",
+            "items": [
+              "OPENING",
+              "SUSPECT BEAT",
+              "PAYOFF"
+            ],
+            "note": "Cause first, symptom second."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Stop guessing. Debug the video.",
+          "narration": "Move the proof earlier, let the curve redraw, and stop blaming the algorithm. Debug the video the way an engineer would debug anything else.",
+          "concept": "Curve redraws as the patched shape.",
+          "camera": {
+            "fromScale": 0.98,
+            "toScale": 1.03,
+            "fromX": 0,
+            "toX": 0
+          },
+          "visual": {
+            "label": "PATCHED",
+            "a": "Retention treated as a bug report, not a mystery."
+          }
+        }
+      ],
+      "audio": "audio/R01-BUG-REPORT.wav",
+      "audioSeconds": 45.87
+    },
+    {
+      "id": "R02-RETENTION-CLIFF",
+      "title": "Find the Retention Cliff",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 9,
+          "type": "hook",
+          "text": "The drop is not the problem.",
+          "narration": "The drop is not the problem. The second before it is, and almost nobody rewinds far enough to see what actually happened right there.",
+          "concept": "Cliff fills the frame, then the playhead drags backwards.",
+          "camera": {
+            "fromScale": 1.06,
+            "toScale": 1,
+            "fromX": -16,
+            "toX": 8
+          },
+          "visual": {
+            "items": [
+              "REWIND",
+              "ISOLATE",
+              "PATCH"
+            ],
+            "note": "Look one beat earlier."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 9,
+          "end": 18,
+          "type": "graph",
+          "text": "Rewind two seconds.",
+          "narration": "Pull the playhead back two seconds and ask one simple question: what changed in this exact frame, right before the viewer decided to leave?",
+          "concept": "Marker lands two seconds before the cliff.",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.04,
+            "fromX": 0,
+            "toX": -18
+          },
+          "visual": {
+            "drops": [
+              22,
+              64
+            ],
+            "label": "TWO SECONDS EARLIER"
+          }
+        },
+        {
+          "id": "s3",
+          "start": 18,
+          "end": 27,
+          "type": "checklist",
+          "text": "Find what changed.",
+          "narration": "A long pause. A repeated idea. A word nobody understands yet. Each one quietly gives the viewer permission to leave, and none of them look dramatic in isolation.",
+          "concept": "Three ordinary causes, none of them the graph.",
+          "visual": {
+            "label": "COMMON CAUSES",
+            "items": [
+              "A long pause",
+              "A repeated idea",
+              "An unexplained term"
+            ]
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 36,
+          "type": "timeline",
+          "text": "Replace that one beat.",
+          "narration": "Replace that single beat with a shorter demonstration, then lay the old structure beside the revised one. You are changing one variable, not rebuilding the entire Reel from scratch.",
+          "concept": "Old and revised blocks align for comparison.",
+          "visual": {
+            "label": "OLD vs REVISED",
+            "items": [
+              "OLD BEAT",
+              "SHORT DEMO",
+              "REVISED"
+            ],
+            "note": "One beat changes the curve."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Patch the cause, not the symptom.",
+          "narration": "Patch the cause instead of the symptom, because the clue always arrives before the cliff does. Find the second before the drop, and the fix becomes obvious.",
+          "concept": "Patched curve holds; marker turns green.",
+          "camera": {
+            "fromScale": 0.99,
+            "toScale": 1.03,
+            "fromX": 0,
+            "toX": 0
+          },
+          "visual": {
+            "label": "PATCHED",
+            "a": "The clue sits before the cliff. Always."
+          }
+        }
+      ],
+      "audio": "audio/R02-RETENTION-CLIFF.wav",
+      "audioSeconds": 44.8
+    },
+    {
+      "id": "R02-THE-FIRST-SECOND-HAS",
+      "title": "The First Second Has One Job",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Your first second has one job.",
+          "narration": "Your first second has one job, and it is not to explain anything.",
+          "visual": {
+            "label": "YOUR FIRST SECOND",
+            "items": [
+              "Your first second has one job."
+            ],
+            "note": "Your first second has one job."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "Not explain.",
+          "narration": "Not to introduce yourself, not to set the scene, just to make them stay. Explanation comes after attention, never before it.",
+          "visual": {
+            "label": "NOT EXPLAIN.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Not explain. Not introduce. Just make them stay."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 24,
+          "type": "checklist",
+          "text": "Result-first wins visually because the viewer sees why they",
+          "narration": "Compare three openings: a greeting, a context dump, an immediate result. The result wins visually because the viewer can see why they should care. Show the interesting thing first and the explanation afterwards still gets heard. Rebuild a weak intro by moving the payoff preview to frame one.",
+          "visual": {
+            "label": "RESULT-FIRST WINS VISU",
+            "items": [
+              "greeting",
+              "context dump",
+              "immediate result."
+            ],
+            "note": "Result-first wins visually because the viewer sees why they"
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 36,
+          "type": "compare",
+          "text": "Show the interesting thing before explaining it.",
+          "narration": "Attention first, context second, in that order, every time. Nobody owes you a setup, so stop asking for one. Earn the second second and the rest of the video gets a chance.",
+          "visual": {
+            "label": "SHOW THE INTERESTING",
+            "a": "Show the interesting thing before",
+            "b": "Rebuild a weak intro by moving",
+            "note": "Show the interesting thing before explaining it."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Attention first.",
+          "narration": "The first frame is a promise, not a greeting. Attention first is not a trick; it is basic respect for the click.",
+          "visual": {
+            "label": "ATTENTION FIRST.",
+            "items": [
+              "Attention first. Context second."
+            ],
+            "note": "Attention first. Context second."
+          }
+        }
+      ],
+      "audio": "audio/R02-THE-FIRST-SECOND-HAS.wav",
+      "audioSeconds": 48.8
+    },
+    {
+      "id": "R03-YOUR-HOOK-MADE-A",
+      "title": "Your Hook Made a Promise",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "A hook is a promise.",
+          "narration": "A hook is a promise, even when nobody says it out loud.",
+          "visual": {
+            "label": "A HOOK IS",
+            "items": [
+              "A hook is a promise."
+            ],
+            "note": "A hook is a promise."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "compare",
+          "text": "And viewers notice when you break it.",
+          "narration": "The viewer gives you three seconds and quietly expects a payoff for them. Most of the time the opening keeps that promise and the video just works.",
+          "visual": {
+            "label": "AND VIEWERS NOTICE",
+            "a": "And viewers notice when you break it.",
+            "b": "Open a contract-style UI showing",
+            "note": "And viewers notice when you break it."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 24,
+          "type": "diagram",
+          "text": "The problem is not always the hook.",
+          "narration": "The failure starts later, when the body quietly changes the subject. Viewers can feel that mismatch before they can name it. The hook promised a fix, so the video needs to show the fix.",
+          "visual": {
+            "label": "THE PROBLEM IS",
+            "items": [
+              "hook promises a fix",
+              "body gives history",
+              "filler."
+            ],
+            "note": "The problem is not always the hook. Sometimes the body changes"
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 36,
+          "type": "timeline",
+          "text": "Every section should move toward the promise.",
+          "narration": "What it shows instead is history, setup, and filler that answers nothing. Filler is what a video does when it has forgotten the question. Delete the block that explains how you got here, and move the proof forward.",
+          "visual": {
+            "label": "EVERY SECTION SHOULD",
+            "items": [
+              "Delete filler blocks",
+              "bring proof forward."
+            ],
+            "note": "Every section should move toward the promise."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Match the payoff to the hook.",
+          "narration": "Every section should push in the same direction the hook pointed. When the ending delivers what the opening implied, people stay to the last frame.",
+          "visual": {
+            "label": "MATCH THE PAYOFF",
+            "items": [
+              "PROMISE",
+              "DELIVERY snap together with a checkmark."
+            ],
+            "note": "Match the payoff to the hook."
+          }
+        }
+      ],
+      "audio": "audio/R03-YOUR-HOOK-MADE-A.wav",
+      "audioSeconds": 44
+    },
+    {
+      "id": "R04-CURIOSITY-WITHOUT-CLICKB",
+      "title": "Curiosity Without Clickbait",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Curiosity is not the same as hiding the answer.",
+          "narration": "Curiosity is a promise too, and hiding the answer is the cheapest way to break it.",
+          "visual": {
+            "label": "CURIOSITY IS NOT",
+            "items": [],
+            "note": "Curiosity is not the same as hiding the answer."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Give people clues while they wait.",
+          "narration": "A blurred thumbnail buys you one second, maybe two. After that the viewer wants movement, not suspense.",
+          "visual": {
+            "label": "GIVE PEOPLE CLUES",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Give people clues while they wait."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "checklist",
+          "text": "Each reveal should answer part of the question.",
+          "narration": "So give people clues while they wait for the answer. Each reveal should answer part of the question and open a smaller one. Show the tool first, then the setting, then the result that explains them both. If nothing on screen changes for thirty seconds, curiosity hardens into frustration.",
+          "visual": {
+            "label": "EACH REVEAL SHOULD",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Each reveal should answer part of the question."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "If nothing happens, curiosity becomes frustration.",
+          "narration": "People rarely leave because they learned the answer. They leave because they stopped believing one was coming. The best reels are honest about what they are withholding.",
+          "visual": {
+            "label": "IF NOTHING HAPPENS",
+            "items": [
+              "35 seconds of blur",
+              "one reveal."
+            ],
+            "note": "If nothing happens, curiosity becomes frustration."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Delay the full answer, not all the value.",
+          "narration": "Delay the full answer, never the value, and the ending pays off the opening. Curiosity earns the watch, and honesty earns the second watch.",
+          "visual": {
+            "label": "DELAY THE FULL",
+            "items": [
+              "Delay the full answer",
+              "not all the value."
+            ],
+            "note": "Delay the full answer, not all the value."
+          }
+        }
+      ],
+      "audio": "audio/R04-CURIOSITY-WITHOUT-CLICKB.wav",
+      "audioSeconds": 47.36
+    },
+    {
+      "id": "R05-SHOW-THE-RESULT-BEFORE",
+      "title": "Show the Result Before the Tutorial",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Show them what they are staying for.",
+          "narration": "Tutorials get stronger when you spoil the ending.",
+          "visual": {
+            "label": "SHOW THEM WHAT",
+            "items": [
+              "Show them what they are staying for."
+            ],
+            "note": "Show them what they are staying for."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 11,
+          "type": "timeline",
+          "text": "Then rewind.",
+          "narration": "Open on the finished result at full size, before you explain anything. Then rewind to an empty canvas and let the viewer watch it get built.",
+          "visual": {
+            "label": "THEN REWIND.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Then rewind."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 26,
+          "type": "checklist",
+          "text": "Now the steps have context.",
+          "narration": "With the destination on screen, every step finally has context. Setup matters because they have seen what it is for. The key action matters because it is obviously the moment that changed the screen. Refinement matters because they can see how close the rough version already was.",
+          "visual": {
+            "label": "NOW THE STEPS",
+            "items": [
+              "setup",
+              "key action",
+              "refinement."
+            ],
+            "note": "Now the steps have context."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "compare",
+          "text": "The viewer knows why each step matters.",
+          "narration": "Without that preview, the same three steps are just instructions. People follow a process much better once they know where it ends. The reveal is not a reward for staying; it is the reason to stay.",
+          "visual": {
+            "label": "THE VIEWER KNOWS",
+            "a": "The viewer knows why each step matters.",
+            "b": "Before/after split with key",
+            "note": "The viewer knows why each step matters."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Spoil the ending.",
+          "narration": "So spoil the ending on purpose, and improve the journey.",
+          "visual": {
+            "label": "SPOIL THE ENDING.",
+            "items": [
+              "Spoil the ending. Improve the journey."
+            ],
+            "note": "Spoil the ending. Improve the journey."
+          }
+        }
+      ],
+      "audio": "audio/R05-SHOW-THE-RESULT-BEFORE.wav",
+      "audioSeconds": 41.6
+    },
+    {
+      "id": "R06-STOP-SAYING-WELCOME-BACK",
+      "title": "Stop Saying “Welcome Back”",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Your Reel is not a meeting.",
+          "narration": "Your Reel is not a meeting, so stop opening it like one.",
+          "visual": {
+            "label": "YOUR REEL IS",
+            "items": [
+              "Your Reel is not a meeting."
+            ],
+            "note": "Your Reel is not a meeting."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "compare",
+          "text": "Nobody needs a greeting before the interesting part.",
+          "narration": "Welcome back, everybody, hope you are doing well, before anything happens. Nobody clicked to attend your introductions.",
+          "visual": {
+            "label": "NOBODY NEEDS A",
+            "a": "Viewer swipes away",
+            "b": "screen changes to a direct hook.",
+            "note": "Nobody needs a greeting before the interesting part."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 24,
+          "type": "compare",
+          "text": "Four seconds can be half the attention battle.",
+          "narration": "Four seconds of greeting is half of the attention you get. The viewer is deciding whether to stay before your first real sentence. Housekeeping belongs in the caption, not in the first three seconds. Cut everything they can understand without you saying it.",
+          "visual": {
+            "label": "FOUR SECONDS CAN",
+            "a": "Four seconds can be half the",
+            "b": "Side-by-side: 4-second intro vs",
+            "note": "Four seconds can be half the attention battle."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 36,
+          "type": "timeline",
+          "text": "Cut anything the viewer can understand without.",
+          "narration": "The channel name, the small talk, the preamble that only reassures you. Start where the value starts and let the interesting part do the greeting. Open on the moment the story begins.",
+          "visual": {
+            "label": "CUT ANYTHING THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Cut anything the viewer can understand without."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Start where the value starts.",
+          "narration": "If the first frame already shows the result, nobody asks who you are. Open on the story, not on yourself, and the first second works.",
+          "visual": {
+            "label": "START WHERE THE",
+            "items": [
+              "Start where the value starts."
+            ],
+            "note": "Start where the value starts."
+          }
+        }
+      ],
+      "audio": "audio/R06-STOP-SAYING-WELCOME-BACK.wav",
+      "audioSeconds": 44.32
+    },
+    {
+      "id": "R07-THE-VISUAL-HOOK-MATTERS",
+      "title": "The Visual Hook Matters Too",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Same words. Different attention.",
+          "narration": "A strong sentence can still look boring, and that is a visual problem.",
+          "visual": {
+            "label": "SAME WORDS. DIFFERENT",
+            "items": [
+              "Same words. Different attention."
+            ],
+            "note": "Same words. Different attention."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "diagram",
+          "text": "Your opening is doing two jobs.",
+          "narration": "The same voiceover over a static title card loses to the same line over motion. Your opening is doing two jobs at once, hooking the ear and the eye.",
+          "visual": {
+            "label": "YOUR OPENING IS",
+            "items": [
+              "Freeze both",
+              "label AUDIO HOOK / VISUAL HOOK."
+            ],
+            "note": "Your opening is doing two jobs."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 25,
+          "type": "graph",
+          "text": "Give the eye something to decode.",
+          "narration": "Give the eye something to decode in the first second. A result reveal, a cursor action, a transformation, a curve that redraws. None of them need to be random; all of them need to mean something.",
+          "visual": {
+            "label": "GIVE THE EYE",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "Give the eye something to decode."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "Do not animate randomly—show meaning.",
+          "narration": "Animate the moment that changes the screen, not the moment that happens to be quiet. A plain title card becomes an interface the instant something inside it moves. Motion should explain the idea before the narration finishes explaining it.",
+          "visual": {
+            "label": "DO NOT ANIMATE",
+            "items": [
+              "Do not animate randomly",
+              "show meaning."
+            ],
+            "note": "Do not animate randomly—show meaning."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Hook the ear and the eye.",
+          "narration": "Hook the ear and the eye, and the second second takes care of itself.",
+          "visual": {
+            "label": "HOOK THE EAR",
+            "items": [
+              "Hook the ear and the eye."
+            ],
+            "note": "Hook the ear and the eye."
+          }
+        }
+      ],
+      "audio": "audio/R07-THE-VISUAL-HOOK-MATTERS.wav",
+      "audioSeconds": 41.76
+    },
+    {
+      "id": "R08-PATTERN-INTERRUPTS-NEED",
+      "title": "Pattern Interrupts Need a Reason",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Random motion is not pacing.",
+          "narration": "Random zooms are not retention, and neither is a shake on a timer.",
+          "visual": {
+            "label": "RANDOM MOTION IS",
+            "items": [
+              "Rapid meaningless zooms",
+              "shakes become chaotic."
+            ],
+            "note": "Random motion is not pacing."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 10,
+          "type": "diagram",
+          "text": "A pattern interrupt should signal something.",
+          "narration": "Visual changes only work when they mark something that actually changed. Every pattern interrupt should announce a new idea, a new example, or a new beat.",
+          "visual": {
+            "label": "A PATTERN INTERRUPT",
+            "items": [
+              "Everything freezes",
+              "label “NO NEW INFORMATION”."
+            ],
+            "note": "A pattern interrupt should signal something."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 25,
+          "type": "browser",
+          "text": "Change the visual when the thought changes.",
+          "narration": "If nothing on screen is new, the cut was decoration. Change the visual when the thought changes and the pacing fixes itself. Screenshot, then diagram, then result, then comparison, each one earning its entrance. Map every reset to a line of narration and the chaos disappears.",
+          "visual": {
+            "label": "CHANGE THE VISUAL",
+            "a": "Show four meaningful resets: screenshot → diagram → result",
+            "items": [
+              "Change the visual when the thought changes."
+            ],
+            "note": "Change the visual when the thought changes."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 36,
+          "type": "diagram",
+          "text": "Meaning creates the timing.",
+          "narration": "The eye follows meaning, not movement. Viewers do not feel your edit points; they feel your information. Motion that clarifies is pacing, motion that decorates is noise.",
+          "visual": {
+            "label": "MEANING CREATES THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Meaning creates the timing."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Motion should clarify, not decorate.",
+          "narration": "So slow down until the next cut has a reason to exist. Every cut should be able to explain itself in one word.",
+          "visual": {
+            "label": "MOTION SHOULD CLARIFY",
+            "items": [
+              "Motion should clarify",
+              "not decorate."
+            ],
+            "note": "Motion should clarify, not decorate."
+          }
+        }
+      ],
+      "audio": "audio/R08-PATTERN-INTERRUPTS-NEED.wav",
+      "audioSeconds": 50.56
+    },
+    {
+      "id": "R10-WHY-VIEWERS-LEAVE-IN",
+      "title": "Why Viewers Leave in the Middle",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "This is not a hook problem.",
+          "narration": "If people survive your hook and still leave, the opening worked.",
+          "visual": {
+            "label": "THIS IS NOT",
+            "items": [
+              "Healthy start of graph",
+              "sudden middle fall."
+            ],
+            "note": "This is not a hook problem."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "timeline",
+          "text": "They stayed long enough to give you a chance.",
+          "narration": "That drop in the middle is a completely different problem. They stayed long enough to give you a real chance.",
+          "visual": {
+            "label": "THEY STAYED LONG",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "They stayed long enough to give you a chance."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "diagram",
+          "text": "Look inside the body.",
+          "narration": "The hook is not the problem, so treating it like one wastes the fix. Stop rewriting the thumbnail and look inside the body. Four suspects show up over and over: slow, confusing, repeated, predictable. Slow means the section takes twice as long as its idea.",
+          "visual": {
+            "label": "LOOK INSIDE THE",
+            "items": [
+              "SLOW",
+              "CONFUSING",
+              "REPEATED",
+              "PREDICTABLE."
+            ],
+            "note": "Look inside the body."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "diagram",
+          "text": "Make the next beat earn attention again.",
+          "narration": "Confusing means the viewer never learns what they are watching for. Repeated means you said it again, and predictable means they already guessed it. Compress the section and swap the explanation for a demonstration.",
+          "visual": {
+            "label": "MAKE THE NEXT",
+            "items": [
+              "Compress one section",
+              "swap text explanation for demo."
+            ],
+            "note": "Make the next beat earn attention again."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Fix the body, not the thumbnail.",
+          "narration": "When the body earns attention again, the curve flattens on its own. The middle is where videos are actually lost, so edit there first.",
+          "visual": {
+            "label": "FIX THE BODY",
+            "items": [
+              "Fix the body",
+              "not the thumbnail."
+            ],
+            "note": "Fix the body, not the thumbnail."
+          }
+        }
+      ],
+      "audio": "audio/R10-WHY-VIEWERS-LEAVE-IN.wav",
+      "audioSeconds": 44.64
+    },
+    {
+      "id": "R11-YOUR-PAYOFF-IS-TOO",
+      "title": "Your Payoff Is Too Late",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "The answer arrived too late.",
+          "narration": "Some Reels lose the answer at second forty-two, after the viewer has gone.",
+          "visual": {
+            "label": "THE ANSWER ARRIVED",
+            "items": [
+              "The answer arrived too late."
+            ],
+            "note": "The answer arrived too late."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "timeline",
+          "text": "Move the reward forward.",
+          "narration": "The answer arrived too late to reward anyone who stayed. Move the reward forward and let the rest of the video become proof.",
+          "visual": {
+            "label": "MOVE THE REWARD",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Move the reward forward."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 25,
+          "type": "compare",
+          "text": "You can still keep people watching after the answer.",
+          "narration": "People will keep watching after they get the answer if you give them evidence. Show the example, the exception, the number that backs the claim. The viewer who reaches the payoff stays for the proof.",
+          "visual": {
+            "label": "YOU CAN STILL",
+            "a": "You can still keep people",
+            "b": "Timeline becomes Hook → Value →",
+            "note": "You can still keep people watching after the answer."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "compare",
+          "text": "Give them evidence instead of filler.",
+          "narration": "Depth lands better once the viewer already believes the main point. Reward first, depth second, and the last ten seconds stop leaking. Hook, value, payoff, proof, in that order, every time.",
+          "visual": {
+            "label": "GIVE THEM EVIDENCE",
+            "a": "Give them evidence instead of filler.",
+            "b": "Show proof/example after payoff.",
+            "note": "Give them evidence instead of filler."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Reward first.",
+          "narration": "You are not hiding the ending to create suspense; you are burying it. Bring it forward and the whole structure gets easier to watch.",
+          "visual": {
+            "label": "REWARD FIRST.",
+            "items": [
+              "Reward first. Depth second."
+            ],
+            "note": "Reward first. Depth second."
+          }
+        }
+      ],
+      "audio": "audio/R11-YOUR-PAYOFF-IS-TOO.wav",
+      "audioSeconds": 43.04
+    },
+    {
+      "id": "R12-RESET-ATTENTION-WITHOUT",
+      "title": "Reset Attention Without Changing Topic",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "A re-hook is not another intro.",
+          "narration": "A re-hook is not another intro, and it should never feel like one.",
+          "visual": {
+            "label": "A RE-HOOK IS",
+            "items": [
+              "A re-hook is not another intro."
+            ],
+            "note": "A re-hook is not another intro."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Keep the same promise.",
+          "narration": "Starting over asks the viewer to meet you again halfway through. Keep the same promise pinned to the screen while the format changes underneath it.",
+          "visual": {
+            "label": "KEEP THE SAME",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Keep the same promise."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "timeline",
+          "text": "Reset the format, not the topic.",
+          "narration": "Claim, then proof, then exception, then result, all pointing at the same question. Turn one sentence into a diagram, or a diagram into a live example. A good reset deepens the question instead of replacing it.",
+          "visual": {
+            "label": "RESET THE FORMAT",
+            "items": [
+              "Reset the format",
+              "not the topic."
+            ],
+            "note": "Reset the format, not the topic."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "Change how the idea is shown.",
+          "narration": "The topic stays put, so the viewer never has to re-orient. Only the way it is shown changes, and that is enough to reset attention. Think chapter two, not video number two.",
+          "visual": {
+            "label": "CHANGE HOW THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Change how the idea is shown."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Same story. Fresh attention.",
+          "narration": "Same story, fresh eyes, no second welcome speech. When the question finally resolves, it feels like one continuous idea.",
+          "visual": {
+            "label": "SAME STORY. FRESH",
+            "items": [
+              "Same story. Fresh attention."
+            ],
+            "note": "Same story. Fresh attention."
+          }
+        }
+      ],
+      "audio": "audio/R12-RESET-ATTENTION-WITHOUT.wav",
+      "audioSeconds": 47.36
+    },
+    {
+      "id": "R13-THREE-RETENTION-GRAPHS-T",
+      "title": "Three Retention Graphs, Three Problems",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Same low views.",
+          "narration": "Three graphs, three low views, and three completely different reasons.",
+          "visual": {
+            "label": "SAME LOW VIEWS.",
+            "items": [
+              "Same low views. Different reason."
+            ],
+            "note": "Same low views. Different reason."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 14,
+          "type": "graph",
+          "text": "A: opening failed.",
+          "narration": "One look at the curve is usually enough to know which one you have. A falls straight away, which means the opening promised nothing. B starts strong and drops halfway, which means the body stopped adding information.",
+          "visual": {
+            "label": "A OPENING FAILED.",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "A: opening failed."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 24,
+          "type": "graph",
+          "text": "B: body failed.",
+          "narration": "C holds and then slides at the end, which means the payoff arrived too late. Same low number, opposite diagnosis. You cannot fix a video you have not read correctly.",
+          "visual": {
+            "label": "B BODY FAILED.",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "B: body failed."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 34,
+          "type": "timeline",
+          "text": "C: payoff or ending dragged.",
+          "narration": "Rewriting all three the same way wastes the fix you actually need. Diagnose before you edit and the change lands in the right section. Early cliff, middle cliff, late cliff, each one points at a different beat.",
+          "visual": {
+            "label": "C PAYOFF OR",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "C: payoff or ending dragged."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 45,
+          "type": "payoff",
+          "text": "Diagnose before you rewrite.",
+          "narration": "Find the shape first, then open the timeline. Read the shape of the curve before you touch a single cut.",
+          "visual": {
+            "label": "DIAGNOSE BEFORE YOU",
+            "items": [
+              "Diagnose before you rewrite."
+            ],
+            "note": "Diagnose before you rewrite."
+          }
+        }
+      ],
+      "audio": "audio/R13-THREE-RETENTION-GRAPHS-T.wav",
+      "audioSeconds": 46.24
+    },
+    {
+      "id": "R14-WHY-SOME-VIDEOS-GET",
+      "title": "Why Some Videos Get Rewatched",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "You just watched the loop.",
+          "narration": "The best loop is the one viewers barely notice.",
+          "visual": {
+            "label": "YOU JUST WATCHED",
+            "items": [
+              "You just watched the loop."
+            ],
+            "note": "You just watched the loop."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "timeline",
+          "text": "A loop works when the ending completes the beginning.",
+          "narration": "You just watched it, and the end frame quietly became the first frame again. A loop works when the ending completes the beginning instead of stopping mid-thought.",
+          "visual": {
+            "label": "A LOOP WORKS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "A loop works when the ending completes the beginning."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "checklist",
+          "text": "Make the replay feel natural.",
+          "narration": "Visual loops carry the same object across, sentence loops finish the line later. Unresolved object loops keep one thing open until the replay answers it. Do not cut mid-sentence just to force a replay; people can feel the trick.",
+          "visual": {
+            "label": "MAKE THE REPLAY",
+            "items": [
+              "visual",
+              "sentence",
+              "unresolved object."
+            ],
+            "note": "Make the replay feel natural."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "Do not cut mid-sentence just to force a replay.",
+          "narration": "Build the transition so the last shot has somewhere to go. Loops are why a forty-five second video gets watched twice. When the second view feels earned, rewatching stops being luck and becomes design.",
+          "visual": {
+            "label": "DO NOT CUT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Do not cut mid-sentence just to force a replay."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Make the second view feel earned.",
+          "narration": "Give the ending a shape that points at the opening. Then the video does not end, it returns.",
+          "visual": {
+            "label": "MAKE THE SECOND",
+            "items": [
+              "Make the second view feel earned."
+            ],
+            "note": "Make the second view feel earned."
+          }
+        }
+      ],
+      "audio": "audio/R14-WHY-SOME-VIDEOS-GET.wav",
+      "audioSeconds": 43.84
+    },
+    {
+      "id": "R15-DEAD-SPACE-IS-EXPENSIVE",
+      "title": "Dead Space Is Expensive",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "This feels longer than one second.",
+          "narration": "A one-second pause feels much longer on a phone.",
+          "visual": {
+            "label": "THIS FEELS LONGER",
+            "items": [
+              "This feels longer than one second."
+            ],
+            "note": "This feels longer than one second."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "timeline",
+          "text": "Dead space adds up.",
+          "narration": "In silence, one second is an eternity, and the thumb is already moving. Dead space adds up across every gap between spoken beats.",
+          "visual": {
+            "label": "DEAD SPACE ADDS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Dead space adds up."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 25,
+          "type": "code",
+          "text": "Cut or cover them.",
+          "narration": "The cursor waiting, the logo hold, the repeated setup you forgot to trim. None of them say anything, so the viewer hears nothing. Cut them, or cover them with something that earns the frame.",
+          "visual": {
+            "label": "CUT OR COVER",
+            "file": "reel.ts",
+            "code": [
+              "// cursor waiting",
+              "// logo hold"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Cut or cover them."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "timeline",
+          "text": "Fast does not mean frantic.",
+          "narration": "Fast does not mean frantic; it means no time is spent saying nothing. Compress the same sequence and comprehension survives, because the words were always the guide. Remove the seconds that only exist because you did not look for them.",
+          "visual": {
+            "label": "FAST DOES NOT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Fast does not mean frantic."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Remove time that says nothing.",
+          "narration": "Watch the duration counter drop when you do. Every second you save is a second you can spend on the payoff.",
+          "visual": {
+            "label": "REMOVE TIME THAT",
+            "items": [
+              "Remove time that says nothing."
+            ],
+            "note": "Remove time that says nothing."
+          }
+        }
+      ],
+      "audio": "audio/R15-DEAD-SPACE-IS-EXPENSIVE.wav",
+      "audioSeconds": 43.04
+    },
+    {
+      "id": "R16-PREDICTABLE-VIDEOS-FEEL",
+      "title": "Predictable Videos Feel Longer",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "If I can predict it, why watch it?",
+          "narration": "If I can predict the next three scenes, why would I watch them?",
+          "visual": {
+            "label": "IF I CAN",
+            "items": [
+              "If I can predict it",
+              "why watch it?"
+            ],
+            "note": "If I can predict it, why watch it?"
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "timeline",
+          "text": "Repetition feels longer than duration.",
+          "narration": "Prediction ends curiosity, and curiosity is the only thing holding attention. Nobody finishes a video that already told them the ending.",
+          "visual": {
+            "label": "REPETITION FEELS LONGE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Repetition feels longer than duration."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "checklist",
+          "text": "Each beat should add something.",
+          "narration": "Repetition also feels longer than duration, even at the same runtime. Timeline blocks labelled same idea are dead weight in the middle of your video. Each beat should add something the previous one did not. Claim, then proof, then exception, then result, each rung higher than the last.",
+          "visual": {
+            "label": "EACH BEAT SHOULD",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Each beat should add something."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "diagram",
+          "text": "Progress creates curiosity.",
+          "narration": "Progressively unlock information and the viewer keeps going to see what opens next. When the autocomplete of your own video fails, attention returns. Make the next beat worth discovering rather than worth guessing.",
+          "visual": {
+            "label": "PROGRESS CREATES CURIO",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Progress creates curiosity."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Make the next beat worth discovering.",
+          "narration": "Predictable videos feel long because nothing is being earned. Give the viewer something they could not have guessed and they stay.",
+          "visual": {
+            "label": "MAKE THE NEXT",
+            "items": [
+              "Autocomplete fails",
+              "displays “UNKNOWN”."
+            ],
+            "note": "Make the next beat worth discovering."
+          }
+        }
+      ],
+      "audio": "audio/R16-PREDICTABLE-VIDEOS-FEEL.wav",
+      "audioSeconds": 51.47
+    },
+    {
+      "id": "R17-REVEAL-CADENCE-BEATS-CON",
+      "title": "Reveal Cadence Beats Constant Motion",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "More motion is not more attention.",
+          "narration": "You do not need movement every frame; you need progress.",
+          "visual": {
+            "label": "MORE MOTION IS",
+            "items": [
+              "More motion is not more attention."
+            ],
+            "note": "More motion is not more attention."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Watch what happens when information arrives in beats.",
+          "narration": "More motion is not more attention, it is just more noise. An interface shaking everywhere gives the eye nothing to hold.",
+          "visual": {
+            "label": "WATCH WHAT HAPPENS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Watch what happens when information arrives in beats."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "diagram",
+          "text": "Every reveal advances the idea.",
+          "narration": "Strip it back to one calm frame and let information arrive in beats. Reveal one, then two, then three, each one landing on a narration point. Every reveal should advance the idea instead of decorating it. Viewers do not need to be stimulated; they need to be informed in order.",
+          "visual": {
+            "label": "EVERY REVEAL ADVANCES",
+            "items": [
+              "Reveal 1",
+              "4 at intentional narration points."
+            ],
+            "note": "Every reveal advances the idea."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "timeline",
+          "text": "Design around information, not effects.",
+          "narration": "Design around information, not effects, and the timeline fills with markers that matter. A steady cadence feels premium because it feels deliberate. Constant animation feels cheap because it never stops to mean anything.",
+          "visual": {
+            "label": "DESIGN AROUND INFORMAT",
+            "items": [
+              "Design around information",
+              "not effects."
+            ],
+            "note": "Design around information, not effects."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Progress is the animation.",
+          "narration": "Progress is the animation; the effects are optional. Calm frames with timed reveals outperform motion that never means anything.",
+          "visual": {
+            "label": "PROGRESS IS THE",
+            "items": [
+              "Progress is the animation."
+            ],
+            "note": "Progress is the animation."
+          }
+        }
+      ],
+      "audio": "audio/R17-REVEAL-CADENCE-BEATS-CON.wav",
+      "audioSeconds": 48.91
+    },
+    {
+      "id": "R18-PROBLEM-PROOF-PAYOFF",
+      "title": "Problem → Proof → Payoff",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "You only need three things.",
+          "narration": "You only need three things to carry a forty-five second reel.",
+          "visual": {
+            "label": "YOU ONLY NEED",
+            "items": [
+              "You only need three things."
+            ],
+            "note": "You only need three things."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 14,
+          "type": "diagram",
+          "text": "First: make the pain obvious.",
+          "narration": "A problem, some proof, and a payoff, in that order. First make the pain obvious, so the viewer recognises their own situation.",
+          "visual": {
+            "label": "FIRST MAKE THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "First: make the pain obvious."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 29,
+          "type": "diagram",
+          "text": "Second: prove the diagnosis.",
+          "narration": "Second, prove the diagnosis with an example that could only happen the way you showed it. Third, resolve it and show the fixed result on screen. That is a complete story, and it fits inside one short-form cut. The template is reusable, but the evidence has to be real each time.",
+          "visual": {
+            "label": "SECOND PROVE THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Second: prove the diagnosis."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 29,
+          "end": 40,
+          "type": "diagram",
+          "text": "Third: resolve it.",
+          "narration": "Most tips videos fail because they skip the middle and never prove anything. Evidence is what turns advice into something a viewer believes. Structure the beats once and every future video inherits the shape.",
+          "visual": {
+            "label": "THIRD RESOLVE IT.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Third: resolve it."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 40,
+          "end": 45,
+          "type": "payoff",
+          "text": "That is a complete story.",
+          "narration": "Problem, proof, payoff; repeat as often as you like.",
+          "visual": {
+            "label": "THAT IS A",
+            "items": [
+              "That is a complete story."
+            ],
+            "note": "That is a complete story."
+          }
+        }
+      ],
+      "audio": "audio/R18-PROBLEM-PROOF-PAYOFF.wav",
+      "audioSeconds": 46.08
+    },
+    {
+      "id": "R19-OPEN-LOOPS-THAT-ACTUALLY",
+      "title": "Open Loops That Actually Close",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Why did this video fail?",
+          "narration": "An unanswered question is only useful if you eventually answer it.",
+          "visual": {
+            "label": "WHY DID THIS",
+            "items": [
+              "Why did this video fail?"
+            ],
+            "note": "Why did this video fail?"
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "diagram",
+          "text": "Keep one unanswered question alive.",
+          "narration": "Open the loop early, with a question the viewer wants resolved. Pin it to the top of the screen and leave it there.",
+          "visual": {
+            "label": "KEEP ONE UNANSWERED",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Keep one unanswered question alive."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 29,
+          "type": "checklist",
+          "text": "Each beat narrows the answer.",
+          "narration": "Then add evidence underneath it, one beat at a time. Each new piece narrows the answer without giving it away. The question stays alive while the proof accumulates below it. Close the loop before the end, visibly, so nobody has to guess. Turn the question into the answer and let the tab close.",
+          "visual": {
+            "label": "EACH BEAT NARROWS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Each beat narrows the answer."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 29,
+          "end": 39,
+          "type": "diagram",
+          "text": "Then close the loop.",
+          "narration": "Closure is the payoff; the loop was only the delivery method. Viewers stay for the answer and leave satisfied when it arrives. Open loops that never close teach people to stop trusting your next one.",
+          "visual": {
+            "label": "THEN CLOSE THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Then close the loop."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "Closure is the payoff.",
+          "narration": "Open one loop, close it visibly, and the ending lands.",
+          "visual": {
+            "label": "CLOSURE IS THE",
+            "items": [
+              "Tab receives a checkmark",
+              "closes."
+            ],
+            "note": "Closure is the payoff."
+          }
+        }
+      ],
+      "audio": "audio/R19-OPEN-LOOPS-THAT-ACTUALLY.wav",
+      "audioSeconds": 43.36
+    },
+    {
+      "id": "R20-THE-45-SECOND-CASE-STUDY",
+      "title": "The 45-Second Case Study",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "This was the starting point.",
+          "narration": "One tiny case study can teach more than ten disconnected tips.",
+          "visual": {
+            "label": "THIS WAS THE",
+            "items": [
+              "This was the starting point."
+            ],
+            "note": "This was the starting point."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "diagram",
+          "text": "We changed one thing.",
+          "narration": "Case studies work because the change is visible, not because the number is big. Start with the baseline, the honest number you began from.",
+          "visual": {
+            "label": "WE CHANGED ONE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "We changed one thing."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 27,
+          "type": "diagram",
+          "text": "Here is exactly what changed.",
+          "narration": "Then state the single thing you changed, and only that one thing. Show the implementation on screen so the viewer could copy it. Measure the outcome afterwards and put the result where the eye lands.",
+          "visual": {
+            "label": "HERE IS EXACTLY",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Here is exactly what changed."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "compare",
+          "text": "Then we measured the outcome.",
+          "narration": "One example is not universal proof, and saying so makes you more credible, not less. Use the result as evidence for this case rather than a law for every case. Baseline, change, outcome: that is the whole structure.",
+          "visual": {
+            "label": "THEN WE MEASURED",
+            "a": "Then we measured the outcome.",
+            "b": "Show AFTER result with caveat",
+            "note": "Then we measured the outcome."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Use the result as evidence, not a law.",
+          "narration": "It fits in forty-five seconds because you cut every extra variable. The lesson lands because the viewer watched it happen.",
+          "visual": {
+            "label": "USE THE RESULT",
+            "items": [
+              "Use the result as evidence",
+              "not a law."
+            ],
+            "note": "Use the result as evidence, not a law."
+          }
+        }
+      ],
+      "audio": "audio/R20-THE-45-SECOND-CASE-STUDY.wav",
+      "audioSeconds": 41.76
+    },
+    {
+      "id": "R21-BEFOREAFTER-IS-A-STORY",
+      "title": "Before/After Is a Story Engine",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "The story is visible immediately.",
+          "narration": "Before and after works because the viewer instantly understands the destination.",
+          "visual": {
+            "label": "THE STORY IS",
+            "items": [
+              "The story is visible immediately."
+            ],
+            "note": "The story is visible immediately."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "code",
+          "text": "Now give the viewer a reason for the change.",
+          "narration": "The story is visible in the first frame, so nothing has to be explained. Split the screen, label both sides, and let the difference speak.",
+          "visual": {
+            "label": "NOW GIVE THE",
+            "file": "reel.ts",
+            "code": [
+              "// Now give the viewer a reason for the change.",
+              "// Zoom into the biggest difference."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Now give the viewer a reason for the change."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "checklist",
+          "text": "Step by step, without overexplaining.",
+          "narration": "People believe what they can compare with their own eyes. Then give the viewer a reason for the change, not just a transformation. Show the steps one at a time without overexplaining any of them. Drag the slider across and make the improvement undeniable.",
+          "visual": {
+            "label": "STEP BY STEP",
+            "items": [
+              "Step by step",
+              "without overexplaining."
+            ],
+            "note": "Step by step, without overexplaining."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "diagram",
+          "text": "Make the improvement undeniable.",
+          "narration": "Keep everything else identical so the one changed variable is obvious. Transformation is the payoff; the middle is just the work. Return to the split screen at the end and the arc closes.",
+          "visual": {
+            "label": "MAKE THE IMPROVEMENT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Make the improvement undeniable."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Transformation is the payoff.",
+          "narration": "Twenty seconds of explanation can be replaced by four seconds of contrast.",
+          "visual": {
+            "label": "TRANSFORMATION IS THE",
+            "items": [
+              "Transformation is the payoff."
+            ],
+            "note": "Transformation is the payoff."
+          }
+        }
+      ],
+      "audio": "audio/R21-BEFOREAFTER-IS-A-STORY.wav",
+      "audioSeconds": 43.04
+    },
+    {
+      "id": "R22-GIVE-THE-VIDEO-A",
+      "title": "Give the Video a Constraint",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "One rule makes the story clearer.",
+          "narration": "Constraints make short stories easier to follow, and easier to finish.",
+          "visual": {
+            "label": "ONE RULE MAKES",
+            "items": [
+              "One rule makes the story clearer."
+            ],
+            "note": "One rule makes the story clearer."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Today: one tool.",
+          "narration": "One rule gives every action a reason to be on screen. One tool, thirty minutes, no paid software, a single prompt.",
+          "visual": {
+            "label": "TODAY ONE TOOL.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Today: one tool. No paid plugins."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 28,
+          "type": "diagram",
+          "text": "Now every action relates to the rule.",
+          "narration": "Without a limit, there is nothing to measure the outcome against. Once the rule is stamped at the top, every attempt relates to it. The viewer stops asking what you are doing and starts asking whether it works. That question is tension, and tension is what a short-form video runs on.",
+          "visual": {
+            "label": "NOW EVERY ACTION",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Now every action relates to the rule."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 28,
+          "end": 39,
+          "type": "diagram",
+          "text": "The constraint creates tension.",
+          "narration": "Reveal whether the constraint was beaten, honestly, including when it was not. A boundary also keeps you from adding scenes that do not matter. Give the experiment a wall and the story gets a direction.",
+          "visual": {
+            "label": "THE CONSTRAINT CREATES",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "The constraint creates tension."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "Give the experiment a boundary.",
+          "narration": "Then the ending is an answer instead of a summary.",
+          "visual": {
+            "label": "GIVE THE EXPERIMENT",
+            "items": [
+              "Give the experiment a boundary."
+            ],
+            "note": "Give the experiment a boundary."
+          }
+        }
+      ],
+      "audio": "audio/R22-GIVE-THE-VIDEO-A.wav",
+      "audioSeconds": 43.84
+    },
+    {
+      "id": "R23-TELL-A-STORY-WITHOUT",
+      "title": "Tell a Story Without Showing Your Face",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "You do not need a presenter for a story.",
+          "narration": "Your screen can be the character, and most of the time it should be.",
+          "visual": {
+            "label": "YOU DO NOT",
+            "items": [
+              "You do not need a presenter for a story."
+            ],
+            "note": "You do not need a presenter for a story."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "timeline",
+          "text": "Make the screen the character.",
+          "narration": "You do not need a presenter for a story to have a personality. The cursor hesitates, chooses, and gets it wrong, and we follow.",
+          "visual": {
+            "label": "MAKE THE SCREEN",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Make the screen the character."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "diagram",
+          "text": "Actions create narrative.",
+          "narration": "Make the browser or the editor the main stage where decisions happen. Action creates narrative: decision, mistake, correction, result, all inside one interface. The viewer follows the process instead of watching a talking head describe it. Let progress bars, retries and small wins carry the emotion.",
+          "visual": {
+            "label": "ACTIONS CREATE NARRATI",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Actions create narrative."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "diagram",
+          "text": "The viewer follows the process.",
+          "narration": "Show the result from the same window the problem came from. Close the tab when it is done and the story ends with it. No face required, because the work already had a beginning and an end.",
+          "visual": {
+            "label": "THE VIEWER FOLLOWS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "The viewer follows the process."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Let the work tell the story.",
+          "narration": "Let the interface perform the story and skip the talking head entirely.",
+          "visual": {
+            "label": "LET THE WORK",
+            "items": [
+              "Let the work tell the story."
+            ],
+            "note": "Let the work tell the story."
+          }
+        }
+      ],
+      "audio": "audio/R23-TELL-A-STORY-WITHOUT.wav",
+      "audioSeconds": 45.76
+    },
+    {
+      "id": "R24-BUILD-AN-INFORMATION-LAD",
+      "title": "Build an Information Ladder",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Build upward.",
+          "narration": "Do not dump the hardest part first; build upward instead.",
+          "visual": {
+            "label": "BUILD UPWARD.",
+            "items": [
+              "Build upward."
+            ],
+            "note": "Build upward."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "diagram",
+          "text": "Start with what the viewer can see.",
+          "narration": "Start with what the viewer can see without any explanation. Say what happened, plainly, in the language of the screen.",
+          "visual": {
+            "label": "START WITH WHAT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Start with what the viewer can see."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 24,
+          "type": "diagram",
+          "text": "Then explain the mechanism.",
+          "narration": "The viewer should never meet an idea before they have somewhere to put it. Then explain the mechanism, the why underneath the observation. Only after that give the consequence, why it matters to them.",
+          "visual": {
+            "label": "THEN EXPLAIN THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Then explain the mechanism."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 36,
+          "type": "timeline",
+          "text": "Finally give the consequence.",
+          "narration": "Three rungs, each one holding the weight of the next. Complexity feels easy when it has stairs, because nobody has to jump. Skip a step and the viewer has to climb it themselves, alone.",
+          "visual": {
+            "label": "FINALLY GIVE THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Finally give the consequence."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Complexity feels easy when it has stairs.",
+          "narration": "Most confusing videos are not wrong; they are built from the top down. Observe, explain, imply, in that order, every single time. Observation, explanation, implication, and the hard idea becomes easy.",
+          "visual": {
+            "label": "COMPLEXITY FEELS EASY",
+            "items": [
+              "Complexity feels easy when it has stairs."
+            ],
+            "note": "Complexity feels easy when it has stairs."
+          }
+        }
+      ],
+      "audio": "audio/R24-BUILD-AN-INFORMATION-LAD.wav",
+      "audioSeconds": 45.76
+    },
+    {
+      "id": "R25-CONTRAST-MAKES-EXPLANATI",
+      "title": "Contrast Makes Explanations Stick",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Compare, do not lecture.",
+          "narration": "One comparison can replace twenty seconds of explanation.",
+          "visual": {
+            "label": "COMPARE DO NOT",
+            "items": [
+              "Compare",
+              "do not lecture."
+            ],
+            "note": "Compare, do not lecture."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 14,
+          "type": "code",
+          "text": "The difference becomes obvious.",
+          "narration": "Compare, do not lecture, and the difference becomes obvious on its own. Show the weak version on one side and the strong version on the other.",
+          "visual": {
+            "label": "THE DIFFERENCE BECOMES",
+            "file": "reel.ts",
+            "code": [
+              "// A shows weak version",
+              "// B shows strong version."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "The difference becomes obvious."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 28,
+          "type": "diagram",
+          "text": "Keep everything else the same.",
+          "narration": "Keep everything else the same so only one variable changes. That single changed line is the entire lesson. Play both at real speed and let the viewer feel the difference.",
+          "visual": {
+            "label": "KEEP EVERYTHING ELSE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Keep everything else the same."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 28,
+          "end": 38,
+          "type": "code",
+          "text": "Let the viewer feel the difference.",
+          "narration": "Abstract advice becomes visible the moment two versions sit side by side. Anything you can show as a difference, you should never try to describe.",
+          "visual": {
+            "label": "LET THE VIEWER",
+            "file": "reel.ts",
+            "code": [
+              "// Let the viewer feel the difference.",
+              "// Play both at real speed."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Let the viewer feel the difference."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Contrast is compression.",
+          "narration": "Contrast is compression: it says in four seconds what prose takes a paragraph to say. It also removes the argument, because the viewer watched the same thing twice. Then one line of takeaway is enough to close it.",
+          "visual": {
+            "label": "CONTRAST IS COMPRESSIO",
+            "items": [
+              "Contrast is compression."
+            ],
+            "note": "Contrast is compression."
+          }
+        }
+      ],
+      "audio": "audio/R25-CONTRAST-MAKES-EXPLANATI.wav",
+      "audioSeconds": 43.36
+    },
+    {
+      "id": "R26-CUT-WHEN-THE-THOUGHT",
+      "title": "Cut When the Thought Changes",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Do not cut just because three seconds passed.",
+          "narration": "Good cuts follow meaning, not a stopwatch.",
+          "visual": {
+            "label": "DO NOT CUT",
+            "items": [
+              "Do not cut just because three seconds passed."
+            ],
+            "note": "Do not cut just because three seconds passed."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "code",
+          "text": "Cut when the thought changes.",
+          "narration": "If you cut every three seconds, the edit looks mechanical and says nothing. Watch the waveform next to the transcript and the real edit points appear.",
+          "visual": {
+            "label": "CUT WHEN THE",
+            "file": "reel.ts",
+            "code": [
+              "// Waveform",
+              "// transcript appear together."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Cut when the thought changes."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "checklist",
+          "text": "Each beat gets the visual it needs.",
+          "narration": "Each beat in the narration deserves the visual that belongs to it. A new idea is a cut; an example is a cut; proof is a cut. Silence and repetition are not cuts, they are cleanup.",
+          "visual": {
+            "label": "EACH BEAT GETS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Each beat gets the visual it needs."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "timeline",
+          "text": "The pacing feels fast without feeling random.",
+          "narration": "Edit ideas, not seconds, and the pacing feels fast without feeling random. The viewer never notices your timing when the timing matches the thought. They only notice when the picture changes for no reason at all.",
+          "visual": {
+            "label": "THE PACING FEELS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "The pacing feels fast without feeling random."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Edit ideas, not seconds.",
+          "narration": "Mark the semantic beats first, then let the timeline follow them. That single habit removes most of the randomness from a short-form edit.",
+          "visual": {
+            "label": "EDIT IDEAS NOT",
+            "items": [
+              "Edit ideas",
+              "not seconds."
+            ],
+            "note": "Edit ideas, not seconds."
+          }
+        }
+      ],
+      "audio": "audio/R26-CUT-WHEN-THE-THOUGHT.wav",
+      "audioSeconds": 44.64
+    },
+    {
+      "id": "R27-ZOOM-WITH-A-PURPOSE",
+      "title": "Zoom With a Purpose",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "This is not emphasis.",
+          "narration": "If everything zooms, nothing feels important.",
+          "visual": {
+            "label": "THIS IS NOT",
+            "items": [
+              "This is not emphasis."
+            ],
+            "note": "This is not emphasis."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "diagram",
+          "text": "Zoom only when the viewer needs to look somewhere.",
+          "narration": "Random camera pushes are not emphasis; they are noise wearing a costume. Freeze on one interface and ask where the viewer should look.",
+          "visual": {
+            "label": "ZOOM ONLY WHEN",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Zoom only when the viewer needs to look somewhere."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "checklist",
+          "text": "Each zoom answers “where should I look?”",
+          "narration": "Every zoom should answer that question before it moves. Push into the button, then the number, then the setting that changed. Three purposeful moves beat twenty decorative ones. Draw a camera path across a single screenshot and the eye follows without being told.",
+          "visual": {
+            "label": "EACH ZOOM ANSWERS",
+            "items": [
+              "button",
+              "number",
+              "changed setting."
+            ],
+            "note": "Each zoom answers “where should I look?”"
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "Guide the eye.",
+          "narration": "Dim everything that is not the point, then bring it back. Camera movement should explain the composition, not perform for it. When the zoom lands, the viewer already knows what they came to see.",
+          "visual": {
+            "label": "GUIDE THE EYE.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Guide the eye."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Camera movement should explain.",
+          "narration": "Emphasis is a decision about attention, and attention is the whole budget. Zoom once per idea, and the movement finally says something.",
+          "visual": {
+            "label": "CAMERA MOVEMENT SHOULD",
+            "items": [
+              "Camera movement should explain."
+            ],
+            "note": "Camera movement should explain."
+          }
+        }
+      ],
+      "audio": "audio/R27-ZOOM-WITH-A-PURPOSE.wav",
+      "audioSeconds": 45.44
+    },
+    {
+      "id": "R28-YOUR-B-ROLL-CAN-MAKE",
+      "title": "Your B-Roll Can Make the Video Worse",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "Looks good. Explains nothing.",
+          "narration": "Pretty footage can destroy clarity, and usually it does.",
+          "visual": {
+            "label": "LOOKS GOOD. EXPLAINS",
+            "items": [
+              "Looks good. Explains nothing."
+            ],
+            "note": "Looks good. Explains nothing."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 12,
+          "type": "graph",
+          "text": "Relevant visuals reduce mental work.",
+          "narration": "Generic city b-roll under an analytics sentence makes the viewer work harder. Looks good, explains nothing, and quietly competes with your point.",
+          "visual": {
+            "label": "RELEVANT VISUALS REDUC",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "Relevant visuals reduce mental work."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "checklist",
+          "text": "Match the picture to the sentence.",
+          "narration": "Relevant visuals reduce mental work instead of adding to it. Match the picture to the sentence, every single time. If the narration says graph, show the graph, not a mood. Give every asset one job: show it, prove it, or clarify it.",
+          "visual": {
+            "label": "MATCH THE PICTURE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Match the picture to the sentence."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "diagram",
+          "text": "Every asset needs a job.",
+          "narration": "Footage that does none of those three is decoration, and decoration costs attention. Useful beats aesthetic when you only have forty-five seconds. The viewer is not watching for production value; they are watching for meaning.",
+          "visual": {
+            "label": "EVERY ASSET NEEDS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Every asset needs a job."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Useful beats aesthetic.",
+          "narration": "Cut the shot you love and the sentence finally lands. If the footage does not explain the sentence, it works against it.",
+          "visual": {
+            "label": "USEFUL BEATS AESTHETIC",
+            "items": [
+              "Useful beats aesthetic."
+            ],
+            "note": "Useful beats aesthetic."
+          }
+        }
+      ],
+      "audio": "audio/R28-YOUR-B-ROLL-CAN-MAKE.wav",
+      "audioSeconds": 46.4
+    },
+    {
+      "id": "R29-CAPTION-HIERARCHY-BEATS",
+      "title": "Caption Hierarchy Beats Giant Subtitles",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "If the caption hides the proof, it failed.",
+          "narration": "If the caption hides the proof, the caption failed.",
+          "visual": {
+            "label": "IF THE CAPTION",
+            "items": [
+              "If the caption hides the proof",
+              "it failed."
+            ],
+            "note": "If the caption hides the proof, it failed."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "diagram",
+          "text": "Keep captions readable and brief.",
+          "narration": "Giant subtitles covering the interface turn your video into a wall of text. Keep captions short, three to six words, and let the picture breathe.",
+          "visual": {
+            "label": "KEEP CAPTIONS READABLE",
+            "items": [
+              "Shrink to 3",
+              "6 word chunks."
+            ],
+            "note": "Keep captions readable and brief."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 27,
+          "type": "diagram",
+          "text": "Hierarchy tells the eye what matters.",
+          "narration": "Hierarchy tells the eye what matters inside the sentence. Emphasise one key word per beat and drop the rest to normal weight. Move the caption away from the UI zone that carries the evidence. Protect the visual, because the visual is what proves the point.",
+          "visual": {
+            "label": "HIERARCHY TELLS THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Hierarchy tells the eye what matters."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "diagram",
+          "text": "Protect the visual evidence.",
+          "narration": "Readability is not size; it is contrast, position, and restraint. Caption the voice, never replace the video with it. The viewer should be able to watch and listen at the same time.",
+          "visual": {
+            "label": "PROTECT THE VISUAL",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Protect the visual evidence."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Caption the voice.",
+          "narration": "Short chunks also sync to speech, so nothing feels late. Short chunks, one emphasised word, and the picture stays visible.",
+          "visual": {
+            "label": "CAPTION THE VOICE.",
+            "items": [
+              "Caption the voice. Do not replace the video."
+            ],
+            "note": "Caption the voice. Do not replace the video."
+          }
+        }
+      ],
+      "audio": "audio/R29-CAPTION-HIERARCHY-BEATS.wav",
+      "audioSeconds": 47.52
+    },
+    {
+      "id": "R30-DESIGN-FOR-THE-MOBILE",
+      "title": "Design for the Mobile Safe Zone",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "This looked perfect in the editor.",
+          "narration": "Your best animation is useless if the app covers it.",
+          "visual": {
+            "label": "THIS LOOKED PERFECT",
+            "items": [
+              "Overlay fake Instagram UI over a design",
+              "key text gets covered."
+            ],
+            "note": "This looked perfect in the editor."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "browser",
+          "text": "Then the app UI arrived.",
+          "narration": "It looked perfect in the editor, then the real viewing surface arrived. Captions, calls to action, and critical UI all sit under chrome.",
+          "visual": {
+            "label": "THEN THE APP",
+            "a": "Reveal safe-zone guides.",
+            "items": [
+              "Then the app UI arrived."
+            ],
+            "note": "Then the app UI arrived."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "diagram",
+          "text": "Protect the important information.",
+          "narration": "Reveal the safe-zone guides and the design suddenly has edges. Move everything important inward, away from the corners and the bottom controls. Check it on a phone, not on your desktop canvas. Desktop preview lies about where the eye actually lands.",
+          "visual": {
+            "label": "PROTECT THE IMPORTANT",
+            "items": [
+              "Move captions",
+              "critical UI inward."
+            ],
+            "note": "Protect the important information."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "compare",
+          "text": "Always check the real viewing surface.",
+          "narration": "Design for the phone, because the phone is where it is watched. Edge-cropped areas are not empty space; they are risk. Once the guides fade, the composition still has to hold.",
+          "visual": {
+            "label": "ALWAYS CHECK THE",
+            "a": "Always check the real viewing surface.",
+            "b": "Show desktop preview vs phone",
+            "note": "Always check the real viewing surface."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Design for the phone, not the canvas.",
+          "narration": "Safe zones are not a constraint on the design; they are the frame. Design inside the phone frame and the composition survives contact with the app.",
+          "visual": {
+            "label": "DESIGN FOR THE",
+            "items": [
+              "Design for the phone",
+              "not the canvas."
+            ],
+            "note": "Design for the phone, not the canvas."
+          }
+        }
+      ],
+      "audio": "audio/R30-DESIGN-FOR-THE-MOBILE.wav",
+      "audioSeconds": 42.4
+    },
+    {
+      "id": "R31-MAKE-BROWSER-UI-FEEL",
+      "title": "Make Browser UI Feel Cinematic",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "This is information, not a scene.",
+          "narration": "A browser screenshot does not have to feel like a screenshot.",
+          "visual": {
+            "label": "THIS IS INFORMATION",
+            "items": [
+              "This is information",
+              "not a scene."
+            ],
+            "note": "This is information, not a scene."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "browser",
+          "text": "Give it context.",
+          "narration": "Flat information becomes a scene the moment you give it context. Build the chrome around it, then let an action happen inside.",
+          "visual": {
+            "label": "GIVE IT CONTEXT.",
+            "a": "Browser chrome builds around it.",
+            "items": [
+              "Give it context."
+            ],
+            "note": "Give it context."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "diagram",
+          "text": "Let the viewer follow an action.",
+          "narration": "Cursor types, scrolls, clicks, and highlights one result. The viewer follows the hand, so you never have to point. Zoom into the useful result and dim everything else on the page. Control the eye and the screenshot starts to move like film.",
+          "visual": {
+            "label": "LET THE VIEWER",
+            "items": [
+              "Cursor types",
+              "scrolls",
+              "clicks",
+              "highlights one result."
+            ],
+            "note": "Let the viewer follow an action."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "Control the eye.",
+          "narration": "Turn one static capture into a sequence of deliberate reveals. Let the result expand into the next scene instead of cutting. Continuity is what makes interface footage feel expensive.",
+          "visual": {
+            "label": "CONTROL THE EYE.",
+            "items": [
+              "Zoom into the useful result",
+              "dim everything else."
+            ],
+            "note": "Control the eye."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Turn screenshots into sequences.",
+          "narration": "The page was always a place; you just stopped treating it like a picture. Treat the browser as a set you can direct, not a capture you paste.",
+          "visual": {
+            "label": "TURN SCREENSHOTS INTO",
+            "items": [
+              "Turn screenshots into sequences."
+            ],
+            "note": "Turn screenshots into sequences."
+          }
+        }
+      ],
+      "audio": "audio/R31-MAKE-BROWSER-UI-FEEL.wav",
+      "audioSeconds": 45.44
+    },
+    {
+      "id": "R32-ANIMATE-CODE-WITHOUT-MAK",
+      "title": "Animate Code Without Making It Fake",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Do not use code as wallpaper.",
+          "narration": "Code animation looks premium until it starts typing nonsense.",
+          "visual": {
+            "label": "DO NOT USE",
+            "items": [
+              "Do not use code as wallpaper."
+            ],
+            "note": "Do not use code as wallpaper."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Show only the line that matters.",
+          "narration": "Random characters raining down a screen prove nothing to anyone who writes code. Show a real snippet, small enough to read in one glance.",
+          "visual": {
+            "label": "SHOW ONLY THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Show only the line that matters."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "diagram",
+          "text": "Cause and effect is the story.",
+          "narration": "Then show only the line that actually matters. Highlight one change and let the result pane update beside it. Cause and effect is the story; the syntax is just the setting. Keep a diff view on screen so before and after sit together.",
+          "visual": {
+            "label": "CAUSE AND EFFECT",
+            "items": [
+              "Highlight one change",
+              "result pane updates beside it."
+            ],
+            "note": "Cause and effect is the story."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "code",
+          "text": "Keep it readable.",
+          "narration": "Readable beats impressive, because nobody rewinds a short-form video. Code should prove the change happened, not decorate the frame. When the result takes over the screen, the proof is finished.",
+          "visual": {
+            "label": "KEEP IT READABLE.",
+            "file": "reel.ts",
+            "code": [
+              "// Keep it readable.",
+              "// Diff view shows before/after code."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Keep it readable."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Code should prove the change.",
+          "narration": "Animate the consequence of the edit, not the keystrokes. Animate the change and its result, and never the keystrokes themselves.",
+          "visual": {
+            "label": "CODE SHOULD PROVE",
+            "items": [
+              "Code should prove the change."
+            ],
+            "note": "Code should prove the change."
+          }
+        }
+      ],
+      "audio": "audio/R32-ANIMATE-CODE-WITHOUT-MAK.wav",
+      "audioSeconds": 44.16
+    },
+    {
+      "id": "R33-USE-MOTION-CONTINUITY",
+      "title": "Use Motion Continuity",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Watch the card.",
+          "narration": "The cleanest transition is often the same object continuing into the next scene.",
+          "visual": {
+            "label": "WATCH THE CARD.",
+            "items": [
+              "Watch the card."
+            ],
+            "note": "Watch the card."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "The scene changes, but the object continues.",
+          "narration": "Watch the card move from the dashboard into the full-screen detail view. The scene changed, but the object never disappeared.",
+          "visual": {
+            "label": "THE SCENE CHANGES",
+            "items": [
+              "The scene changes",
+              "but the object continues."
+            ],
+            "note": "The scene changes, but the object continues."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "graph",
+          "text": "Reuse the visual anchor.",
+          "narration": "That single carry-over does more than any wipe ever could. The eye trusts a thing that stays on screen. Reuse the visual anchor: card to panel, graph to line, button to badge. Each handoff tells the viewer that nothing has been replaced.",
+          "visual": {
+            "label": "REUSE THE VISUAL",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "Reuse the visual anchor."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "timeline",
+          "text": "Continuity feels expensive.",
+          "narration": "Continuity feels expensive because it requires planning instead of a preset. Play a connected sequence and every cut reads as intentional. Transitions can carry meaning when the object carries the meaning.",
+          "visual": {
+            "label": "CONTINUITY FEELS EXPEN",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Continuity feels expensive."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Transitions can tell the story.",
+          "narration": "Return the object to where it started and the loop closes. Carry one object across the cut and every transition reads as intentional.",
+          "visual": {
+            "label": "TRANSITIONS CAN TELL",
+            "items": [
+              "Transitions can tell the story."
+            ],
+            "note": "Transitions can tell the story."
+          }
+        }
+      ],
+      "audio": "audio/R33-USE-MOTION-CONTINUITY.wav",
+      "audioSeconds": 47.36
+    },
+    {
+      "id": "R34-SOUND-DESIGN-IS-INVISIBL",
+      "title": "Sound Design Is Invisible Editing",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Looks fine.",
+          "narration": "Mute this edit and it feels half as fast.",
+          "visual": {
+            "label": "LOOKS FINE.",
+            "items": [
+              "Looks fine."
+            ],
+            "note": "Looks fine."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 10,
+          "type": "diagram",
+          "text": "Now it feels responsive.",
+          "narration": "Play the same UI sequence silently and watch it go flat. Replay it with restrained accents and suddenly it responds.",
+          "visual": {
+            "label": "NOW IT FEELS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Now it feels responsive."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 24,
+          "type": "checklist",
+          "text": "Each sound should match an event.",
+          "narration": "Each sound should match an event, not a mood board. Click for selection, move for motion, reveal for new information, confirm for success. Sync is where the polish lives, one frame either side of the action. Align the waveform to the visual and the whole thing tightens.",
+          "visual": {
+            "label": "EACH SOUND SHOULD",
+            "items": [
+              "CLICK",
+              "MOVE",
+              "REVEAL",
+              "CONFIRM."
+            ],
+            "note": "Each sound should match an event."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 37,
+          "type": "diagram",
+          "text": "Sync creates polish.",
+          "narration": "Sound should support the narration, never compete with it. Let the music duck under the final line so the ending is heard. Four roles, one rule: if it does not mark an event, delete it.",
+          "visual": {
+            "label": "SYNC CREATES POLISH.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Sync creates polish."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Sound should support, never compete.",
+          "narration": "Good sound design is invisible because nothing calls attention to itself. Sound marks the event; the narration carries the meaning.",
+          "visual": {
+            "label": "SOUND SHOULD SUPPORT",
+            "items": [
+              "Sound should support",
+              "never compete."
+            ],
+            "note": "Sound should support, never compete."
+          }
+        }
+      ],
+      "audio": "audio/R34-SOUND-DESIGN-IS-INVISIBL.wav",
+      "audioSeconds": 46.08
+    },
+    {
+      "id": "R35-TURN-A-SCREENSHOT-INTO",
+      "title": "Turn a Screenshot Into a Scene",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Do not make the viewer search.",
+          "narration": "One screenshot can carry ten seconds if you animate the attention.",
+          "visual": {
+            "label": "DO NOT MAKE",
+            "items": [
+              "Do not make the viewer search."
+            ],
+            "note": "Do not make the viewer search."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Tell them where to look.",
+          "narration": "Do not make the viewer search the frame for the point. Spotlight one region and tell them exactly where to look.",
+          "visual": {
+            "label": "TELL THEM WHERE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Tell them where to look."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 25,
+          "type": "diagram",
+          "text": "Turn reading into a guided action.",
+          "narration": "Then turn reading into a guided action: zoom, cursor, tooltip, annotation. Reveal them sequentially so each one arrives with a reason. One image can contain several beats if you pan between them.",
+          "visual": {
+            "label": "TURN READING INTO",
+            "items": [
+              "Zoom",
+              "cursor",
+              "tooltip",
+              "annotation reveal sequentially."
+            ],
+            "note": "Turn reading into a guided action."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "One image can contain multiple beats.",
+          "narration": "Move to the second relevant area before you leave the capture. Guide the eye, then restore the context at the end. Zoom back out and the viewer sees how the parts connect.",
+          "visual": {
+            "label": "ONE IMAGE CAN",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "One image can contain multiple beats."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Guide the eye, then restore context.",
+          "narration": "Static screenshots dump information; guided screenshots deliver it. The difference is not effort, it is deciding what matters first. Guide the eye across the capture, then return it to the whole.",
+          "visual": {
+            "label": "GUIDE THE EYE",
+            "items": [
+              "Guide the eye",
+              "then restore context."
+            ],
+            "note": "Guide the eye, then restore context."
+          }
+        }
+      ],
+      "audio": "audio/R35-TURN-A-SCREENSHOT-INTO.wav",
+      "audioSeconds": 44.32
+    },
+    {
+      "id": "R36-GIVE-VALUE-BEFORE-THE",
+      "title": "Give Value Before the CTA",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 3,
+          "type": "hook",
+          "text": "This is too early.",
+          "narration": "If your call to action arrives before the payoff, it feels like a tax.",
+          "visual": {
+            "label": "THIS IS TOO",
+            "items": [
+              "This is too early."
+            ],
+            "note": "This is too early."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 3,
+          "end": 11,
+          "type": "timeline",
+          "text": "Earn the ask.",
+          "narration": "Asking for a follow before you have given anything is just rude. Earn the ask by delivering something complete first.",
+          "visual": {
+            "label": "EARN THE ASK.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Earn the ask."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 27,
+          "type": "diagram",
+          "text": "Give the viewer something complete.",
+          "narration": "Show the useful explanation, the result, the thing they came for. Only then mention the follow, the save, the profile. Now the request has context, and context is what makes it land. Move it to the end of the timeline and it costs you nothing.",
+          "visual": {
+            "label": "GIVE THE VIEWER",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Give the viewer something complete."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "compare",
+          "text": "Now the ask has context.",
+          "narration": "Value first, ask second, in that order, every time. A small optional CTA at the end outperforms a loud one at the start. People share videos that already paid them back.",
+          "visual": {
+            "label": "NOW THE ASK",
+            "a": "Now the ask has context.",
+            "b": "CTA appears only after payoff.",
+            "note": "Now the ask has context."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Value first.",
+          "narration": "Give first, then ask, and the ask stops feeling like a toll. Deliver the value first and the call to action costs nothing.",
+          "visual": {
+            "label": "VALUE FIRST.",
+            "items": [
+              "CTA becomes small",
+              "optional."
+            ],
+            "note": "Value first. CTA second."
+          }
+        }
+      ],
+      "audio": "audio/R36-GIVE-VALUE-BEFORE-THE.wav",
+      "audioSeconds": 45.44
+    },
+    {
+      "id": "R37-ASK-FOR-THE-RIGHT",
+      "title": "Ask for the Right Action",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Choose the action that matches the video.",
+          "narration": "Follow for more is not always the best ending you have.",
+          "visual": {
+            "label": "CHOOSE THE ACTION",
+            "items": [
+              "Choose the action that matches the video."
+            ],
+            "note": "Choose the action that matches the video."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "checklist",
+          "text": "Reference content?",
+          "narration": "Match the action to the content, and the conversion follows. Reference content deserves a save, because people come back to checklists and tutorials.",
+          "visual": {
+            "label": "REFERENCE CONTENT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Reference content? Save."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 22,
+          "type": "diagram",
+          "text": "Useful to a friend?",
+          "narration": "Something genuinely useful to a friend deserves a share. When the video hinges on an opinion, ask for the comment.",
+          "visual": {
+            "label": "USEFUL TO A",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Useful to a friend? Share."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 31,
+          "type": "diagram",
+          "text": "Need an opinion?",
+          "narration": "A recurring series earns the follow; a one-off does not. Four buttons on screen at once means none of them get pressed.",
+          "visual": {
+            "label": "NEED AN OPINION",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Need an opinion? Comment."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 31,
+          "end": 40,
+          "type": "diagram",
+          "text": "Series? Follow.",
+          "narration": "Choose one clear ask and let it sit alone at the end. The right action is the one the video just made obvious.",
+          "visual": {
+            "label": "SERIES FOLLOW.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Series? Follow."
+          }
+        },
+        {
+          "id": "s6",
+          "start": 40,
+          "end": 45,
+          "type": "payoff",
+          "text": "One clear ask.",
+          "narration": "You are not asking for engagement; you are finishing the thought. Then the ending has a job instead of a slogan. Ask for the one action the video just made obvious.",
+          "visual": {
+            "label": "ONE CLEAR ASK.",
+            "items": [
+              "One clear ask."
+            ],
+            "note": "One clear ask."
+          }
+        }
+      ],
+      "audio": "audio/R37-ASK-FOR-THE-RIGHT.wav",
+      "audioSeconds": 42.72
+    },
+    {
+      "id": "R38-TRUST-CAN-OUTPERFORM-VIR",
+      "title": "Trust Can Outperform Virality",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Which one won?",
+          "narration": "The video with fewer views can still be the one that worked.",
+          "visual": {
+            "label": "WHICH ONE WON",
+            "items": [
+              "Which one won?"
+            ],
+            "note": "Which one won?"
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "code",
+          "text": "Depends on the goal.",
+          "narration": "Two reels side by side, five hundred thousand plays against thirty-five thousand. Which one won depends entirely on the job you gave it.",
+          "visual": {
+            "label": "DEPENDS ON THE",
+            "file": "reel.ts",
+            "code": [
+              "// Depends on the goal.",
+              "// Reveal different outcomes beneath them."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Depends on the goal."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "code",
+          "text": "Views are one metric.",
+          "narration": "Views are one metric, and usually the least specific one you have. Saves, profile visits, leads and sales all tell a different story. Judge every post against its own objective instead of the vanity number. Assign the goal before you publish, then read the result honestly.",
+          "visual": {
+            "label": "VIEWS ARE ONE",
+            "file": "reel.ts",
+            "code": [
+              "// Dashboard cycles through views",
+              "// saves"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Views are one metric."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "checklist",
+          "text": "Judge content against its job.",
+          "narration": "A small audience that trusts you is worth more than a large one that scrolled. Reach without intent is just a bigger room of strangers. Pick the metric first and the scorecard finally means something.",
+          "visual": {
+            "label": "JUDGE CONTENT AGAINST",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Judge content against its job."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Pick the metric before you post.",
+          "narration": "Then a quiet post stops looking like a failure.",
+          "visual": {
+            "label": "PICK THE METRIC",
+            "items": [
+              "Pick the metric before you post."
+            ],
+            "note": "Pick the metric before you post."
+          }
+        }
+      ],
+      "audio": "audio/R38-TRUST-CAN-OUTPERFORM-VIR.wav",
+      "audioSeconds": 41.44
+    },
+    {
+      "id": "R39-TURN-VIEWERS-INTO-PROFIL",
+      "title": "Turn Viewers Into Profile Visitors",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "This is where conversion dies.",
+          "narration": "A viral reel can still send nobody to your profile.",
+          "visual": {
+            "label": "THIS IS WHERE",
+            "items": [
+              "Viewer finishes Reel",
+              "taps profile",
+              "sees unrelated grid."
+            ],
+            "note": "This is where conversion dies."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "code",
+          "text": "The journey continues after the video.",
+          "narration": "This is where conversion quietly dies, after the applause. The viewer finishes the video, taps your name, and sees an unrelated grid.",
+          "visual": {
+            "label": "THE JOURNEY CONTINUES",
+            "file": "reel.ts",
+            "code": [
+              "// The journey continues after the video.",
+              "// Map Reel → Profile → Pinned Reel →"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "The journey continues after the video."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "code",
+          "text": "Make the next step obvious.",
+          "narration": "The journey continues after the video, whether you planned it or not. Map the path: reel, profile, pinned post, offer, in one line. Make the next step obvious instead of making them search for it. Align the headline and the pinned content with the topic that just earned attention.",
+          "visual": {
+            "label": "MAKE THE NEXT",
+            "file": "reel.ts",
+            "code": [
+              "// Fix profile headline",
+              "// pinned content to match the Reel topic."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Make the next step obvious."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "diagram",
+          "text": "Reduce the topic switch.",
+          "narration": "Reduce the topic switch so nothing has to be re-learned. Your reel and your profile should feel like one product. When they do, the tap becomes a decision instead of a detour.",
+          "visual": {
+            "label": "REDUCE THE TOPIC",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Reduce the topic switch."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Your Reel and profile should feel like one product.",
+          "narration": "Then the audience you built actually arrives somewhere. Match the profile to the promise and the tap has somewhere to go.",
+          "visual": {
+            "label": "YOUR REEL AND",
+            "items": [],
+            "note": "Your Reel and profile should feel like one product."
+          }
+        }
+      ],
+      "audio": "audio/R39-TURN-VIEWERS-INTO-PROFIL.wav",
+      "audioSeconds": 46.4
+    },
+    {
+      "id": "R40-TEST-THREE-HOOKS-NOT",
+      "title": "Test Three Hooks, Not Three Videos",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Test the variable.",
+          "narration": "When a video fails, you may only need a new first five seconds.",
+          "visual": {
+            "label": "TEST THE VARIABLE.",
+            "items": [
+              "Test the variable."
+            ],
+            "note": "Test the variable."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "checklist",
+          "text": "Three openings.",
+          "narration": "Rebuilding everything is expensive and usually unnecessary. Keep the body constant and change only the opening angle.",
+          "visual": {
+            "label": "THREE OPENINGS.",
+            "items": [
+              "Hook A = result",
+              "B = problem",
+              "C = contradiction."
+            ],
+            "note": "Three openings. Same content."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 27,
+          "type": "compare",
+          "text": "Now you can compare framing.",
+          "narration": "Test the result, then the problem, then the contradiction, on the same cut. Now you are comparing framing instead of comparing two different videos. Change one major variable at a time or you learn nothing at all. Two-second previews of each opening are enough to see which one earns the next second.",
+          "visual": {
+            "label": "NOW YOU CAN",
+            "a": "Now you can compare framing.",
+            "b": "Play 2-second preview of each.",
+            "note": "Now you can compare framing."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "diagram",
+          "text": "Change one major variable at a time.",
+          "narration": "Do not throw away a good body because the first line underperformed. The idea underneath is still fine; only the entrance changed. Three hooks, one body, one clear winner.",
+          "visual": {
+            "label": "CHANGE ONE MAJOR",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Change one major variable at a time."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Do not throw away a good body.",
+          "narration": "That is the cheapest experiment in the whole workflow. Swap the opening, keep the body, and learn something in one afternoon.",
+          "visual": {
+            "label": "DO NOT THROW",
+            "items": [
+              "Do not throw away a good body."
+            ],
+            "note": "Do not throw away a good body."
+          }
+        }
+      ],
+      "audio": "audio/R40-TEST-THREE-HOOKS-NOT.wav",
+      "audioSeconds": 48
+    },
+    {
+      "id": "R41-REMAKE-AN-UNDERPERFORMER",
+      "title": "Remake an Underperformer",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Do not delete the idea.",
+          "narration": "A weak post can contain a strong idea, and usually does.",
+          "visual": {
+            "label": "DO NOT DELETE",
+            "items": [
+              "Do not delete the idea."
+            ],
+            "note": "Do not delete the idea."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Separate concept from execution.",
+          "narration": "Do not delete the concept because the packaging failed. Separate the idea from the execution and you can reuse the first.",
+          "visual": {
+            "label": "SEPARATE CONCEPT FROM",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Separate concept from execution."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "diagram",
+          "text": "Rebuild the delivery.",
+          "narration": "Rebuild the delivery: new hook, tighter body, payoff moved earlier. Upgrade the visual proof so the claim is finally supported on screen. Same idea, different story, and the numbers change with it. Compare the old timeline against the new one and the fix is obvious.",
+          "visual": {
+            "label": "REBUILD THE DELIVERY.",
+            "items": [
+              "Swap hook",
+              "tighten body",
+              "move payoff",
+              "upgrade visual proof."
+            ],
+            "note": "Rebuild the delivery."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "code",
+          "text": "Same idea. Different story.",
+          "narration": "Recycle the insight, never the footage. Most creators need fewer new ideas and more second attempts. The post that flopped is research you already paid for.",
+          "visual": {
+            "label": "SAME IDEA. DIFFERENT",
+            "file": "reel.ts",
+            "code": [
+              "// Same idea. Different story.",
+              "// Old/new timelines compare."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Same idea. Different story."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Recycle insight, not footage.",
+          "narration": "Read it, rebuild it, and ship the version you meant. Second attempts are where most of the improvement lives, long after the first upload.",
+          "visual": {
+            "label": "RECYCLE INSIGHT NOT",
+            "items": [
+              "Recycle insight",
+              "not footage."
+            ],
+            "note": "Recycle insight, not footage."
+          }
+        }
+      ],
+      "audio": "audio/R41-REMAKE-AN-UNDERPERFORMER.wav",
+      "audioSeconds": 44.96
+    },
+    {
+      "id": "R42-BUILD-A-CONTENT-PILLAR",
+      "title": "Build a Content Pillar Matrix",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Ideas multiply.",
+          "narration": "You do not need a hundred ideas; you need a system that multiplies them.",
+          "visual": {
+            "label": "IDEAS MULTIPLY.",
+            "items": [
+              "Ideas multiply."
+            ],
+            "note": "Ideas multiply."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "code",
+          "text": "Use repeatable formats.",
+          "narration": "Take a few repeatable formats and a few repeatable topics. Teach, test, compare, build, across hooks, editing, tools.",
+          "visual": {
+            "label": "USE REPEATABLE FORMATS",
+            "file": "reel.ts",
+            "code": [
+              "// Use repeatable formats.",
+              "// Columns: Teach / Test / Compare / Build."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Use repeatable formats."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 22,
+          "type": "timeline",
+          "text": "Use repeatable topics.",
+          "narration": "Every intersection in that grid becomes a reel waiting to be made. Three columns and four rows already give you twelve videos. The matrix turns a blank calendar into a list of decisions.",
+          "visual": {
+            "label": "USE REPEATABLE TOPICS.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Use repeatable topics."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 36,
+          "type": "diagram",
+          "text": "Every intersection becomes a Reel.",
+          "narration": "You stop asking what to post and start choosing which cell. Build a system, not a brainstorm, because brainstorms do not repeat. Consistency gets much easier when the ideas are already sitting in a grid. Expand it into a calendar and the month takes an afternoon.",
+          "visual": {
+            "label": "EVERY INTERSECTION BEC",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Every intersection becomes a Reel."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Build a system, not a brainstorm.",
+          "narration": "Systems produce volume; inspiration only produces intentions. A grid of possibilities beats a blank calendar every single week.",
+          "visual": {
+            "label": "BUILD A SYSTEM",
+            "items": [
+              "Build a system",
+              "not a brainstorm."
+            ],
+            "note": "Build a system, not a brainstorm."
+          }
+        }
+      ],
+      "audio": "audio/R42-BUILD-A-CONTENT-PILLAR.wav",
+      "audioSeconds": 48
+    },
+    {
+      "id": "R43-POSTING-MORE-IS-NOT",
+      "title": "Posting More Is Not a Magic Trick",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Volume is not a cheat code.",
+          "narration": "More posts cannot rescue content people do not want to watch.",
+          "visual": {
+            "label": "VOLUME IS NOT",
+            "items": [
+              "Volume is not a cheat code."
+            ],
+            "note": "Volume is not a cheat code."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "graph",
+          "text": "More can reduce feedback quality.",
+          "narration": "Volume is not a cheat code; it is only more attempts. Push it too far and the feedback you get stops being useful.",
+          "visual": {
+            "label": "MORE CAN REDUCE",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "More can reduce feedback quality."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 27,
+          "type": "diagram",
+          "text": "Frequency should support learning.",
+          "narration": "Quality gauges drop as the upload counter climbs past reason. Frequency should support a learning loop, not replace one. Publish, measure, improve, repeat, at a pace you can actually sustain. One rushed batch teaches you less than four posts you actually reviewed.",
+          "visual": {
+            "label": "FREQUENCY SHOULD SUPPO",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Frequency should support learning."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "compare",
+          "text": "Choose a pace you can maintain.",
+          "narration": "Consistency beats superstition every time the algorithm myth fails. There is no magic number of daily uploads. There is only the rate at which you can still improve.",
+          "visual": {
+            "label": "CHOOSE A PACE",
+            "a": "Choose a pace you can maintain.",
+            "b": "Compare one rushed batch vs fewer",
+            "note": "Choose a pace you can maintain."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Consistency beats superstition.",
+          "narration": "Choose that pace and hold it long enough to see a pattern. Publish at the rate you can still learn, not the rate you fear.",
+          "visual": {
+            "label": "CONSISTENCY BEATS SUPE",
+            "items": [
+              "Consistency beats superstition."
+            ],
+            "note": "Consistency beats superstition."
+          }
+        }
+      ],
+      "audio": "audio/R43-POSTING-MORE-IS-NOT.wav",
+      "audioSeconds": 43.68
+    },
+    {
+      "id": "R44-THE-WEEKLY-CONTENT-REVIE",
+      "title": "The Weekly Content Review",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Data is not a strategy.",
+          "narration": "Your analytics are useless if you never change anything because of them.",
+          "visual": {
+            "label": "DATA IS NOT",
+            "items": [
+              "Data is not a strategy."
+            ],
+            "note": "Data is not a strategy."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "checklist",
+          "text": "Turn numbers into decisions.",
+          "narration": "Data is not a strategy, and a dashboard nobody acts on is decoration. Once a week, turn the numbers into four decisions.",
+          "visual": {
+            "label": "TURN NUMBERS INTO",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Turn numbers into decisions."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "graph",
+          "text": "Find patterns.",
+          "narration": "Which hook performed best, and what made it different? Where was the biggest cliff, and which beat sat in front of it? Which action did people actually take: save, share, visit, buy? And what single test will you run next week because of it?",
+          "visual": {
+            "label": "FIND PATTERNS.",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "Find patterns."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "code",
+          "text": "Every insight needs an action.",
+          "narration": "Find the pattern, then convert it into an action, or close the laptop. Every insight needs an owner and a date. Review, change, repeat, and the account compounds instead of guessing.",
+          "visual": {
+            "label": "EVERY INSIGHT NEEDS",
+            "file": "reel.ts",
+            "code": [
+              "// Every insight needs an action.",
+              "// Convert each finding into one test for"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Every insight needs an action."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Review. Change. Repeat.",
+          "narration": "Ten minutes of review beats ten hours of production. Numbers only matter once a week when you decide what to change.",
+          "visual": {
+            "label": "REVIEW. CHANGE. REPEAT",
+            "items": [
+              "Review. Change. Repeat."
+            ],
+            "note": "Review. Change. Repeat."
+          }
+        }
+      ],
+      "audio": "audio/R44-THE-WEEKLY-CONTENT-REVIE.wav",
+      "audioSeconds": 44.96
+    },
+    {
+      "id": "R45-ONE-IDEA-FIVE-REEL",
+      "title": "One Idea, Five Reel Formats",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "One idea is not one video.",
+          "narration": "You are probably throwing away ideas after a single post.",
+          "visual": {
+            "label": "ONE IDEA IS",
+            "items": [
+              "One idea is not one video."
+            ],
+            "note": "One idea is not one video."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Change the lens.",
+          "narration": "One insight can be a tutorial, a myth bust, a case study. It can also be a comparison or an experiment with the same core fact.",
+          "visual": {
+            "label": "CHANGE THE LENS.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Change the lens."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 28,
+          "type": "checklist",
+          "text": "The information stays; the story changes.",
+          "narration": "The information stays exactly where it is; only the lens changes. Five formats from one idea means the pressure to invent drops sharply. Rapid previews of each version show how little has to be rewritten. Reuse the concept, never the script, so nothing feels recycled.",
+          "visual": {
+            "label": "THE INFORMATION STAYS",
+            "items": [
+              "The information stays",
+              "the story changes."
+            ],
+            "note": "The information stays; the story changes."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 28,
+          "end": 39,
+          "type": "diagram",
+          "text": "This reduces idea pressure.",
+          "narration": "The original idea stays at the centre and everything orbits it. Fill a content calendar in one sitting with variations of what you know. That is how consistent creators avoid the empty notebook.",
+          "visual": {
+            "label": "THIS REDUCES IDEA",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "This reduces idea pressure."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "Reuse the concept, not the script.",
+          "narration": "Ideas are not scarce; single-use ideas are. Five formats from one fact is how the notebook stays full.",
+          "visual": {
+            "label": "REUSE THE CONCEPT",
+            "items": [
+              "Reuse the concept",
+              "not the script."
+            ],
+            "note": "Reuse the concept, not the script."
+          }
+        }
+      ],
+      "audio": "audio/R45-ONE-IDEA-FIVE-REEL.wav",
+      "audioSeconds": 45.76
+    },
+    {
+      "id": "R46-BUILD-A-30-DAY-CONTENT",
+      "title": "Build a 30-Day Content Bank",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Daily improvisation is expensive.",
+          "narration": "Posting consistently gets easier when creation and publishing are separate jobs.",
+          "visual": {
+            "label": "DAILY IMPROVISATION IS",
+            "items": [
+              "Daily improvisation is expensive."
+            ],
+            "note": "Daily improvisation is expensive."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "code",
+          "text": "Separate the jobs.",
+          "narration": "Daily improvisation is expensive, and it shows on screen. Work finishes long before the first post goes out.",
+          "visual": {
+            "label": "SEPARATE THE JOBS.",
+            "file": "reel.ts",
+            "code": [
+              "// Separate the jobs.",
+              "// Pipeline appears: IDEA → SCRIPT →"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Separate the jobs."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "diagram",
+          "text": "Batch similar work.",
+          "narration": "Separate the pipeline: idea, script, assets, render, schedule. Batch similar work instead of switching tasks every afternoon. Cards move through the stages together, and each stage gets faster. Build inventory until the calendar fills without frantic daily creation.",
+          "visual": {
+            "label": "BATCH SIMILAR WORK.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Batch similar work."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "diagram",
+          "text": "Build inventory.",
+          "narration": "Create ahead, publish calmly, and never record while under pressure. A thirty-day bank turns a weekly emergency into a routine. The buffer is what protects quality when life gets busy.",
+          "visual": {
+            "label": "BUILD INVENTORY.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Build inventory."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Create ahead.",
+          "narration": "Publishing stops being the thing that decides whether you post. Create ahead, publish calmly, and let the buffer protect the quality when the week gets loud. Inventory is what keeps consistency honest.",
+          "visual": {
+            "label": "CREATE AHEAD.",
+            "items": [
+              "Create ahead. Publish calmly."
+            ],
+            "note": "Create ahead. Publish calmly."
+          }
+        }
+      ],
+      "audio": "audio/R46-BUILD-A-30-DAY-CONTENT.wav",
+      "audioSeconds": 51.31
+    },
+    {
+      "id": "R47-QUALITY-VS-CONSISTENCY-I",
+      "title": "Quality vs Consistency Is the Wrong Question",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Wrong tradeoff.",
+          "narration": "You do not need to choose between quality and consistency.",
+          "visual": {
+            "label": "WRONG TRADEOFF.",
+            "items": [
+              "QUALITY",
+              "CONSISTENCY fight like opposing sliders."
+            ],
+            "note": "Wrong tradeoff."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Set a minimum standard.",
+          "narration": "The tradeoff only exists because the standard is undefined. Undefined quality means every post is a negotiation with yourself.",
+          "visual": {
+            "label": "SET A MINIMUM",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Set a minimum standard."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "checklist",
+          "text": "Ship only above the floor.",
+          "narration": "Set a quality floor you can hit every single time. Clear hook, useful point, real proof, clean audio, readable visuals. Ship only what clears that line, and recycle everything below it. Templates protect the floor, which is why they are worth writing.",
+          "visual": {
+            "label": "SHIP ONLY ABOVE",
+            "items": [
+              "clear hook",
+              "useful point",
+              "proof",
+              "clean audio"
+            ],
+            "note": "Ship only above the floor."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "diagram",
+          "text": "Templates protect consistency.",
+          "narration": "A repeatable system lowers the cost of every video after the first. Then improve the system instead of increasing the stress. Both sliders can rise together when the floor is the thing moving.",
+          "visual": {
+            "label": "TEMPLATES PROTECT CONS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Templates protect consistency."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Improve the system, not the stress.",
+          "narration": "Quality and consistency stop fighting the moment quality is defined. Define the floor, then raise it on purpose rather than by panic.",
+          "visual": {
+            "label": "IMPROVE THE SYSTEM",
+            "items": [
+              "Improve the system",
+              "not the stress."
+            ],
+            "note": "Improve the system, not the stress."
+          }
+        }
+      ],
+      "audio": "audio/R47-QUALITY-VS-CONSISTENCY-I.wav",
+      "audioSeconds": 44.48
+    },
+    {
+      "id": "R48-TEACH-THE-ALGORITHM-YOUR",
+      "title": "Teach the Algorithm Your Niche",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Who is this for?",
+          "narration": "If every post serves a different person, nobody knows what your profile is for.",
+          "visual": {
+            "label": "WHO IS THIS",
+            "items": [
+              "Who is this for?"
+            ],
+            "note": "Who is this for?"
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Group around a clear viewer.",
+          "narration": "That confusion is human first, and discoverability second. Group your work around one clear audience and one clear problem.",
+          "visual": {
+            "label": "GROUP AROUND A",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Group around a clear viewer."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "code",
+          "text": "Different formats, same people.",
+          "narration": "Different formats are fine as long as they feed the same people. Three related pillars pointing at one viewer read as a promise. A clear promise helps humans before it helps any ranking system. Consistent topical signals make the grid legible to anyone who lands on it.",
+          "visual": {
+            "label": "DIFFERENT FORMATS SAME",
+            "file": "reel.ts",
+            "code": [
+              "// Different formats",
+              "// same people."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Different formats, same people."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "code",
+          "text": "A clear promise helps humans first.",
+          "narration": "Pick the audience before the topic and the topics stop drifting. Let the audience stay fixed while the ideas orbit it. Then a stranger understands your profile in two scrolls.",
+          "visual": {
+            "label": "A CLEAR PROMISE",
+            "file": "reel.ts",
+            "code": [
+              "// A clear promise helps humans first.",
+              "// Profile grid becomes coherent."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "A clear promise helps humans first."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Pick the audience before the topic.",
+          "narration": "That legibility is the whole trick; there is no secret rule behind it. Pick the audience first and every topic after it gets easier.",
+          "visual": {
+            "label": "PICK THE AUDIENCE",
+            "items": [
+              "Pick the audience before the topic."
+            ],
+            "note": "Pick the audience before the topic."
+          }
+        }
+      ],
+      "audio": "audio/R48-TEACH-THE-ALGORITHM-YOUR.wav",
+      "audioSeconds": 46.24
+    },
+    {
+      "id": "R49-VIRAL-DOES-NOT-MEAN",
+      "title": "Viral Does Not Mean Useful",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Big number.",
+          "narration": "A million views can still teach you the wrong lesson.",
+          "visual": {
+            "label": "BIG NUMBER.",
+            "items": [
+              "Big number."
+            ],
+            "note": "Big number."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Wrong people?",
+          "narration": "The big number arrives, and suddenly everything looks like a strategy. But reach without intent is an audience you cannot use.",
+          "visual": {
+            "label": "WRONG PEOPLE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Wrong people?"
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "code",
+          "text": "Different jobs.",
+          "narration": "Ask who was watching, not just how many. A novelty post and a useful post can hit the same number and do different jobs. Measure intent instead of volume: saves, profile visits, qualified actions. Those are the metrics that tell you whether the right people arrived.",
+          "visual": {
+            "label": "DIFFERENT JOBS.",
+            "file": "reel.ts",
+            "code": [
+              "// Different jobs.",
+              "// Compare viral novelty post vs niche"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Different jobs."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "code",
+          "text": "Measure intent.",
+          "narration": "Viral is valid when attention is the goal. Useful is valid when trust or conversion is the goal. Know which one you are buying before you celebrate the spike.",
+          "visual": {
+            "label": "MEASURE INTENT.",
+            "file": "reel.ts",
+            "code": [
+              "// Measure intent.",
+              "// Metrics change from views to"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Measure intent."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Know what success means.",
+          "narration": "Then a modest post for the right readers beats a wave of strangers. Know which job the post is doing before you read the number.",
+          "visual": {
+            "label": "KNOW WHAT SUCCESS",
+            "items": [
+              "Know what success means."
+            ],
+            "note": "Know what success means."
+          }
+        }
+      ],
+      "audio": "audio/R49-VIRAL-DOES-NOT-MEAN.wav",
+      "audioSeconds": 43.36
+    },
+    {
+      "id": "R50-THE-HOOKPROOF-GAP",
+      "title": "The Hook–Proof Gap",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Big claim.",
+          "narration": "The bigger your claim, the faster you need the proof.",
+          "visual": {
+            "label": "BIG CLAIM.",
+            "items": [
+              "Big claim."
+            ],
+            "note": "Big claim."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 11,
+          "type": "diagram",
+          "text": "Where is the proof?",
+          "narration": "This changed everything, and then nothing on screen supports it. A timer starts running the moment the claim lands.",
+          "visual": {
+            "label": "WHERE IS THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Where is the proof?"
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 25,
+          "type": "browser",
+          "text": "Reduce the gap.",
+          "narration": "Every second without evidence is a second of doubt. Reduce that gap until it almost disappears. A demo, a screenshot, a result, a source; anything real, immediately. Place the proof right after the claim, not at the end.",
+          "visual": {
+            "label": "REDUCE THE GAP.",
+            "a": "Show proof types: demo, screenshot, result, source.",
+            "items": [
+              "demo",
+              "screenshot",
+              "result",
+              "source."
+            ],
+            "note": "Reduce the gap."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "compare",
+          "text": "Claim → evidence.",
+          "narration": "Do not make viewers wait to believe you. Trust builds in the order you present it. Claim, evidence, claim, evidence, and the argument never sags.",
+          "visual": {
+            "label": "CLAIM EVIDENCE.",
+            "a": "Claim → evidence.",
+            "b": "Place proof immediately after",
+            "note": "Claim → evidence."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Do not make viewers wait to believe you.",
+          "narration": "The audience will forgive a small claim, but not an unsupported big one. Show it early and the rest of the sentence gets read. Claim first, evidence immediately after, and the gap never opens.",
+          "visual": {
+            "label": "DO NOT MAKE",
+            "items": [
+              "Do not make viewers wait to believe you."
+            ],
+            "note": "Do not make viewers wait to believe you."
+          }
+        }
+      ],
+      "audio": "audio/R50-THE-HOOKPROOF-GAP.wav",
+      "audioSeconds": 45.44
+    },
+    {
+      "id": "R51-USE-EXAMPLES-BEFORE-DEFI",
+      "title": "Use Examples Before Definitions",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Watch this.",
+          "narration": "People understand abstract ideas faster after they have seen one.",
+          "visual": {
+            "label": "WATCH THIS.",
+            "items": [
+              "Watch this."
+            ],
+            "note": "Watch this."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "You already understand the pattern.",
+          "narration": "Play the example first, with no label anywhere on screen. Let the pattern arrive before you name it.",
+          "visual": {
+            "label": "YOU ALREADY UNDERSTAND",
+            "items": [
+              "Freeze",
+              "highlight what happened."
+            ],
+            "note": "You already understand the pattern."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 24,
+          "type": "diagram",
+          "text": "Now give it a label.",
+          "narration": "The viewer already understands what happened; now they just need the word. Freeze the frame, highlight the move, and only then reveal the term. One more example locks it in and proves the rule generalises.",
+          "visual": {
+            "label": "NOW GIVE IT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Now give it a label."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 24,
+          "end": 37,
+          "type": "diagram",
+          "text": "One more example locks it in.",
+          "narration": "Definition first loses people because the definition has nowhere to sit. Example first gives the definition a home. Shrink the explanation to a single line once the pattern is visible.",
+          "visual": {
+            "label": "ONE MORE EXAMPLE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "One more example locks it in."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Example first.",
+          "narration": "Teach the shape, then hand over the name. That ordering works for concepts, tools, mistakes, and arguments alike. Show the pattern, then name it, and the definition finally sticks in one pass.",
+          "visual": {
+            "label": "EXAMPLE FIRST.",
+            "items": [
+              "Example first. Definition second."
+            ],
+            "note": "Example first. Definition second."
+          }
+        }
+      ],
+      "audio": "audio/R51-USE-EXAMPLES-BEFORE-DEFI.wav",
+      "audioSeconds": 46.4
+    },
+    {
+      "id": "R52-MAKE-THE-VIEWER-PREDICT",
+      "title": "Make the Viewer Predict",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Which one keeps more viewers?",
+          "narration": "A tiny prediction turns passive watching into participation.",
+          "visual": {
+            "label": "WHICH ONE KEEPS",
+            "items": [
+              "Which one keeps more viewers?"
+            ],
+            "note": "Which one keeps more viewers?"
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Pick one.",
+          "narration": "Show two options and ask which one keeps more viewers. Give a short countdown, then move, because delay kills it.",
+          "visual": {
+            "label": "PICK ONE.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Pick one."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 25,
+          "type": "code",
+          "text": "Now test the prediction.",
+          "narration": "The viewer has already picked a side in their head. Make them commit and they stay to see the outcome. Now play both versions and the reveal carries real tension. They are watching to find out whether they were right.",
+          "visual": {
+            "label": "NOW TEST THE",
+            "file": "reel.ts",
+            "code": [
+              "// Now test the prediction.",
+              "// Play both examples."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Now test the prediction."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "The reveal has tension.",
+          "narration": "Nobody guesses their way through a video without finishing it. That is attention you did not have to buy. Then explain the variable that actually decided it.",
+          "visual": {
+            "label": "THE REVEAL HAS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "The reveal has tension."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Prediction creates attention.",
+          "narration": "The prediction creates the question; the answer earns the ending. Ask, wait briefly, reveal, and explain in that order. Ask them to commit, reveal the answer, and the ending pays off.",
+          "visual": {
+            "label": "PREDICTION CREATES ATT",
+            "items": [
+              "Prediction creates attention."
+            ],
+            "note": "Prediction creates attention."
+          }
+        }
+      ],
+      "audio": "audio/R52-MAKE-THE-VIEWER-PREDICT.wav",
+      "audioSeconds": 42.88
+    },
+    {
+      "id": "R53-USE-A-PROGRESS-PROMISE",
+      "title": "Use a Progress Promise",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Give the story a destination.",
+          "narration": "A progress bar tells viewers there is a destination.",
+          "visual": {
+            "label": "GIVE THE STORY",
+            "items": [
+              "Give the story a destination."
+            ],
+            "note": "Give the story a destination."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "checklist",
+          "text": "Each step should mean something.",
+          "narration": "Without one, nobody knows how much video is left or what is coming. Give the story a visible destination and people will travel to it.",
+          "visual": {
+            "label": "EACH STEP SHOULD",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Each step should mean something."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 25,
+          "type": "checklist",
+          "text": "Progress must equal progress.",
+          "narration": "Each step on the bar should mean a real stage completing. Progress has to equal progress; the audience can feel a lie. No fake ninety-nine percent stall, no suspense bought with a frozen number.",
+          "visual": {
+            "label": "PROGRESS MUST EQUAL",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Progress must equal progress."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "No fake 99% stall.",
+          "narration": "Unlock new evidence at every mark so the movement earns itself. When the bar completes, let it disappear and leave the result. Use it to clarify structure, not to manufacture urgency.",
+          "visual": {
+            "label": "NO FAKE 99%",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "No fake 99% stall."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Use progress to clarify structure.",
+          "narration": "Then the viewer can see exactly where they are in the argument. Structure is reassurance, and reassurance keeps people watching. Progress earns attention only when every step marks something real.",
+          "visual": {
+            "label": "USE PROGRESS TO",
+            "items": [
+              "Bar completes",
+              "disappears."
+            ],
+            "note": "Use progress to clarify structure."
+          }
+        }
+      ],
+      "audio": "audio/R53-USE-A-PROGRESS-PROMISE.wav",
+      "audioSeconds": 43.84
+    },
+    {
+      "id": "R54-REPLACE-EXPLANATION-WITH",
+      "title": "Replace Explanation With Demonstration",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "I could explain this.",
+          "narration": "If you can show it in three seconds, do not explain it for ten.",
+          "visual": {
+            "label": "I COULD EXPLAIN",
+            "items": [
+              "I could explain this."
+            ],
+            "note": "I could explain this."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 10,
+          "type": "graph",
+          "text": "Or show you.",
+          "narration": "The paragraph could go here, and nobody would read all of it. Collapse the text into a live demo and the point lands instantly.",
+          "visual": {
+            "label": "OR SHOW YOU.",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "Or show you."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 10,
+          "end": 26,
+          "type": "diagram",
+          "text": "Demonstration carries the explanation.",
+          "narration": "Let the cursor perform the action while the narration describes the why. Demonstration carries the explanation, because watching is cheaper than imagining. Then explain only what is not obvious from the movement on screen. Freeze the before and after and add one line.",
+          "visual": {
+            "label": "DEMONSTRATION CARRIES ",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Demonstration carries the explanation."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "compare",
+          "text": "Now explain only what is not obvious.",
+          "narration": "Show first, explain second, and the explanation finally has evidence. Text count shrinks while comprehension goes up. Credibility is a by-product of watching it actually happen.",
+          "visual": {
+            "label": "NOW EXPLAIN ONLY",
+            "a": "Now explain only what is not obvious.",
+            "b": "Freeze on before/after result.",
+            "note": "Now explain only what is not obvious."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Show first. Explain second.",
+          "narration": "Anything you can demonstrate is only being described out of habit. Demonstrate first and the explanation shrinks to a single line.",
+          "visual": {
+            "label": "SHOW FIRST. EXPLAIN",
+            "items": [
+              "Show first. Explain second."
+            ],
+            "note": "Show first. Explain second."
+          }
+        }
+      ],
+      "audio": "audio/R54-REPLACE-EXPLANATION-WITH.wav",
+      "audioSeconds": 43.84
+    },
+    {
+      "id": "R55-ONE-REEL-ONE-MAIN",
+      "title": "One Reel, One Main Question",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Too many stories.",
+          "narration": "If your reel answers five questions, viewers may remember none of them.",
+          "visual": {
+            "label": "TOO MANY STORIES.",
+            "items": [
+              "Too many stories."
+            ],
+            "note": "Too many stories."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Pick one.",
+          "narration": "Open tabs, close four of them, and keep one. Pick the dominant question before you write a single scene.",
+          "visual": {
+            "label": "PICK ONE.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Pick one."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 27,
+          "type": "diagram",
+          "text": "Everything points upward.",
+          "narration": "Everything else on screen should point upward at that question. Supporting evidence attaches beneath it instead of competing with it. The video gets a spine, and a spine can be remembered. A list of facts cannot be remembered because nothing leads.",
+          "visual": {
+            "label": "EVERYTHING POINTS UPWA",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Everything points upward."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 38,
+          "type": "diagram",
+          "text": "The video has a spine.",
+          "narration": "One reel, one main question, one clear answer at the end. Then the closing line feels like a conclusion rather than a stop. Focus is what makes short content feel complete.",
+          "visual": {
+            "label": "THE VIDEO HAS",
+            "items": [
+              "Answer becomes clear",
+              "concise."
+            ],
+            "note": "The video has a spine."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "One Reel. One main question.",
+          "narration": "Answer one thing well and the viewer trusts you with the next. One question, one spine, one answer worth staying for.",
+          "visual": {
+            "label": "ONE REEL. ONE",
+            "items": [
+              "One Reel. One main question."
+            ],
+            "note": "One Reel. One main question."
+          }
+        }
+      ],
+      "audio": "audio/R55-ONE-REEL-ONE-MAIN.wav",
+      "audioSeconds": 43.68
+    },
+    {
+      "id": "R56-THE-PROOF-STACK",
+      "title": "The Proof Stack",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Claim.",
+          "narration": "One claim feels like an opinion; three kinds of proof feel like a case.",
+          "visual": {
+            "label": "CLAIM.",
+            "items": [
+              "Claim."
+            ],
+            "note": "Claim."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 13,
+          "type": "diagram",
+          "text": "Proof one: demonstration.",
+          "narration": "Start with a demonstration, because watching beats describing. Add the evidence, the data or the source that backs it.",
+          "visual": {
+            "label": "PROOF ONE DEMONSTRATIO",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Proof one: demonstration."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 23,
+          "type": "diagram",
+          "text": "Proof two: evidence.",
+          "narration": "Finish with the outcome, what actually happened when it was used. Stack them instead of adding hype, because hype is not evidence. Each layer answers the doubt the previous one created.",
+          "visual": {
+            "label": "PROOF TWO EVIDENCE.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Proof two: evidence."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 33,
+          "type": "checklist",
+          "text": "Proof three: outcome.",
+          "narration": "The claim card sits alone at first, and it looks weak. Three cards later it looks inevitable. Readers can argue with a number, but they cannot unwatch a demo.",
+          "visual": {
+            "label": "PROOF THREE OUTCOME.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Proof three: outcome."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 33,
+          "end": 45,
+          "type": "payoff",
+          "text": "Stack proof instead of adding hype.",
+          "narration": "Demonstration, evidence, outcome; that order builds belief. Give the claim a stack and it stops being your opinion. Demonstration, evidence, outcome, stacked until the claim stops being an opinion and starts being a case.",
+          "visual": {
+            "label": "STACK PROOF INSTEAD",
+            "items": [
+              "Stack proof instead of adding hype."
+            ],
+            "note": "Stack proof instead of adding hype."
+          }
+        }
+      ],
+      "audio": "audio/R56-THE-PROOF-STACK.wav",
+      "audioSeconds": 46.08
+    },
+    {
+      "id": "R57-BUILD-A-RE-HOOK-AT",
+      "title": "Build a Re-Hook at the Exact Weak Point",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "This is where the energy dies.",
+          "narration": "Do not sprinkle re-hooks everywhere; put one where interest actually fades.",
+          "visual": {
+            "label": "THIS IS WHERE",
+            "items": [
+              "This is where the energy dies."
+            ],
+            "note": "This is where the energy dies."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "graph",
+          "text": "Now we know where to intervene.",
+          "narration": "Watch the timeline for the grey section where the curve bends. That is the intervention point, and it is rarely the beginning.",
+          "visual": {
+            "label": "NOW WE KNOW",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": "Now we know where to intervene."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "diagram",
+          "text": "Add novelty with purpose.",
+          "narration": "Add novelty with purpose at that exact spot. A new example, a contrast question, a change of format. The reset belongs where attention drops, not where you got bored of the edit. Play the before and after and the difference in the curve is obvious.",
+          "visual": {
+            "label": "ADD NOVELTY WITH",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Add novelty with purpose."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "timeline",
+          "text": "The reset belongs here.",
+          "narration": "Re-hook the weak point and the rest of the video survives untouched. Surgery, not redecoration. One well-placed reset beats five scattered ones.",
+          "visual": {
+            "label": "THE RESET BELONGS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "The reset belongs here."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Re-hook the weak point, not the whole video.",
+          "narration": "Find the fade first, then decide what to put in front of it. Place the reset where the curve bends and the rest survives.",
+          "visual": {
+            "label": "RE-HOOK THE WEAK",
+            "items": [
+              "Re-hook the weak point",
+              "not the whole video."
+            ],
+            "note": "Re-hook the weak point, not the whole video."
+          }
+        }
+      ],
+      "audio": "audio/R57-BUILD-A-RE-HOOK-AT.wav",
+      "audioSeconds": 43.2
+    },
+    {
+      "id": "R58-USE-NUMBERS-AS-VISUAL",
+      "title": "Use Numbers as Visual Objects",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Numbers can be visual.",
+          "narration": "Do not just say the number; make the viewer feel the difference.",
+          "visual": {
+            "label": "NUMBERS CAN BE",
+            "items": [
+              "Tiny “3%”",
+              "huge “47%” occupy proportional space."
+            ],
+            "note": "Numbers can be visual."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Show the change.",
+          "narration": "Three percent and forty-seven percent should occupy different amounts of space. Animate the counter from the baseline to the result.",
+          "visual": {
+            "label": "SHOW THE CHANGE.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Show the change."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 25,
+          "type": "diagram",
+          "text": "Give the number context.",
+          "narration": "Then give the number context with a bar or a stack beside it. A number without comparison is just a sound. Translate it into plain language once the shape has landed.",
+          "visual": {
+            "label": "GIVE THE NUMBER",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Give the number context."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 37,
+          "type": "diagram",
+          "text": "Then translate it.",
+          "narration": "Say what it means for the person watching, not for a report. Visualise before you explain and the explanation gets shorter. Scale, comparison and position do work that adjectives cannot.",
+          "visual": {
+            "label": "THEN TRANSLATE IT.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Then translate it."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "Visualize before you explain.",
+          "narration": "Let the numbers settle into one takeaway at the end. Then the figure is remembered as a size, not a string. Give the number size and comparison, and the figure becomes memorable.",
+          "visual": {
+            "label": "VISUALIZE BEFORE YOU",
+            "items": [
+              "Visualize before you explain."
+            ],
+            "note": "Visualize before you explain."
+          }
+        }
+      ],
+      "audio": "audio/R58-USE-NUMBERS-AS-VISUAL.wav",
+      "audioSeconds": 43.36
+    },
+    {
+      "id": "R59-THE-MINI-EXPERIMENT-REEL",
+      "title": "The Mini Experiment Reel",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Change one thing.",
+          "narration": "I changed one variable to see what would actually happen.",
+          "visual": {
+            "label": "CHANGE ONE THING.",
+            "items": [
+              "EXPERIMENT card",
+              "one variable highlighted."
+            ],
+            "note": "Change one thing."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "This is the starting point.",
+          "narration": "Change one thing, keep everything else as similar as you can. That discipline is the whole difference between a test and a story.",
+          "visual": {
+            "label": "THIS IS THE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "This is the starting point."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "diagram",
+          "text": "Keep everything else as similar as possible.",
+          "narration": "Show the baseline first, the honest starting point. Apply the single change on screen where the viewer can see it. Then reveal the result, with its limitations stated plainly. One test gives evidence, not certainty, and saying so makes you credible.",
+          "visual": {
+            "label": "KEEP EVERYTHING ELSE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Keep everything else as similar as possible."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "code",
+          "text": "Here is what happened in this test.",
+          "narration": "Name the next test instead of announcing a universal law. Controlled changes produce answers you can actually use. Uncontrolled changes only produce anecdotes you have to defend.",
+          "visual": {
+            "label": "HERE IS WHAT",
+            "file": "reel.ts",
+            "code": [
+              "// Here is what happened in this test.",
+              "// Reveal result with limitations."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": "Here is what happened in this test."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "One test gives evidence, not certainty.",
+          "narration": "So hold the other variables still and let one thing move. Change one variable, hold the rest still, and the result means something.",
+          "visual": {
+            "label": "ONE TEST GIVES",
+            "items": [
+              "State next test",
+              "not a universal law."
+            ],
+            "note": "One test gives evidence, not certainty."
+          }
+        }
+      ],
+      "audio": "audio/R59-THE-MINI-EXPERIMENT-REEL.wav",
+      "audioSeconds": 44.96
+    },
+    {
+      "id": "R60-TURN-COMMENTS-INTO-THE",
+      "title": "Turn Comments Into the Next Reel",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "Your audience is writing prompts for you.",
+          "narration": "Your best content ideas may already be sitting under your last post.",
+          "visual": {
+            "label": "YOUR AUDIENCE IS",
+            "items": [
+              "Your audience is writing prompts for you."
+            ],
+            "note": "Your audience is writing prompts for you."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "diagram",
+          "text": "Find repetition.",
+          "narration": "Your audience is writing prompts for you, for free. Your viewers are already editing your calendar for you.",
+          "visual": {
+            "label": "FIND REPETITION.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Find repetition."
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 26,
+          "type": "diagram",
+          "text": "One comment becomes one Reel.",
+          "narration": "Look for the question that appears three times in a row. Repetition in the comments is demand wearing a disguise. Take one comment and turn it into one reel. Question, example, answer; that is already a storyboard.",
+          "visual": {
+            "label": "ONE COMMENT BECOMES",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "One comment becomes one Reel."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 38,
+          "type": "timeline",
+          "text": "Now you have a queue.",
+          "narration": "Several repeated comments map directly into a queue of future videos. You stop guessing what to make next. Turn the reply icon into a camera icon and the loop closes.",
+          "visual": {
+            "label": "NOW YOU HAVE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": "Now you have a queue."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "Turn questions into content.",
+          "narration": "The community tells you what it wants if you read it as research. Read the comments as research, and the next reel practically writes itself before you open the editor.",
+          "visual": {
+            "label": "TURN QUESTIONS INTO",
+            "items": [
+              "Turn questions into content."
+            ],
+            "note": "Turn questions into content."
+          }
+        }
+      ],
+      "audio": "audio/R60-TURN-COMMENTS-INTO-THE.wav",
+      "audioSeconds": 42.72
+    }
+  ]
+}

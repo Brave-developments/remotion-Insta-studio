@@ -1,0 +1,427 @@
+{
+  "verified": 42,
+  "sceneCount": 252,
+  "sourceRule": "scene.presentationNarration ?? scene.narration",
+  "scripts": [
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 1",
+      "id": "D01R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 67,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 1/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 1.2",
+      "id": "D01R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 88,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 1.2/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 2",
+      "id": "D02R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 59,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 2/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 2.2",
+      "id": "D02R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 85,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 2.2/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 3",
+      "id": "D03R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 79,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 3/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 3.2",
+      "id": "D03R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 94,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 3.2/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 4",
+      "id": "D04R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 83,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 4/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 4.2",
+      "id": "D04R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 83,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 4.2/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 5",
+      "id": "D05R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 66,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 5/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 5.2",
+      "id": "D05R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 80,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 5.2/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 6",
+      "id": "D06R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 70,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 6/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 6.2",
+      "id": "D06R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 86,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 6.2/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 7",
+      "id": "D07R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 70,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 7/voice-script.txt"
+    },
+    {
+      "channel": "TOMORROW-EXE",
+      "name": "day 7.2",
+      "id": "D07R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 82,
+      "overrides": 0,
+      "file": "projects/TOMORROW-EXE/week-1/day 7.2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 1",
+      "id": "D01R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 106,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 1/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 1.2",
+      "id": "D01R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 105,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 1.2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 2",
+      "id": "D02R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 104,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 2.2",
+      "id": "D02R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 112,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 2.2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 3",
+      "id": "D03R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 111,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 3/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 3.2",
+      "id": "D03R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 103,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 3.2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 4",
+      "id": "D04R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 112,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 4/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 4.2",
+      "id": "D04R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 107,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 4.2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 5",
+      "id": "D05R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 111,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 5/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 5.2",
+      "id": "D05R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 112,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 5.2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 6",
+      "id": "D06R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 105,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 6/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 6.2",
+      "id": "D06R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 105,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 6.2/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 7",
+      "id": "D07R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 109,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 7/voice-script.txt"
+    },
+    {
+      "channel": "BUILDMode-AI",
+      "name": "day 7.2",
+      "id": "D07R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 109,
+      "overrides": 6,
+      "file": "projects/BUILDMode-AI/week-1/day 7.2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 1",
+      "id": "D01R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 89,
+      "overrides": 0,
+      "file": "projects/TOOLPROOF/week-1/day 1/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 1.2",
+      "id": "D01R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 93,
+      "overrides": 6,
+      "file": "projects/TOOLPROOF/week-1/day 1.2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 2",
+      "id": "D02R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 82,
+      "overrides": 0,
+      "file": "projects/TOOLPROOF/week-1/day 2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 2.2",
+      "id": "D02R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 90,
+      "overrides": 6,
+      "file": "projects/TOOLPROOF/week-1/day 2.2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 3",
+      "id": "D03R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 87,
+      "overrides": 0,
+      "file": "projects/TOOLPROOF/week-1/day 3/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 3.2",
+      "id": "D03R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 93,
+      "overrides": 6,
+      "file": "projects/TOOLPROOF/week-1/day 3.2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 4",
+      "id": "D04R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 83,
+      "overrides": 0,
+      "file": "projects/TOOLPROOF/week-1/day 4/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 4.2",
+      "id": "D04R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 87,
+      "overrides": 6,
+      "file": "projects/TOOLPROOF/week-1/day 4.2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 5",
+      "id": "D05R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 92,
+      "overrides": 0,
+      "file": "projects/TOOLPROOF/week-1/day 5/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 5.2",
+      "id": "D05R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 97,
+      "overrides": 6,
+      "file": "projects/TOOLPROOF/week-1/day 5.2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 6",
+      "id": "D06R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 94,
+      "overrides": 0,
+      "file": "projects/TOOLPROOF/week-1/day 6/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 6.2",
+      "id": "D06R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 93,
+      "overrides": 6,
+      "file": "projects/TOOLPROOF/week-1/day 6.2/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 7",
+      "id": "D07R1",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 82,
+      "overrides": 0,
+      "file": "projects/TOOLPROOF/week-1/day 7/voice-script.txt"
+    },
+    {
+      "channel": "TOOLPROOF",
+      "name": "day 7.2",
+      "id": "D07R2",
+      "scenes": 6,
+      "exactMatch": true,
+      "words": 86,
+      "overrides": 6,
+      "file": "projects/TOOLPROOF/week-1/day 7.2/voice-script.txt"
+    }
+  ]
+}

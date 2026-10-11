@@ -1,0 +1,15 @@
+{
+  "name": "RETENTION LAB",
+  "position": "Retention analytics, story structure and hook craft.",
+  "bank": "story board/README_60_REMOTION_REELS (1).md",
+  "port": 3024,
+  "palette": {
+    "background": "#07070B",
+    "panel": "#12121A",
+    "accent": "#8B7CFF",
+    "secondary": "#C4B5FD",
+    "text": "#FFFFFF",
+    "muted": "#9AA0AE"
+  },
+  "fontFamily": "Inter, Segoe UI, sans-serif"
+}

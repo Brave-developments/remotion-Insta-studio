@@ -1,0 +1,376 @@
+{
+  "id": "D06R2",
+  "day": 6,
+  "reelNumber": 2,
+  "title": "AppFlowy \u2014 Notion Test",
+  "format": "Test",
+  "durationSeconds": 40.2,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I rebuilt the same small workspace in AppFlowy and Notion. A table, board, calendar, project page, and form. If a feature was unavailable, I marked it. Then I disconnected the test device and tried opening, editing, and saving the workspace. I also exported the data and opened it elsewhere. A download is not enough if fields disappear. [OFFLINE_AND_EXPORT_RESULTS]. [TEAM_AND_FEATURE_LIMITS]. [WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+  "audio": "audio/day 6.2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 65,
+  "estimatedWpm": 71,
+  "concept": "Table, Kanban, calendar, page/form; offline, export and team tests.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "I rebuilt the same small workspace in AppFlowy and Notion.",
+    "The network is off. Can the workspace still save?",
+    "The export downloaded. Did the data survive?"
+  ],
+  "strongestHook": "I rebuilt the same small workspace in AppFlowy and Notion.",
+  "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Table, Kanban, calendar, page/form; offline, export and team tests. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Hard",
+  "effort": "30\u201390 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Build the same five-row project dataset and attachments in AppFlowy and Notion. Attempt table, board, calendar, project page and form; record availability by plan. Disconnect an isolated test device, open/edit/save, reconnect and inspect persistence/conflicts. Export, parse and count rows/properties/attachments independently. Invite a second test account only if available and authorized; otherwise mark team test unperformed. Report offline/export fidelity and actual gaps.",
+  "evidenceRequirements": "Check actual working outputs and data fidelity.",
+  "sources": [
+    {
+      "label": "AppFlowy hosted plans",
+      "url": "https://appflowy.com/pricing",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "The Offline Workspace Test",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cThe Offline Workspace Test\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+  "cta": "WHAT WOULD YOU NEED?",
+  "instagramCaption": "AppFlowy \u2014 Notion Test. Table, Kanban, calendar, page/form; offline, export and team tests. Full test conditions and limitations belong beside the final result. [WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+  "tiktokCaption": "AppFlowy \u2014 Notion Test. WHAT WOULD YOU NEED?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Matching workspaces, offline/export/team runs.",
+  "scenes": [
+    {
+      "id": "D06R2-S1",
+      "start": 0.0,
+      "end": 4.333333333333333,
+      "type": "hook",
+      "text": "APPFLOWY VS NOTION",
+      "narration": "I rebuilt the same small workspace in AppFlowy and Notion.",
+      "concept": "Matched synthetic task table with identical rows and properties.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Matched synthetic task table with identical rows and properties.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I rebuilt the same small workspace",
+        "in AppFlowy and Notion."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "ONE WORKSPACE. TWO TOOLS.",
+      "presentationNarration": "The comparison will rebuild the same small workspace in AppFlowy and Notion.",
+      "presentationCaptionChunks": [
+        "The comparison will rebuild the same",
+        "small workspace in AppFlowy and Notion."
+      ],
+      "originalStart": 0,
+      "originalEnd": 8.533333333333333,
+      "captionTimings": [
+        {
+          "text": "The comparison will rebuild the same",
+          "start": 0.0,
+          "end": 2.02
+        },
+        {
+          "text": "small workspace in AppFlowy and Notion.",
+          "start": 1.86,
+          "end": 4.333
+        }
+      ]
+    },
+    {
+      "id": "D06R2-S2",
+      "start": 4.333333333333333,
+      "end": 12.9,
+      "type": "workflow",
+      "text": "MATCHED WORKSPACE",
+      "narration": "A table, board, calendar, project page, and form. If a feature was unavailable, I marked it.",
+      "concept": "Feature cards map to actual implementation or recorded gap.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Feature cards map to actual implementation or recorded gap.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "A table, board, calendar, project page,",
+        "and form. If a feature was",
+        "unavailable, I marked it."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "TABLE. BOARD. CALENDAR.",
+      "presentationNarration": "A table, board, calendar, project page, and form are the fixtures. Unavailable features will be marked.",
+      "presentationCaptionChunks": [
+        "A table, board, calendar, project page,",
+        "and form are the fixtures. Unavailable",
+        "features will be marked."
+      ],
+      "originalStart": 8.533333333333333,
+      "originalEnd": 21.7,
+      "captionTimings": [
+        {
+          "text": "A table, board, calendar, project page,",
+          "start": 0.007,
+          "end": 3.787
+        },
+        {
+          "text": "and form are the fixtures. Unavailable",
+          "start": 3.627,
+          "end": 7.147
+        },
+        {
+          "text": "features will be marked.",
+          "start": 6.987,
+          "end": 8.567
+        }
+      ]
+    },
+    {
+      "id": "D06R2-S3",
+      "start": 12.9,
+      "end": 18.066666666666666,
+      "type": "evidence",
+      "text": "OFFLINE: OPEN / EDIT / SAVE",
+      "narration": "Then I disconnected the test device and tried opening, editing, and saving the workspace.",
+      "concept": "Actual network state and document edit; reconnect and inspect persisted result.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual network state and document edit; reconnect and inspect persisted result.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Then I disconnected the test device",
+        "and tried opening, editing, and saving",
+        "the workspace."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "PULL THE NETWORK",
+      "presentationNarration": "The test device will go offline before opening, editing, and saving the workspace.",
+      "presentationCaptionChunks": [
+        "The test device will go offline",
+        "before opening, editing, and saving the",
+        "workspace."
+      ],
+      "originalStart": 21.7,
+      "originalEnd": 33.333333333333336,
+      "captionTimings": [
+        {
+          "text": "The test device will go offline",
+          "start": 0.02,
+          "end": 1.66
+        },
+        {
+          "text": "before opening, editing, and saving the workspace.",
+          "start": 1.5,
+          "end": 5.12
+        }
+      ]
+    },
+    {
+      "id": "D06R2-S4",
+      "start": 18.066666666666666,
+      "end": 24.333333333333332,
+      "type": "evidence",
+      "text": "CHECK THE EXPORTED DATA",
+      "narration": "I also exported the data and opened it elsewhere. A download is not enough if fields disappear.",
+      "concept": "Independent viewer or parser; compare rows, properties and attachments.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Independent viewer or parser; compare rows, properties and attachments.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I also exported the data and",
+        "opened it elsewhere. A download is",
+        "not enough if fields disappear."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "EXPORT. REOPEN. INSPECT.",
+      "presentationNarration": "Exported data will be opened elsewhere. Missing fields or broken relationships will count as evidence.",
+      "presentationCaptionChunks": [
+        "Exported data will be opened elsewhere.",
+        "Missing fields or broken relationships will",
+        "count as evidence."
+      ],
+      "originalStart": 33.333333333333336,
+      "originalEnd": 47.266666666666666,
+      "captionTimings": [
+        {
+          "text": "Exported data will be opened elsewhere.",
+          "start": 0.013,
+          "end": 2.633
+        },
+        {
+          "text": "Missing fields or broken relationships will",
+          "start": 2.653,
+          "end": 4.933
+        },
+        {
+          "text": "count as evidence.",
+          "start": 4.773,
+          "end": 6.153
+        }
+      ]
+    },
+    {
+      "id": "D06R2-S5",
+      "start": 24.333333333333332,
+      "end": 33.46666666666667,
+      "type": "result",
+      "text": "[WORKSPACE TEST RESULT]",
+      "narration": "[OFFLINE_AND_EXPORT_RESULTS]. [TEAM_AND_FEATURE_LIMITS].",
+      "concept": "Measured fidelity counts and observed account limits; no blanket Notion-killer claim.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Measured fidelity counts and observed account limits; no blanket Notion-killer claim.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[OFFLINE_AND_EXPORT_RESULTS]. [TEAM_AND_FEATURE_LIMITS]."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "OFFLINE + DATA FIDELITY",
+      "presentationNarration": "Offline behavior, export fidelity, team limits, and feature access need observed results. No switching recommendation has been earned yet.",
+      "presentationCaptionChunks": [
+        "Offline behavior, export fidelity, team limits,",
+        "and feature access need observed results.",
+        "No switching recommendation has been earned",
+        "yet."
+      ],
+      "originalStart": 47.266666666666666,
+      "originalEnd": 49.56666666666667,
+      "captionTimings": [
+        {
+          "text": "Offline behavior, export fidelity, team limits,",
+          "start": 0.007,
+          "end": 3.607
+        },
+        {
+          "text": "and feature access need observed results.",
+          "start": 3.567,
+          "end": 6.367
+        },
+        {
+          "text": "No switching recommendation has been earned yet.",
+          "start": 6.487,
+          "end": 9.133
+        }
+      ]
+    },
+    {
+      "id": "D06R2-S6",
+      "start": 33.46666666666667,
+      "end": 40.2,
+      "type": "question",
+      "text": "WHAT WOULD YOU NEED?",
+      "narration": "[WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+      "concept": "Show the use case that determines the recommendation.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show the use case that determines the recommendation.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "WHAT MUST SURVIVE?",
+      "presentationNarration": "The eventual verdict will identify who benefits and who should stay. What data could your workspace never lose?",
+      "presentationCaptionChunks": [
+        "The eventual verdict will identify who",
+        "benefits and who should stay. What",
+        "data could your workspace never lose?"
+      ],
+      "originalStart": 49.56666666666667,
+      "originalEnd": 55,
+      "captionTimings": [
+        {
+          "text": "The eventual verdict will identify who",
+          "start": 0.033,
+          "end": 2.173
+        },
+        {
+          "text": "benefits and who should stay. What",
+          "start": 2.013,
+          "end": 4.433
+        },
+        {
+          "text": "data could your workspace never lose?",
+          "start": 4.273,
+          "end": 6.613
+        }
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-test-plan-built",
+  "visualStatus": "voiced-directed-illustration"
+}

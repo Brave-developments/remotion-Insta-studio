@@ -1,0 +1,588 @@
+{
+  "fingerprint": "ac66c7a6a6246228810c6f68e1f3867dda8a09206922b2dd2e83f376e984ebdb",
+  "recognizedText": " What if your teacher remembered every mistake you made? AI tutors already offer guided learning. Now imagine one that stays with you for 10 years. It knows which explanation finally worked and which question you were too embarrassed to ask. Lessons become personal. So does the record of your confusion, attention, and confidence? When you change schools, does that history follow you and who gets to read it? And AI might help you learn. Who should own the story of how you learned?",
+  "words": [
+    {
+      "text": " What",
+      "timestamp": [
+        0.0,
+        0.74
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        0.74,
+        0.82
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        0.82,
+        0.92
+      ]
+    },
+    {
+      "text": " teacher",
+      "timestamp": [
+        0.92,
+        1.2
+      ]
+    },
+    {
+      "text": " remembered",
+      "timestamp": [
+        1.2,
+        1.62
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        1.62,
+        2.04
+      ]
+    },
+    {
+      "text": " mistake",
+      "timestamp": [
+        2.04,
+        2.38
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        2.38,
+        2.64
+      ]
+    },
+    {
+      "text": " made?",
+      "timestamp": [
+        2.64,
+        3.6
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        3.78,
+        3.84
+      ]
+    },
+    {
+      "text": " tutors",
+      "timestamp": [
+        3.84,
+        4.26
+      ]
+    },
+    {
+      "text": " already",
+      "timestamp": [
+        4.26,
+        4.62
+      ]
+    },
+    {
+      "text": " offer",
+      "timestamp": [
+        4.62,
+        4.98
+      ]
+    },
+    {
+      "text": " guided",
+      "timestamp": [
+        4.98,
+        5.3
+      ]
+    },
+    {
+      "text": " learning.",
+      "timestamp": [
+        5.3,
+        6.2
+      ]
+    },
+    {
+      "text": " Now",
+      "timestamp": [
+        6.48,
+        6.48
+      ]
+    },
+    {
+      "text": " imagine",
+      "timestamp": [
+        6.48,
+        6.82
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        6.82,
+        7.08
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        7.08,
+        7.24
+      ]
+    },
+    {
+      "text": " stays",
+      "timestamp": [
+        7.24,
+        7.54
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        7.54,
+        7.76
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        7.76,
+        7.94
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        7.94,
+        8.08
+      ]
+    },
+    {
+      "text": " 10",
+      "timestamp": [
+        8.08,
+        8.34
+      ]
+    },
+    {
+      "text": " years.",
+      "timestamp": [
+        8.34,
+        9.2
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        9.32,
+        9.4
+      ]
+    },
+    {
+      "text": " knows",
+      "timestamp": [
+        9.4,
+        9.6
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        9.6,
+        9.84
+      ]
+    },
+    {
+      "text": " explanation",
+      "timestamp": [
+        9.84,
+        10.36
+      ]
+    },
+    {
+      "text": " finally",
+      "timestamp": [
+        10.36,
+        10.96
+      ]
+    },
+    {
+      "text": " worked",
+      "timestamp": [
+        10.96,
+        11.36
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        11.56,
+        11.82
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        11.82,
+        12.0
+      ]
+    },
+    {
+      "text": " question",
+      "timestamp": [
+        12.0,
+        12.48
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        12.48,
+        12.68
+      ]
+    },
+    {
+      "text": " were",
+      "timestamp": [
+        12.68,
+        12.78
+      ]
+    },
+    {
+      "text": " too",
+      "timestamp": [
+        12.78,
+        12.96
+      ]
+    },
+    {
+      "text": " embarrassed",
+      "timestamp": [
+        12.96,
+        13.34
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        13.34,
+        13.58
+      ]
+    },
+    {
+      "text": " ask.",
+      "timestamp": [
+        13.58,
+        14.4
+      ]
+    },
+    {
+      "text": " Lessons",
+      "timestamp": [
+        14.56,
+        14.8
+      ]
+    },
+    {
+      "text": " become",
+      "timestamp": [
+        14.8,
+        15.1
+      ]
+    },
+    {
+      "text": " personal.",
+      "timestamp": [
+        15.1,
+        15.96
+      ]
+    },
+    {
+      "text": " So",
+      "timestamp": [
+        16.16,
+        16.28
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        16.28,
+        16.4
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        16.4,
+        16.54
+      ]
+    },
+    {
+      "text": " record",
+      "timestamp": [
+        16.54,
+        16.82
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        16.82,
+        17.0
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        17.0,
+        17.1
+      ]
+    },
+    {
+      "text": " confusion,",
+      "timestamp": [
+        17.1,
+        18.02
+      ]
+    },
+    {
+      "text": " attention,",
+      "timestamp": [
+        18.02,
+        18.7
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        18.72,
+        18.82
+      ]
+    },
+    {
+      "text": " confidence?",
+      "timestamp": [
+        18.82,
+        19.78
+      ]
+    },
+    {
+      "text": " When",
+      "timestamp": [
+        19.9,
+        20.0
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        20.0,
+        20.12
+      ]
+    },
+    {
+      "text": " change",
+      "timestamp": [
+        20.12,
+        20.38
+      ]
+    },
+    {
+      "text": " schools,",
+      "timestamp": [
+        20.38,
+        21.24
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        21.24,
+        21.42
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        21.42,
+        21.6
+      ]
+    },
+    {
+      "text": " history",
+      "timestamp": [
+        21.6,
+        21.96
+      ]
+    },
+    {
+      "text": " follow",
+      "timestamp": [
+        21.96,
+        22.4
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        22.4,
+        22.7
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        22.76,
+        23.1
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        23.1,
+        23.24
+      ]
+    },
+    {
+      "text": " gets",
+      "timestamp": [
+        23.24,
+        23.4
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        23.4,
+        23.62
+      ]
+    },
+    {
+      "text": " read",
+      "timestamp": [
+        23.62,
+        23.82
+      ]
+    },
+    {
+      "text": " it?",
+      "timestamp": [
+        23.82,
+        24.32
+      ]
+    },
+    {
+      "text": " And",
+      "timestamp": [
+        24.44,
+        24.56
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        24.56,
+        24.86
+      ]
+    },
+    {
+      "text": " might",
+      "timestamp": [
+        24.86,
+        25.1
+      ]
+    },
+    {
+      "text": " help",
+      "timestamp": [
+        25.1,
+        25.32
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        25.32,
+        25.5
+      ]
+    },
+    {
+      "text": " learn.",
+      "timestamp": [
+        25.5,
+        26.08
+      ]
+    },
+    {
+      "text": " Who",
+      "timestamp": [
+        26.2,
+        26.32
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        26.32,
+        26.5
+      ]
+    },
+    {
+      "text": " own",
+      "timestamp": [
+        26.5,
+        26.72
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        26.72,
+        26.88
+      ]
+    },
+    {
+      "text": " story",
+      "timestamp": [
+        26.88,
+        27.26
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        27.26,
+        27.4
+      ]
+    },
+    {
+      "text": " how",
+      "timestamp": [
+        27.4,
+        27.58
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        27.58,
+        27.74
+      ]
+    },
+    {
+      "text": " learned?",
+      "timestamp": [
+        27.74,
+        28.3
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

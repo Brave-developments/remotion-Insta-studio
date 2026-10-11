@@ -1,0 +1,378 @@
+{
+  "id": "D06R1",
+  "day": 6,
+  "reelNumber": 1,
+  "title": "Codex Versus Codex Speed Test",
+  "format": "Experiment",
+  "durationSeconds": 45.96666666666667,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I raced two available Codex configurations on the exact same task. Add CSV export to this table. Handle quotes, commas, and newlines. Keep the existing tests passing. Both runs get clean copies. The clock stops only when the result passes the checks. A quick answer that exports a broken file does not win. [RUN_A_TIME_AND_RESULT]. [RUN_B_TIME_AND_RESULT]. [REPEATED_RUN_VARIATION]. [TASK_SPECIFIC_CONCLUSION]. What should I race next?",
+  "audio": "audio/day 6.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 62,
+  "estimatedWpm": 106,
+  "concept": "Same CSV-export task on clean copies; measure complete work rather than token speed.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I raced two available Codex configurations on the exact same task.",
+    "A fast answer is not a working CSV export.",
+    "The clock stops when the file passes, not when the AI stops."
+  ],
+  "strongestHook": "I raced two available Codex configurations on the exact same task.",
+  "directorBrief": "Direct this as an observable challenge: Same CSV-export task on clean copies; measure complete work rather than token speed. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Easy",
+  "effort": "15\u201360 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Use two configurations actually available to the operator; record model, effort and any supported speed option. Same clean table app and same CSV-export prompt. Acceptance: header order, commas, quotes, embedded newlines, empty cells, Unicode and existing tests. Time submission to independently verified completion. Alternate order across three paired runs when feasible and report median/range. If only one pair is recorded, call it one observed comparison; no generalized speed ratio.",
+  "evidenceRequirements": "Confirm tier availability; use real timers and compare quality.",
+  "sources": [],
+  "thumbnail": "Same Task Two Runs",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cSame Task Two Runs\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[TASK_SPECIFIC_CONCLUSION]. What should I race next?",
+  "cta": "WHAT SHOULD I RACE?",
+  "instagramCaption": "Codex Versus Codex Speed Test. Same CSV-export task on clean copies; measure complete work rather than token speed. Full test conditions and limitations belong beside the final result. [TASK_SPECIFIC_CONCLUSION]. What should I race next?",
+  "tiktokCaption": "Codex Versus Codex Speed Test. WHAT SHOULD I RACE?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Two runs, task, export, passing tests.",
+  "scenes": [
+    {
+      "id": "D06R1-S1",
+      "start": 0.0,
+      "end": 8.433333333333334,
+      "type": "hook",
+      "text": "SAME TASK. TWO RUNS.",
+      "narration": "I raced two available Codex configurations on the exact same task.",
+      "concept": "Show actual available configurations, avoiding unverified speed-tier branding.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show actual available configurations, avoiding unverified speed-tier branding.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I raced two available Codex configurations",
+        "on the exact same task."
+      ],
+      "presentationText": "SAME TASK. TWO RUNS.",
+      "presentationNarration": "Compare two available coding configurations on one CSV-export task. Freeze the baseline before starting either run.",
+      "presentationCaptionChunks": [
+        "Compare two available coding configurations on",
+        "one CSV-export task. Freeze the baseline",
+        "before starting either run."
+      ],
+      "originalStart": 0,
+      "originalEnd": 6.166666666666667,
+      "captionTimings": [
+        {
+          "text": "Compare two available coding configurations on",
+          "start": 0.0,
+          "end": 3.18
+        },
+        {
+          "text": "one CSV-export task. Freeze the baseline",
+          "start": 3.02,
+          "end": 6.44
+        },
+        {
+          "text": "before starting either run.",
+          "start": 6.28,
+          "end": 8.3
+        }
+      ]
+    },
+    {
+      "id": "D06R1-S2",
+      "start": 8.433333333333334,
+      "end": 18.133333333333333,
+      "type": "workflow",
+      "text": "EXPORT HAS EDGE CASES",
+      "narration": "Add CSV export to this table. Handle quotes, commas, and newlines. Keep the existing tests passing.",
+      "concept": "Sample cells include comma, quote and line break; exact shared prompt.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Sample cells include comma, quote and line break; exact shared prompt.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Add CSV export to this table.",
+        "Handle quotes, commas, and newlines. Keep",
+        "the existing tests passing."
+      ],
+      "presentationText": "CSV HAS EDGE CASES",
+      "presentationNarration": "Headers, commas, quotes, embedded newlines, empty cells, and Unicode all matter. A file that looks right can still be broken.",
+      "presentationCaptionChunks": [
+        "Headers, commas, quotes, embedded newlines, empty",
+        "cells, and Unicode all matter. A",
+        "file that looks right can still",
+        "be broken."
+      ],
+      "originalStart": 6.166666666666667,
+      "originalEnd": 14.933333333333334,
+      "captionTimings": [
+        {
+          "text": "Headers, commas, quotes, embedded newlines, empty",
+          "start": 0.007,
+          "end": 4.027
+        },
+        {
+          "text": "cells, and Unicode all matter. A",
+          "start": 3.867,
+          "end": 6.527
+        },
+        {
+          "text": "file that looks right can still",
+          "start": 6.367,
+          "end": 8.367
+        },
+        {
+          "text": "be broken.",
+          "start": 8.207,
+          "end": 9.407
+        }
+      ]
+    },
+    {
+      "id": "D06R1-S3",
+      "start": 18.133333333333333,
+      "end": 24.466666666666665,
+      "type": "evidence",
+      "text": "FINISHED MEANS VERIFIED",
+      "narration": "Both runs get clean copies. The clock stops only when the result passes the checks.",
+      "concept": "Two real timers; model, effort, environment and run order visible in run sheet.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Two real timers; model, effort, environment and run order visible in run sheet.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Both runs get clean copies. The",
+        "clock stops only when the result",
+        "passes the checks."
+      ],
+      "presentationText": "FINISHED MEANS VERIFIED",
+      "presentationNarration": "Use clean copies and the same prompt. Stop each clock only after independent acceptance checks pass.",
+      "presentationCaptionChunks": [
+        "Use clean copies and the same",
+        "prompt. Stop each clock only after",
+        "independent acceptance checks pass."
+      ],
+      "originalStart": 14.933333333333334,
+      "originalEnd": 23.166666666666668,
+      "captionTimings": [
+        {
+          "text": "Use clean copies and the same",
+          "start": 0.027,
+          "end": 1.487
+        },
+        {
+          "text": "prompt. Stop each clock only after",
+          "start": 1.327,
+          "end": 4.027
+        },
+        {
+          "text": "independent acceptance checks pass.",
+          "start": 3.867,
+          "end": 6.127
+        }
+      ]
+    },
+    {
+      "id": "D06R1-S4",
+      "start": 24.466666666666665,
+      "end": 31.766666666666666,
+      "type": "evidence",
+      "text": "OPEN THE FILE",
+      "narration": "A quick answer that exports a broken file does not win.",
+      "concept": "Round-trip the exported CSV in an independent parser and viewer.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Round-trip the exported CSV in an independent parser and viewer.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "A quick answer that exports a",
+        "broken file does not win."
+      ],
+      "presentationText": "OPEN THE ACTUAL FILE",
+      "presentationNarration": "Inspect the exported data in another application. A quick answer does not win if it produces an unusable file.",
+      "presentationCaptionChunks": [
+        "Inspect the exported data in another",
+        "application. A quick answer does not",
+        "win if it produces an unusable",
+        "file."
+      ],
+      "originalStart": 23.166666666666668,
+      "originalEnd": 29.333333333333332,
+      "captionTimings": [
+        {
+          "text": "Inspect the exported data in another",
+          "start": 0.033,
+          "end": 2.073
+        },
+        {
+          "text": "application. A quick answer does not",
+          "start": 1.913,
+          "end": 4.473
+        },
+        {
+          "text": "win if it produces an unusable file.",
+          "start": 4.313,
+          "end": 7.273
+        }
+      ]
+    },
+    {
+      "id": "D06R1-S5",
+      "start": 31.766666666666666,
+      "end": 39.5,
+      "type": "result",
+      "text": "[MEASURED COMPARISON]",
+      "narration": "[RUN_A_TIME_AND_RESULT]. [RUN_B_TIME_AND_RESULT]. [REPEATED_RUN_VARIATION].",
+      "concept": "Actual elapsed observations; no generalized speed multiplier from one run.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual elapsed observations; no generalized speed multiplier from one run.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[RUN_A_TIME_AND_RESULT]. [RUN_B_TIME_AND_RESULT]. [REPEATED_RUN_VARIATION]."
+      ],
+      "presentationText": "NO PREWRITTEN WINNER",
+      "presentationNarration": "Repeat paired runs when possible, alternate order, and report variation. The timing comparison remains open until measured.",
+      "presentationCaptionChunks": [
+        "Repeat paired runs when possible, alternate",
+        "order, and report variation. The timing",
+        "comparison remains open until measured."
+      ],
+      "originalStart": 29.333333333333332,
+      "originalEnd": 31.4,
+      "captionTimings": [
+        {
+          "text": "Repeat paired runs when possible, alternate",
+          "start": 0.033,
+          "end": 2.373
+        },
+        {
+          "text": "order, and report variation. The timing",
+          "start": 2.213,
+          "end": 5.073
+        },
+        {
+          "text": "comparison remains open until measured.",
+          "start": 4.913,
+          "end": 7.733
+        }
+      ]
+    },
+    {
+      "id": "D06R1-S6",
+      "start": 39.5,
+      "end": 45.96666666666667,
+      "type": "question",
+      "text": "WHAT SHOULD I RACE?",
+      "narration": "[TASK_SPECIFIC_CONCLUSION]. What should I race next?",
+      "concept": "Keep working export and actual checks visible behind final question.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Keep working export and actual checks visible behind final question.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[TASK_SPECIFIC_CONCLUSION]. What should I race next?"
+      ],
+      "presentationText": "WHAT SHOULD GET THE NEXT RACE?",
+      "presentationNarration": "This edition explains the test protocol. Which small task would make a useful speed and quality comparison?",
+      "presentationCaptionChunks": [
+        "This edition explains the test protocol.",
+        "Which small task would make a",
+        "useful speed and quality comparison?"
+      ],
+      "originalStart": 31.4,
+      "originalEnd": 35,
+      "captionTimings": [
+        {
+          "text": "This edition explains the test protocol.",
+          "start": 0.02,
+          "end": 2.64
+        },
+        {
+          "text": "Which small task would make a",
+          "start": 2.7,
+          "end": 4.08
+        },
+        {
+          "text": "useful speed and quality comparison?",
+          "start": 3.92,
+          "end": 6.34
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

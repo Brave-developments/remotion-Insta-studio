@@ -1,0 +1,221 @@
+{
+  "id": "D06R1",
+  "day": 6,
+  "reelNumber": 1,
+  "title": "What If Nobody Owned Cars?",
+  "format": "What If",
+  "durationSeconds": 29,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "What if owning a car became the unusual option? Commercial driverless rides already exist. A city without private cars is still a what-if. Imagine calling a vehicle, arriving, and leaving it to find its next passenger. It charges between trips. Your garage has nothing parked inside. You save the responsibility of ownership, but depend on whoever runs the fleet. Would you rather own the car, or subscribe to the ride?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 70,
+  "estimatedWpm": 145,
+  "concept": "Autonomous cars drive, charge and reposition; ownership might become a utility.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "What if owning a car became the unusual option?",
+    "Your garage is empty. Your ride is outside.",
+    "The car drives itself. Who controls your access?"
+  ],
+  "strongestHook": "What if owning a car became the unusual option?",
+  "directorBrief": "Direct this as a human story about Autonomous cars drive, charge and reposition; ownership might become a utility. Emotional movement: freedom → dependence. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Easy",
+  "effort": "60–120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify commercial driverless rides; ownership decline is not established.",
+  "sources": [
+    {
+      "label": "Waymo rides",
+      "url": "https://waymo.com/rides/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Own Or Subscribe",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Own Or Subscribe” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Would you rather own the car, or subscribe to the ride?",
+  "cta": "OWN OR SUBSCRIBE?",
+  "instagramCaption": "What If Nobody Owned Cars?. A possible future, grounded in present technology. The dates and scenario are fictional. Would you rather own the car, or subscribe to the ride?",
+  "tiktokCaption": "What If Nobody Owned Cars?. OWN OR SUBSCRIBE? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88–104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Robotaxi, map, charger, empty garage, key.",
+  "scenes": [
+    {
+      "id": "D06R1-S1",
+      "start": 0,
+      "end": 3.8,
+      "type": "hook",
+      "text": "A CAR, ON DEMAND",
+      "narration": "What if owning a car became the unusual option?",
+      "concept": "House key and car key; car key remains unused.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d06r1/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "House key and car key; car key remains unused.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "What if owning a car became",
+        "the unusual option?"
+      ]
+    },
+    {
+      "id": "D06R1-S2",
+      "start": 3.8,
+      "end": 9.533333333333333,
+      "type": "evidence",
+      "text": "REAL RIDES. SPECULATIVE CITY.",
+      "narration": "Commercial driverless rides already exist. A city without private cars is still a what-if.",
+      "concept": "Official Waymo ride page; separate present service from future premise.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Official Waymo ride page; separate present service from future premise.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Commercial driverless rides already exist. A",
+        "city without private cars is still",
+        "a what-if."
+      ]
+    },
+    {
+      "id": "D06R1-S3",
+      "start": 9.533333333333333,
+      "end": 14.866666666666667,
+      "type": "workflow",
+      "text": "RIDE. ARRIVE. LEAVE.",
+      "narration": "Imagine calling a vehicle, arriving, and leaving it to find its next passenger.",
+      "concept": "Three route nodes and one vehicle; no invented utilization number.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Three route nodes and one vehicle; no invented utilization number.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Imagine calling a vehicle, arriving, and",
+        "leaving it to find its next passenger."
+      ]
+    },
+    {
+      "id": "D06R1-S4",
+      "start": 14.866666666666667,
+      "end": 19.066666666666666,
+      "type": "cinematic",
+      "text": "WHAT HAPPENS TO THE GARAGE?",
+      "narration": "It charges between trips. Your garage has nothing parked inside.",
+      "concept": "Match camera position from parked garage to an empty room.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d06r1/s4.png",
+      "plannedAssetType": "image",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Match camera position from parked garage to an empty room.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "It charges between trips. Your garage",
+        "has nothing parked inside."
+      ]
+    },
+    {
+      "id": "D06R1-S5",
+      "start": 19.066666666666666,
+      "end": 24.433333333333334,
+      "type": "phone",
+      "text": "DEPENDENCE MOVES",
+      "narration": "You save the responsibility of ownership, but depend on whoever runs the fleet.",
+      "concept": "Fictional unavailable-service message next to a quiet empty street.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional unavailable-service message next to a quiet empty street.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "You save the responsibility of ownership,",
+        "but depend on whoever runs the fleet."
+      ]
+    },
+    {
+      "id": "D06R1-S6",
+      "start": 24.433333333333334,
+      "end": 29,
+      "type": "question",
+      "text": "OWN OR SUBSCRIBE?",
+      "narration": "Would you rather own the car, or subscribe to the ride?",
+      "concept": "Key returns beside a fictional ride button; hold without a winner.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Key returns beside a fictional ride button; hold without a winner.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Would you rather own the car,",
+        "or subscribe to the ride?"
+      ]
+    }
+  ]
+}

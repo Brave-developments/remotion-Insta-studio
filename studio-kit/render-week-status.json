@@ -1,0 +1,239 @@
+{
+  "startedAt": "2026-10-04T13:29:40.894Z",
+  "mode": "full",
+  "quality": "1080x1920 / 30fps / H.264 CRF 18 / PNG render frames",
+  "audio": "deferred",
+  "channels": {
+    "TOMORROW-EXE": {
+      "status": "complete",
+      "completed": 14,
+      "total": 14,
+      "reels": {
+        "D01R1": {
+          "status": "verified-cache",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 1.mp4"
+        },
+        "D01R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 1.2.mp4",
+          "progress": 1
+        },
+        "D02R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 2.mp4",
+          "progress": 1
+        },
+        "D02R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 2.2.mp4",
+          "progress": 1
+        },
+        "D03R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 3.mp4",
+          "progress": 1
+        },
+        "D03R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 3.2.mp4",
+          "progress": 1
+        },
+        "D04R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 4.mp4",
+          "progress": 1
+        },
+        "D04R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 4.2.mp4",
+          "progress": 1
+        },
+        "D05R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 5.mp4",
+          "progress": 1
+        },
+        "D05R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 5.2.mp4",
+          "progress": 1
+        },
+        "D06R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 6.mp4",
+          "progress": 1
+        },
+        "D06R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 6.2.mp4",
+          "progress": 1
+        },
+        "D07R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 7.mp4",
+          "progress": 1
+        },
+        "D07R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOMORROW-EXE\\out\\week-1\\day 7.2.mp4",
+          "progress": 1
+        }
+      }
+    },
+    "BUILDMode-AI": {
+      "status": "complete",
+      "completed": 14,
+      "total": 14,
+      "reels": {
+        "D01R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 1.mp4",
+          "progress": 1
+        },
+        "D01R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 1.2.mp4",
+          "progress": 1
+        },
+        "D02R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 2.mp4",
+          "progress": 1
+        },
+        "D02R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 2.2.mp4",
+          "progress": 1
+        },
+        "D03R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 3.mp4",
+          "progress": 1
+        },
+        "D03R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 3.2.mp4",
+          "progress": 1
+        },
+        "D04R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 4.mp4",
+          "progress": 1
+        },
+        "D04R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 4.2.mp4",
+          "progress": 1
+        },
+        "D05R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 5.mp4",
+          "progress": 1
+        },
+        "D05R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 5.2.mp4",
+          "progress": 1
+        },
+        "D06R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 6.mp4",
+          "progress": 1
+        },
+        "D06R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 6.2.mp4",
+          "progress": 1
+        },
+        "D07R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 7.mp4",
+          "progress": 1
+        },
+        "D07R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\BUILDMode-AI\\out\\week-1\\day 7.2.mp4",
+          "progress": 1
+        }
+      }
+    },
+    "TOOLPROOF": {
+      "status": "complete",
+      "completed": 14,
+      "total": 14,
+      "reels": {
+        "D01R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 1.mp4",
+          "progress": 1
+        },
+        "D01R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 1.2.mp4",
+          "progress": 1
+        },
+        "D02R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 2.mp4",
+          "progress": 1
+        },
+        "D02R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 2.2.mp4",
+          "progress": 1
+        },
+        "D03R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 3.mp4",
+          "progress": 1
+        },
+        "D03R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 3.2.mp4",
+          "progress": 1
+        },
+        "D04R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 4.mp4",
+          "progress": 1
+        },
+        "D04R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 4.2.mp4",
+          "progress": 1
+        },
+        "D05R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 5.mp4",
+          "progress": 1
+        },
+        "D05R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 5.2.mp4",
+          "progress": 1
+        },
+        "D06R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 6.mp4",
+          "progress": 1
+        },
+        "D06R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 6.2.mp4",
+          "progress": 1
+        },
+        "D07R1": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 7.mp4",
+          "progress": 1
+        },
+        "D07R2": {
+          "status": "complete",
+          "output": "C:\\Users\\georg\\Desktop\\Fivem 2026\\bot\\remotion video\\projects\\TOOLPROOF\\out\\week-1\\day 7.2.mp4",
+          "progress": 1
+        }
+      }
+    }
+  },
+  "finishedAt": "2026-10-04T14:14:10.938Z"
+}

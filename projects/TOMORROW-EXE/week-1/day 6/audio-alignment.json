@@ -1,0 +1,504 @@
+{
+  "fingerprint": "c6551ec7b9b218280ad20ee82ac4f550262154b3ef94a10bdb3b57b176fa2682",
+  "recognizedText": " What if owning a car became the unusual option? Commercial driverless rides already exist. A city without private cars is still a what if. Imagine calling a vehicle, arriving, and leaving it to find its next passenger. It charges between trips. Your garage has nothing parked inside. You save the responsibility of ownership, but depend on whoever runs the fleet. Would you rather own the car, or subscribe to the ride?",
+  "words": [
+    {
+      "text": " What",
+      "timestamp": [
+        0.0,
+        0.26
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        0.26,
+        0.4
+      ]
+    },
+    {
+      "text": " owning",
+      "timestamp": [
+        0.4,
+        0.56
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        0.56,
+        0.76
+      ]
+    },
+    {
+      "text": " car",
+      "timestamp": [
+        0.76,
+        1.02
+      ]
+    },
+    {
+      "text": " became",
+      "timestamp": [
+        1.02,
+        1.34
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        1.34,
+        1.54
+      ]
+    },
+    {
+      "text": " unusual",
+      "timestamp": [
+        1.54,
+        1.92
+      ]
+    },
+    {
+      "text": " option?",
+      "timestamp": [
+        1.92,
+        3.08
+      ]
+    },
+    {
+      "text": " Commercial",
+      "timestamp": [
+        3.08,
+        3.42
+      ]
+    },
+    {
+      "text": " driverless",
+      "timestamp": [
+        3.42,
+        4.14
+      ]
+    },
+    {
+      "text": " rides",
+      "timestamp": [
+        4.14,
+        4.38
+      ]
+    },
+    {
+      "text": " already",
+      "timestamp": [
+        4.38,
+        4.86
+      ]
+    },
+    {
+      "text": " exist.",
+      "timestamp": [
+        4.86,
+        5.92
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        6.06,
+        6.14
+      ]
+    },
+    {
+      "text": " city",
+      "timestamp": [
+        6.14,
+        6.38
+      ]
+    },
+    {
+      "text": " without",
+      "timestamp": [
+        6.38,
+        6.68
+      ]
+    },
+    {
+      "text": " private",
+      "timestamp": [
+        6.68,
+        7.06
+      ]
+    },
+    {
+      "text": " cars",
+      "timestamp": [
+        7.06,
+        7.44
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        7.44,
+        7.7
+      ]
+    },
+    {
+      "text": " still",
+      "timestamp": [
+        7.7,
+        7.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        7.96,
+        8.1
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        8.1,
+        8.24
+      ]
+    },
+    {
+      "text": " if.",
+      "timestamp": [
+        8.24,
+        8.88
+      ]
+    },
+    {
+      "text": " Imagine",
+      "timestamp": [
+        8.88,
+        9.26
+      ]
+    },
+    {
+      "text": " calling",
+      "timestamp": [
+        9.26,
+        9.6
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        9.6,
+        9.8
+      ]
+    },
+    {
+      "text": " vehicle,",
+      "timestamp": [
+        9.8,
+        10.5
+      ]
+    },
+    {
+      "text": " arriving,",
+      "timestamp": [
+        10.5,
+        11.24
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        11.38,
+        11.46
+      ]
+    },
+    {
+      "text": " leaving",
+      "timestamp": [
+        11.46,
+        11.72
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        11.72,
+        11.94
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        11.94,
+        12.04
+      ]
+    },
+    {
+      "text": " find",
+      "timestamp": [
+        12.04,
+        12.26
+      ]
+    },
+    {
+      "text": " its",
+      "timestamp": [
+        12.26,
+        12.48
+      ]
+    },
+    {
+      "text": " next",
+      "timestamp": [
+        12.48,
+        12.66
+      ]
+    },
+    {
+      "text": " passenger.",
+      "timestamp": [
+        12.66,
+        13.62
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        13.62,
+        13.76
+      ]
+    },
+    {
+      "text": " charges",
+      "timestamp": [
+        13.76,
+        14.08
+      ]
+    },
+    {
+      "text": " between",
+      "timestamp": [
+        14.08,
+        14.48
+      ]
+    },
+    {
+      "text": " trips.",
+      "timestamp": [
+        14.48,
+        15.38
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        15.38,
+        15.5
+      ]
+    },
+    {
+      "text": " garage",
+      "timestamp": [
+        15.5,
+        15.82
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        15.82,
+        16.14
+      ]
+    },
+    {
+      "text": " nothing",
+      "timestamp": [
+        16.14,
+        16.48
+      ]
+    },
+    {
+      "text": " parked",
+      "timestamp": [
+        16.66,
+        16.8
+      ]
+    },
+    {
+      "text": " inside.",
+      "timestamp": [
+        16.8,
+        17.8
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        17.8,
+        17.98
+      ]
+    },
+    {
+      "text": " save",
+      "timestamp": [
+        17.98,
+        18.22
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        18.22,
+        18.44
+      ]
+    },
+    {
+      "text": " responsibility",
+      "timestamp": [
+        18.44,
+        19.16
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        19.16,
+        19.38
+      ]
+    },
+    {
+      "text": " ownership,",
+      "timestamp": [
+        19.38,
+        20.18
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        20.18,
+        20.38
+      ]
+    },
+    {
+      "text": " depend",
+      "timestamp": [
+        20.38,
+        20.68
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        20.68,
+        20.92
+      ]
+    },
+    {
+      "text": " whoever",
+      "timestamp": [
+        20.92,
+        21.12
+      ]
+    },
+    {
+      "text": " runs",
+      "timestamp": [
+        21.12,
+        21.56
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        21.56,
+        21.74
+      ]
+    },
+    {
+      "text": " fleet.",
+      "timestamp": [
+        21.74,
+        22.4
+      ]
+    },
+    {
+      "text": " Would",
+      "timestamp": [
+        22.58,
+        22.6
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        22.6,
+        22.74
+      ]
+    },
+    {
+      "text": " rather",
+      "timestamp": [
+        22.74,
+        23.02
+      ]
+    },
+    {
+      "text": " own",
+      "timestamp": [
+        23.02,
+        23.26
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        23.26,
+        23.4
+      ]
+    },
+    {
+      "text": " car,",
+      "timestamp": [
+        23.4,
+        24.02
+      ]
+    },
+    {
+      "text": " or",
+      "timestamp": [
+        24.02,
+        24.36
+      ]
+    },
+    {
+      "text": " subscribe",
+      "timestamp": [
+        24.36,
+        24.78
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        24.78,
+        25.12
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        25.12,
+        25.24
+      ]
+    },
+    {
+      "text": " ride?",
+      "timestamp": [
+        25.24,
+        25.74
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

@@ -1,0 +1,16 @@
+# BUILDMode-AI / day 3.2
+
+**AI Rescues a Terrible Website**
+
+Take a deliberately ugly but functional website, and give its design a rescue. The original copy stays.
+
+Freeze the baseline: signup, FAQ, navigation, and links. A prettier page that loses features has failed the brief.
+
+For the recorded experiment, start the clock when the prompt is submitted. Include correction and verification time.
+
+This original redesign study demonstrates hierarchy, spacing, and a clearer primary action without replacing the message.
+
+Capture desktop and mobile at identical viewports. Verify the form, FAQ, and navigation before describing an improvement.
+
+These are authored baseline and redesign concepts. Which version feels easier to use, and what would you change?
+

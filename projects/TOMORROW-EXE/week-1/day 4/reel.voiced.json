@@ -1,0 +1,329 @@
+{
+  "id": "D04R1",
+  "day": 4,
+  "reelNumber": 1,
+  "title": "Every Child Gets an AI Teacher",
+  "format": "What If",
+  "durationSeconds": 28.533333333333335,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "What if your teacher remembered every mistake you made? AI tutors already offer guided learning. Now imagine one that stays with you for ten years. It knows which explanation finally worked, and which question you were too embarrassed to ask. Lessons become personal. So does the record of your confusion, attention, and confidence. When you change schools, does that history follow you? And who gets to read it? An AI might help you learn. Who should own the story of how you learned?",
+  "audio": "audio/day 4.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 83,
+  "estimatedWpm": 151,
+  "concept": "A tutor adapts lessons for ten years; learning becomes personal and so does the data.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "What if your teacher remembered every mistake you made?",
+    "This tutor remembers the question you never asked aloud.",
+    "Ten years of lessons. Who owns the history?"
+  ],
+  "strongestHook": "What if your teacher remembered every mistake you made?",
+  "directorBrief": "Direct this as a human story about A tutor adapts lessons for ten years; learning becomes personal and so does the data. Emotional movement: hope \u2192 ownership. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Medium",
+  "effort": "60\u2013120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify present AI tutoring; decade-long persistent teacher is speculation.",
+  "sources": [
+    {
+      "label": "Khanmigo tutor and teaching assistant",
+      "url": "https://www.khanmigo.ai/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "The Tutor Remembers",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cThe Tutor Remembers\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "An AI might help you learn. Who should own the story of how you learned?",
+  "cta": "WHO OWNS THE HISTORY?",
+  "instagramCaption": "Every Child Gets an AI Teacher. A possible future, grounded in present technology. The dates and scenario are fictional. An AI might help you learn. Who should own the story of how you learned?",
+  "tiktokCaption": "Every Child Gets an AI Teacher. WHO OWNS THE HISTORY? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88\u2013104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Student, lesson diagram, age timeline, data lock.",
+  "scenes": [
+    {
+      "id": "D04R1-S1",
+      "start": 0.0,
+      "end": 3.7,
+      "type": "hook",
+      "text": "A TEACHER THAT REMEMBERS",
+      "narration": "What if your teacher remembered every mistake you made?",
+      "concept": "Student erases one incorrect answer; retain respectful, hopeful framing.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d04r1/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Student erases one incorrect answer; retain respectful, hopeful framing.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "What if your teacher remembered every",
+        "mistake you made?"
+      ],
+      "originalStart": 0,
+      "originalEnd": 3.7,
+      "captionTimings": [
+        {
+          "text": "What if your teacher remembered every",
+          "start": 0.0,
+          "end": 2.14
+        },
+        {
+          "text": "mistake you made?",
+          "start": 1.98,
+          "end": 3.7
+        }
+      ]
+    },
+    {
+      "id": "D04R1-S2",
+      "start": 3.7,
+      "end": 9.233333333333333,
+      "type": "workflow",
+      "text": "REAL TUTOR \u2192 POSSIBLE FUTURE",
+      "narration": "AI tutors already offer guided learning. Now imagine one that stays with you for ten years.",
+      "concept": "Source card for Khanmigo; a clearly speculative age timeline grows out of it.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Source card for Khanmigo; a clearly speculative age timeline grows out of it.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "AI tutors already offer guided learning.",
+        "Now imagine one that stays with",
+        "you for ten years."
+      ],
+      "originalStart": 3.7,
+      "originalEnd": 10,
+      "captionTimings": [
+        {
+          "text": "AI tutors already offer guided learning.",
+          "start": 0.02,
+          "end": 2.6
+        },
+        {
+          "text": "Now imagine one that stays with",
+          "start": 2.72,
+          "end": 4.16
+        },
+        {
+          "text": "you for ten years.",
+          "start": 4.0,
+          "end": 5.533
+        }
+      ]
+    },
+    {
+      "id": "D04R1-S3",
+      "start": 9.233333333333333,
+      "end": 14.466666666666667,
+      "type": "phone",
+      "text": "A DIFFERENT EXPLANATION",
+      "narration": "It knows which explanation finally worked, and which question you were too embarrassed to ask.",
+      "concept": "Same fictional fraction problem becomes a simple object diagram.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Same fictional fraction problem becomes a simple object diagram.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "It knows which explanation finally worked,",
+        "and which question you were too",
+        "embarrassed to ask."
+      ],
+      "originalStart": 10,
+      "originalEnd": 15.933333333333334,
+      "captionTimings": [
+        {
+          "text": "It knows which explanation finally worked,",
+          "start": 0.027,
+          "end": 2.227
+        },
+        {
+          "text": "and which question you were too",
+          "start": 2.267,
+          "end": 3.827
+        },
+        {
+          "text": "embarrassed to ask.",
+          "start": 3.667,
+          "end": 5.233
+        }
+      ]
+    },
+    {
+      "id": "D04R1-S4",
+      "start": 14.466666666666667,
+      "end": 19.833333333333332,
+      "type": "workflow",
+      "text": "LEARNING HISTORY",
+      "narration": "Lessons become personal. So does the record of your confusion, attention, and confidence.",
+      "concept": "Lesson history accumulates behind the student silhouette, never diagnostic labels.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Lesson history accumulates behind the student silhouette, never diagnostic labels.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Lessons become personal. So does the",
+        "record of your confusion, attention, and confidence."
+      ],
+      "originalStart": 15.933333333333334,
+      "originalEnd": 21.133333333333333,
+      "captionTimings": [
+        {
+          "text": "Lessons become personal. So does the",
+          "start": 0.033,
+          "end": 2.173
+        },
+        {
+          "text": "record of your confusion, attention, and confidence.",
+          "start": 2.013,
+          "end": 5.367
+        }
+      ]
+    },
+    {
+      "id": "D04R1-S5",
+      "start": 19.833333333333332,
+      "end": 24.233333333333334,
+      "type": "phone",
+      "text": "WHO CAN READ IT?",
+      "narration": "When you change schools, does that history follow you? And who gets to read it?",
+      "concept": "Fictional transfer permission separates teacher, parent and platform.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional transfer permission separates teacher, parent and platform.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "When you change schools, does that",
+        "history follow you? And who gets",
+        "to read it?"
+      ],
+      "originalStart": 21.133333333333333,
+      "originalEnd": 27.066666666666666,
+      "captionTimings": [
+        {
+          "text": "When you change schools, does that",
+          "start": 0.007,
+          "end": 1.867
+        },
+        {
+          "text": "history follow you? And who gets",
+          "start": 1.707,
+          "end": 3.667
+        },
+        {
+          "text": "to read it?",
+          "start": 3.507,
+          "end": 4.4
+        }
+      ]
+    },
+    {
+      "id": "D04R1-S6",
+      "start": 24.233333333333334,
+      "end": 28.533333333333335,
+      "type": "question",
+      "text": "WHO OWNS THE HISTORY?",
+      "narration": "An AI might help you learn. Who should own the story of how you learned?",
+      "concept": "Close the history drawer but leave the successful diagram visible.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Close the history drawer but leave the successful diagram visible.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "An AI might help you learn.",
+        "Who should own the story of",
+        "how you learned?"
+      ],
+      "originalStart": 27.066666666666666,
+      "originalEnd": 33,
+      "captionTimings": [
+        {
+          "text": "An AI might help you learn.",
+          "start": 0.027,
+          "end": 1.947
+        },
+        {
+          "text": "Who should own the story of",
+          "start": 1.907,
+          "end": 3.267
+        },
+        {
+          "text": "how you learned?",
+          "start": 3.107,
+          "end": 4.167
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration"
+}

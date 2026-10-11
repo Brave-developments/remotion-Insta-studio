@@ -1,0 +1,721 @@
+{
+  "fingerprint": "3f75c1d67e15db83089a34a91b28c0accb233d4255deab694486ec533088d9b8",
+  "recognizedText": " Take one mobile navigation bug and turn it into a reviewable change. A narrow issue makes the result easier to judge. The menu must collapse below 640 pixels. Desktop navigation must keep working. Capture the failure before touching code. An illustrative boundary fix is shown here. The real diff must match the actual repository. Test 390, 639, 640, and desktop. Include keyboard, escape, and links. Prepare the smallest useful diff, relevant checks, and a clear description. Keep the PR local until posting is requested. This is the issue to review production plan. What evidence would you require before approving the final change?",
+  "words": [
+    {
+      "text": " Take",
+      "timestamp": [
+        0.0,
+        0.12
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        0.12,
+        0.38
+      ]
+    },
+    {
+      "text": " mobile",
+      "timestamp": [
+        0.38,
+        0.68
+      ]
+    },
+    {
+      "text": " navigation",
+      "timestamp": [
+        0.68,
+        1.2
+      ]
+    },
+    {
+      "text": " bug",
+      "timestamp": [
+        1.2,
+        1.52
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        1.68,
+        1.74
+      ]
+    },
+    {
+      "text": " turn",
+      "timestamp": [
+        1.74,
+        1.92
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        1.92,
+        2.06
+      ]
+    },
+    {
+      "text": " into",
+      "timestamp": [
+        2.06,
+        2.3
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.3,
+        2.44
+      ]
+    },
+    {
+      "text": " reviewable",
+      "timestamp": [
+        2.44,
+        2.94
+      ]
+    },
+    {
+      "text": " change.",
+      "timestamp": [
+        2.94,
+        4.08
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        4.08,
+        4.2
+      ]
+    },
+    {
+      "text": " narrow",
+      "timestamp": [
+        4.2,
+        4.48
+      ]
+    },
+    {
+      "text": " issue",
+      "timestamp": [
+        4.48,
+        4.9
+      ]
+    },
+    {
+      "text": " makes",
+      "timestamp": [
+        4.9,
+        5.12
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        5.12,
+        5.32
+      ]
+    },
+    {
+      "text": " result",
+      "timestamp": [
+        5.32,
+        5.54
+      ]
+    },
+    {
+      "text": " easier",
+      "timestamp": [
+        5.54,
+        5.96
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        5.96,
+        6.12
+      ]
+    },
+    {
+      "text": " judge.",
+      "timestamp": [
+        6.12,
+        7.02
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        7.02,
+        7.12
+      ]
+    },
+    {
+      "text": " menu",
+      "timestamp": [
+        7.12,
+        7.4
+      ]
+    },
+    {
+      "text": " must",
+      "timestamp": [
+        7.4,
+        7.62
+      ]
+    },
+    {
+      "text": " collapse",
+      "timestamp": [
+        7.62,
+        7.92
+      ]
+    },
+    {
+      "text": " below",
+      "timestamp": [
+        7.92,
+        8.28
+      ]
+    },
+    {
+      "text": " 640",
+      "timestamp": [
+        8.28,
+        9.2
+      ]
+    },
+    {
+      "text": " pixels.",
+      "timestamp": [
+        9.2,
+        10.26
+      ]
+    },
+    {
+      "text": " Desktop",
+      "timestamp": [
+        10.38,
+        10.62
+      ]
+    },
+    {
+      "text": " navigation",
+      "timestamp": [
+        10.62,
+        11.2
+      ]
+    },
+    {
+      "text": " must",
+      "timestamp": [
+        11.2,
+        11.48
+      ]
+    },
+    {
+      "text": " keep",
+      "timestamp": [
+        11.48,
+        11.72
+      ]
+    },
+    {
+      "text": " working.",
+      "timestamp": [
+        11.72,
+        12.7
+      ]
+    },
+    {
+      "text": " Capture",
+      "timestamp": [
+        12.7,
+        13.0
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.0,
+        13.14
+      ]
+    },
+    {
+      "text": " failure",
+      "timestamp": [
+        13.14,
+        13.48
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        13.48,
+        13.78
+      ]
+    },
+    {
+      "text": " touching",
+      "timestamp": [
+        13.78,
+        14.14
+      ]
+    },
+    {
+      "text": " code.",
+      "timestamp": [
+        14.14,
+        15.04
+      ]
+    },
+    {
+      "text": " An",
+      "timestamp": [
+        15.14,
+        15.28
+      ]
+    },
+    {
+      "text": " illustrative",
+      "timestamp": [
+        15.28,
+        15.74
+      ]
+    },
+    {
+      "text": " boundary",
+      "timestamp": [
+        15.74,
+        16.1
+      ]
+    },
+    {
+      "text": " fix",
+      "timestamp": [
+        16.1,
+        16.46
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        16.46,
+        16.6
+      ]
+    },
+    {
+      "text": " shown",
+      "timestamp": [
+        16.6,
+        16.82
+      ]
+    },
+    {
+      "text": " here.",
+      "timestamp": [
+        16.82,
+        17.62
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        17.62,
+        17.72
+      ]
+    },
+    {
+      "text": " real",
+      "timestamp": [
+        17.72,
+        17.96
+      ]
+    },
+    {
+      "text": " diff",
+      "timestamp": [
+        17.96,
+        18.2
+      ]
+    },
+    {
+      "text": " must",
+      "timestamp": [
+        18.2,
+        18.5
+      ]
+    },
+    {
+      "text": " match",
+      "timestamp": [
+        18.5,
+        18.78
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        18.78,
+        19.02
+      ]
+    },
+    {
+      "text": " actual",
+      "timestamp": [
+        19.02,
+        19.38
+      ]
+    },
+    {
+      "text": " repository.",
+      "timestamp": [
+        19.38,
+        20.48
+      ]
+    },
+    {
+      "text": " Test",
+      "timestamp": [
+        20.7,
+        20.88
+      ]
+    },
+    {
+      "text": " 390,",
+      "timestamp": [
+        20.88,
+        22.24
+      ]
+    },
+    {
+      "text": " 639,",
+      "timestamp": [
+        22.24,
+        23.76
+      ]
+    },
+    {
+      "text": " 640,",
+      "timestamp": [
+        23.76,
+        25.06
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        25.06,
+        25.16
+      ]
+    },
+    {
+      "text": " desktop.",
+      "timestamp": [
+        25.16,
+        25.98
+      ]
+    },
+    {
+      "text": " Include",
+      "timestamp": [
+        26.18,
+        26.58
+      ]
+    },
+    {
+      "text": " keyboard,",
+      "timestamp": [
+        26.58,
+        27.32
+      ]
+    },
+    {
+      "text": " escape,",
+      "timestamp": [
+        27.32,
+        27.94
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        27.94,
+        28.1
+      ]
+    },
+    {
+      "text": " links.",
+      "timestamp": [
+        28.1,
+        28.8
+      ]
+    },
+    {
+      "text": " Prepare",
+      "timestamp": [
+        28.96,
+        29.16
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        29.16,
+        29.42
+      ]
+    },
+    {
+      "text": " smallest",
+      "timestamp": [
+        29.42,
+        29.82
+      ]
+    },
+    {
+      "text": " useful",
+      "timestamp": [
+        29.82,
+        30.26
+      ]
+    },
+    {
+      "text": " diff,",
+      "timestamp": [
+        30.26,
+        31.04
+      ]
+    },
+    {
+      "text": " relevant",
+      "timestamp": [
+        31.04,
+        31.26
+      ]
+    },
+    {
+      "text": " checks,",
+      "timestamp": [
+        31.26,
+        32.0
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        32.0,
+        32.22
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        32.22,
+        32.3
+      ]
+    },
+    {
+      "text": " clear",
+      "timestamp": [
+        32.3,
+        32.54
+      ]
+    },
+    {
+      "text": " description.",
+      "timestamp": [
+        32.54,
+        33.74
+      ]
+    },
+    {
+      "text": " Keep",
+      "timestamp": [
+        33.94,
+        33.94
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        33.94,
+        34.1
+      ]
+    },
+    {
+      "text": " PR",
+      "timestamp": [
+        34.1,
+        34.36
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        34.36,
+        34.68
+      ]
+    },
+    {
+      "text": " until",
+      "timestamp": [
+        34.68,
+        35.08
+      ]
+    },
+    {
+      "text": " posting",
+      "timestamp": [
+        35.08,
+        35.46
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        35.46,
+        35.66
+      ]
+    },
+    {
+      "text": " requested.",
+      "timestamp": [
+        35.66,
+        36.7
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        36.78,
+        36.84
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        36.84,
+        36.94
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        36.94,
+        37.12
+      ]
+    },
+    {
+      "text": " issue",
+      "timestamp": [
+        37.12,
+        37.36
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        37.36,
+        37.56
+      ]
+    },
+    {
+      "text": " review",
+      "timestamp": [
+        37.56,
+        37.78
+      ]
+    },
+    {
+      "text": " production",
+      "timestamp": [
+        37.78,
+        38.18
+      ]
+    },
+    {
+      "text": " plan.",
+      "timestamp": [
+        38.18,
+        39.16
+      ]
+    },
+    {
+      "text": " What",
+      "timestamp": [
+        39.16,
+        39.32
+      ]
+    },
+    {
+      "text": " evidence",
+      "timestamp": [
+        39.32,
+        39.66
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        39.66,
+        39.88
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        39.88,
+        40.0
+      ]
+    },
+    {
+      "text": " require",
+      "timestamp": [
+        40.0,
+        40.4
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        40.4,
+        40.74
+      ]
+    },
+    {
+      "text": " approving",
+      "timestamp": [
+        40.74,
+        41.2
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        41.2,
+        41.34
+      ]
+    },
+    {
+      "text": " final",
+      "timestamp": [
+        41.34,
+        41.58
+      ]
+    },
+    {
+      "text": " change?",
+      "timestamp": [
+        41.58,
+        42.38
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

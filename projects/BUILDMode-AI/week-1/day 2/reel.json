@@ -1,0 +1,263 @@
+{
+  "id": "D02R1",
+  "day": 2,
+  "reelNumber": 1,
+  "title": "Can an AI Finish a Browser Task?",
+  "format": "Experiment",
+  "durationSeconds": 50,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Can an AI finish a browser task without quietly handing it back to me? I asked for five coding projects: stars, license, language, last update, and a source for each row. It had to browse the actual project pages. Any time I stepped in went into the intervention log. I checked every entry against the source, including whether the update field meant what it said. It returned [ROWS_RETURNED] rows. [CORRECT_FIELDS] fields checked out, with [INTERVENTIONS] interventions. [BOUNDARY_OF_AUTONOMY]. Did it act like an agent, or an assistant?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 86,
+  "estimatedWpm": 103,
+  "concept": "Research five open-source coding projects and prepare a sourced comparison.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "Can an AI finish a browser task without quietly handing it back to me?",
+    "The table looks finished. Are the sources right?",
+    "I kept my hands off the browser. Did it finish?"
+  ],
+  "strongestHook": "Can an AI finish a browser task without quietly handing it back to me?",
+  "directorBrief": "Direct this as an observable challenge: Research five open-source coding projects and prepare a sourced comparison. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Hard",
+  "effort": "60–90 minutes core experiment; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Use the fixed repositories facebook/react, microsoft/vscode, vercel/next.js, vitejs/vite and sveltejs/svelte. Record stars at collection time, license identifier, primary repository language and latest commit time on the default branch; include a source URL for each. Use a fresh browser agent with a 15-minute cap. Audit all 20 fields and five source links manually against dated captures. Record blocked access, wrong sources and human interventions. Treat volatile star counts as recording-day observations.",
+  "evidenceRequirements": "Verify access, correct entries and interventions; imported feature claims require checking.",
+  "sources": [],
+  "thumbnail": "Does The Agent Finish",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Does The Agent Finish” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[BOUNDARY_OF_AUTONOMY]. Did it act like an agent, or an assistant?",
+  "cta": "AGENT OR ASSISTANT?",
+  "instagramCaption": "Can an AI Finish a Browser Task?. Research five open-source coding projects and prepare a sourced comparison. Full test conditions and limitations belong beside the final result. [BOUNDARY_OF_AUTONOMY]. Did it act like an agent, or an assistant?",
+  "tiktokCaption": "Can an AI Finish a Browser Task?. AGENT OR ASSISTANT?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Full browser run, table, failures/recovery.",
+  "scenes": [
+    {
+      "id": "D02R1-S1",
+      "start": 0,
+      "end": 8.166666666666666,
+      "type": "hook",
+      "text": "DOES IT FINISH?",
+      "narration": "Can an AI finish a browser task without quietly handing it back to me?",
+      "concept": "Start at a real incomplete table; cursor rests outside the browser.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Start at a real incomplete table; cursor rests outside the browser.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Can an AI finish a browser",
+        "task without quietly handing it back",
+        "to me?"
+      ],
+      "presentationText": "CAN IT ACTUALLY FINISH?",
+      "presentationNarration": "A browser agent should finish the task, not quietly hand it back. Here is a concrete way to check.",
+      "presentationCaptionChunks": [
+        "A browser agent should finish the",
+        "task, not quietly hand it back.",
+        "Here is a concrete way to",
+        "check."
+      ]
+    },
+    {
+      "id": "D02R1-S2",
+      "start": 8.166666666666666,
+      "end": 17.933333333333334,
+      "type": "workflow",
+      "text": "5 PROJECTS. SOURCED ROWS.",
+      "narration": "I asked for five coding projects: stars, license, language, last update, and a source for each row.",
+      "concept": "Reveal task columns and fixed repository list; capture time of collection.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Reveal task columns and fixed repository list; capture time of collection.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "I asked for five coding projects:",
+        "stars, license, language, last update, and",
+        "a source for each row."
+      ],
+      "presentationText": "5 PROJECTS. SOURCED ROWS.",
+      "presentationNarration": "Research these five repositories. Collect stars, license, language, and latest default-branch update with source links.",
+      "presentationCaptionChunks": [
+        "Research these five repositories. Collect stars,",
+        "license, language, and latest default-branch update",
+        "with source links."
+      ]
+    },
+    {
+      "id": "D02R1-S3",
+      "start": 17.933333333333334,
+      "end": 28.266666666666666,
+      "type": "evidence",
+      "text": "EVERY INTERVENTION COUNTS",
+      "narration": "It had to browse the actual project pages. Any time I stepped in went into the intervention log.",
+      "concept": "Real browser actions; corner log records interventions without hiding waits.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real browser actions; corner log records interventions without hiding waits.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "It had to browse the actual",
+        "project pages. Any time I stepped",
+        "in went into the intervention log."
+      ],
+      "presentationText": "LOG EVERY HANDOFF",
+      "presentationNarration": "The agent must browse the actual pages. Record blocked access, recovery, and every moment a person steps in.",
+      "presentationCaptionChunks": [
+        "The agent must browse the actual",
+        "pages. Record blocked access, recovery, and",
+        "every moment a person steps in."
+      ]
+    },
+    {
+      "id": "D02R1-S4",
+      "start": 28.266666666666666,
+      "end": 37.5,
+      "type": "evidence",
+      "text": "AUDIT EVERY FIELD",
+      "narration": "I checked every entry against the source, including whether the update field meant what it said.",
+      "concept": "One row stays pinned while its source evidence replaces the browser panel.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "One row stays pinned while its source evidence replaces the browser panel.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I checked every entry against the",
+        "source, including whether the update field",
+        "meant what it said."
+      ],
+      "presentationText": "AUDIT EVERY FIELD",
+      "presentationNarration": "Check the source behind every value. Last release and latest commit are different things; the table must be precise.",
+      "presentationCaptionChunks": [
+        "Check the source behind every value.",
+        "Last release and latest commit are",
+        "different things; the table must be",
+        "precise."
+      ]
+    },
+    {
+      "id": "D02R1-S5",
+      "start": 37.5,
+      "end": 44.03333333333333,
+      "type": "result",
+      "text": "[AUDITED RESULT]",
+      "narration": "It returned [ROWS_RETURNED] rows. [CORRECT_FIELDS] fields checked out, with [INTERVENTIONS] interventions.",
+      "concept": "Measured count and one actual incorrect field or verified clean row.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Measured count and one actual incorrect field or verified clean row.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "It returned [ROWS_RETURNED] rows. [CORRECT_FIELDS] fields",
+        "checked out, with [INTERVENTIONS] interventions."
+      ],
+      "presentationText": "AUTONOMY NEEDS EVIDENCE",
+      "presentationNarration": "Judge correct fields, usable output, and interventions together. No filled-in score until the recorded run exists.",
+      "presentationCaptionChunks": [
+        "Judge correct fields, usable output, and",
+        "interventions together. No filled-in score until",
+        "the recorded run exists."
+      ]
+    },
+    {
+      "id": "D02R1-S6",
+      "start": 44.03333333333333,
+      "end": 50,
+      "type": "question",
+      "text": "AGENT OR ASSISTANT?",
+      "narration": "[BOUNDARY_OF_AUTONOMY]. Did it act like an agent, or an assistant?",
+      "concept": "Replay the moment it finished or needed help, then hold.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Replay the moment it finished or needed help, then hold.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[BOUNDARY_OF_AUTONOMY]. Did it act like an",
+        "agent, or an assistant?"
+      ],
+      "presentationText": "AGENT OR ASSISTANT?",
+      "presentationNarration": "This edition shows the task and audit plan. What browser job would make you trust an agent?",
+      "presentationCaptionChunks": [
+        "This edition shows the task and",
+        "audit plan. What browser job would",
+        "make you trust an agent?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

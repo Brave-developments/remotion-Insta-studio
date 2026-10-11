@@ -1,0 +1,16 @@
+# TOMORROW-EXE / day 6
+
+**What If Nobody Owned Cars?**
+
+What if owning a car became the unusual option?
+
+Commercial driverless rides already exist. A city without private cars is still a what-if.
+
+Imagine calling a vehicle, arriving, and leaving it to find its next passenger.
+
+It charges between trips. Your garage has nothing parked inside.
+
+You save the responsibility of ownership, but depend on whoever runs the fleet.
+
+Would you rather own the car, or subscribe to the ride?
+

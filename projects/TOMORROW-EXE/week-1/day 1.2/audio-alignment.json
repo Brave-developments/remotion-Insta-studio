@@ -1,0 +1,623 @@
+{
+  "fingerprint": "d3c70f2d16ff74bc89e3a4567c8edc98bd90fdce3feb37ad24b20a13d303e4c1",
+  "recognizedText": " It is 2032. You are late for work. Nobody noticed. Your AI joined the morning meeting. Answered three messages and repaired the spreadsheet you forgot about. On the train, you read a summary of a conversation you never had. Your manager says the presentation was excellent. You say thanks. Then open the file for the first time at five. HR asked a new question. Which hours were yours and which belong to the agent? The work got done. But if the AI did your shift, who gets paid?",
+  "words": [
+    {
+      "text": " It",
+      "timestamp": [
+        0.0,
+        0.22
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        0.22,
+        0.34
+      ]
+    },
+    {
+      "text": " 2032.",
+      "timestamp": [
+        0.34,
+        1.64
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        1.64,
+        1.78
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        1.78,
+        1.88
+      ]
+    },
+    {
+      "text": " late",
+      "timestamp": [
+        1.88,
+        2.1
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        2.1,
+        2.32
+      ]
+    },
+    {
+      "text": " work.",
+      "timestamp": [
+        2.32,
+        3.02
+      ]
+    },
+    {
+      "text": " Nobody",
+      "timestamp": [
+        3.02,
+        3.36
+      ]
+    },
+    {
+      "text": " noticed.",
+      "timestamp": [
+        3.36,
+        4.28
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        4.28,
+        4.5
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        4.5,
+        4.72
+      ]
+    },
+    {
+      "text": " joined",
+      "timestamp": [
+        4.72,
+        5.1
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        5.1,
+        5.3
+      ]
+    },
+    {
+      "text": " morning",
+      "timestamp": [
+        5.3,
+        5.5
+      ]
+    },
+    {
+      "text": " meeting.",
+      "timestamp": [
+        5.5,
+        6.32
+      ]
+    },
+    {
+      "text": " Answered",
+      "timestamp": [
+        6.52,
+        6.72
+      ]
+    },
+    {
+      "text": " three",
+      "timestamp": [
+        6.72,
+        6.88
+      ]
+    },
+    {
+      "text": " messages",
+      "timestamp": [
+        6.88,
+        7.32
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        7.32,
+        7.72
+      ]
+    },
+    {
+      "text": " repaired",
+      "timestamp": [
+        7.72,
+        8.06
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        8.06,
+        8.26
+      ]
+    },
+    {
+      "text": " spreadsheet",
+      "timestamp": [
+        8.26,
+        8.6
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        8.6,
+        8.86
+      ]
+    },
+    {
+      "text": " forgot",
+      "timestamp": [
+        8.86,
+        9.14
+      ]
+    },
+    {
+      "text": " about.",
+      "timestamp": [
+        9.14,
+        9.88
+      ]
+    },
+    {
+      "text": " On",
+      "timestamp": [
+        9.96,
+        9.98
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        9.98,
+        10.08
+      ]
+    },
+    {
+      "text": " train,",
+      "timestamp": [
+        10.08,
+        10.64
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        10.64,
+        10.76
+      ]
+    },
+    {
+      "text": " read",
+      "timestamp": [
+        10.76,
+        10.88
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        10.88,
+        11.0
+      ]
+    },
+    {
+      "text": " summary",
+      "timestamp": [
+        11.0,
+        11.36
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        11.36,
+        11.5
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        11.5,
+        11.58
+      ]
+    },
+    {
+      "text": " conversation",
+      "timestamp": [
+        11.58,
+        12.04
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        12.04,
+        12.38
+      ]
+    },
+    {
+      "text": " never",
+      "timestamp": [
+        12.38,
+        12.58
+      ]
+    },
+    {
+      "text": " had.",
+      "timestamp": [
+        12.58,
+        13.34
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        13.56,
+        13.64
+      ]
+    },
+    {
+      "text": " manager",
+      "timestamp": [
+        13.64,
+        13.96
+      ]
+    },
+    {
+      "text": " says",
+      "timestamp": [
+        13.96,
+        14.28
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        14.28,
+        14.5
+      ]
+    },
+    {
+      "text": " presentation",
+      "timestamp": [
+        14.5,
+        14.84
+      ]
+    },
+    {
+      "text": " was",
+      "timestamp": [
+        14.84,
+        15.24
+      ]
+    },
+    {
+      "text": " excellent.",
+      "timestamp": [
+        15.24,
+        16.02
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        16.02,
+        16.08
+      ]
+    },
+    {
+      "text": " say",
+      "timestamp": [
+        16.08,
+        16.26
+      ]
+    },
+    {
+      "text": " thanks.",
+      "timestamp": [
+        16.26,
+        17.02
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        17.22,
+        17.24
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        17.24,
+        17.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        17.5,
+        17.66
+      ]
+    },
+    {
+      "text": " file",
+      "timestamp": [
+        17.66,
+        17.9
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        17.9,
+        18.1
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        18.1,
+        18.2
+      ]
+    },
+    {
+      "text": " first",
+      "timestamp": [
+        18.2,
+        18.46
+      ]
+    },
+    {
+      "text": " time",
+      "timestamp": [
+        18.46,
+        18.76
+      ]
+    },
+    {
+      "text": " at",
+      "timestamp": [
+        18.76,
+        19.18
+      ]
+    },
+    {
+      "text": " five.",
+      "timestamp": [
+        19.18,
+        19.84
+      ]
+    },
+    {
+      "text": " HR",
+      "timestamp": [
+        20.16,
+        20.16
+      ]
+    },
+    {
+      "text": " asked",
+      "timestamp": [
+        20.16,
+        20.5
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        20.5,
+        20.68
+      ]
+    },
+    {
+      "text": " new",
+      "timestamp": [
+        20.68,
+        20.82
+      ]
+    },
+    {
+      "text": " question.",
+      "timestamp": [
+        20.82,
+        21.64
+      ]
+    },
+    {
+      "text": " Which",
+      "timestamp": [
+        21.64,
+        21.88
+      ]
+    },
+    {
+      "text": " hours",
+      "timestamp": [
+        21.88,
+        22.24
+      ]
+    },
+    {
+      "text": " were",
+      "timestamp": [
+        22.24,
+        22.48
+      ]
+    },
+    {
+      "text": " yours",
+      "timestamp": [
+        22.48,
+        22.78
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        22.78,
+        23.26
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        23.26,
+        23.46
+      ]
+    },
+    {
+      "text": " belong",
+      "timestamp": [
+        23.46,
+        23.76
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        23.76,
+        24.02
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        24.02,
+        24.16
+      ]
+    },
+    {
+      "text": " agent?",
+      "timestamp": [
+        24.16,
+        24.84
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        24.96,
+        24.98
+      ]
+    },
+    {
+      "text": " work",
+      "timestamp": [
+        24.98,
+        25.22
+      ]
+    },
+    {
+      "text": " got",
+      "timestamp": [
+        25.22,
+        25.54
+      ]
+    },
+    {
+      "text": " done.",
+      "timestamp": [
+        25.54,
+        26.16
+      ]
+    },
+    {
+      "text": " But",
+      "timestamp": [
+        26.16,
+        26.34
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        26.34,
+        26.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        26.5,
+        26.6
+      ]
+    },
+    {
+      "text": " AI",
+      "timestamp": [
+        26.6,
+        26.94
+      ]
+    },
+    {
+      "text": " did",
+      "timestamp": [
+        26.94,
+        27.2
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        27.2,
+        27.36
+      ]
+    },
+    {
+      "text": " shift,",
+      "timestamp": [
+        27.36,
+        28.06
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        28.06,
+        28.22
+      ]
+    },
+    {
+      "text": " gets",
+      "timestamp": [
+        28.22,
+        28.38
+      ]
+    },
+    {
+      "text": " paid?",
+      "timestamp": [
+        28.38,
+        28.94
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

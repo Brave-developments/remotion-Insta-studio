@@ -1,0 +1,32 @@
+[
+  {
+    "project": "TOMORROW-EXE",
+    "typecheck": "passed",
+    "brandPreviewRender": "passed",
+    "weekOneFeedRender": "passed",
+    "size": "1080x1920",
+    "fps": 30,
+    "sampleSeconds": 3,
+    "audio": "deferred"
+  },
+  {
+    "project": "BUILDMode-AI",
+    "typecheck": "passed",
+    "brandPreviewRender": "passed",
+    "weekOneFeedRender": "passed",
+    "size": "1080x1920",
+    "fps": 30,
+    "sampleSeconds": 3,
+    "audio": "deferred"
+  },
+  {
+    "project": "TOOLPROOF",
+    "typecheck": "passed",
+    "brandPreviewRender": "passed",
+    "weekOneFeedRender": "passed",
+    "size": "1080x1920",
+    "fps": 30,
+    "sampleSeconds": 3,
+    "audio": "deferred"
+  }
+]

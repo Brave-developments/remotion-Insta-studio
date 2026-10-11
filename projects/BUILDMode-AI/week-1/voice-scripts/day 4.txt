@@ -1,0 +1,11 @@
+Give an open-source browser agent six fixed repositories and ask for a CSV. A downloaded file is not automatically a successful task.
+
+For each repository, collect stars, primary language, license, and latest default-branch update. Keep source links and collection time.
+
+Use the same machine and document the tool configuration. Log every intervention rather than editing the difficult moments away.
+
+Parse the file in a second application. Check commas, headers, rows, and whether every value points back to its source.
+
+There are twenty-four fields to verify. Accuracy, interventions, and usable export all belong in the final assessment.
+
+This edition lays out the test without inventing results. Which repetitive research task should be next?

@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Reel frame contact sheet</title>
+    <style>
+      * { box-sizing: border-box; }
+      body { margin: 0; background: #101014; color: #e8e8ee; font: 13px/1.4 system-ui, sans-serif; }
+      h1 { font-size: 15px; font-weight: 600; margin: 14px 14px 0; color: #8ab4ff; }
+      .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; padding: 14px; }
+      figure { margin: 0; }
+      img { width: 100%; display: block; border-radius: 8px; background: #000; border: 1px solid #26262e; }
+      figcaption { padding: 5px 2px 0; font-family: ui-monospace, Consolas, monospace; font-size: 12px; color: #7fd08a; }
+      .err { color: #ff7b72; }
+    </style>
+  </head>
+  <body>
+    <h1>Reel frames — 1080x1920</h1>
+    <div class="grid" id="g"></div>
+    <script>
+      var BASE = 'http://127.0.0.1:8091/frames/';
+      var frames = [45, 150, 280, 320, 420, 560, 610, 720, 820, 930, 1060, 1160, 1300, 1450, 1620, 1770];
+      var labels = {
+        45: 's01 hook',
+        150: 's02 kinetic/bubble',
+        280: 's03 hook phase 2',
+        320: 'crossfade s03>s04',
+        420: 's04 phase 2',
+        560: 's05 browser results',
+        610: 'crossfade s05>s06',
+        720: 's06 feature list',
+        820: 's07 kinetic',
+        930: 's08 app window',
+        1060: 's09 diagram',
+        1160: 's10 race + arrow',
+        1300: 's11 comparison',
+        1450: 's12 capability grid',
+        1620: 's13 number',
+        1770: 's14 outro'
+      };
+      document.getElementById('g').innerHTML = frames
+        .map(function (f) {
+          var n = 'f' + String(f).padStart(4, '0') + '.png';
+          return (
+            '<figure><img src="' + BASE + n + '" onerror="this.parentNode.querySelector(\'figcaption\').className=\'err\'">' +
+            '<figcaption>frame ' + f + ' — ' + (labels[f] || '') + '</figcaption></figure>'
+          );
+        })
+        .join('');
+    </script>
+  </body>
+</html>

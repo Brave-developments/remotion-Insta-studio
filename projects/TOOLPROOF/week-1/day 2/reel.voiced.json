@@ -1,0 +1,337 @@
+{
+  "id": "D02R1",
+  "day": 2,
+  "reelNumber": 1,
+  "title": "LocalSend \u2014 Discovery",
+  "format": "Discovery",
+  "durationSeconds": 31.733333333333334,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Sending a file between different devices should not need a cloud upload. LocalSend transfers over your local network. Both devices need to discover each other there. The official project supports Android, iOS, Windows, macOS, and Linux. It does not require an account. Pick a device, accept the request, and check the received file. That is useful at home. It also means network discovery and device permissions matter. Next I am testing photos, a large video, and a folder against a cloud workflow.",
+  "audio": "audio/day 2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 82,
+  "estimatedWpm": 141,
+  "concept": "Phone-to-desktop and desktop-to-phone without a cloud upload.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "Sending a file between different devices should not need a cloud upload.",
+    "Different devices. One local file transfer.",
+    "No account, no cloud upload. What is the catch?"
+  ],
+  "strongestHook": "Sending a file between different devices should not need a cloud upload.",
+  "directorBrief": "Direct this as a useful discovery with one important limit: Phone-to-desktop and desktop-to-phone without a cloud upload. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Easy",
+  "effort": "30\u201390 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Use two available supported devices on the same controlled local network. Record device OS, app versions, discovery permissions and transfer mode. Send one non-sensitive sample both directions, accept on receiver and open it. Capture official platform list separately from tested-device scope. Do not expose device names, private Wi-Fi identifiers or personal file contents.",
+  "evidenceRequirements": "Verify platform support, local-network requirements and account behavior.",
+  "sources": [
+    {
+      "label": "LocalSend official site",
+      "url": "https://localsend.org/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Files Without The Cloud",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cFiles Without The Cloud\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Next I am testing photos, a large video, and a folder against a cloud workflow.",
+  "cta": "CAN IT BEAT THE CLOUD?",
+  "instagramCaption": "LocalSend \u2014 Discovery. Phone-to-desktop and desktop-to-phone without a cloud upload. Full test conditions and limitations belong beside the final result. Next I am testing photos, a large video, and a folder against a cloud workflow.",
+  "tiktokCaption": "LocalSend \u2014 Discovery. CAN IT BEAT THE CLOUD?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Devices, actual transfer, official docs.",
+  "scenes": [
+    {
+      "id": "D02R1-S1",
+      "start": 0.0,
+      "end": 4.0,
+      "type": "hook",
+      "text": "PHONE \u2194 COMPUTER",
+      "narration": "Sending a file between different devices should not need a cloud upload.",
+      "concept": "Real device pair and named non-sensitive sample file.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real device pair and named non-sensitive sample file.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Sending a file between different devices",
+        "should not need a cloud upload."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 0,
+      "originalEnd": 5.166666666666667,
+      "captionTimings": [
+        {
+          "text": "Sending a file between different devices",
+          "start": 0.0,
+          "end": 2.16
+        },
+        {
+          "text": "should not need a cloud upload.",
+          "start": 2.0,
+          "end": 4.0
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S2",
+      "start": 4.0,
+      "end": 9.533333333333333,
+      "type": "workflow",
+      "text": "SAME LOCAL NETWORK",
+      "narration": "LocalSend transfers over your local network. Both devices need to discover each other there.",
+      "concept": "Two devices connect through a router diagram, not a cloud.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Two devices connect through a router diagram, not a cloud.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "LocalSend transfers over your local network.",
+        "Both devices need to discover each",
+        "other there."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 5.166666666666667,
+      "originalEnd": 11.133333333333333,
+      "captionTimings": [
+        {
+          "text": "LocalSend transfers over your local network.",
+          "start": 0.02,
+          "end": 2.98
+        },
+        {
+          "text": "Both devices need to discover each",
+          "start": 2.82,
+          "end": 4.8
+        },
+        {
+          "text": "other there.",
+          "start": 4.64,
+          "end": 5.533
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S3",
+      "start": 9.533333333333333,
+      "end": 15.133333333333333,
+      "type": "evidence",
+      "text": "FIVE PLATFORM FAMILIES",
+      "narration": "The official project supports Android, iOS, Windows, macOS, and Linux.",
+      "concept": "Official platform card; distinguish supported platforms from devices tested here.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Official platform card; distinguish supported platforms from devices tested here.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The official project supports Android, iOS,",
+        "Windows, macOS, and Linux."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 11.133333333333333,
+      "originalEnd": 15.5,
+      "captionTimings": [
+        {
+          "text": "The official project supports Android, iOS,",
+          "start": 0.027,
+          "end": 3.247
+        },
+        {
+          "text": "Windows, macOS, and Linux.",
+          "start": 3.087,
+          "end": 5.567
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S4",
+      "start": 15.133333333333333,
+      "end": 21.2,
+      "type": "evidence",
+      "text": "NO ACCOUNT REQUIRED",
+      "narration": "It does not require an account. Pick a device, accept the request, and check the received file.",
+      "concept": "Actual send, accept and open sequence; no fabricated progress bar.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual send, accept and open sequence; no fabricated progress bar.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "It does not require an account.",
+        "Pick a device, accept the request,",
+        "and check the received file."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 15.5,
+      "originalEnd": 22.666666666666668,
+      "captionTimings": [
+        {
+          "text": "It does not require an account.",
+          "start": 0.007,
+          "end": 2.087
+        },
+        {
+          "text": "Pick a device, accept the request,",
+          "start": 2.087,
+          "end": 4.187
+        },
+        {
+          "text": "and check the received file.",
+          "start": 4.027,
+          "end": 6.047
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S5",
+      "start": 21.2,
+      "end": 26.233333333333334,
+      "type": "evidence",
+      "text": "LOCAL DOES NOT MEAN EVERYWHERE",
+      "narration": "That is useful at home. It also means network discovery and device permissions matter.",
+      "concept": "Show actual network setting and permission screen, hiding network identifiers.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s5.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show actual network setting and permission screen, hiding network identifiers.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "That is useful at home. It",
+        "also means network discovery and device",
+        "permissions matter."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 22.666666666666668,
+      "originalEnd": 28.633333333333333,
+      "captionTimings": [
+        {
+          "text": "That is useful at home. It",
+          "start": 0.02,
+          "end": 1.92
+        },
+        {
+          "text": "also means network discovery and device",
+          "start": 1.76,
+          "end": 3.92
+        },
+        {
+          "text": "permissions matter.",
+          "start": 3.76,
+          "end": 5.033
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S6",
+      "start": 26.233333333333334,
+      "end": 31.733333333333334,
+      "type": "question",
+      "text": "CAN IT BEAT THE CLOUD?",
+      "narration": "Next I am testing photos, a large video, and a folder against a cloud workflow.",
+      "concept": "Received sample file becomes first item of the test dataset.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Received sample file becomes first item of the test dataset.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Next I am testing photos, a",
+        "large video, and a folder against",
+        "a cloud workflow."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 28.633333333333333,
+      "originalEnd": 35,
+      "captionTimings": [
+        {
+          "text": "Next I am testing photos, a",
+          "start": 0.027,
+          "end": 2.367
+        },
+        {
+          "text": "large video, and a folder against",
+          "start": 2.207,
+          "end": 4.167
+        },
+        {
+          "text": "a cloud workflow.",
+          "start": 4.007,
+          "end": 5.367
+        }
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-source-backed-explainer-built",
+  "visualStatus": "voiced-directed-illustration"
+}

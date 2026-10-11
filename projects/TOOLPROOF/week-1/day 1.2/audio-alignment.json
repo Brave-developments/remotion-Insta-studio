@@ -1,0 +1,658 @@
+{
+  "fingerprint": "6d0cc3766a4496c5275fa7e34a986172c8405ff8a5334f63ec9127a5e7fd9ae8",
+  "recognizedText": " The test plan is Kando against the start menu on 10 everyday tasks. Both methods will launch the same apps, open the same folders, and reach the same commands. Setup will be counted separately. After practice, three timed rounds will alternate the method order. Every wrong selection will be logged. Speed only matters if the intended action opens. The result needs both median durations, error counts, and setup effort. No timings have been measured yet. The verdict will depend on the recorded workflow. Which of your daily actions would belong in this menu?",
+  "words": [
+    {
+      "text": " The",
+      "timestamp": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        0.5,
+        0.68
+      ]
+    },
+    {
+      "text": " plan",
+      "timestamp": [
+        0.68,
+        0.94
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        0.94,
+        1.2
+      ]
+    },
+    {
+      "text": " Kando",
+      "timestamp": [
+        1.2,
+        1.62
+      ]
+    },
+    {
+      "text": " against",
+      "timestamp": [
+        1.62,
+        2.0
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        2.0,
+        2.2
+      ]
+    },
+    {
+      "text": " start",
+      "timestamp": [
+        2.2,
+        2.42
+      ]
+    },
+    {
+      "text": " menu",
+      "timestamp": [
+        2.42,
+        2.72
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        2.72,
+        2.98
+      ]
+    },
+    {
+      "text": " 10",
+      "timestamp": [
+        2.98,
+        3.22
+      ]
+    },
+    {
+      "text": " everyday",
+      "timestamp": [
+        3.22,
+        3.68
+      ]
+    },
+    {
+      "text": " tasks.",
+      "timestamp": [
+        3.68,
+        4.82
+      ]
+    },
+    {
+      "text": " Both",
+      "timestamp": [
+        4.94,
+        5.04
+      ]
+    },
+    {
+      "text": " methods",
+      "timestamp": [
+        5.04,
+        5.4
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        5.4,
+        5.62
+      ]
+    },
+    {
+      "text": " launch",
+      "timestamp": [
+        5.62,
+        5.88
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        5.88,
+        6.04
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        6.04,
+        6.32
+      ]
+    },
+    {
+      "text": " apps,",
+      "timestamp": [
+        6.32,
+        7.12
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        7.12,
+        7.36
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        7.36,
+        7.52
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        7.52,
+        7.76
+      ]
+    },
+    {
+      "text": " folders,",
+      "timestamp": [
+        7.76,
+        8.62
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        8.62,
+        8.7
+      ]
+    },
+    {
+      "text": " reach",
+      "timestamp": [
+        8.7,
+        8.86
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        8.86,
+        9.08
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        9.08,
+        9.28
+      ]
+    },
+    {
+      "text": " commands.",
+      "timestamp": [
+        9.28,
+        10.4
+      ]
+    },
+    {
+      "text": " Setup",
+      "timestamp": [
+        10.54,
+        10.8
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        10.8,
+        10.94
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        10.94,
+        11.06
+      ]
+    },
+    {
+      "text": " counted",
+      "timestamp": [
+        11.06,
+        11.36
+      ]
+    },
+    {
+      "text": " separately.",
+      "timestamp": [
+        11.36,
+        12.52
+      ]
+    },
+    {
+      "text": " After",
+      "timestamp": [
+        12.58,
+        12.78
+      ]
+    },
+    {
+      "text": " practice,",
+      "timestamp": [
+        12.78,
+        13.76
+      ]
+    },
+    {
+      "text": " three",
+      "timestamp": [
+        13.76,
+        13.98
+      ]
+    },
+    {
+      "text": " timed",
+      "timestamp": [
+        13.98,
+        14.34
+      ]
+    },
+    {
+      "text": " rounds",
+      "timestamp": [
+        14.34,
+        14.56
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        14.56,
+        14.84
+      ]
+    },
+    {
+      "text": " alternate",
+      "timestamp": [
+        14.84,
+        15.22
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        15.22,
+        15.46
+      ]
+    },
+    {
+      "text": " method",
+      "timestamp": [
+        15.46,
+        15.7
+      ]
+    },
+    {
+      "text": " order.",
+      "timestamp": [
+        15.7,
+        16.56
+      ]
+    },
+    {
+      "text": " Every",
+      "timestamp": [
+        16.56,
+        16.8
+      ]
+    },
+    {
+      "text": " wrong",
+      "timestamp": [
+        16.8,
+        17.04
+      ]
+    },
+    {
+      "text": " selection",
+      "timestamp": [
+        17.04,
+        17.52
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        17.52,
+        17.8
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        17.8,
+        17.94
+      ]
+    },
+    {
+      "text": " logged.",
+      "timestamp": [
+        17.94,
+        18.72
+      ]
+    },
+    {
+      "text": " Speed",
+      "timestamp": [
+        18.88,
+        19.06
+      ]
+    },
+    {
+      "text": " only",
+      "timestamp": [
+        19.06,
+        19.4
+      ]
+    },
+    {
+      "text": " matters",
+      "timestamp": [
+        19.4,
+        19.72
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        19.72,
+        19.94
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        19.94,
+        20.08
+      ]
+    },
+    {
+      "text": " intended",
+      "timestamp": [
+        20.08,
+        20.4
+      ]
+    },
+    {
+      "text": " action",
+      "timestamp": [
+        20.4,
+        20.82
+      ]
+    },
+    {
+      "text": " opens.",
+      "timestamp": [
+        20.82,
+        21.84
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        21.84,
+        21.94
+      ]
+    },
+    {
+      "text": " result",
+      "timestamp": [
+        21.94,
+        22.22
+      ]
+    },
+    {
+      "text": " needs",
+      "timestamp": [
+        22.22,
+        22.5
+      ]
+    },
+    {
+      "text": " both",
+      "timestamp": [
+        22.5,
+        22.82
+      ]
+    },
+    {
+      "text": " median",
+      "timestamp": [
+        22.82,
+        23.18
+      ]
+    },
+    {
+      "text": " durations,",
+      "timestamp": [
+        23.18,
+        24.3
+      ]
+    },
+    {
+      "text": " error",
+      "timestamp": [
+        24.3,
+        24.46
+      ]
+    },
+    {
+      "text": " counts,",
+      "timestamp": [
+        24.46,
+        25.12
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        25.12,
+        25.34
+      ]
+    },
+    {
+      "text": " setup",
+      "timestamp": [
+        25.34,
+        25.64
+      ]
+    },
+    {
+      "text": " effort.",
+      "timestamp": [
+        25.64,
+        26.5
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        26.58,
+        26.64
+      ]
+    },
+    {
+      "text": " timings",
+      "timestamp": [
+        26.64,
+        27.1
+      ]
+    },
+    {
+      "text": " have",
+      "timestamp": [
+        27.1,
+        27.22
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        27.22,
+        27.34
+      ]
+    },
+    {
+      "text": " measured",
+      "timestamp": [
+        27.34,
+        27.6
+      ]
+    },
+    {
+      "text": " yet.",
+      "timestamp": [
+        27.6,
+        28.42
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        28.48,
+        28.48
+      ]
+    },
+    {
+      "text": " verdict",
+      "timestamp": [
+        28.48,
+        28.78
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        28.78,
+        29.02
+      ]
+    },
+    {
+      "text": " depend",
+      "timestamp": [
+        29.02,
+        29.32
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        29.32,
+        29.56
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        29.56,
+        29.68
+      ]
+    },
+    {
+      "text": " recorded",
+      "timestamp": [
+        29.68,
+        30.06
+      ]
+    },
+    {
+      "text": " workflow.",
+      "timestamp": [
+        30.06,
+        31.1
+      ]
+    },
+    {
+      "text": " Which",
+      "timestamp": [
+        31.26,
+        31.3
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        31.3,
+        31.42
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        31.42,
+        31.54
+      ]
+    },
+    {
+      "text": " daily",
+      "timestamp": [
+        31.54,
+        31.76
+      ]
+    },
+    {
+      "text": " actions",
+      "timestamp": [
+        31.76,
+        32.22
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        32.22,
+        32.5
+      ]
+    },
+    {
+      "text": " belong",
+      "timestamp": [
+        32.5,
+        32.78
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        32.78,
+        32.98
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        32.98,
+        33.16
+      ]
+    },
+    {
+      "text": " menu?",
+      "timestamp": [
+        33.16,
+        33.74
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

@@ -1,0 +1,791 @@
+{
+  "fingerprint": "454e391346b5bcd74986016b37ff97e9dfa73142cfd6b7e6fc924b18d046970c",
+  "recognizedText": " Turn a short app description into a local conband board. Audio is deferred, so this build brief starts as text. To do, doing, done. Add a card, drag it between columns, and preserve the board after a refresh. This original motion study follows one card from to do into doing. The finished app needs the same clear interaction. Store the board locally, then reload the real page and inspect whether the card comes back in the correct column. test, adding, deleting, dragging both ways, and the empty state. Persistence has to be observed, not assumed. The working local fixture is included for development. What small app should get the next short brief?",
+  "words": [
+    {
+      "text": " Turn",
+      "timestamp": [
+        0.0,
+        0.26
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        0.26,
+        0.42
+      ]
+    },
+    {
+      "text": " short",
+      "timestamp": [
+        0.42,
+        0.62
+      ]
+    },
+    {
+      "text": " app",
+      "timestamp": [
+        0.62,
+        0.94
+      ]
+    },
+    {
+      "text": " description",
+      "timestamp": [
+        0.94,
+        1.4
+      ]
+    },
+    {
+      "text": " into",
+      "timestamp": [
+        1.4,
+        1.84
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        1.84,
+        2.0
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        2.0,
+        2.28
+      ]
+    },
+    {
+      "text": " conband",
+      "timestamp": [
+        2.28,
+        2.84
+      ]
+    },
+    {
+      "text": " board.",
+      "timestamp": [
+        2.84,
+        3.66
+      ]
+    },
+    {
+      "text": " Audio",
+      "timestamp": [
+        3.86,
+        3.96
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        3.96,
+        4.24
+      ]
+    },
+    {
+      "text": " deferred,",
+      "timestamp": [
+        4.24,
+        5.08
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        5.08,
+        5.36
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        5.36,
+        5.52
+      ]
+    },
+    {
+      "text": " build",
+      "timestamp": [
+        5.52,
+        5.88
+      ]
+    },
+    {
+      "text": " brief",
+      "timestamp": [
+        5.88,
+        6.12
+      ]
+    },
+    {
+      "text": " starts",
+      "timestamp": [
+        6.12,
+        6.48
+      ]
+    },
+    {
+      "text": " as",
+      "timestamp": [
+        6.48,
+        6.72
+      ]
+    },
+    {
+      "text": " text.",
+      "timestamp": [
+        6.72,
+        7.42
+      ]
+    },
+    {
+      "text": " To",
+      "timestamp": [
+        7.62,
+        7.64
+      ]
+    },
+    {
+      "text": " do,",
+      "timestamp": [
+        7.64,
+        8.22
+      ]
+    },
+    {
+      "text": " doing,",
+      "timestamp": [
+        8.22,
+        8.94
+      ]
+    },
+    {
+      "text": " done.",
+      "timestamp": [
+        8.94,
+        9.84
+      ]
+    },
+    {
+      "text": " Add",
+      "timestamp": [
+        10.08,
+        10.18
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        10.18,
+        10.32
+      ]
+    },
+    {
+      "text": " card,",
+      "timestamp": [
+        10.32,
+        10.98
+      ]
+    },
+    {
+      "text": " drag",
+      "timestamp": [
+        10.98,
+        11.2
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        11.2,
+        11.34
+      ]
+    },
+    {
+      "text": " between",
+      "timestamp": [
+        11.34,
+        11.62
+      ]
+    },
+    {
+      "text": " columns,",
+      "timestamp": [
+        11.62,
+        12.3
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        12.3,
+        12.58
+      ]
+    },
+    {
+      "text": " preserve",
+      "timestamp": [
+        12.58,
+        12.92
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        12.92,
+        13.18
+      ]
+    },
+    {
+      "text": " board",
+      "timestamp": [
+        13.18,
+        13.42
+      ]
+    },
+    {
+      "text": " after",
+      "timestamp": [
+        13.42,
+        13.88
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        13.88,
+        14.0
+      ]
+    },
+    {
+      "text": " refresh.",
+      "timestamp": [
+        14.0,
+        15.04
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        15.24,
+        15.44
+      ]
+    },
+    {
+      "text": " original",
+      "timestamp": [
+        15.44,
+        15.82
+      ]
+    },
+    {
+      "text": " motion",
+      "timestamp": [
+        15.82,
+        16.16
+      ]
+    },
+    {
+      "text": " study",
+      "timestamp": [
+        16.16,
+        16.6
+      ]
+    },
+    {
+      "text": " follows",
+      "timestamp": [
+        16.6,
+        16.94
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        16.94,
+        17.28
+      ]
+    },
+    {
+      "text": " card",
+      "timestamp": [
+        17.28,
+        17.6
+      ]
+    },
+    {
+      "text": " from",
+      "timestamp": [
+        17.6,
+        17.84
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        17.84,
+        18.02
+      ]
+    },
+    {
+      "text": " do",
+      "timestamp": [
+        18.02,
+        18.22
+      ]
+    },
+    {
+      "text": " into",
+      "timestamp": [
+        18.22,
+        18.46
+      ]
+    },
+    {
+      "text": " doing.",
+      "timestamp": [
+        18.46,
+        19.28
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        19.52,
+        19.6
+      ]
+    },
+    {
+      "text": " finished",
+      "timestamp": [
+        19.6,
+        19.9
+      ]
+    },
+    {
+      "text": " app",
+      "timestamp": [
+        19.9,
+        20.26
+      ]
+    },
+    {
+      "text": " needs",
+      "timestamp": [
+        20.26,
+        20.56
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        20.56,
+        20.82
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        20.82,
+        21.14
+      ]
+    },
+    {
+      "text": " clear",
+      "timestamp": [
+        21.14,
+        21.54
+      ]
+    },
+    {
+      "text": " interaction.",
+      "timestamp": [
+        21.54,
+        22.72
+      ]
+    },
+    {
+      "text": " Store",
+      "timestamp": [
+        23.0,
+        23.1
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        23.1,
+        23.26
+      ]
+    },
+    {
+      "text": " board",
+      "timestamp": [
+        23.26,
+        23.46
+      ]
+    },
+    {
+      "text": " locally,",
+      "timestamp": [
+        23.46,
+        24.32
+      ]
+    },
+    {
+      "text": " then",
+      "timestamp": [
+        24.32,
+        24.62
+      ]
+    },
+    {
+      "text": " reload",
+      "timestamp": [
+        24.62,
+        25.0
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        25.0,
+        25.22
+      ]
+    },
+    {
+      "text": " real",
+      "timestamp": [
+        25.22,
+        25.4
+      ]
+    },
+    {
+      "text": " page",
+      "timestamp": [
+        25.4,
+        25.8
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        25.8,
+        26.02
+      ]
+    },
+    {
+      "text": " inspect",
+      "timestamp": [
+        26.02,
+        26.38
+      ]
+    },
+    {
+      "text": " whether",
+      "timestamp": [
+        26.38,
+        26.72
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        26.72,
+        26.84
+      ]
+    },
+    {
+      "text": " card",
+      "timestamp": [
+        26.84,
+        27.08
+      ]
+    },
+    {
+      "text": " comes",
+      "timestamp": [
+        27.08,
+        27.36
+      ]
+    },
+    {
+      "text": " back",
+      "timestamp": [
+        27.36,
+        27.6
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        27.6,
+        27.8
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        27.8,
+        27.88
+      ]
+    },
+    {
+      "text": " correct",
+      "timestamp": [
+        27.88,
+        28.12
+      ]
+    },
+    {
+      "text": " column.",
+      "timestamp": [
+        28.12,
+        28.9
+      ]
+    },
+    {
+      "text": " test,",
+      "timestamp": [
+        28.96,
+        29.76
+      ]
+    },
+    {
+      "text": " adding,",
+      "timestamp": [
+        29.76,
+        30.38
+      ]
+    },
+    {
+      "text": " deleting,",
+      "timestamp": [
+        30.38,
+        31.26
+      ]
+    },
+    {
+      "text": " dragging",
+      "timestamp": [
+        31.26,
+        31.54
+      ]
+    },
+    {
+      "text": " both",
+      "timestamp": [
+        31.54,
+        31.84
+      ]
+    },
+    {
+      "text": " ways,",
+      "timestamp": [
+        31.84,
+        32.6
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        32.6,
+        32.7
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        32.7,
+        32.82
+      ]
+    },
+    {
+      "text": " empty",
+      "timestamp": [
+        32.82,
+        33.1
+      ]
+    },
+    {
+      "text": " state.",
+      "timestamp": [
+        33.1,
+        34.26
+      ]
+    },
+    {
+      "text": " Persistence",
+      "timestamp": [
+        34.34,
+        34.78
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        34.78,
+        34.96
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        34.96,
+        35.16
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        35.16,
+        35.28
+      ]
+    },
+    {
+      "text": " observed,",
+      "timestamp": [
+        35.28,
+        36.06
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        36.06,
+        36.24
+      ]
+    },
+    {
+      "text": " assumed.",
+      "timestamp": [
+        36.24,
+        37.16
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        37.22,
+        37.26
+      ]
+    },
+    {
+      "text": " working",
+      "timestamp": [
+        37.26,
+        37.52
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        37.52,
+        37.86
+      ]
+    },
+    {
+      "text": " fixture",
+      "timestamp": [
+        37.86,
+        38.36
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        38.36,
+        38.62
+      ]
+    },
+    {
+      "text": " included",
+      "timestamp": [
+        38.62,
+        39.0
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        39.0,
+        39.2
+      ]
+    },
+    {
+      "text": " development.",
+      "timestamp": [
+        39.2,
+        40.36
+      ]
+    },
+    {
+      "text": " What",
+      "timestamp": [
+        40.38,
+        40.48
+      ]
+    },
+    {
+      "text": " small",
+      "timestamp": [
+        40.48,
+        40.8
+      ]
+    },
+    {
+      "text": " app",
+      "timestamp": [
+        40.8,
+        41.1
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        41.1,
+        41.32
+      ]
+    },
+    {
+      "text": " get",
+      "timestamp": [
+        41.32,
+        41.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        41.5,
+        41.7
+      ]
+    },
+    {
+      "text": " next",
+      "timestamp": [
+        41.7,
+        41.86
+      ]
+    },
+    {
+      "text": " short",
+      "timestamp": [
+        41.86,
+        42.2
+      ]
+    },
+    {
+      "text": " brief?",
+      "timestamp": [
+        42.2,
+        42.86
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

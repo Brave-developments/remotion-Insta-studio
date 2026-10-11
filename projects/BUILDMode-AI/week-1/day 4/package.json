@@ -1,0 +1,10 @@
+{
+  "name": "buildmode-ai-day-4",
+  "private": true,
+  "scripts": {
+    "render": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=BUILDMode-AI --id=D04R1",
+    "proof": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=BUILDMode-AI --id=D04R1 --proof",
+    "review": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=BUILDMode-AI --id=D04R1 --stills",
+    "render:voiced": "node ../../../../../studio-kit/scripts/render-week.cjs --voiced --channel=BUILDMode-AI --id=D04R1"
+  }
+}

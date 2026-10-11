@@ -1,0 +1,265 @@
+{
+  "id": "D01R1",
+  "day": 1,
+  "reelNumber": 1,
+  "title": "Three AI Coders. One Broken App.",
+  "format": "Experiment",
+  "durationSeconds": 48,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I gave three AI coders the same broken app. Five bugs. One clean starting point. Login fails. Search ignores capitals. Mobile navigation overflows. Save does nothing. One test is already red. Each gets the identical prompt, the same limit, and no help from me unless I log it. Here is the important part: a confident summary does not count as a fix. The app has to pass the checks. The verified result was [FIXES_A], [FIXES_B], and [FIXES_C] fixes. [REGRESSION_SUMMARY]. [EVIDENCE_BASED_WINNER_OR_TIE]. Which agent should face the harder test next?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 88,
+  "estimatedWpm": 110,
+  "concept": "Five deliberate bugs; identical repo/prompt; compare fixes, runtime and regressions.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I gave three AI coders the same broken app. Five bugs. One clean starting point.",
+    "Five broken features. Three confident AI coders.",
+    "Which AI actually fixes the app, not just the summary?"
+  ],
+  "strongestHook": "I gave three AI coders the same broken app. Five bugs. One clean starting point.",
+  "directorBrief": "Direct this as an observable challenge: Five deliberate bugs; identical repo/prompt; compare fixes, runtime and regressions. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Medium",
+  "effort": "15–60 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Prepare one local React fixture with five independently reproducible faults: invalid login handling, case-sensitive search, navigation overflow at 639px, dead Save action, and a seeded failing unit test. Freeze baseline commit, dependency versions and five acceptance checks. Select three accessible coding tools; record their exact model/configuration. Run one identical prompt on separate clean copies with a 20-minute cap and identical resource access. Log interventions, submission-to-verified-finish time, five fixes and regressions. No winner unless checks establish it; one run is exploratory, repeat before a broad claim.",
+  "evidenceRequirements": "Run each tool on an identical clean copy; fill the scoreboard only from actual tests.",
+  "sources": [],
+  "thumbnail": "Three Coders Five Bugs",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Three Coders Five Bugs” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[EVIDENCE_BASED_WINNER_OR_TIE]. Which agent should face the harder test next?",
+  "cta": "WHO GETS ROUND TWO?",
+  "instagramCaption": "Three AI Coders. One Broken App.. Five deliberate bugs; identical repo/prompt; compare fixes, runtime and regressions. Full test conditions and limitations belong beside the final result. [EVIDENCE_BASED_WINNER_OR_TIE]. Which agent should face the harder test next?",
+  "tiktokCaption": "Three AI Coders. One Broken App.. WHO GETS ROUND TWO?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Broken/final app, three runs, identical prompt, test output.",
+  "scenes": [
+    {
+      "id": "D01R1-S1",
+      "start": 0,
+      "end": 8.166666666666666,
+      "type": "hook",
+      "text": "3 CODERS. 5 BUGS.",
+      "narration": "I gave three AI coders the same broken app. Five bugs. One clean starting point.",
+      "concept": "Open on the broken mobile view; immediately show all three clean repo copies.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Open on the broken mobile view; immediately show all three clean repo copies.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I gave three AI coders the",
+        "same broken app. Five bugs. One",
+        "clean starting point."
+      ],
+      "presentationText": "3 CODERS. 5 BUGS.",
+      "presentationNarration": "Three AI coders. One deliberately broken app. Here is the test I would run before trusting any of them.",
+      "presentationCaptionChunks": [
+        "Three AI coders. One deliberately broken",
+        "app. Here is the test I",
+        "would run before trusting any of",
+        "them."
+      ]
+    },
+    {
+      "id": "D01R1-S2",
+      "start": 8.166666666666666,
+      "end": 16.833333333333332,
+      "type": "evidence",
+      "text": "THE SAME FIVE BUGS",
+      "narration": "Login fails. Search ignores capitals. Mobile navigation overflows. Save does nothing. One test is already red.",
+      "concept": "Five quick reproductions with one circled failure each; no fake terminal text.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Five quick reproductions with one circled failure each; no fake terminal text.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Login fails. Search ignores capitals. Mobile",
+        "navigation overflows. Save does nothing. One",
+        "test is already red."
+      ],
+      "presentationText": "ONE FROZEN BASELINE",
+      "presentationNarration": "Five reproducible faults: login, capitalized search, mobile navigation, a disconnected Save button, and one failing test.",
+      "presentationCaptionChunks": [
+        "Five reproducible faults: login, capitalized search,",
+        "mobile navigation, a disconnected Save button,",
+        "and one failing test."
+      ]
+    },
+    {
+      "id": "D01R1-S3",
+      "start": 16.833333333333332,
+      "end": 26.033333333333335,
+      "type": "workflow",
+      "text": "ONE PROMPT. SAME LIMIT.",
+      "narration": "Each gets the identical prompt, the same limit, and no help from me unless I log it.",
+      "concept": "Show prompt and environment sheet; three lanes track real run milestones.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show prompt and environment sheet; three lanes track real run milestones.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Each gets the identical prompt, the",
+        "same limit, and no help from",
+        "me unless I log it."
+      ],
+      "presentationText": "SAME PROMPT. CLEAN COPIES.",
+      "presentationNarration": "Each tool gets a separate clean copy, the same prompt, and the same limit. Every intervention goes into the log.",
+      "presentationCaptionChunks": [
+        "Each tool gets a separate clean",
+        "copy, the same prompt, and the",
+        "same limit. Every intervention goes into",
+        "the log."
+      ]
+    },
+    {
+      "id": "D01R1-S4",
+      "start": 26.033333333333335,
+      "end": 37.266666666666666,
+      "type": "evidence",
+      "text": "CLAIMS ≠ FIXES",
+      "narration": "Here is the important part: a confident summary does not count as a fix. The app has to pass the checks.",
+      "concept": "Match an agent completion claim to the corresponding functional check.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Match an agent completion claim to the corresponding functional check.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Here is the important part: a",
+        "confident summary does not count as",
+        "a fix. The app has to",
+        "pass the checks."
+      ],
+      "presentationText": "CLAIMS ARE NOT FIXES",
+      "presentationNarration": "A confident summary earns nothing. Login has to work. Search has to match. The saved data has to survive.",
+      "presentationCaptionChunks": [
+        "A confident summary earns nothing. Login",
+        "has to work. Search has to",
+        "match. The saved data has to",
+        "survive."
+      ]
+    },
+    {
+      "id": "D01R1-S5",
+      "start": 37.266666666666666,
+      "end": 42.9,
+      "type": "result",
+      "text": "[VERIFIED SCOREBOARD]",
+      "narration": "The verified result was [FIXES_A], [FIXES_B], and [FIXES_C] fixes. [REGRESSION_SUMMARY].",
+      "concept": "Populate only measured passes, elapsed times and regressions from the audit CSV.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Populate only measured passes, elapsed times and regressions from the audit CSV.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The verified result was [FIXES_A], [FIXES_B],",
+        "and [FIXES_C] fixes. [REGRESSION_SUMMARY]."
+      ],
+      "presentationText": "VERIFY BEFORE SCORING",
+      "presentationNarration": "The scoreboard stays empty until the actual acceptance checks run. Count fixes and regressions separately.",
+      "presentationCaptionChunks": [
+        "The scoreboard stays empty until the",
+        "actual acceptance checks run. Count fixes",
+        "and regressions separately."
+      ]
+    },
+    {
+      "id": "D01R1-S6",
+      "start": 42.9,
+      "end": 48,
+      "type": "question",
+      "text": "WHO GETS ROUND TWO?",
+      "narration": "[EVIDENCE_BASED_WINNER_OR_TIE]. Which agent should face the harder test next?",
+      "concept": "Hold one revealing before/after comparison beside the actual result.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Hold one revealing before/after comparison beside the actual result.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[EVIDENCE_BASED_WINNER_OR_TIE]. Which agent should face the",
+        "harder test next?"
+      ],
+      "presentationText": "CHOOSE THE THIRD CODER",
+      "presentationNarration": "This is the experiment design, not a recorded model race. Which three coders deserve the first round?",
+      "presentationCaptionChunks": [
+        "This is the experiment design, not",
+        "a recorded model race. Which three",
+        "coders deserve the first round?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

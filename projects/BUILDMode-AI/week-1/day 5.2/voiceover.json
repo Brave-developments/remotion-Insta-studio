@@ -1,0 +1,11 @@
+{
+  "voice": "Brave 1",
+  "profileId": "741b1aae-46cc-4941-b754-46245dfb69c9",
+  "engine": "voxcpm",
+  "file": "projects\\BUILDMode-AI\\public\\audio\\day 5.2.wav",
+  "generationId": "fd04504a-6d94-42a9-99cb-f0cdcbb09449",
+  "sourceHash": "42d17766ea1e09bdf22598e07d568ca35e8de8e7057364479cf6c7e985c49458",
+  "durationSeconds": 42.4,
+  "scriptInputExact": true,
+  "synchronization": "Audio generated; scene alignment and voiced video export still pending."
+}

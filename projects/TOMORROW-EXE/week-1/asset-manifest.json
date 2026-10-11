@@ -1,0 +1,284 @@
+{
+  "channel": "TOMORROW.EXE",
+  "assets": [
+    {
+      "reel": "D01R1",
+      "scene": "D01R1-S3",
+      "path": "public/assets/week-1/d01r1/s3.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Bedroom foreground; groceries and flight itinerary emerge in separate depth planes.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D01R2",
+      "scene": "D01R2-S1",
+      "path": "public/assets/week-1/d01r2/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Alarm clock, empty side of bed, office reflected in phone glass.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D01R2",
+      "scene": "D01R2-S4",
+      "path": "public/assets/week-1/d01r2/s4.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Employee hand pauses over trackpad; presentation already marked delivered.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D02R1",
+      "scene": "D02R1-S2",
+      "path": "public/assets/week-1/d02r1/s2.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Capture FIDO explanation; crop to the relevant paragraph.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D02R1",
+      "scene": "D02R1-S3",
+      "path": "public/assets/week-1/d02r1/s3.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Match cut the same hand movement across three fictional access points.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D02R2",
+      "scene": "D02R2-S1",
+      "path": "public/assets/week-1/d02r2/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Phone rests on hallway table while the camera follows its owner outside.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D02R2",
+      "scene": "D02R2-S2",
+      "path": "public/assets/week-1/d02r2/s2.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "One restrained route line and arrival card; preserve street visibility.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D02R2",
+      "scene": "D02R2-S4",
+      "path": "public/assets/week-1/d02r2/s4.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Anonymous adult silhouette; fictional memory card remains separate from the person.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D03R1",
+      "scene": "D03R1-S1",
+      "path": "public/assets/week-1/d03r1/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Robot and car silhouettes at matching scale; no price tags.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D03R1",
+      "scene": "D03R1-S2",
+      "path": "public/assets/week-1/d03r1/s2.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Official deployment source card beside an industrial outline; distinguish home speculation.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D03R1",
+      "scene": "D03R1-S3",
+      "path": "public/assets/week-1/d03r1/s3.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Keep one robot design through three useful tasks; imperfect movement is acceptable.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D03R2",
+      "scene": "D03R2-S2",
+      "path": "public/assets/week-1/d03r2/s2.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Continuous robot identity; doorway pause communicates human control.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D03R2",
+      "scene": "D03R2-S3",
+      "path": "public/assets/week-1/d03r2/s3.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Wide shot of clearance assessment; close shot of protected contact points.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D04R1",
+      "scene": "D04R1-S1",
+      "path": "public/assets/week-1/d04r1/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Student erases one incorrect answer; retain respectful, hopeful framing.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D04R2",
+      "scene": "D04R2-S1",
+      "path": "public/assets/week-1/d04r2/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Warm classroom wide; fictional class size, no research statistic styling.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D04R2",
+      "scene": "D04R2-S3",
+      "path": "public/assets/week-1/d04r2/s3.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Camera leaves devices and tracks to a teacher kneeling beside a student.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D04R2",
+      "scene": "D04R2-S5",
+      "path": "public/assets/week-1/d04r2/s5.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Device fades in importance through depth; retain student and teacher in frame.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D05R1",
+      "scene": "D05R1-S1",
+      "path": "public/assets/week-1/d05r1/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Respectful adult portrait; cursor waits rather than magical head glow.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D05R1",
+      "scene": "D05R1-S2",
+      "path": "public/assets/week-1/d05r1/s2.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Show paper title and year; label studied communication assistance.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D05R2",
+      "scene": "D05R2-S3",
+      "path": "public/assets/week-1/d05r2/s3.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Home morning match cuts to office; same person receives another consent card.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D06R1",
+      "scene": "D06R1-S1",
+      "path": "public/assets/week-1/d06r1/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "House key and car key; car key remains unused.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D06R1",
+      "scene": "D06R1-S2",
+      "path": "public/assets/week-1/d06r1/s2.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Official Waymo ride page; separate present service from future premise.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D06R1",
+      "scene": "D06R1-S4",
+      "path": "public/assets/week-1/d06r1/s4.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Match camera position from parked garage to an empty room.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D06R2",
+      "scene": "D06R2-S1",
+      "path": "public/assets/week-1/d06r2/s1.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Original garage image; fixed camera establishes the location.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D06R2",
+      "scene": "D06R2-S3",
+      "path": "public/assets/week-1/d06r2/s3.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Route diagram beside the site plan; avoid claiming a proven urban effect.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D06R2",
+      "scene": "D06R2-S4",
+      "path": "public/assets/week-1/d06r2/s4.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Matched before/after composition; tree and path maintain spatial continuity.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D07R1",
+      "scene": "D07R1-S4",
+      "path": "public/assets/week-1/d07r1/s4.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Cafe table with two empty chairs; agents recede into corner cards.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D07R1",
+      "scene": "D07R1-S5",
+      "path": "public/assets/week-1/d07r1/s5.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Two adults laugh; camera stays at human eye level.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D07R2",
+      "scene": "D07R2-S2",
+      "path": "public/assets/week-1/d07r2/s2.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Restrained fictional call crop; never use a real relative or clone their voice.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D07R2",
+      "scene": "D07R2-S4",
+      "path": "public/assets/week-1/d07r2/s4.png",
+      "kind": "image",
+      "status": "to-produce",
+      "brief": "Same fictional portrait, calmer setting; no tutorial for generating impersonations.",
+      "requirements": "Original 1080×1920 image or layers, extra crop room, consistent character/object, no embedded text. Clearly fictional scenario."
+    },
+    {
+      "reel": "D07R2",
+      "scene": "D07R2-S5",
+      "path": "public/assets/week-1/d07r2/s5.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Official SynthID source; do not present a watermark as live-call identity verification.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    }
+  ]
+}

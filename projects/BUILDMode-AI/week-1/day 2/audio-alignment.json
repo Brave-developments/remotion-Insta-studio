@@ -1,0 +1,749 @@
+{
+  "fingerprint": "95e8f52765971e87b194a5df5f309aaf82a2394f2368dcda9d619624a4dbb444",
+  "recognizedText": " A browser agent should finish the task, not quietly hand it back. Here is a concrete way to check. Research these five repositories. Collect stars, license, language, and latest default branch update with source links. The agent must browse the actual pages. Record blocked access, recovery, and every moment a person steps in. Check the source behind every value. Last release and latest commit are different things. the table must be precise, judge correct fields, usable output, and interventions together, no filled in score until the recorded run exists. This addition shows the task and audit plan. What browser job would make you trust an agent?",
+  "words": [
+    {
+      "text": " A",
+      "timestamp": [
+        0.0,
+        0.24
+      ]
+    },
+    {
+      "text": " browser",
+      "timestamp": [
+        0.24,
+        0.46
+      ]
+    },
+    {
+      "text": " agent",
+      "timestamp": [
+        0.46,
+        0.98
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        0.98,
+        1.2
+      ]
+    },
+    {
+      "text": " finish",
+      "timestamp": [
+        1.2,
+        1.48
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        1.48,
+        1.7
+      ]
+    },
+    {
+      "text": " task,",
+      "timestamp": [
+        1.7,
+        2.38
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        2.38,
+        2.62
+      ]
+    },
+    {
+      "text": " quietly",
+      "timestamp": [
+        2.62,
+        3.06
+      ]
+    },
+    {
+      "text": " hand",
+      "timestamp": [
+        3.06,
+        3.34
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        3.34,
+        3.48
+      ]
+    },
+    {
+      "text": " back.",
+      "timestamp": [
+        3.48,
+        4.16
+      ]
+    },
+    {
+      "text": " Here",
+      "timestamp": [
+        4.48,
+        4.52
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        4.52,
+        4.66
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        4.66,
+        4.76
+      ]
+    },
+    {
+      "text": " concrete",
+      "timestamp": [
+        4.76,
+        5.18
+      ]
+    },
+    {
+      "text": " way",
+      "timestamp": [
+        5.18,
+        5.48
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        5.48,
+        5.62
+      ]
+    },
+    {
+      "text": " check.",
+      "timestamp": [
+        5.62,
+        6.36
+      ]
+    },
+    {
+      "text": " Research",
+      "timestamp": [
+        6.78,
+        6.86
+      ]
+    },
+    {
+      "text": " these",
+      "timestamp": [
+        6.86,
+        7.14
+      ]
+    },
+    {
+      "text": " five",
+      "timestamp": [
+        7.14,
+        7.52
+      ]
+    },
+    {
+      "text": " repositories.",
+      "timestamp": [
+        7.52,
+        8.78
+      ]
+    },
+    {
+      "text": " Collect",
+      "timestamp": [
+        9.02,
+        9.1
+      ]
+    },
+    {
+      "text": " stars,",
+      "timestamp": [
+        9.1,
+        10.18
+      ]
+    },
+    {
+      "text": " license,",
+      "timestamp": [
+        10.18,
+        11.06
+      ]
+    },
+    {
+      "text": " language,",
+      "timestamp": [
+        11.06,
+        11.72
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        11.72,
+        12.02
+      ]
+    },
+    {
+      "text": " latest",
+      "timestamp": [
+        12.02,
+        12.32
+      ]
+    },
+    {
+      "text": " default",
+      "timestamp": [
+        12.32,
+        12.78
+      ]
+    },
+    {
+      "text": " branch",
+      "timestamp": [
+        12.78,
+        13.18
+      ]
+    },
+    {
+      "text": " update",
+      "timestamp": [
+        13.18,
+        13.7
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        13.7,
+        13.98
+      ]
+    },
+    {
+      "text": " source",
+      "timestamp": [
+        13.98,
+        14.22
+      ]
+    },
+    {
+      "text": " links.",
+      "timestamp": [
+        14.22,
+        15.04
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        15.26,
+        15.34
+      ]
+    },
+    {
+      "text": " agent",
+      "timestamp": [
+        15.34,
+        15.66
+      ]
+    },
+    {
+      "text": " must",
+      "timestamp": [
+        15.66,
+        15.9
+      ]
+    },
+    {
+      "text": " browse",
+      "timestamp": [
+        15.9,
+        16.24
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        16.24,
+        16.54
+      ]
+    },
+    {
+      "text": " actual",
+      "timestamp": [
+        16.54,
+        16.9
+      ]
+    },
+    {
+      "text": " pages.",
+      "timestamp": [
+        16.9,
+        17.8
+      ]
+    },
+    {
+      "text": " Record",
+      "timestamp": [
+        18.2,
+        18.3
+      ]
+    },
+    {
+      "text": " blocked",
+      "timestamp": [
+        18.3,
+        18.64
+      ]
+    },
+    {
+      "text": " access,",
+      "timestamp": [
+        18.64,
+        19.62
+      ]
+    },
+    {
+      "text": " recovery,",
+      "timestamp": [
+        19.62,
+        20.4
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        20.4,
+        20.56
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        20.56,
+        20.88
+      ]
+    },
+    {
+      "text": " moment",
+      "timestamp": [
+        20.88,
+        21.2
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        21.2,
+        21.36
+      ]
+    },
+    {
+      "text": " person",
+      "timestamp": [
+        21.36,
+        21.68
+      ]
+    },
+    {
+      "text": " steps",
+      "timestamp": [
+        21.68,
+        22.02
+      ]
+    },
+    {
+      "text": " in.",
+      "timestamp": [
+        22.02,
+        22.76
+      ]
+    },
+    {
+      "text": " Check",
+      "timestamp": [
+        22.92,
+        23.06
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        23.06,
+        23.26
+      ]
+    },
+    {
+      "text": " source",
+      "timestamp": [
+        23.26,
+        23.5
+      ]
+    },
+    {
+      "text": " behind",
+      "timestamp": [
+        23.5,
+        23.84
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        23.84,
+        24.28
+      ]
+    },
+    {
+      "text": " value.",
+      "timestamp": [
+        24.28,
+        25.1
+      ]
+    },
+    {
+      "text": " Last",
+      "timestamp": [
+        25.34,
+        25.44
+      ]
+    },
+    {
+      "text": " release",
+      "timestamp": [
+        25.44,
+        25.82
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        25.82,
+        26.08
+      ]
+    },
+    {
+      "text": " latest",
+      "timestamp": [
+        26.08,
+        26.32
+      ]
+    },
+    {
+      "text": " commit",
+      "timestamp": [
+        26.32,
+        26.66
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        26.66,
+        26.86
+      ]
+    },
+    {
+      "text": " different",
+      "timestamp": [
+        26.86,
+        27.18
+      ]
+    },
+    {
+      "text": " things.",
+      "timestamp": [
+        27.18,
+        28.0
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        28.0,
+        28.22
+      ]
+    },
+    {
+      "text": " table",
+      "timestamp": [
+        28.22,
+        28.56
+      ]
+    },
+    {
+      "text": " must",
+      "timestamp": [
+        28.56,
+        28.76
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        28.76,
+        28.96
+      ]
+    },
+    {
+      "text": " precise,",
+      "timestamp": [
+        28.96,
+        29.96
+      ]
+    },
+    {
+      "text": " judge",
+      "timestamp": [
+        29.96,
+        30.32
+      ]
+    },
+    {
+      "text": " correct",
+      "timestamp": [
+        30.32,
+        30.58
+      ]
+    },
+    {
+      "text": " fields,",
+      "timestamp": [
+        30.58,
+        31.52
+      ]
+    },
+    {
+      "text": " usable",
+      "timestamp": [
+        31.52,
+        31.8
+      ]
+    },
+    {
+      "text": " output,",
+      "timestamp": [
+        31.8,
+        32.62
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        32.62,
+        32.7
+      ]
+    },
+    {
+      "text": " interventions",
+      "timestamp": [
+        32.7,
+        33.18
+      ]
+    },
+    {
+      "text": " together,",
+      "timestamp": [
+        33.18,
+        34.12
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        34.32,
+        34.42
+      ]
+    },
+    {
+      "text": " filled",
+      "timestamp": [
+        34.42,
+        34.72
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        34.72,
+        34.88
+      ]
+    },
+    {
+      "text": " score",
+      "timestamp": [
+        34.88,
+        35.16
+      ]
+    },
+    {
+      "text": " until",
+      "timestamp": [
+        35.16,
+        35.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        35.5,
+        35.66
+      ]
+    },
+    {
+      "text": " recorded",
+      "timestamp": [
+        35.66,
+        36.0
+      ]
+    },
+    {
+      "text": " run",
+      "timestamp": [
+        36.0,
+        36.24
+      ]
+    },
+    {
+      "text": " exists.",
+      "timestamp": [
+        36.24,
+        37.24
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        37.24,
+        37.54
+      ]
+    },
+    {
+      "text": " addition",
+      "timestamp": [
+        37.54,
+        37.96
+      ]
+    },
+    {
+      "text": " shows",
+      "timestamp": [
+        37.96,
+        38.2
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        38.2,
+        38.46
+      ]
+    },
+    {
+      "text": " task",
+      "timestamp": [
+        38.46,
+        38.7
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        38.7,
+        38.98
+      ]
+    },
+    {
+      "text": " audit",
+      "timestamp": [
+        38.98,
+        39.26
+      ]
+    },
+    {
+      "text": " plan.",
+      "timestamp": [
+        39.26,
+        40.0
+      ]
+    },
+    {
+      "text": " What",
+      "timestamp": [
+        40.22,
+        40.34
+      ]
+    },
+    {
+      "text": " browser",
+      "timestamp": [
+        40.34,
+        40.58
+      ]
+    },
+    {
+      "text": " job",
+      "timestamp": [
+        40.58,
+        41.0
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        41.0,
+        41.2
+      ]
+    },
+    {
+      "text": " make",
+      "timestamp": [
+        41.2,
+        41.38
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        41.38,
+        41.56
+      ]
+    },
+    {
+      "text": " trust",
+      "timestamp": [
+        41.56,
+        41.84
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        41.84,
+        42.08
+      ]
+    },
+    {
+      "text": " agent?",
+      "timestamp": [
+        42.08,
+        42.54
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

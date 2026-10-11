@@ -1,0 +1,665 @@
+{
+  "fingerprint": "724f7dac4eec1b29938a2fd3315e74d30981fd8d4a9f691dfc0c24b374d7d7ff",
+  "recognizedText": " The test will compare Sterling PDF and Acrobat on seven clearly defined document jobs. Edit, Merge, Compress, OCR, Redact, Sign, and Reorder will each start from a fresh copy. Output Correctness comes before speed. Set up and any manual repair will stay in the record. The Redaction Check will search and copy the hidden text, then reopen the exported file, Task completion, OCR accuracy, compression quality, and redaction need actual output inspection. No winner is measured yet. The conclusion will name supported jobs and any remaining gap. Which PDF task would you check first?",
+  "words": [
+    {
+      "text": " The",
+      "timestamp": [
+        0.0,
+        0.2
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        0.2,
+        0.44
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        0.44,
+        0.6
+      ]
+    },
+    {
+      "text": " compare",
+      "timestamp": [
+        0.6,
+        0.92
+      ]
+    },
+    {
+      "text": " Sterling",
+      "timestamp": [
+        0.92,
+        1.44
+      ]
+    },
+    {
+      "text": " PDF",
+      "timestamp": [
+        1.44,
+        1.76
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        1.76,
+        2.2
+      ]
+    },
+    {
+      "text": " Acrobat",
+      "timestamp": [
+        2.2,
+        2.7
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        2.7,
+        2.96
+      ]
+    },
+    {
+      "text": " seven",
+      "timestamp": [
+        2.96,
+        3.3
+      ]
+    },
+    {
+      "text": " clearly",
+      "timestamp": [
+        3.3,
+        3.7
+      ]
+    },
+    {
+      "text": " defined",
+      "timestamp": [
+        3.7,
+        4.1
+      ]
+    },
+    {
+      "text": " document",
+      "timestamp": [
+        4.1,
+        4.64
+      ]
+    },
+    {
+      "text": " jobs.",
+      "timestamp": [
+        4.64,
+        5.36
+      ]
+    },
+    {
+      "text": " Edit,",
+      "timestamp": [
+        5.82,
+        6.38
+      ]
+    },
+    {
+      "text": " Merge,",
+      "timestamp": [
+        6.38,
+        7.3
+      ]
+    },
+    {
+      "text": " Compress,",
+      "timestamp": [
+        7.3,
+        8.36
+      ]
+    },
+    {
+      "text": " OCR,",
+      "timestamp": [
+        8.36,
+        9.46
+      ]
+    },
+    {
+      "text": " Redact,",
+      "timestamp": [
+        9.46,
+        10.18
+      ]
+    },
+    {
+      "text": " Sign,",
+      "timestamp": [
+        10.18,
+        10.82
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        10.82,
+        10.92
+      ]
+    },
+    {
+      "text": " Reorder",
+      "timestamp": [
+        10.92,
+        11.32
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        11.32,
+        11.58
+      ]
+    },
+    {
+      "text": " each",
+      "timestamp": [
+        11.58,
+        11.88
+      ]
+    },
+    {
+      "text": " start",
+      "timestamp": [
+        11.88,
+        12.14
+      ]
+    },
+    {
+      "text": " from",
+      "timestamp": [
+        12.14,
+        12.4
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        12.4,
+        12.5
+      ]
+    },
+    {
+      "text": " fresh",
+      "timestamp": [
+        12.5,
+        12.74
+      ]
+    },
+    {
+      "text": " copy.",
+      "timestamp": [
+        12.74,
+        13.68
+      ]
+    },
+    {
+      "text": " Output",
+      "timestamp": [
+        13.96,
+        14.14
+      ]
+    },
+    {
+      "text": " Correctness",
+      "timestamp": [
+        14.14,
+        14.68
+      ]
+    },
+    {
+      "text": " comes",
+      "timestamp": [
+        14.68,
+        14.9
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        14.9,
+        15.32
+      ]
+    },
+    {
+      "text": " speed.",
+      "timestamp": [
+        15.32,
+        16.24
+      ]
+    },
+    {
+      "text": " Set",
+      "timestamp": [
+        16.52,
+        16.56
+      ]
+    },
+    {
+      "text": " up",
+      "timestamp": [
+        16.56,
+        16.7
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        16.7,
+        16.9
+      ]
+    },
+    {
+      "text": " any",
+      "timestamp": [
+        16.9,
+        17.14
+      ]
+    },
+    {
+      "text": " manual",
+      "timestamp": [
+        17.14,
+        17.48
+      ]
+    },
+    {
+      "text": " repair",
+      "timestamp": [
+        17.48,
+        17.82
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        17.82,
+        18.06
+      ]
+    },
+    {
+      "text": " stay",
+      "timestamp": [
+        18.06,
+        18.34
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        18.34,
+        18.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        18.5,
+        18.6
+      ]
+    },
+    {
+      "text": " record.",
+      "timestamp": [
+        18.6,
+        19.26
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        19.48,
+        19.54
+      ]
+    },
+    {
+      "text": " Redaction",
+      "timestamp": [
+        19.54,
+        19.96
+      ]
+    },
+    {
+      "text": " Check",
+      "timestamp": [
+        19.96,
+        20.22
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        20.22,
+        20.44
+      ]
+    },
+    {
+      "text": " search",
+      "timestamp": [
+        20.44,
+        20.7
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        20.7,
+        20.96
+      ]
+    },
+    {
+      "text": " copy",
+      "timestamp": [
+        20.96,
+        21.28
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        21.28,
+        21.48
+      ]
+    },
+    {
+      "text": " hidden",
+      "timestamp": [
+        21.48,
+        21.68
+      ]
+    },
+    {
+      "text": " text,",
+      "timestamp": [
+        21.68,
+        22.4
+      ]
+    },
+    {
+      "text": " then",
+      "timestamp": [
+        22.4,
+        22.68
+      ]
+    },
+    {
+      "text": " reopen",
+      "timestamp": [
+        22.68,
+        23.04
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        23.04,
+        23.3
+      ]
+    },
+    {
+      "text": " exported",
+      "timestamp": [
+        23.3,
+        23.58
+      ]
+    },
+    {
+      "text": " file,",
+      "timestamp": [
+        23.58,
+        27.48
+      ]
+    },
+    {
+      "text": " Task",
+      "timestamp": [
+        24.4,
+        24.78
+      ]
+    },
+    {
+      "text": " completion,",
+      "timestamp": [
+        24.78,
+        25.82
+      ]
+    },
+    {
+      "text": " OCR",
+      "timestamp": [
+        25.82,
+        26.2
+      ]
+    },
+    {
+      "text": " accuracy,",
+      "timestamp": [
+        26.2,
+        27.38
+      ]
+    },
+    {
+      "text": " compression",
+      "timestamp": [
+        27.38,
+        27.66
+      ]
+    },
+    {
+      "text": " quality,",
+      "timestamp": [
+        27.66,
+        28.46
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        28.46,
+        28.54
+      ]
+    },
+    {
+      "text": " redaction",
+      "timestamp": [
+        28.54,
+        29.04
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        29.04,
+        29.38
+      ]
+    },
+    {
+      "text": " actual",
+      "timestamp": [
+        29.38,
+        29.88
+      ]
+    },
+    {
+      "text": " output",
+      "timestamp": [
+        29.88,
+        30.26
+      ]
+    },
+    {
+      "text": " inspection.",
+      "timestamp": [
+        30.26,
+        31.28
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        31.48,
+        31.62
+      ]
+    },
+    {
+      "text": " winner",
+      "timestamp": [
+        31.62,
+        31.88
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        31.88,
+        32.08
+      ]
+    },
+    {
+      "text": " measured",
+      "timestamp": [
+        32.08,
+        32.38
+      ]
+    },
+    {
+      "text": " yet.",
+      "timestamp": [
+        32.38,
+        33.02
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        33.02,
+        33.14
+      ]
+    },
+    {
+      "text": " conclusion",
+      "timestamp": [
+        33.14,
+        33.5
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        33.5,
+        33.76
+      ]
+    },
+    {
+      "text": " name",
+      "timestamp": [
+        33.76,
+        33.98
+      ]
+    },
+    {
+      "text": " supported",
+      "timestamp": [
+        33.98,
+        34.4
+      ]
+    },
+    {
+      "text": " jobs",
+      "timestamp": [
+        34.4,
+        34.76
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        34.76,
+        35.12
+      ]
+    },
+    {
+      "text": " any",
+      "timestamp": [
+        35.12,
+        35.42
+      ]
+    },
+    {
+      "text": " remaining",
+      "timestamp": [
+        35.42,
+        35.76
+      ]
+    },
+    {
+      "text": " gap.",
+      "timestamp": [
+        35.76,
+        36.46
+      ]
+    },
+    {
+      "text": " Which",
+      "timestamp": [
+        36.74,
+        36.82
+      ]
+    },
+    {
+      "text": " PDF",
+      "timestamp": [
+        36.82,
+        37.16
+      ]
+    },
+    {
+      "text": " task",
+      "timestamp": [
+        37.16,
+        37.54
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        37.54,
+        37.8
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        37.8,
+        37.94
+      ]
+    },
+    {
+      "text": " check",
+      "timestamp": [
+        37.94,
+        38.16
+      ]
+    },
+    {
+      "text": " first?",
+      "timestamp": [
+        38.16,
+        38.86
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

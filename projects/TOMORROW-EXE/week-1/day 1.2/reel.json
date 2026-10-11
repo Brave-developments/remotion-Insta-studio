@@ -1,0 +1,217 @@
+{
+  "id": "D01R2",
+  "day": 1,
+  "reelNumber": 2,
+  "title": "Your AI Went to Work",
+  "format": "Future Story",
+  "durationSeconds": 48,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "It is 2032. You are late for work. Nobody noticed. Your AI joined the morning meeting, answered three messages, and repaired the spreadsheet you forgot about. On the train, you read a summary of a conversation you never had. Your manager says the presentation was excellent. You say thanks, then open the file for the first time. At five, HR asks a new question: which hours were yours, and which belonged to the agent? The work got done. But if the AI did your shift, who gets paid?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 88,
+  "estimatedWpm": 110,
+  "concept": "Your AI joins a meeting, fixes a spreadsheet and drafts replies; HR asks who did the work.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "It is 2032. You are late for work. Nobody noticed.",
+    "You missed the meeting. Your AI did not.",
+    "Your manager loved work you have not opened yet."
+  ],
+  "strongestHook": "It is 2032. You are late for work. Nobody noticed.",
+  "directorBrief": "Direct this as a human story about Your AI joins a meeting, fixes a spreadsheet and drafts replies; HR asks who did the work. Emotional movement: surprise → fairness. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Medium",
+  "effort": "60–120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify real agent capabilities; employee proxy and HR events are fiction.",
+  "sources": [],
+  "thumbnail": "Your AI Clocked In",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Your AI Clocked In” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "The work got done. But if the AI did your shift, who gets paid?",
+  "cta": "WHO GETS PAID?",
+  "instagramCaption": "Your AI Went to Work. A possible future, grounded in present technology. The dates and scenario are fictional. The work got done. But if the AI did your shift, who gets paid?",
+  "tiktokCaption": "Your AI Went to Work. WHO GETS PAID? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88–104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Bedroom, office, task log, meeting UI, employee badge.",
+  "scenes": [
+    {
+      "id": "D01R2-S1",
+      "start": 0,
+      "end": 5.633333333333334,
+      "type": "hook",
+      "text": "2032 · A POSSIBLE FUTURE",
+      "narration": "It is 2032. You are late for work. Nobody noticed.",
+      "concept": "Alarm clock, empty side of bed, office reflected in phone glass.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d01r2/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Alarm clock, empty side of bed, office reflected in phone glass.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "It is 2032. You are late",
+        "for work. Nobody noticed."
+      ]
+    },
+    {
+      "id": "D01R2-S2",
+      "start": 5.633333333333334,
+      "end": 14.3,
+      "type": "workflow",
+      "text": "YOUR SHIFT STARTED WITHOUT YOU",
+      "narration": "Your AI joined the morning meeting, answered three messages, and repaired the spreadsheet you forgot about.",
+      "concept": "Fictional task log reveals three actions, one at a time.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional task log reveals three actions, one at a time.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Your AI joined the morning meeting,",
+        "answered three messages, and repaired the",
+        "spreadsheet you forgot about."
+      ]
+    },
+    {
+      "id": "D01R2-S3",
+      "start": 14.3,
+      "end": 21.433333333333334,
+      "type": "phone",
+      "text": "YOU WERE THERE. APPARENTLY.",
+      "narration": "On the train, you read a summary of a conversation you never had.",
+      "concept": "Train window parallax behind a clearly fictional meeting summary.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Train window parallax behind a clearly fictional meeting summary.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "On the train, you read a",
+        "summary of a conversation you never had."
+      ]
+    },
+    {
+      "id": "D01R2-S4",
+      "start": 21.433333333333334,
+      "end": 31.133333333333333,
+      "type": "cinematic",
+      "text": "FIRST TIME OPENING IT",
+      "narration": "Your manager says the presentation was excellent. You say thanks, then open the file for the first time.",
+      "concept": "Employee hand pauses over trackpad; presentation already marked delivered.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d01r2/s4.png",
+      "plannedAssetType": "image",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Employee hand pauses over trackpad; presentation already marked delivered.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Your manager says the presentation was",
+        "excellent. You say thanks, then open",
+        "the file for the first time."
+      ]
+    },
+    {
+      "id": "D01R2-S5",
+      "start": 31.133333333333333,
+      "end": 40.333333333333336,
+      "type": "result",
+      "text": "WHO DID THE WORK?",
+      "narration": "At five, HR asks a new question: which hours were yours, and which belonged to the agent?",
+      "concept": "Employee badge becomes two separate time entries, with no numerical pay claim.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Employee badge becomes two separate time entries, with no numerical pay claim.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "At five, HR asks a new",
+        "question: which hours were yours, and",
+        "which belonged to the agent?"
+      ]
+    },
+    {
+      "id": "D01R2-S6",
+      "start": 40.333333333333336,
+      "end": 48,
+      "type": "question",
+      "text": "WHO GETS PAID?",
+      "narration": "The work got done. But if the AI did your shift, who gets paid?",
+      "concept": "Badge remains suspended; slow pull back and a one-second unresolved hold.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Badge remains suspended; slow pull back and a one-second unresolved hold.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "The work got done. But if",
+        "the AI did your shift, who",
+        "gets paid?"
+      ]
+    }
+  ]
+}

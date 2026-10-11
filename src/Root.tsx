@@ -1,0 +1,100 @@
+import React from 'react';
+import {Composition} from 'remotion';
+import {Main} from './Main';
+import {Reel} from './video/Reel';
+import {FPS, HEIGHT, TOTAL_FRAMES, WIDTH} from './video/data/reel';
+import {
+  DEFAULT_COMPOSITION_ID,
+  DEFAULT_DURATION_IN_FRAMES,
+  DEFAULT_FPS,
+  HEIGHT as SCRATCH_HEIGHT,
+  WIDTH as SCRATCH_WIDTH,
+} from './config';
+import {
+  ResourceHubPromo,
+  RESOURCE_HUB_PROMO_ID,
+  RESOURCE_HUB_PROMO_DURATION,
+} from './promo/compositions/ResourceHubPromo';
+import {
+  ResourceHubPromo30,
+  RESOURCE_HUB_PROMO30_ID,
+} from './promo/compositions/ResourceHubPromo30';
+import {
+  ResourceHubReel,
+  RESOURCE_HUB_REEL_ID,
+} from './promo/compositions/ResourceHubReel';
+import {
+  ResourceHubHeroLoop,
+  RESOURCE_HUB_HERO_LOOP_ID,
+} from './promo/compositions/ResourceHubHeroLoop';
+import {PROMO, CUT30_TOTAL} from './promo/config';
+
+export const REEL_ID = 'Reel';
+
+export const RemotionRoot: React.FC = () => {
+  return (
+    <>
+      {/* Primary deliverable: 1080x1920, 30fps, exactly 60s. */}
+      <Composition
+        id={REEL_ID}
+        component={Reel}
+        durationInFrames={TOTAL_FRAMES}
+        fps={FPS}
+        width={WIDTH}
+        height={HEIGHT}
+      />
+
+      {/* ═══ FiveM Resource Hub — promo campaign (shared scenes/timeline) ═══ */}
+      {/* Master: 1920x1080, 30fps, 66s — full storyboard */}
+      <Composition
+        id={RESOURCE_HUB_PROMO_ID}
+        component={ResourceHubPromo}
+        durationInFrames={RESOURCE_HUB_PROMO_DURATION}
+        fps={PROMO.fps}
+        width={PROMO.width}
+        height={PROMO.height}
+      />
+      {/* 30s ad/Discord cut — same components, compressed beats */}
+      <Composition
+        id={RESOURCE_HUB_PROMO30_ID}
+        component={ResourceHubPromo30}
+        durationInFrames={CUT30_TOTAL}
+        fps={PROMO.fps}
+        width={PROMO.width}
+        height={PROMO.height}
+      />
+      {/* 1080x1920 Reel/TikTok — same timeline through a 9:16 camera track */}
+      <Composition
+        id={RESOURCE_HUB_REEL_ID}
+        component={ResourceHubReel}
+        durationInFrames={RESOURCE_HUB_PROMO_DURATION}
+        fps={PROMO.fps}
+        width={1080}
+        height={1920}
+      />
+      {/* ~10s silent website hero loop — homepage search + trending, no captions */}
+      <Composition
+        id={RESOURCE_HUB_HERO_LOOP_ID}
+        component={ResourceHubHeroLoop}
+        durationInFrames={300}
+        fps={PROMO.fps}
+        width={1920}
+        height={1080}
+      />
+
+      {/* Scratch composition from the initial scaffold. */}
+      <Composition
+        id={DEFAULT_COMPOSITION_ID}
+        component={Main}
+        durationInFrames={DEFAULT_DURATION_IN_FRAMES}
+        fps={DEFAULT_FPS}
+        width={SCRATCH_WIDTH}
+        height={SCRATCH_HEIGHT}
+        defaultProps={{
+          title: 'Hello from Remotion',
+          subtitle: 'Edit src/Main.tsx to change this',
+        }}
+      />
+    </>
+  );
+};

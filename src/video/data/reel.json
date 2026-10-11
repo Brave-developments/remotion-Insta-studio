@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "title": "The AI Agent Era",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 60,
+    "leadFrames": 10,
+    "timingSource": "Editorial pacing derived from the supplied narration text. No audio file was supplied, so these are not transcribed word timestamps."
+  },
+  "scenes": [
+    {
+      "id": "s01-ai-changes",
+      "type": "particle",
+      "start": 0,
+      "end": 3.0,
+      "narration": "AI is changing again.",
+      "concept": "Giant cropped AI letters are pushed through by the camera, then break apart into drifting particles that begin to form a network.",
+      "assets": ["ai"],
+      "accent": "violet",
+      "enter": "scale",
+      "word": "AI",
+      "captionAnchor": "bottom",
+      "captionStyle": "weight",
+      "transitionOut": "letters-form-nodes"
+    },
+    {
+      "id": "s02-not-chatbot",
+      "type": "chat",
+      "start": 3.0,
+      "end": 6.5,
+      "narration": "And this time, it's not about getting a smarter chatbot.",
+      "concept": "A chat window fills with questions and canned answers until it is visibly stuck inside its own frame; the frame is then locked with a crossbar.",
+      "assets": ["chatbot"],
+      "accent": "coral",
+      "enter": "left",
+      "title": "Chatbot",
+      "messages": [
+        {"from": "user", "text": "what's the best laptop?"},
+        {"from": "bot", "text": "It depends on your needs."},
+        {"from": "user", "text": "which one though?"},
+        {"from": "bot", "text": "Both are solid options."}
+      ],
+      "verdict": "smarter chatbot",
+      "captionAnchor": "top",
+      "captionStyle": "tint",
+      "transitionOut": "bubble-shrinks-to-node"
+    },
+    {
+      "id": "s03-ai-agent",
+      "type": "network",
+      "start": 6.5,
+      "end": 10.5,
+      "narration": "The next big thing is called an AI agent.",
+      "concept": "The chat bubble from the previous scene collapses into a single node, which becomes the centre of an agent network that draws its own connections.",
+      "assets": ["conversation"],
+      "accent": "violet",
+      "enter": "scale",
+      "variant": "network",
+      "center": "agent",
+      "title": "an AI agent",
+      "nodes": [
+        {"label": "Browser", "icon": "browser"},
+        {"label": "Code", "icon": "code"},
+        {"label": "Email", "icon": "mail"},
+        {"label": "Calendar", "icon": "calendar-event"},
+        {"label": "Files", "icon": "folder"},
+        {"label": "Data", "icon": "chart-bar"}
+      ],
+      "captionAnchor": "bottom-left",
+      "captionStyle": "underline",
+      "transitionOut": "node-expands-to-pipeline"
+    },
+    {
+      "id": "s04-does-work",
+      "type": "diagram",
+      "start": 10.5,
+      "end": 15.0,
+      "narration": "Instead of waiting for you to ask a question, it can actually do the work for you.",
+      "concept": "A queue of unanswered question marks drains away while a live task pipeline beside it picks up work, step by step, without any human input.",
+      "assets": ["search"],
+      "accent": "amber",
+      "enter": "right",
+      "title": "waiting for you",
+      "queued": ["?", "?", "?", "?"],
+      "steps": [
+        {"label": "Read the brief", "icon": "file-text"},
+        {"label": "Gather sources", "icon": "world"},
+        {"label": "Draft the output", "icon": "send"}
+      ],
+      "captionAnchor": "bottom",
+      "captionStyle": "underline",
+      "transitionOut": "pipeline-exits-into-cursor"
+    },
+    {
+      "id": "s05-research",
+      "type": "browser",
+      "start": 15.0,
+      "end": 20.5,
+      "narration": "Imagine telling AI: \u201cResearch the best laptop under $1,500.\u201d",
+      "concept": "A browser enters, the cursor travels into the AI box and clicks, the request is typed character by character in time with the narration, then Enter is pressed and the agent starts working.",
+      "assets": [],
+      "accent": "blue",
+      "enter": "scale",
+      "url": "agent.run/research",
+      "prompt": "Research the best laptop under $1,500.",
+      "steps": ["Reading 24 reviews", "Comparing 6 products", "Building shortlist"],
+      "results": [
+        {"name": "AeroBook Pro 14", "spec": "16GB - 512GB SSD - 14-inch", "price": "$1,399", "score": 94, "best": true},
+        {"name": "NovaBook Air 13", "spec": "16GB - 512GB SSD - 13-inch", "price": "$1,149", "score": 88},
+        {"name": "Titan 15 Studio", "spec": "32GB - 1TB SSD - 15-inch", "price": "$1,499", "score": 82}
+      ],
+      "captionAnchor": "top",
+      "captionStyle": "weight",
+      "transitionOut": "results-become-cards"
+    },
+    {
+      "id": "s06-agent-actions",
+      "type": "taskflow",
+      "start": 20.5,
+      "end": 26.0,
+      "narration": "Instead of just giving you advice, it can browse websites, compare products, organise the results and prepare everything for you.",
+      "concept": "The browser cycles through real tabs while a task list ticks itself off, then the shortlisted laptops fan out as cut-out objects with prices and specs counting into place.",
+      "assets": ["folders", "chart", "contract"],
+      "accent": "green",
+      "enter": "left",
+      "tabs": ["reviews", "compare", "shortlist", "report"],
+      "tasks": [
+        {"label": "Browse websites", "icon": "browser"},
+        {"label": "Compare products", "icon": "table"},
+        {"label": "Organise results", "icon": "stack-2"},
+        {"label": "Prepare everything", "icon": "checks"}
+      ],
+      "compare": [
+        {"name": "AeroBook Pro 14", "price": 1399, "spec": "16GB / 512GB", "best": true},
+        {"name": "NovaBook Air 13", "price": 1149, "spec": "16GB / 512GB"},
+        {"name": "Titan 15 Studio", "price": 1499, "spec": "32GB / 1TB"}
+      ],
+      "captionAnchor": "top-left",
+      "captionStyle": "tint",
+      "transitionOut": "report-check-becomes-badge"
+    },
+    {
+      "id": "s07-already",
+      "type": "kinetic",
+      "start": 26.0,
+      "end": 28.5,
+      "narration": "And we're already seeing this happen.",
+      "concept": "A short bridging beat: the word 'already' is underlined by a sweeping accent rule while the report badge from the previous scene holds its position.",
+      "assets": [],
+      "accent": "violet",
+      "enter": "scale",
+      "text": "we're already seeing this",
+      "highlight": "already",
+      "captionAnchor": "bottom",
+      "captionStyle": "underline",
+      "transitionOut": "badge-becomes-live-dot"
+    },
+    {
+      "id": "s08-openai",
+      "type": "device",
+      "start": 28.5,
+      "end": 32.0,
+      "narration": "OpenAI is building always-on agents.",
+      "concept": "An application window opens with agents listed as continuously running jobs, a progress ring ticking over and a live pulse that never stops.",
+      "assets": ["computer-fix"],
+      "accent": "green",
+      "enter": "up",
+      "app": "OpenAI",
+      "badge": "Always on",
+      "ring": {"label": "uptime", "value": 97},
+      "rows": ["Deep research agent", "Browser control agent", "Scheduled nightly run"],
+      "metrics": [
+        {"label": "Active agents", "value": "12"},
+        {"label": "Tasks today", "value": "348"}
+      ],
+      "captionAnchor": "top",
+      "captionStyle": "tint",
+      "transitionOut": "window-expands-into-hub"
+    },
+    {
+      "id": "s09-copilot-os",
+      "type": "network",
+      "start": 32.0,
+      "end": 36.5,
+      "narration": "Microsoft is turning Copilot into something closer to an operating system for work.",
+      "concept": "Scattered work applications are pulled into orbit around one Copilot hub, wiring themselves in as an operating system layer rather than a chat panel.",
+      "assets": ["hybrid-work"],
+      "accent": "blue",
+      "enter": "right",
+      "variant": "hub",
+      "center": "Copilot",
+      "caption": "an operating system for work",
+      "nodes": [
+        {"label": "Mail", "icon": "mail"},
+        {"label": "Docs", "icon": "file-text"},
+        {"label": "Calendar", "icon": "calendar-event"},
+        {"label": "Data", "icon": "chart-bar"},
+        {"label": "Chat", "icon": "message-2"},
+        {"label": "Files", "icon": "folder"}
+      ],
+      "captionAnchor": "top",
+      "captionStyle": "box",
+      "transitionOut": "hub-splits-into-lanes"
+    },
+    {
+      "id": "s10-race",
+      "type": "race",
+      "start": 36.5,
+      "end": 39.5,
+      "narration": "And almost every major AI company is racing in the same direction.",
+      "concept": "Every company becomes a lane accelerating toward the same finish line on the right of frame, collapsing into a single arrow at the moment of arrival.",
+      "assets": ["dart"],
+      "accent": "amber",
+      "enter": "left",
+      "goal": "the same direction",
+      "runners": [
+        {"label": "OpenAI", "pct": 96},
+        {"label": "Microsoft", "pct": 92},
+        {"label": "Google", "pct": 88},
+        {"label": "Anthropic", "pct": 85},
+        {"label": "Meta", "pct": 78}
+      ],
+      "captionAnchor": "bottom",
+      "captionStyle": "weight",
+      "transitionOut": "lanes-converge-to-comparison"
+    },
+    {
+      "id": "s11-difference",
+      "type": "comparison",
+      "start": 39.5,
+      "end": 45.0,
+      "narration": "The important difference is simple: Chatbots answer questions. Agents complete tasks.",
+      "concept": "On the left a chat conversation piles up and stays trapped in one window. On the right a single task leaves that window, travels through Browser, Code, Email and Calendar — each lighting up — and lands as a completed checkmark.",
+      "assets": ["message"],
+      "accent": "green",
+      "enter": "scale",
+      "left": {
+        "title": "Chatbots answer questions",
+        "items": ["question", "answer", "question", "answer"]
+      },
+      "right": {
+        "title": "Agents complete tasks",
+        "steps": [
+          {"label": "Browser", "icon": "browser"},
+          {"label": "Code", "icon": "code"},
+          {"label": "Email", "icon": "mail"},
+          {"label": "Calendar", "icon": "calendar-check"}
+        ]
+      },
+      "verdict": "task complete",
+      "captionAnchor": "top",
+      "captionStyle": "underline",
+      "transitionOut": "checkmark-holds-through-cut"
+    },
+    {
+      "id": "s12-capabilities",
+      "type": "code",
+      "start": 45.0,
+      "end": 50.0,
+      "narration": "Coding. Research. Emails. Documents. Scheduling. Data analysis. Even controlling software.",
+      "concept": "A real editor types a single meaningful line with syntax highlighting while the capability icons below illuminate one by one as each word is spoken.",
+      "assets": ["version-control"],
+      "accent": "violet",
+      "enter": "up",
+      "file": "agent.ts",
+      "lines": [
+        {"t": "const ", "k": "kw"},
+        {"t": "agent ", "k": "fn"},
+        {"t": "= ", "k": "op"},
+        {"t": "createAgent", "k": "call"},
+        {"t": "({", "k": "op"},
+        {"t": "\n  tasks: ", "k": "prop"},
+        {"t": "[coding, research, mail, docs, calendar, data]", "k": "str"},
+        {"t": ",\n  mode: ", "k": "prop"},
+        {"t": "\"autonomous\"", "k": "str"},
+        {"t": ",\n})", "k": "op"}
+      ],
+      "capabilities": [
+        {"label": "Coding", "icon": "code"},
+        {"label": "Research", "icon": "search"},
+        {"label": "Emails", "icon": "mail"},
+        {"label": "Documents", "icon": "file-text"},
+        {"label": "Scheduling", "icon": "calendar-event"},
+        {"label": "Data analysis", "icon": "chart-bar"},
+        {"label": "Controlling software", "icon": "adjustments"}
+      ],
+      "captionAnchor": "top-left",
+      "captionStyle": "tint",
+      "transitionOut": "editor-minimises-to-input"
+    },
+    {
+      "id": "s13-one-command",
+      "type": "apps",
+      "start": 50.0,
+      "end": 55.5,
+      "narration": "Soon, you might not open ten different apps to complete a job. You'll simply tell your AI what you want finished.",
+      "concept": "Ten separate app tiles sit on screen, then get pulled one by one into a single command line where the request is typed and submitted with a key press.",
+      "assets": ["folders"],
+      "accent": "blue",
+      "enter": "scale",
+      "from": 10,
+      "to": 1,
+      "command": "finish the Q3 report",
+      "labels": ["apps to finish one job", "one sentence"],
+      "tiles": ["Mail", "Docs", "Chat", "Code", "Sheets", "Slides", "Cal", "Notes", "Tasks", "CRM"],
+      "captionAnchor": "bottom",
+      "captionStyle": "box",
+      "transitionOut": "input-becomes-title"
+    },
+    {
+      "id": "s14-outro",
+      "type": "outro",
+      "start": 55.5,
+      "end": 60.0,
+      "narration": "The chatbot era was only the beginning. The AI agent era is here.",
+      "concept": "The chat window that opened the film shrinks into a node inside a much larger live network, and the closing line lands over it.",
+      "assets": ["good-news"],
+      "accent": "violet",
+      "enter": "up",
+      "phases": [
+        {"text": "the chatbot era was only the beginning", "tone": "muted"},
+        {"text": "the AI agent era is here", "highlight": "AI agent", "tone": "bright"}
+      ],
+      "captionAnchor": "bottom",
+      "captionStyle": "weight",
+      "transitionOut": "end"
+    }
+  ],
+  "captions": [
+    {"start": 0.3, "end": 3.0, "words": [{"text": "AI"}, {"text": "is"}, {"text": "changing", "hl": true}, {"text": "again"}]},
+
+    {"start": 3.0, "end": 4.5, "words": [{"text": "And"}, {"text": "this"}, {"text": "time"}, {"text": "it's"}, {"text": "not"}, {"text": "about"}]},
+    {"start": 4.5, "end": 6.5, "words": [{"text": "getting"}, {"text": "a"}, {"text": "smarter"}, {"text": "chatbot.", "hl": true}]},
+
+    {"start": 6.5, "end": 8.2, "words": [{"text": "The"}, {"text": "next"}, {"text": "big"}, {"text": "thing"}]},
+    {"start": 8.2, "end": 10.5, "words": [{"text": "is"}, {"text": "called"}, {"text": "an"}, {"text": "AI"}, {"text": "agent", "hl": true}]},
+
+    {"start": 10.5, "end": 12.2, "words": [{"text": "Instead"}, {"text": "of"}, {"text": "waiting"}, {"text": "for"}, {"text": "you"}]},
+    {"start": 12.2, "end": 13.4, "words": [{"text": "to"}, {"text": "ask"}, {"text": "a"}, {"text": "question"}]},
+    {"start": 13.4, "end": 15.0, "words": [{"text": "it"}, {"text": "can"}, {"text": "actually"}, {"text": "do"}, {"text": "the"}, {"text": "work", "hl": true}]},
+
+    {"start": 15.0, "end": 16.4, "words": [{"text": "Imagine"}, {"text": "telling"}, {"text": "AI"}]},
+    {"start": 16.4, "end": 17.6, "words": [{"text": "Research", "hl": true}, {"text": "the"}, {"text": "best"}]},
+    {"start": 17.6, "end": 20.5, "words": [{"text": "laptop"}, {"text": "under"}, {"text": "$1,500", "hl": true}]},
+
+    {"start": 20.5, "end": 22.0, "words": [{"text": "Instead"}, {"text": "of"}, {"text": "just"}, {"text": "giving"}, {"text": "you"}, {"text": "advice"}]},
+    {"start": 22.0, "end": 23.3, "words": [{"text": "it"}, {"text": "can"}, {"text": "browse", "hl": true}, {"text": "websites"}]},
+    {"start": 23.3, "end": 24.6, "words": [{"text": "compare"}, {"text": "products"}, {"text": "organise"}, {"text": "results"}]},
+    {"start": 24.6, "end": 26.0, "words": [{"text": "and"}, {"text": "prepare", "hl": true}, {"text": "everything"}, {"text": "for"}, {"text": "you"}]},
+
+    {"start": 26.0, "end": 28.5, "words": [{"text": "We're"}, {"text": "already", "hl": true}, {"text": "seeing"}, {"text": "this"}, {"text": "happen"}]},
+
+    {"start": 28.5, "end": 32.0, "words": [{"text": "OpenAI"}, {"text": "is"}, {"text": "building"}, {"text": "always-on", "hl": true}, {"text": "agents"}]},
+
+    {"start": 32.0, "end": 33.6, "words": [{"text": "Microsoft"}, {"text": "is"}, {"text": "turning"}, {"text": "Copilot"}]},
+    {"start": 33.6, "end": 35.0, "words": [{"text": "into"}, {"text": "something"}, {"text": "closer"}, {"text": "to"}]},
+    {"start": 35.0, "end": 36.5, "words": [{"text": "an"}, {"text": "operating", "hl": true}, {"text": "system"}, {"text": "for"}, {"text": "work"}]},
+
+    {"start": 36.5, "end": 38.0, "words": [{"text": "almost"}, {"text": "every"}, {"text": "major"}, {"text": "AI"}, {"text": "company"}]},
+    {"start": 38.0, "end": 39.5, "words": [{"text": "racing", "hl": true}, {"text": "in"}, {"text": "the"}, {"text": "same"}, {"text": "direction"}]},
+
+    {"start": 39.5, "end": 41.2, "words": [{"text": "The"}, {"text": "important"}, {"text": "difference"}, {"text": "is"}, {"text": "simple"}]},
+    {"start": 41.2, "end": 43.0, "words": [{"text": "Chatbots"}, {"text": "answer", "hl": true}, {"text": "questions"}]},
+    {"start": 43.0, "end": 45.0, "words": [{"text": "Agents"}, {"text": "complete", "hl": true}, {"text": "tasks"}]},
+
+    {"start": 45.0, "end": 46.6, "words": [{"text": "Coding"}, {"text": "research"}, {"text": "emails"}]},
+    {"start": 46.6, "end": 48.2, "words": [{"text": "documents"}, {"text": "scheduling"}, {"text": "data"}]},
+    {"start": 48.2, "end": 50.0, "words": [{"text": "analysis"}, {"text": "even"}, {"text": "controlling", "hl": true}, {"text": "software"}]},
+
+    {"start": 50.0, "end": 51.3, "words": [{"text": "Soon"}, {"text": "you"}, {"text": "might"}, {"text": "not"}, {"text": "open"}]},
+    {"start": 51.3, "end": 52.5, "words": [{"text": "ten", "hl": true}, {"text": "different"}, {"text": "apps"}]},
+    {"start": 52.5, "end": 53.6, "words": [{"text": "to"}, {"text": "complete"}, {"text": "a"}, {"text": "job"}]},
+    {"start": 53.6, "end": 55.5, "words": [{"text": "tell"}, {"text": "your"}, {"text": "AI"}, {"text": "what"}, {"text": "you"}, {"text": "want"}, {"text": "finished"}]},
+
+    {"start": 55.5, "end": 57.6, "words": [{"text": "The"}, {"text": "chatbot"}, {"text": "era"}, {"text": "was"}, {"text": "only"}, {"text": "the"}, {"text": "beginning"}]},
+    {"start": 57.6, "end": 60.0, "words": [{"text": "The"}, {"text": "AI"}, {"text": "agent", "hl": true}, {"text": "era"}, {"text": "is"}, {"text": "here"}]}
+  ]
+}

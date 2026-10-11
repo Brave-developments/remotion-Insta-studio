@@ -1,0 +1,224 @@
+{
+  "id": "D06R2",
+  "day": 6,
+  "reelNumber": 2,
+  "title": "The City Without Parking",
+  "format": "Future Story",
+  "durationSeconds": 44,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "It is 2032. Your city starts demolishing a parking garage. The residents expect another tower. The plan shows homes, a clinic, and a small public square. In this version of the future, shared autonomous rides need fewer places to wait. Concrete disappears. A tree arrives. The old entrance becomes a path to a playground. Then a neighbour asks who this new space is actually for. Better transport did not settle the housing debate. If your city needed less parking, what would you put in its place?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 86,
+  "estimatedWpm": 117,
+  "concept": "Parking becomes housing, a clinic, trees and a playground.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "It is 2032. Your city starts demolishing a parking garage.",
+    "This parking garage becomes a playground.",
+    "What would your city do with the space cars leave behind?"
+  ],
+  "strongestHook": "It is 2032. Your city starts demolishing a parking garage.",
+  "directorBrief": "Direct this as a human story about Parking becomes housing, a clinic, trees and a playground. Emotional movement: hope → public benefit. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Hard",
+  "effort": "60–120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "City transformation is fictional; do not claim robotaxis have already caused this.",
+  "sources": [
+    {
+      "label": "Waymo rides",
+      "url": "https://waymo.com/rides/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "A City Without Parking",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “A City Without Parking” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "If your city needed less parking, what would you put in its place?",
+  "cta": "WHAT WOULD YOU BUILD?",
+  "instagramCaption": "The City Without Parking. A possible future, grounded in present technology. The dates and scenario are fictional. If your city needed less parking, what would you put in its place?",
+  "tiktokCaption": "The City Without Parking. WHAT WOULD YOU BUILD? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88–104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Matched parking/plaza images, city map, playground.",
+  "scenes": [
+    {
+      "id": "D06R2-S1",
+      "start": 0,
+      "end": 5.266666666666667,
+      "type": "hook",
+      "text": "2032 · A POSSIBLE FUTURE",
+      "narration": "It is 2032. Your city starts demolishing a parking garage.",
+      "concept": "Original garage image; fixed camera establishes the location.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d06r2/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Original garage image; fixed camera establishes the location.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "It is 2032. Your city starts",
+        "demolishing a parking garage."
+      ]
+    },
+    {
+      "id": "D06R2-S2",
+      "start": 5.266666666666667,
+      "end": 13.4,
+      "type": "workflow",
+      "text": "A DIFFERENT USE FOR THE SPACE",
+      "narration": "The residents expect another tower. The plan shows homes, a clinic, and a small public square.",
+      "concept": "Fictional site plan overlays the same footprint; reveal three uses.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional site plan overlays the same footprint; reveal three uses.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The residents expect another tower. The",
+        "plan shows homes, a clinic, and",
+        "a small public square."
+      ]
+    },
+    {
+      "id": "D06R2-S3",
+      "start": 13.4,
+      "end": 20.566666666666666,
+      "type": "cinematic",
+      "text": "IN THIS POSSIBLE FUTURE",
+      "narration": "In this version of the future, shared autonomous rides need fewer places to wait.",
+      "concept": "Route diagram beside the site plan; avoid claiming a proven urban effect.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d06r2/s3.png",
+      "plannedAssetType": "image",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Route diagram beside the site plan; avoid claiming a proven urban effect.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "In this version of the future,",
+        "shared autonomous rides need fewer places",
+        "to wait."
+      ]
+    },
+    {
+      "id": "D06R2-S4",
+      "start": 20.566666666666666,
+      "end": 27.733333333333334,
+      "type": "cinematic",
+      "text": "FROM PARKING TO PEOPLE",
+      "narration": "Concrete disappears. A tree arrives. The old entrance becomes a path to a playground.",
+      "concept": "Matched before/after composition; tree and path maintain spatial continuity.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d06r2/s4.png",
+      "plannedAssetType": "image",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Matched before/after composition; tree and path maintain spatial continuity.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Concrete disappears. A tree arrives. The",
+        "old entrance becomes a path to",
+        "a playground."
+      ]
+    },
+    {
+      "id": "D06R2-S5",
+      "start": 27.733333333333334,
+      "end": 37.3,
+      "type": "phone",
+      "text": "WHO BENEFITS?",
+      "narration": "Then a neighbour asks who this new space is actually for. Better transport did not settle the housing debate.",
+      "concept": "Fictional planning meeting comments; do not invent real public quotations.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional planning meeting comments; do not invent real public quotations.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Then a neighbour asks who this",
+        "new space is actually for. Better",
+        "transport did not settle the housing debate."
+      ]
+    },
+    {
+      "id": "D06R2-S6",
+      "start": 37.3,
+      "end": 44,
+      "type": "question",
+      "text": "WHAT WOULD YOU BUILD?",
+      "narration": "If your city needed less parking, what would you put in its place?",
+      "concept": "Wide plaza holds; three small possibilities sit at ground level.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Wide plaza holds; three small possibilities sit at ground level.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "If your city needed less parking,",
+        "what would you put in its place?"
+      ]
+    }
+  ]
+}

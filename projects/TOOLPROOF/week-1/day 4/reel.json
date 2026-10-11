@@ -1,0 +1,231 @@
+{
+  "id": "D04R1",
+  "day": 4,
+  "reelNumber": 1,
+  "title": "Cap — Discovery",
+  "format": "Discovery",
+  "durationSeconds": 35,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "The free Loom alternative has a licensing detail you should read. Cap is a screen-recording tool. Its pricing page separates personal use from commercial use. So I would not call it free for every work recording. The workflow I want is simple: record a useful demo, make it readable, and get it to someone. Export and sharing limits matter as much as the recording button. Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 83,
+  "estimatedWpm": 142,
+  "concept": "Recording software and personal-use versus commercial licensing.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "The free Loom alternative has a licensing detail you should read.",
+    "Personal recording and client work have different terms.",
+    "Read this before calling Cap free for work."
+  ],
+  "strongestHook": "The free Loom alternative has a licensing detail you should read.",
+  "directorBrief": "Direct this as a useful discovery with one important limit: Recording software and personal-use versus commercial licensing. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Easy",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Check official Cap pricing/licensing on capture day and record account plan. Prepare a local demo website with small text, scrolling, clicks and cursor movement. Show actual capture and export options on this installation. Distinguish personal and commercial licensing using dated source evidence. Do not copy stale quoted prices or assume all export/share options are on the free tier.",
+  "evidenceRequirements": "Recheck present license/pricing; imported prices are unverified.",
+  "sources": [
+    {
+      "label": "Cap pricing and licensing",
+      "url": "https://cap.so/pricing",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Free For Which Use",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Free For Which Use” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+  "cta": "SAME DEMO. TWO TOOLS.",
+  "instagramCaption": "Cap — Discovery. Recording software and personal-use versus commercial licensing. Full test conditions and limitations belong beside the final result. Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+  "tiktokCaption": "Cap — Discovery. SAME DEMO. TWO TOOLS.",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Real UI, official license/prices, capture.",
+  "scenes": [
+    {
+      "id": "D04R1-S1",
+      "start": 0,
+      "end": 4.733333333333333,
+      "type": "hook",
+      "text": "FREE FOR WHICH USE?",
+      "narration": "The free Loom alternative has a licensing detail you should read.",
+      "concept": "Cap recording window alongside official pricing page, dated.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Cap recording window alongside official pricing page, dated.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "The free Loom alternative has a",
+        "licensing detail you should read."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D04R1-S2",
+      "start": 4.733333333333333,
+      "end": 10.633333333333333,
+      "type": "evidence",
+      "text": "PERSONAL ≠ COMMERCIAL",
+      "narration": "Cap is a screen-recording tool. Its pricing page separates personal use from commercial use.",
+      "concept": "Crop exact relevant terms; no outdated price taken from the source chat.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Crop exact relevant terms; no outdated price taken from the source chat.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Cap is a screen-recording tool. Its",
+        "pricing page separates personal use from",
+        "commercial use."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D04R1-S3",
+      "start": 10.633333333333333,
+      "end": 15.366666666666667,
+      "type": "workflow",
+      "text": "CHECK YOUR USE CASE",
+      "narration": "So I would not call it free for every work recording.",
+      "concept": "Personal tutorial and client demo cards branch to their documented terms.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Personal tutorial and client demo cards branch to their documented terms.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "So I would not call it",
+        "free for every work recording."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D04R1-S4",
+      "start": 15.366666666666667,
+      "end": 22.833333333333332,
+      "type": "evidence",
+      "text": "RECORD → EDIT → DELIVER",
+      "narration": "The workflow I want is simple: record a useful demo, make it readable, and get it to someone.",
+      "concept": "Actual app recording controls and available installed editor; features depend on version.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual app recording controls and available installed editor; features depend on version.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The workflow I want is simple:",
+        "record a useful demo, make it",
+        "readable, and get it to someone."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D04R1-S5",
+      "start": 22.833333333333332,
+      "end": 27.533333333333335,
+      "type": "evidence",
+      "text": "WHAT LEAVES THE APP?",
+      "narration": "Export and sharing limits matter as much as the recording button.",
+      "concept": "Show genuine export and share dialogs; capture account plan state.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r1/s5.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show genuine export and share dialogs; capture account plan state.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Export and sharing limits matter as",
+        "much as the recording button."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D04R1-S6",
+      "start": 27.533333333333335,
+      "end": 35,
+      "type": "question",
+      "text": "SAME DEMO. TWO TOOLS.",
+      "narration": "Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+      "concept": "Demo webpage remains fixed while recording controls change.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Demo webpage remains fixed while recording controls change.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Next I am recording the same",
+        "demo in Cap and Loom. Which",
+        "deserves the place in your workflow?"
+      ],
+      "visualSystem": "ToolVisuals"
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-source-backed-explainer-built"
+}

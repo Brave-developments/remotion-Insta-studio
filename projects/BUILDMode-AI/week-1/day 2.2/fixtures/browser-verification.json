@@ -1,0 +1,39 @@
+{
+  "createdAt": "2026-10-04T13:24:08.642Z",
+  "scope": "Actual local browser fixture interactions and captures. No external AI tool/model experiments performed.",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "checks": [
+    {
+      "name": "Dashboard primary action creates a local project",
+      "passed": true
+    },
+    {
+      "name": "Kanban added and moved card survives a true browser navigation/reload",
+      "passed": true
+    },
+    {
+      "name": "Kanban delete removes card from persisted board",
+      "passed": true
+    },
+    {
+      "name": "Redesign toggles only styling and preserves working signup/FAQ",
+      "passed": true
+    },
+    {
+      "name": "CSV preview includes correctly quoted multiline Unicode data",
+      "passed": true
+    },
+    {
+      "name": "Rename preview applies and rolls back without losing original filenames",
+      "passed": true
+    },
+    {
+      "name": "Dodge game runs animation and Restart resets score",
+      "passed": true
+    }
+  ],
+  "errors": []
+}

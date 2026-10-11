@@ -1,0 +1,2818 @@
+{
+  "reels": [
+    {
+      "id": "U01-LATE-REJECT",
+      "title": "The Upload That Wasted 30 Seconds",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 9,
+          "type": "hook",
+          "text": "Rejected after 100%.",
+          "narration": "The worst time to reject a file is after it finishes uploading. Watch this one closely: forty-eight megabytes, fully transferred, then one line of text refuses all of it.",
+          "concept": "The file drags in, the bar completes, the refusal lands.",
+          "camera": {
+            "fromScale": 1.05,
+            "toScale": 1,
+            "fromX": 10,
+            "toX": -12
+          },
+          "visual": {
+            "items": [
+              "DROP",
+              "TRANSFER",
+              "REJECT"
+            ],
+            "note": "Forty-eight megabytes, then one line of text."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 9,
+          "end": 18,
+          "type": "browser",
+          "text": "The progress bar reached the end.",
+          "narration": "The progress bar races to one hundred percent, the transfer succeeds, and the interface finally tells you the format was never supported in the first place.",
+          "concept": "Upload UI completes, then the error state appears under it.",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.04,
+            "fromX": -8,
+            "toX": 14
+          },
+          "visual": {
+            "label": "upload — demo interface",
+            "a": "design.psd",
+            "items": [
+              "Transferring  62%",
+              "Transferring  100%",
+              "PSD NOT SUPPORTED"
+            ]
+          }
+        },
+        {
+          "id": "s3",
+          "start": 18,
+          "end": 27,
+          "type": "compare",
+          "text": "Correct error. Terrible timing.",
+          "narration": "Technically, the error is correct. The experience is terrible, because the single check that mattered ran long after the user had already invested half a minute waiting.",
+          "concept": "Late rejection slides against validation that runs first.",
+          "visual": {
+            "label": "WHEN THE CHECK RUNS",
+            "a": "Validate after the transfer",
+            "b": "Validate before the transfer",
+            "note": "Same rule. Different moment."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 36,
+          "type": "diagram",
+          "text": "Move the check earlier.",
+          "narration": "Validate the type and the size before anything moves, show accepted formats beside the drop zone, and keep the user's work when processing fails further down the line.",
+          "concept": "Preflight pipeline builds stage by stage.",
+          "visual": {
+            "label": "PREFLIGHT",
+            "items": [
+              "TYPE",
+              "SIZE",
+              "UPLOAD",
+              "RECOVER"
+            ],
+            "note": "Prevent what you can, explain what you cannot."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "Three questions, answered early.",
+          "narration": "Good upload design answers three questions early: can I upload this, how long will it take, and what happens if it fails? Answer them before the bar starts.",
+          "concept": "Three answers lock in beneath the heading.",
+          "camera": {
+            "fromScale": 0.98,
+            "toScale": 1.03,
+            "fromX": 0,
+            "toX": 0
+          },
+          "visual": {
+            "label": "RULE",
+            "a": "Validate early. Show progress. Recover cleanly."
+          }
+        }
+      ],
+      "audio": "audio/U01-LATE-REJECT.wav",
+      "audioSeconds": 47.31
+    },
+    {
+      "id": "U02-PERCEIVED-SPEED",
+      "title": "Your Backend Is Fast. Your App Still Feels Slow.",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 9,
+          "type": "hook",
+          "text": "92ms. So why does it feel slow?",
+          "narration": "Your interface can answer in ninety milliseconds and still feel slow, because speed is something a person feels in their hand, not something a dashboard measures for them.",
+          "concept": "Latency badge stays green while the drawer crawls.",
+          "camera": {
+            "fromScale": 1.04,
+            "toScale": 1,
+            "fromX": -12,
+            "toX": 10
+          },
+          "visual": {
+            "items": [
+              "RESPONSE",
+              "FEEDBACK",
+              "MOTION"
+            ],
+            "note": "The API was never the problem."
+          }
+        },
+        {
+          "id": "s2",
+          "start": 9,
+          "end": 18,
+          "type": "browser",
+          "text": "The dead pause before anything moves.",
+          "narration": "Click a button, wait half a second, then watch a drawer glide across the screen. The data was ready long before the motion finally decided to begin.",
+          "concept": "Cursor clicks; pause, then slow movement.",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.05,
+            "fromX": 8,
+            "toX": -14
+          },
+          "visual": {
+            "label": "app — interaction trace",
+            "a": "open project",
+            "items": [
+              "click  ·  0ms",
+              "dead pause  ·  520ms",
+              "drawer glide  ·  640ms"
+            ]
+          }
+        },
+        {
+          "id": "s3",
+          "start": 18,
+          "end": 27,
+          "type": "compare",
+          "text": "Same action. Different feeling.",
+          "narration": "So give immediate feedback on the press itself, shorten the movements people trigger constantly, and let every menu unfold from the control that actually opened it.",
+          "concept": "Flat linear motion against eased motion.",
+          "visual": {
+            "label": "LINEAR vs EASED",
+            "a": "Flat speed, late feedback",
+            "b": "Instant press, settled motion",
+            "note": "Only the motion changed."
+          }
+        },
+        {
+          "id": "s4",
+          "start": 27,
+          "end": 36,
+          "type": "timeline",
+          "text": "Motion should accelerate, then settle.",
+          "narration": "Easing matters just as much: movement should accelerate and then settle naturally, instead of sliding across the frame at one flat robotic speed from start to finish.",
+          "concept": "Interaction beats snap onto the timing ruler.",
+          "visual": {
+            "label": "TIMING RULER",
+            "items": [
+              "PRESS",
+              "RESPONSE",
+              "SETTLE"
+            ],
+            "note": "Spring everything only if it is made of rubber."
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 45,
+          "type": "payoff",
+          "text": "The backend never changed.",
+          "narration": "None of that changes the API. The backend never moved an inch, and yet the whole product suddenly feels immediate, connected, and calm to use.",
+          "concept": "Latency badge unchanged, feel badge flips.",
+          "camera": {
+            "fromScale": 0.99,
+            "toScale": 1.03,
+            "fromX": 0,
+            "toX": 0
+          },
+          "visual": {
+            "label": "UNCHANGED",
+            "a": "API 92ms — unchanged. Feeling: fast."
+          }
+        }
+      ],
+      "audio": "audio/U02-PERCEIVED-SPEED.wav",
+      "audioSeconds": 43.68
+    },
+    {
+      "id": "U03-SEARCH-THAT-PRETENDS-NOT",
+      "title": "Search That Pretends Nothing Exists",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "0 results",
+          "narration": "Imagine searching for invoice export when the feature exists, and getting a blank screen.",
+          "visual": {
+            "label": "0 RESULTS",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 12,
+          "type": "timeline",
+          "text": "Search tries exact match only.",
+          "narration": "Most search boxes only match exact titles, wait for Enter, and hide the filters. One typo and every result disappears, so the user assumes the feature was removed.",
+          "visual": {
+            "label": "SEARCH TRIES EXACT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 20,
+          "type": "diagram",
+          "text": "One typo — `invocie` — makes results disappear completely.",
+          "narration": "That is not search, that is a memory test. A useful search reacts as the query becomes meaningful instead of waiting for perfection.",
+          "visual": {
+            "label": "ONE TYPO INVOCIE",
+            "items": [
+              "One typo",
+              "`invocie`",
+              "makes results disappear completely."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 20,
+          "end": 31,
+          "type": "diagram",
+          "text": "UI transforms: suggestions appear, matching terms",
+          "narration": "It tolerates small mistakes, highlights why something matched, and keeps the filters on screen. It also tells you what it actually searched, so nothing feels broken. When there is no exact result, it offers a near match, a recent query, or a shortcut.",
+          "visual": {
+            "label": "UI TRANSFORMS SUGGESTI",
+            "items": [
+              "suggestions appear",
+              "matching terms highlight",
+              "filter chips remain visible",
+              "near-match result surfaces."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 31,
+          "end": 39,
+          "type": "diagram",
+          "text": "Try “invoice”",
+          "narration": "Search succeeds when a vague intent arrives at the thing the person meant. Match intent, not perfect typing.",
+          "visual": {
+            "label": "TRY INVOICE",
+            "items": [
+              "No-result state offers Try “invoice”",
+              "recent searches",
+              "category shortcut."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "SEARCH FOR INTENT, NOT PERFECT TYPING.",
+          "narration": "Then the box stops being a wall and becomes a way in.",
+          "visual": {
+            "label": "SEARCH FOR INTENT",
+            "items": [
+              "SEARCH FOR INTENT",
+              "NOT PERFECT TYPING."
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U03-SEARCH-THAT-PRETENDS-NOT.wav",
+      "audioSeconds": 48.27
+    },
+    {
+      "id": "U04-THE-MODAL-THAT-TRAPPED",
+      "title": "The Modal That Trapped the User",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "HOW DO I CLOSE THIS?",
+          "narration": "A modal interrupts the whole interface, so it has to earn that interruption.",
+          "visual": {
+            "label": "HOW DO I",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 12,
+          "type": "graph",
+          "text": "User clicks backdrop: nothing.",
+          "narration": "The common failure is not only a missing close icon. It is unclear escape behaviour, hidden actions, dangerous defaults, and a dialog that grows.",
+          "visual": {
+            "label": "USER CLICKS BACKDROP",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 12,
+          "end": 21,
+          "type": "diagram",
+          "text": "Modal expands with tabs, long text, two scrollbars, six",
+          "narration": "The escape path should be the most obvious thing on the screen. If the task is simple, keep the modal focused and give it an obvious way out.",
+          "visual": {
+            "label": "MODAL EXPANDS WITH",
+            "items": [
+              "Modal expands with tabs",
+              "long text",
+              "two scrollbars",
+              "six buttons."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 21,
+          "end": 31,
+          "type": "browser",
+          "text": "Freeze. UI peels apart. Simple confirmation becomes compact",
+          "narration": "Keep destructive actions visually distinct, and preserve the work if someone closes by accident. If the content needs scrolling, navigation, or several decisions, it probably wants to be a real screen.",
+          "visual": {
+            "label": "FREEZE. UI PEELS",
+            "a": "Freeze. UI peels apart. Simple confirmation becomes compact",
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 31,
+          "end": 39,
+          "type": "diagram",
+          "text": "Demonstrate clear close, Esc, cancel, and destructive",
+          "narration": "Watch a user hunt for the corner button and you have already lost their attention. A modal should reduce context, not build another application inside your application.",
+          "visual": {
+            "label": "DEMONSTRATE CLEAR CLOS",
+            "items": [
+              "Demonstrate clear close",
+              "cancel",
+              "destructive action hierarchy."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "A MODAL IS A PAUSE, NOT A NEW APP.",
+          "narration": "Pause the user for one decision, then hand them back where they were.",
+          "visual": {
+            "label": "A MODAL IS",
+            "items": [
+              "A MODAL IS A PAUSE",
+              "NOT A NEW APP."
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U04-THE-MODAL-THAT-TRAPPED.wav",
+      "audioSeconds": 46.67
+    },
+    {
+      "id": "U05-YOUR-SIGN-IN-BUTTON-IS",
+      "title": "Your Sign-In Button Is Invisible to the Keyboard",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 6,
+          "type": "hook",
+          "text": "NO MOUSE. SIGN IN.",
+          "narration": "Watch what happens when I try to sign in without touching the mouse.",
+          "visual": {
+            "label": "NO MOUSE. SIGN",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 6,
+          "end": 14,
+          "type": "diagram",
+          "text": "Animated Tab key drives focus: email → password → footer",
+          "narration": "Tab to email, tab to password, tab again, and focus jumps past the button. It lands on a footer link while the primary action sits unreachable.",
+          "visual": {
+            "label": "ANIMATED TAB KEY",
+            "items": [
+              "email → password → footer link",
+              "skipping primary button."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 20,
+          "type": "diagram",
+          "text": "User presses Enter.",
+          "narration": "That tiny mistake can make an entire login unusable for keyboard navigation.",
+          "visual": {
+            "label": "USER PRESSES ENTER.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 20,
+          "end": 31,
+          "type": "diagram",
+          "text": "DOM-like layer rearranges.",
+          "narration": "Focus order should follow the visual and logical order of the task. Interactive controls need a visible focus state so the eye can follow the key. Custom components must behave like real controls, not decorative divs with click handlers.",
+          "visual": {
+            "label": "DOM-LIKE LAYER REARRAN",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 31,
+          "end": 39,
+          "type": "code",
+          "text": "Open a small dialog and move focus correctly to its first",
+          "narration": "Accessibility is not a separate version of the interface. It is whether the interface still works when the mouse disappears.",
+          "visual": {
+            "label": "OPEN A SMALL",
+            "file": "reel.ts",
+            "code": [
+              "// ",
+              "// Open a small dialog and move focus"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "IF TAB CAN’T REACH IT, IT’S NOT REALLY AVAILABLE.",
+          "narration": "If tab cannot reach it, it is not really available. If the keyboard cannot reach it, the control does not exist.",
+          "visual": {
+            "label": "IF TAB CAN",
+            "items": [
+              "IF TAB CAN’T REACH IT",
+              "IT’S NOT REALLY AVAILABLE."
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U05-YOUR-SIGN-IN-BUTTON-IS.wav",
+      "audioSeconds": 45.76
+    },
+    {
+      "id": "U06-BACK-SHOULD-TAKE-ME",
+      "title": "Back Should Take Me Back, Not Start Me Over",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "Counter flies past rows: 1…80…220…400.",
+          "narration": "You scroll through four hundred rows, open one item, hit back, and land at row one.",
+          "visual": {
+            "label": "COUNTER FLIES PAST",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 11,
+          "type": "browser",
+          "text": "Detail page.",
+          "narration": "This bug does not look dramatic in a screenshot. Use the product for ten minutes and it becomes exhausting.",
+          "visual": {
+            "label": "DETAIL PAGE.",
+            "a": "Detail page. User taps Back.",
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 17,
+          "type": "checklist",
+          "text": "START AGAIN.",
+          "narration": "Back should return you to the same place with sort, filters and search intact. Otherwise every detail view is a punishment for having looked.",
+          "visual": {
+            "label": "START AGAIN.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 17,
+          "end": 28,
+          "type": "diagram",
+          "text": "Show user repeating the journey faster, building",
+          "narration": "Preserve meaningful navigation state and restore the scroll position. Keep the filters unless the user resets them on purpose. Do not make people rebuild context that you already had.",
+          "visual": {
+            "label": "SHOW USER REPEATING",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 28,
+          "end": 38,
+          "type": "diagram",
+          "text": "Repair state: Back returns directly to row 417 with filter",
+          "narration": "The second trip through the list is entirely your fault. Good navigation has memory, and memory is what makes exploration safe. Let people look without being afraid of losing their place.",
+          "visual": {
+            "label": "REPAIR STATE BACK",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "GOOD NAVIGATION REMEMBERS CONTEXT.",
+          "narration": "Back should return people to their place, not to the beginning.",
+          "visual": {
+            "label": "GOOD NAVIGATION REMEMB",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U06-BACK-SHOULD-TAKE-ME.wav",
+      "audioSeconds": 47.52
+    },
+    {
+      "id": "U07-NINE-MINUTES-OF-WRITING",
+      "title": "Nine Minutes of Writing. Gone in One Error.",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 6,
+          "type": "hook",
+          "text": "09:04",
+          "narration": "The send failed, and the real bug is that the message disappeared. A network request failing is normal; destroying nine minutes of input is not.",
+          "visual": {
+            "label": "09 04",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 6,
+          "end": 11,
+          "type": "diagram",
+          "text": "Click Send. Network line snaps. Error toast appears.",
+          "narration": "The timer reads nine minutes and the textarea clears itself anyway.",
+          "visual": {
+            "label": "CLICK SEND. NETWORK",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 16,
+          "type": "diagram",
+          "text": "EMPTY.",
+          "narration": "Keep the content in the field and tell the user what failed.",
+          "visual": {
+            "label": "EMPTY.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 16,
+          "end": 27,
+          "type": "timeline",
+          "text": "Timeline rewinds.",
+          "narration": "Let them retry instead of asking them to write it again. Autosave longer work locally or remotely when it makes sense. Never show a generic error if the next action is not obvious.",
+          "visual": {
+            "label": "TIMELINE REWINDS.",
+            "items": [
+              "message stays",
+              "error appears inline",
+              "Retry button becomes available."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 27,
+          "end": 38,
+          "type": "diagram",
+          "text": "Saved locally 2s ago",
+          "narration": "An inline error and a retry button beat any toast. Reliability is not pretending nothing ever breaks. It is designing the failure so the user does not pay twice.",
+          "visual": {
+            "label": "SAVED LOCALLY 2S",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "FAIL THE REQUEST. NOT THE USER’S WORK.",
+          "narration": "Fail the request, not the person's work. Keep the words, explain the failure, and never charge twice.",
+          "visual": {
+            "label": "FAIL THE REQUEST.",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U07-NINE-MINUTES-OF-WRITING.wav",
+      "audioSeconds": 43.84
+    },
+    {
+      "id": "U08-THREE-UX-LAWS-YOU",
+      "title": "Three UX Laws You Can Actually See",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 4,
+          "type": "hook",
+          "text": "DON’T MEMORIZE UX LAWS. WATCH THEM.",
+          "narration": "Do not memorise UX laws; watch them fail in front of you.",
+          "visual": {
+            "label": "DON T MEMORIZE",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 4,
+          "end": 15,
+          "type": "diagram",
+          "text": "Tiny close target.",
+          "narration": "You do not need the theory until you have seen the cost. First, tiny targets take longer to hit, especially on touch. The cursor misses twice, then the target expands and the hit lands.",
+          "visual": {
+            "label": "TINY CLOSE TARGET.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 15,
+          "end": 26,
+          "type": "diagram",
+          "text": "Six equally styled buttons.",
+          "narration": "Second, choices get slower when every option screams for equal attention. Six identical buttons make a decision feel expensive. Give one action priority and the decision becomes easy again.",
+          "visual": {
+            "label": "SIX EQUALLY STYLED",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 26,
+          "end": 37,
+          "type": "diagram",
+          "text": "Two labels float between two fields.",
+          "narration": "Third, elements that look related are assumed to belong together. Move a label closer to its field and the confusion disappears. None of that requires a lecture, only a demonstration.",
+          "visual": {
+            "label": "TWO LABELS FLOAT",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 37,
+          "end": 45,
+          "type": "payoff",
+          "text": "TARGET · HIERARCHY · PROXIMITY",
+          "narration": "Target, hierarchy, proximity, three cards locking into place. Good principles are useful because they predict where people hesitate. Watch the laws fail once and you will design around them forever.",
+          "visual": {
+            "label": "TARGET HIERARCHY PROXI",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U08-THREE-UX-LAWS-YOU.wav",
+      "audioSeconds": 52.11
+    },
+    {
+      "id": "U09-THE-LOGIN-FORM-ISNT",
+      "title": "The Login Form Isn’t Boring. It’s Trust.",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "ONLY TWO FIELDS. STILL EASY TO GET WRONG.",
+          "narration": "A login screen has only two fields, so why do so many feel bad?",
+          "visual": {
+            "label": "ONLY TWO FIELDS.",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "diagram",
+          "text": "Placeholder labels vanish while typing.",
+          "narration": "Because every tiny decision on it is noticeable. Placeholder labels disappear the moment you start typing.",
+          "visual": {
+            "label": "PLACEHOLDER LABELS VAN",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 20,
+          "type": "compare",
+          "text": "Password error appears only after submit; both inputs clear.",
+          "narration": "Password rules arrive after the error, when it is too late to use them. The show password control shifts the layout, and the submit button glows without saying what is missing.",
+          "visual": {
+            "label": "PASSWORD ERROR APPEARS",
+            "a": "Password error appears only after submit",
+            "b": "both inputs clear.",
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 20,
+          "end": 31,
+          "type": "diagram",
+          "text": "Form rebuilds live: persistent labels, inline state, stable",
+          "narration": "An auth error can wipe both fields and the user starts again. A good login screen is boring in the best possible way. Labels stay visible and errors sit beside the thing that needs fixing.",
+          "visual": {
+            "label": "FORM REBUILDS LIVE",
+            "items": [
+              "persistent labels",
+              "inline state",
+              "stable show-password icon",
+              "autofill visual."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 31,
+          "end": 39,
+          "type": "diagram",
+          "text": "Wrong password error preserves email and password field",
+          "narration": "Password visibility does not move the interface, and autofill just works. Failed authentication should never erase valid input.",
+          "visual": {
+            "label": "WRONG PASSWORD ERROR",
+            "items": [
+              "Wrong password error preserves email",
+              "password field state appropriately."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "LOGIN SHOULD FEEL UNEVENTFUL.",
+          "narration": "Two fields are enough to reveal whether a product respects your time.",
+          "visual": {
+            "label": "LOGIN SHOULD FEEL",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U09-THE-LOGIN-FORM-ISNT.wav",
+      "audioSeconds": 39.84
+    },
+    {
+      "id": "U10-WHY-THIS-BUTTON-LOOKS",
+      "title": "Why This Button Looks Expensive",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "SAME ACTION. DIFFERENT FEELING.",
+          "narration": "These two buttons do the same thing, and one feels noticeably better.",
+          "visual": {
+            "label": "SAME ACTION. DIFFERENT",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "diagram",
+          "text": "Bad button: tiny hit area, weak contrast, hover shifts",
+          "narration": "The difference is not a fancy gradient; it is the decisions around it. The label is specific, the contrast is clear, the hit area is comfortable.",
+          "visual": {
+            "label": "BAD BUTTON TINY",
+            "items": [
+              "tiny hit area",
+              "weak contrast",
+              "hover shifts position."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 22,
+          "type": "diagram",
+          "text": "Click changes size; spinner causes layout jump.",
+          "narration": "Hover does not move the layout, and pressing gives immediate feedback. Loading keeps the button stable instead of swapping it for a random spinner.",
+          "visual": {
+            "label": "CLICK CHANGES SIZE",
+            "items": [
+              "Click changes size",
+              "spinner causes layout jump."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 34,
+          "type": "diagram",
+          "text": "Rebuild the button: comfortable area, stable width, press",
+          "narration": "Disabled does not mean invisible; it means explained. Click and watch the size change, then the spinner jump the page. Now rebuild it: stable width, press scale, loading label, success state.",
+          "visual": {
+            "label": "REBUILD THE BUTTON",
+            "items": [
+              "comfortable area",
+              "stable width",
+              "press scale",
+              "loading label"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "code",
+          "text": "Cursor rapidly tests default → hover → pressed → loading →",
+          "narration": "Run the cursor through default, hover, pressed, loading and success. A polished button communicates state before, during and after the click.",
+          "visual": {
+            "label": "CURSOR RAPIDLY TESTS",
+            "file": "reel.ts",
+            "code": [
+              "// ",
+              "// Cursor rapidly tests default → hover →"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "DESIGN THE STATES, NOT JUST THE RECTANGLE.",
+          "narration": "Design the states, not just the rectangle. Design every state of the control, not only the idle rectangle.",
+          "visual": {
+            "label": "DESIGN THE STATES",
+            "items": [
+              "DESIGN THE STATES",
+              "NOT JUST THE RECTANGLE."
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U10-WHY-THIS-BUTTON-LOOKS.wav",
+      "audioSeconds": 48.91
+    },
+    {
+      "id": "U11-A-BANK-BALANCE-WITHOUT",
+      "title": "A Bank Balance Without Context Is Just a Number",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "GOOD OR BAD?",
+          "narration": "Four thousand eight hundred and twenty dollars.",
+          "visual": {
+            "label": "GOOD OR BAD",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "browser",
+          "text": "More raw numbers rain onto the screen: transactions",
+          "narration": "Good news or bad news? A banking app can be perfectly accurate and still be unhelpful.",
+          "visual": {
+            "label": "MORE RAW NUMBERS",
+            "a": "More raw numbers rain onto the screen: transactions",
+            "items": [
+              "transactions",
+              "pending",
+              "due dates."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 21,
+          "type": "diagram",
+          "text": "User tries to calculate mentally; small calculator bubbles",
+          "narration": "What changed, what is pending, what is actually safe to spend. Numbers rain onto the screen and the user starts doing mental accounting.",
+          "visual": {
+            "label": "USER TRIES TO",
+            "items": [
+              "User tries to calculate mentally",
+              "small calculator bubbles appear",
+              "pile up."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 21,
+          "end": 34,
+          "type": "diagram",
+          "text": "UI reorganizes: available balance, pending amount, next",
+          "narration": "Calculator bubbles pile up while the answer should have been obvious. Reveal context where the decision happens, not on a separate dashboard. Show pending money differently from settled money. Pair unusual spending with the merchant and the category, in place.",
+          "visual": {
+            "label": "UI REORGANIZES AVAILAB",
+            "items": [
+              "available balance",
+              "pending amount",
+              "next bill",
+              "recent unusual spend."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "diagram",
+          "text": "Tap transaction; merchant/category context expands in place.",
+          "narration": "Make dates and signs unambiguous, because money has no tone of voice. Financial interface is not about showing more data.",
+          "visual": {
+            "label": "TAP TRANSACTION MERCHA",
+            "items": [
+              "Tap transaction",
+              "merchant/category context expands in place."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "DATA NEEDS CONTEXT.",
+          "narration": "It is about answering the next question before it is asked. Answer the next question before the user has to ask it aloud.",
+          "visual": {
+            "label": "DATA NEEDS CONTEXT.",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U11-A-BANK-BALANCE-WITHOUT.wav",
+      "audioSeconds": 46.72
+    },
+    {
+      "id": "U12-YOUR-ONBOARDING-IS-ASKIN",
+      "title": "Your Onboarding Is Asking for Too Much, Too Soon",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "WELCOME. FILL THIS OUT.",
+          "narration": "The user just installed your app, and you are already asking seven questions.",
+          "visual": {
+            "label": "WELCOME. FILL THIS",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 15,
+          "type": "diagram",
+          "text": "Progress says `1 of 9`; cursor visibly slows.",
+          "narration": "Name, company size, job title, phone number, notifications, contacts, location. Progress says one of nine and the cursor visibly slows. People exit, and the funnel drops from a hundred to forty.",
+          "visual": {
+            "label": "PROGRESS SAYS 1",
+            "items": [
+              "Progress says `1 of 9`",
+              "cursor visibly slows."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 15,
+          "end": 22,
+          "type": "graph",
+          "text": "User exits. Funnel counter drops: `100 → 71 → 43` as steps",
+          "narration": "Ask only what you need to reach the first useful moment. Defer the optional profile questions until someone cares enough to answer.",
+          "visual": {
+            "label": "USER EXITS. FUNNEL",
+            "drops": [
+              16,
+              51,
+              85
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 34,
+          "type": "checklist",
+          "text": "Rebuild to two steps: choose goal → perform first useful",
+          "narration": "Request permissions when the feature needs them, not all at launch. Show progress only when the steps are real. Let people skip what can be skipped, and say so out loud.",
+          "visual": {
+            "label": "REBUILD TO TWO",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "code",
+          "text": "Optional profile and permission prompts appear later",
+          "narration": "Rebuild it as two steps: choose a goal, then perform the first action. Great onboarding does not explain the whole product.",
+          "visual": {
+            "label": "OPTIONAL PROFILE AND",
+            "file": "reel.ts",
+            "code": [
+              "// Optional profile",
+              "// permission prompts appear later"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "VALUE FIRST. QUESTIONS LATER.",
+          "narration": "It gets someone to one successful action quickly enough that they want the rest.",
+          "visual": {
+            "label": "VALUE FIRST. QUESTIONS",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U12-YOUR-ONBOARDING-IS-ASKIN.wav",
+      "audioSeconds": 48
+    },
+    {
+      "id": "U13-CHECKOUT-FRICTION-YOU-DO",
+      "title": "Checkout Friction You Don’t Notice Until You Buy",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "SALE WON.",
+          "narration": "You already convinced someone to buy, and then checkout lost them.",
+          "visual": {
+            "label": "SALE WON.",
+            "items": [
+              "SALE WON.",
+              "checkout loads: MAYBE NOT."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 15,
+          "type": "code",
+          "text": "Forced account prompt, hidden shipping, coupon field",
+          "narration": "Create an account, hide the total, reject the address without saying why. Reset the card form after one error and highlight the coupon box. Every extra uncertainty is another chance to leave.",
+          "visual": {
+            "label": "FORCED ACCOUNT PROMPT",
+            "file": "reel.ts",
+            "code": [
+              "// Forced account prompt",
+              "// hidden shipping"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 15,
+          "end": 22,
+          "type": "diagram",
+          "text": "Card error clears several correct fields.",
+          "narration": "The product did not lose the sale; the checkout did. Keep costs visible from the first screen to the last.",
+          "visual": {
+            "label": "CARD ERROR CLEARS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 34,
+          "type": "diagram",
+          "text": "Rebuild: guest path, visible total, stable fields, inline",
+          "narration": "Preserve valid input after errors instead of clearing the whole form. Make guest checkout obvious when it exists, and explain exactly what needs fixing. Keep the final action unmistakable and visually dominant.",
+          "visual": {
+            "label": "REBUILD GUEST PATH",
+            "items": [
+              "guest path",
+              "visible total",
+              "stable fields",
+              "inline address correction."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "diagram",
+          "text": "Pay button remains visually dominant; success receipt",
+          "narration": "Checkout is not the place to be clever. It is the place to make a decision the customer already made feel safe.",
+          "visual": {
+            "label": "PAY BUTTON REMAINS",
+            "items": [
+              "Pay button remains visually dominant",
+              "success receipt slides in."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "DON’T RESELL THE PURCHASE AT CHECKOUT.",
+          "narration": "Let the buyer finish the decision they already made without friction.",
+          "visual": {
+            "label": "DON T RESELL",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U13-CHECKOUT-FRICTION-YOU-DO.wav",
+      "audioSeconds": 44.48
+    },
+    {
+      "id": "U14-A-SPINNER-TELLS-ME",
+      "title": "A Spinner Tells Me Almost Nothing",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 7,
+          "type": "hook",
+          "text": "STILL LOADING?",
+          "narration": "Seven seconds feels much longer when the screen cannot explain itself. A spinner says one thing: wait.",
+          "visual": {
+            "label": "STILL LOADING",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 7,
+          "end": 15,
+          "type": "diagram",
+          "text": "Duplicate spinner examples stack everywhere: button, page",
+          "narration": "It does not tell me whether the app started or whether it is stuck. For short waits you may need almost no loading interface at all.",
+          "visual": {
+            "label": "DUPLICATE SPINNER EXAM",
+            "items": [
+              "button",
+              "page",
+              "card."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 15,
+          "end": 25,
+          "type": "compare",
+          "text": "Split by wait type: instant/no loader; skeleton for",
+          "narration": "For predictable work, show real progress instead of an indeterminate circle. For content pages, a skeleton preserves the layout while data arrives. For long operations, say what the system is doing and whether you can leave.",
+          "visual": {
+            "label": "SPLIT BY WAIT",
+            "a": "instant/no loader",
+            "b": "skeleton for content",
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 25,
+          "end": 36,
+          "type": "diagram",
+          "text": "Long export shows current stage and lets user leave while",
+          "narration": "Do not fake precision you do not actually have. The best loading state does not make the server faster. It gives the waiting time shape, context and a clear next expectation.",
+          "visual": {
+            "label": "LONG EXPORT SHOWS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 36,
+          "end": 42,
+          "type": "browser",
+          "text": "Final app feels calmer even though timer shows same 7",
+          "narration": "Then the same seven seconds feel calmer. Give the wait a shape and the seconds stop feeling empty.",
+          "visual": {
+            "label": "FINAL APP FEELS",
+            "a": "Final app feels calmer even though timer shows same 7",
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 42,
+          "end": 45,
+          "type": "payoff",
+          "text": "GIVE WAITING A SHAPE.",
+          "narration": "Give the wait a shape and the seconds stop feeling empty.",
+          "visual": {
+            "label": "GIVE WAITING A",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U14-A-SPINNER-TELLS-ME.wav",
+      "audioSeconds": 46.08
+    },
+    {
+      "id": "U15-PRICING-TABLES-SHOULD-HE",
+      "title": "Pricing Tables Should Help Me Choose",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "WHICH ONE?",
+          "narration": "If every plan is highlighted, none of them is.",
+          "visual": {
+            "label": "WHICH ONE",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 14,
+          "type": "browser",
+          "text": "Checkmarks duplicate down all columns until screen is",
+          "narration": "Three equally loud boxes full of checkmarks is a database, not a decision. The real question is simpler: which one fits me, and what changes if I pay more.",
+          "visual": {
+            "label": "CHECKMARKS DUPLICATE D",
+            "a": "Checkmarks duplicate down all columns until screen is",
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 22,
+          "type": "code",
+          "text": "Cursor jumps between tiny differences and billing toggle.",
+          "narration": "Make the differences scannable and the shared features quiet. Group what is identical instead of repeating it down every column.",
+          "visual": {
+            "label": "CURSOR JUMPS BETWEEN",
+            "file": "reel.ts",
+            "code": [
+              "// Cursor jumps between tiny differences",
+              "// billing toggle."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 34,
+          "type": "code",
+          "text": "Table simplifies: common features collapse; meaningful",
+          "narration": "Explain the limit that actually changes the decision. Use a recommendation only when you can say who it is for. Keep billing periods and total cost unambiguous, with no small print surprises.",
+          "visual": {
+            "label": "TABLE SIMPLIFIES COMMO",
+            "file": "reel.ts",
+            "code": [
+              "// common features collapse",
+              "// meaningful differences remain"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "diagram",
+          "text": "Monthly/annual cost changes with total clearly displayed.",
+          "narration": "Hide an important restriction in tiny text and trust leaks. A pricing table is a decision interface, not a feature inventory.",
+          "visual": {
+            "label": "MONTHLY/ANNUAL COST CH",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "PRICING IS A DECISION TOOL.",
+          "narration": "Help me choose and the choice gets made. Help me choose the plan and the pricing page finally works.",
+          "visual": {
+            "label": "PRICING IS A",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U15-PRICING-TABLES-SHOULD-HE.wav",
+      "audioSeconds": 46.88
+    },
+    {
+      "id": "U16-YOUR-EMPTY-STATE-IS",
+      "title": "Your Empty State Is Part of the Product",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "THIS IS WHAT NEW USERS SEE.",
+          "narration": "For a brand new user, the empty state might be the entire product.",
+          "visual": {
+            "label": "THIS IS WHAT",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "diagram",
+          "text": "Generic message: `No data.` Cursor wanders.",
+          "narration": "Zero projects, zero messages, zero reports, zero history. We build the perfect populated dashboard and treat zero data as an afterthought.",
+          "visual": {
+            "label": "GENERIC MESSAGE NO",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 23,
+          "type": "checklist",
+          "text": "Three empty causes branch: first use / no search results /",
+          "narration": "Then we greet a new user with a blank rectangle and the words no data. Explain what belongs here instead. Give one obvious first action and a small example when the result is unfamiliar.",
+          "visual": {
+            "label": "THREE EMPTY CAUSES",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 35,
+          "type": "browser",
+          "text": "Create first project",
+          "narration": "Distinguish nothing created yet from no results for that search. Also distinguish both from something that simply failed to load. Empty is not one state; it is several moments with different next steps.",
+          "visual": {
+            "label": "CREATE FIRST PROJECT",
+            "a": "First-use screen gets explanation, sample preview, and",
+            "items": [
+              "First-use screen gets explanation",
+              "sample preview",
+              "Create first project action."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 35,
+          "end": 41,
+          "type": "code",
+          "text": "Search-empty and error states get different recovery",
+          "narration": "Each one needs its own recovery action, not the same shrug. Then the first screen teaches instead of apologising.",
+          "visual": {
+            "label": "SEARCH-EMPTY AND ERROR",
+            "file": "reel.ts",
+            "code": [
+              "// Search-empty",
+              "// error states get different recovery actions."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "EMPTY IS A STATE, NOT A DEAD END.",
+          "narration": "Design the zero state as carefully as the full one.",
+          "visual": {
+            "label": "EMPTY IS A",
+            "items": [
+              "EMPTY IS A STATE",
+              "NOT A DEAD END."
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U16-YOUR-EMPTY-STATE-IS.wav",
+      "audioSeconds": 46.24
+    },
+    {
+      "id": "U17-ICON-ONLY-NAVIGATION-IS",
+      "title": "Icon-Only Navigation Is a Memory Test",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "FIND BILLING.",
+          "narration": "Which one of these six icons opens billing?",
+          "visual": {
+            "label": "FIND BILLING.",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "checklist",
+          "text": "Cursor hovers three wrong icons; tooltips appear one by one.",
+          "narration": "A house, a grid, a spark, a briefcase, sliders, and a mysterious hexagon. Icon-only navigation can look beautifully minimal while forcing people to memorise your private language.",
+          "visual": {
+            "label": "CURSOR HOVERS THREE",
+            "items": [
+              "Cursor hovers three wrong icons",
+              "tooltips appear one by one."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 20,
+          "type": "timeline",
+          "text": "User finally finds billing; nav then reorders on next page.",
+          "narration": "The cursor hovers three wrong icons before the tooltip finally helps. Then the navigation reorders on the next page and the test starts again.",
+          "visual": {
+            "label": "USER FINALLY FINDS",
+            "items": [
+              "User finally finds billing",
+              "reorders on next page."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 20,
+          "end": 33,
+          "type": "diagram",
+          "text": "Rebuild with stable positions, clear active state, concise",
+          "narration": "Familiar icons are useful; unfamiliar destinations usually need labels. Keep the current location obvious and the positions stable. Do not move items depending on which page you are on.",
+          "visual": {
+            "label": "REBUILD WITH STABLE",
+            "items": [
+              "Rebuild with stable positions",
+              "clear active state",
+              "concise labels."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 33,
+          "end": 41,
+          "type": "compare",
+          "text": "Collapse to compact nav only after user-triggered action",
+          "narration": "Separate global navigation from the actions that belong to one screen. If an icon needs a tooltip every time, the label should simply be visible.",
+          "visual": {
+            "label": "COLLAPSE TO COMPACT",
+            "a": "",
+            "b": "Collapse to compact nav only",
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "NAVIGATION ISN’T A LOGO QUIZ.",
+          "narration": "Navigation should reduce decisions, not turn every click into a guess. Then it stops being a logo quiz.",
+          "visual": {
+            "label": "NAVIGATION ISN T",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U17-ICON-ONLY-NAVIGATION-IS.wav",
+      "audioSeconds": 47.63
+    },
+    {
+      "id": "U18-NO-RESULTS-SHOULD-STILL",
+      "title": "“No Results” Should Still Be Useful",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "NOW WHAT?",
+          "narration": "Zero results is not the end of the search; it is the next interface state.",
+          "visual": {
+            "label": "NOW WHAT",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "diagram",
+          "text": "No results found",
+          "narration": "The user searched for a customer, applied two filters, and got nothing. A weak interface simply says nothing found and stops talking.",
+          "visual": {
+            "label": "NO RESULTS FOUND",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 22,
+          "type": "diagram",
+          "text": "Spotlight reveals hidden active filters causing the zero",
+          "narration": "A useful one explains why the result is zero. Show the active filters and make them removable in a single tap.",
+          "visual": {
+            "label": "SPOTLIGHT REVEALS HIDD",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 33,
+          "type": "diagram",
+          "text": "Clear filters",
+          "narration": "Suggest a broader query when the spelling is close. Preserve the original search so the person can edit it instead of retyping. Distinguish an empty database from a query that is simply too narrow.",
+          "visual": {
+            "label": "CLEAR FILTERS",
+            "items": [
+              "New state shows removable chips",
+              "spelling suggestion",
+              "Clear filters."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 33,
+          "end": 40,
+          "type": "diagram",
+          "text": "Remove one chip; results immediately return underneath.",
+          "narration": "Remove one chip and the results return underneath immediately. The system already knows it is zero; the job is to reach something useful.",
+          "visual": {
+            "label": "REMOVE ONE CHIP",
+            "items": [
+              "Remove one chip",
+              "results immediately return underneath."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 40,
+          "end": 45,
+          "type": "payoff",
+          "text": "ZERO SHOULD HAVE A NEXT STEP.",
+          "narration": "Zero should have a next step attached to it. A zero result should always offer the very next step.",
+          "visual": {
+            "label": "ZERO SHOULD HAVE",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U18-NO-RESULTS-SHOULD-STILL.wav",
+      "audioSeconds": 44
+    },
+    {
+      "id": "U19-030426-IS-A-BAD",
+      "title": "03/04/26 Is a Bad Date",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "APRIL 3?",
+          "narration": "March fourth, or April third?",
+          "visual": {
+            "label": "APRIL 3",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 14,
+          "type": "code",
+          "text": "Two users on opposite sides choose different",
+          "narration": "The string looks compact until two people read two different dates. Dates are data, but they are also language, and language is ambiguous. Where the consequence matters, remove the ambiguity completely.",
+          "visual": {
+            "label": "TWO USERS ON",
+            "file": "reel.ts",
+            "code": [
+              "// ",
+              "// Two users on opposite sides choose"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 23,
+          "type": "code",
+          "text": "Date picker and confirmation use different formats.",
+          "narration": "Bookings, payments, deadlines, medicine and travel all qualify. Use the locale when appropriate and spell out the month when there is room. Keep the input format and the display format identical.",
+          "visual": {
+            "label": "DATE PICKER AND",
+            "file": "reel.ts",
+            "code": [
+              "// ",
+              "// Date picker and confirmation use"
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 23,
+          "end": 34,
+          "type": "diagram",
+          "text": "Rebuild with `4 Mar 2026` / locale-aware variant and",
+          "narration": "Do not make people guess whether the picker starts on Sunday or Monday. Do not let a timezone move the day after they saved it. Show the confirmation in the same format the field used.",
+          "visual": {
+            "label": "REBUILD WITH 4",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "diagram",
+          "text": "Input, picker, and confirmation stay consistent.",
+          "narration": "A date field should communicate a moment, not test a convention. Then nobody has to decode anything.",
+          "visual": {
+            "label": "INPUT PICKER AND",
+            "items": [
+              "Input",
+              "picker",
+              "confirmation stay consistent."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "DATES SHOULD NOT NEED DECODING.",
+          "narration": "Spell the date out and nobody has to guess which convention you chose.",
+          "visual": {
+            "label": "DATES SHOULD NOT",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U19-030426-IS-A-BAD.wav",
+      "audioSeconds": 47.84
+    },
+    {
+      "id": "U20-DONT-WAIT-UNTIL-SUBMIT",
+      "title": "Don’t Wait Until Submit to Explain the Form",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "User completes five-field form.",
+          "narration": "The form knew this was wrong three fields ago and waited until submit.",
+          "visual": {
+            "label": "USER COMPLETES FIVE-FI",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 14,
+          "type": "diagram",
+          "text": "There are errors",
+          "narration": "Click, the page turns red, and the scroll jumps somewhere else. That is not validation; it is grading.",
+          "visual": {
+            "label": "THERE ARE ERRORS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 22,
+          "type": "diagram",
+          "text": "User hunts for the first problem.",
+          "narration": "Validate at the moment the information becomes useful. Explain required formatting before the person types, not after they fail.",
+          "visual": {
+            "label": "USER HUNTS FOR",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 34,
+          "type": "compare",
+          "text": "Rebuild timing: guidance before input, validation after",
+          "narration": "Check a field once the user leaves it, and put the message beside it. Server-only rules can wait until the server actually knows. Keep every valid value intact when something else fails.",
+          "visual": {
+            "label": "REBUILD TIMING GUIDANC",
+            "a": "guidance before input",
+            "b": "validation after blur",
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "diagram",
+          "text": "Submit focuses first unresolved field while preserving",
+          "narration": "Move focus to what needs fixing instead of shouting from a banner. Help people finish correctly as they go.",
+          "visual": {
+            "label": "SUBMIT FOCUSES FIRST",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "HELP THEM FINISH. DON’T GRADE THEM.",
+          "narration": "A form should not feel like an exam graded at the end. Help people finish correctly as they go, instead of grading them at the end.",
+          "visual": {
+            "label": "HELP THEM FINISH.",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U20-DONT-WAIT-UNTIL-SUBMIT.wav",
+      "audioSeconds": 42.72
+    },
+    {
+      "id": "U21-THE-TABLE-HAS-12",
+      "title": "The Table Has 12 Columns. I Need Two.",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "EVERYTHING FITS. NOTHING SCANS.",
+          "narration": "The data is all here, and that is exactly the problem.",
+          "visual": {
+            "label": "EVERYTHING FITS. NOTHI",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 14,
+          "type": "diagram",
+          "text": "Horizontal scroll hides identity column; header disappears",
+          "narration": "Twelve columns, tiny text, horizontal scrolling, and mystery abbreviations. A checkbox column pushes the important value off the edge of the screen.",
+          "visual": {
+            "label": "HORIZONTAL SCROLL HIDE",
+            "items": [
+              "Horizontal scroll hides identity column",
+              "header disappears on vertical scroll."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 22,
+          "type": "diagram",
+          "text": "Currency and percentages misalign; user’s eyes zig-zag.",
+          "narration": "Enterprise tables become storage containers for every field the database owns. Start with the task instead of the schema.",
+          "visual": {
+            "label": "CURRENCY AND PERCENTAG",
+            "items": [
+              "Currency",
+              "percentages misalign",
+              "user’s eyes zig-zag."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 22,
+          "end": 34,
+          "type": "diagram",
+          "text": "Columns collapse to core decision set; sticky",
+          "narration": "Which columns actually help someone make the decision in front of them. Keep headers visible while scrolling and align numbers so they compare. Make the sort state obvious and the row actions predictable.",
+          "visual": {
+            "label": "COLUMNS COLLAPSE TO",
+            "items": [
+              "Columns collapse to core decision set",
+              "sticky header/identity column",
+              "aligned numerics",
+              "clear sort arrow."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 34,
+          "end": 41,
+          "type": "diagram",
+          "text": "Optional-columns menu reveals secondary data on demand.",
+          "narration": "Let secondary columns exist behind a menu rather than on the page. Everything fits, and nothing scans, which is the same as showing nothing.",
+          "visual": {
+            "label": "OPTIONAL-COLUMNS MENU ",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "A TABLE IS FOR COMPARISON, NOT STORAGE.",
+          "narration": "A powerful table lets someone scan, compare and act without fighting the grid. Show only the columns the decision needs and let the rest hide.",
+          "visual": {
+            "label": "A TABLE IS",
+            "items": [
+              "A TABLE IS FOR COMPARISON",
+              "NOT STORAGE."
+            ],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U21-THE-TABLE-HAS-12.wav",
+      "audioSeconds": 47.47
+    },
+    {
+      "id": "U22-MENUS-SHOULD-NOT-MAKE",
+      "title": "Menus Should Not Make You Hunt",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "FIND RENAME.",
+          "narration": "Why is rename here while delete sits somewhere completely different?",
+          "visual": {
+            "label": "FIND RENAME.",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "code",
+          "text": "Menu order reshuffles between two files; cursor overshoots.",
+          "narration": "Menus get slow when the structure changes every time you open them. The same action moves, common tasks hide under more, and labels switch between nouns and verbs.",
+          "visual": {
+            "label": "MENU ORDER RESHUFFLES",
+            "file": "reel.ts",
+            "code": [
+              "// Menu order reshuffles between two files",
+              "// cursor overshoots."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 21,
+          "type": "diagram",
+          "text": "Nested submenu closes as cursor crosses a tiny gap.",
+          "narration": "Destructive actions sit between everyday commands where a fast click can reach them. Nested menus need pixel-perfect steering and the cursor overshoots.",
+          "visual": {
+            "label": "NESTED SUBMENU CLOSES",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 21,
+          "end": 33,
+          "type": "timeline",
+          "text": "Rebuild into stable groups: edit actions / organization /",
+          "narration": "Group actions by meaning and keep recurring items in stable positions. Put dangerous actions apart from routine ones, always in the same corner. Prefer clear labels over clever icons, and avoid nesting a flat group.",
+          "visual": {
+            "label": "REBUILD INTO STABLE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 33,
+          "end": 41,
+          "type": "code",
+          "text": "User opens three different item menus; Rename remains in",
+          "narration": "Open three different menus and rename should stay in the same predictable place. Predictable menus feel faster because the decision was already made.",
+          "visual": {
+            "label": "USER OPENS THREE",
+            "file": "reel.ts",
+            "code": [
+              "// User opens three different item menus",
+              "// Rename remains in same predictable location."
+            ],
+            "highlight": [
+              0
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "PREDICTABLE MENUS FEEL FASTER.",
+          "narration": "Then nobody has to hunt. Predictable placement is what makes a menu feel fast at all.",
+          "visual": {
+            "label": "PREDICTABLE MENUS FEEL",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U22-MENUS-SHOULD-NOT-MAKE.wav",
+      "audioSeconds": 49.55
+    },
+    {
+      "id": "U23-FOUR-TINY-LAYOUT-CHOICES",
+      "title": "Four Tiny Layout Choices That Change the Whole Screen",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "NOT BROKEN. STILL CONFUSING.",
+          "narration": "Nothing on this screen is technically broken, and it still feels wrong.",
+          "visual": {
+            "label": "NOT BROKEN. STILL",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "diagram",
+          "text": "Heatmap-like gaze dots scatter everywhere.",
+          "narration": "Every element is asking for attention at exactly the same volume. The gaze dots scatter because nothing tells the eye where to begin.",
+          "visual": {
+            "label": "HEATMAP-LIKE GAZE DOTS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 20,
+          "type": "diagram",
+          "text": "Change 1: title hierarchy.",
+          "narration": "Watch four small changes instead of rebuilding the feature. First, increase the contrast between the page title and the metadata.",
+          "visual": {
+            "label": "CHANGE 1 TITLE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 20,
+          "end": 27,
+          "type": "diagram",
+          "text": "Change 2: grouping/proximity.",
+          "narration": "Second, group the controls that actually belong together. Third, add space between unrelated sections instead of drawing borders around everything.",
+          "visual": {
+            "label": "CHANGE 2 GROUPING/PROX",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 27,
+          "end": 34,
+          "type": "diagram",
+          "text": "Change 3: whitespace replaces excess dividers.",
+          "narration": "Fourth, make one primary action visually dominant and quiet the rest. Same content, same features, and suddenly the eye knows where to start.",
+          "visual": {
+            "label": "CHANGE 3 WHITESPACE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 34,
+          "end": 41,
+          "type": "diagram",
+          "text": "Change 4: primary action gains emphasis; eye path becomes",
+          "narration": "Four edits, no new features, and the screen finally reads. Hierarchy is instructions without words.",
+          "visual": {
+            "label": "CHANGE 4 PRIMARY",
+            "items": [
+              "primary action gains emphasis",
+              "eye path becomes simple."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s7",
+          "start": 41,
+          "end": 45,
+          "type": "payoff",
+          "text": "HIERARCHY IS INSTRUCTIONS WITHOUT WORDS.",
+          "narration": "The interface explains its structure before the user reads a single line.",
+          "visual": {
+            "label": "HIERARCHY IS INSTRUCTI",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U23-FOUR-TINY-LAYOUT-CHOICES.wav",
+      "audioSeconds": 47.95
+    },
+    {
+      "id": "U24-ONE-TOGGLE-SIGNED-OUT",
+      "title": "One Toggle Signed Out 24 People",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "Require SSO",
+          "narration": "This toggle looks personal, and it affects the whole company.",
+          "visual": {
+            "label": "REQUIRE SSO",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 11,
+          "type": "diagram",
+          "text": "24 sessions ended",
+          "narration": "A tiny switch can rotate an API key or disable a workspace. One casual click and twenty-four sessions end at the same moment.",
+          "visual": {
+            "label": "24 SESSIONS ENDED",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 20,
+          "type": "diagram",
+          "text": "Zoom out reveals toggle lived beside harmless personal",
+          "narration": "Twenty-four people should not depend on one unlabelled switch. Small control, large blast radius, and the interface showed neither.",
+          "visual": {
+            "label": "ZOOM OUT REVEALS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 20,
+          "end": 32,
+          "type": "diagram",
+          "text": "Affects 24 members",
+          "narration": "The visual scale must match the real world consequence before activation. Say who or what will be affected, in plain language. Separate personal settings from organisation settings so nobody confuses the two.",
+          "visual": {
+            "label": "AFFECTS 24 MEMBERS",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 32,
+          "end": 40,
+          "type": "timeline",
+          "text": "Confirmation states the exact consequence and recovery path.",
+          "narration": "Confirm with the exact consequence and a recovery path, not are you sure. Show the blast radius before the click, not after it.",
+          "visual": {
+            "label": "CONFIRMATION STATES TH",
+            "items": [
+              "Confirmation states the exact consequence",
+              "recovery path."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 40,
+          "end": 45,
+          "type": "payoff",
+          "text": "SHOW THE BLAST RADIUS BEFORE THE CLICK.",
+          "narration": "Then a dangerous action looks dangerous while it still costs nothing. Show the blast radius before the click, never after it.",
+          "visual": {
+            "label": "SHOW THE BLAST",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U24-ONE-TOGGLE-SIGNED-OUT.wav",
+      "audioSeconds": 50.4
+    },
+    {
+      "id": "U25-WHY-SOME-CARDS-FEEL",
+      "title": "Why Some Cards Feel Like Buttons and Others Don’t",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "WHAT CAN I CLICK?",
+          "narration": "Can you click this card?",
+          "visual": {
+            "label": "WHAT CAN I",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 14,
+          "type": "diagram",
+          "text": "Hover raises whole card, but click only works on tiny title.",
+          "narration": "The design should answer before the cursor does. The whole surface raises on hover, and only the tiny title actually works.",
+          "visual": {
+            "label": "HOVER RAISES WHOLE",
+            "items": [
+              "Hover raises whole card",
+              "but click only works on tiny title."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 14,
+          "end": 21,
+          "type": "checklist",
+          "text": "Three-dot menu click accidentally triggers card navigation.",
+          "narration": "Then the three-dot menu navigates instead of opening, which nobody expected. Choose one interaction model and apply it to every card on the page.",
+          "visual": {
+            "label": "THREE-DOT MENU CLICK",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 21,
+          "end": 33,
+          "type": "diagram",
+          "text": "Rebuild with one interaction model: full-card navigation +",
+          "narration": "Keep secondary actions separate from the primary card action. Do not use hover as the only clue; touch users never see it. Keyboard focus and touch tap should behave identically.",
+          "visual": {
+            "label": "REBUILD WITH ONE",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 33,
+          "end": 40,
+          "type": "diagram",
+          "text": "Keyboard focus and touch tap demonstrate same predictable",
+          "narration": "Make the hit area match the visual promise and experimentation stops. A good card has a clear reading order and a clear interaction model.",
+          "visual": {
+            "label": "KEYBOARD FOCUS AND",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 40,
+          "end": 45,
+          "type": "payoff",
+          "text": "MAKE THE HIT AREA MATCH THE VISUAL PROMISE.",
+          "narration": "The user should know what is clickable before trying. Match the hit area to the promise and the card stops lying.",
+          "visual": {
+            "label": "MAKE THE HIT",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U25-WHY-SOME-CARDS-FEEL.wav",
+      "audioSeconds": 43.52
+    },
+    {
+      "id": "U26-ACCESSIBILITY-PROBLEMS-H",
+      "title": "Accessibility Problems Hiding in a “Clean” UI",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 5,
+          "type": "hook",
+          "text": "LOOKS CLEAN. TEST THE ASSUMPTIONS.",
+          "narration": "This interface looks clean; now remove three things the designer assumed you had.",
+          "visual": {
+            "label": "LOOKS CLEAN. TEST",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 5,
+          "end": 13,
+          "type": "diagram",
+          "text": "Contrast simulation fades secondary labels until they",
+          "narration": "Remove perfect vision and the low contrast labels start disappearing. Remove the mouse and the focus becomes invisible, so controls cannot be reached.",
+          "visual": {
+            "label": "CONTRAST SIMULATION FA",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 13,
+          "end": 21,
+          "type": "diagram",
+          "text": "Cursor vanishes.",
+          "narration": "Remove colour as the only signal and the green and red dots mean nothing. Those problems hide because the designer tests with their own abilities and device.",
+          "visual": {
+            "label": "CURSOR VANISHES.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 21,
+          "end": 29,
+          "type": "diagram",
+          "text": "Color drains from green/red statuses; meaning disappears.",
+          "narration": "Use sufficient contrast, keep focus visible, and pair colour with another cue. Give every control an understandable name and respect reduced motion preferences.",
+          "visual": {
+            "label": "COLOR DRAINS FROM",
+            "items": [
+              "Color drains from green/red statuses",
+              "meaning disappears."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 29,
+          "end": 39,
+          "type": "diagram",
+          "text": "Rebuild: stronger contrast, focus rings, icons + labels",
+          "narration": "Accessible design is not a special mode you add later. It is removing assumptions from the default one.",
+          "visual": {
+            "label": "REBUILD STRONGER CONTR",
+            "items": [
+              "stronger contrast",
+              "focus rings",
+              "icons + labels",
+              "reduced-motion toggle."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 39,
+          "end": 45,
+          "type": "payoff",
+          "text": "ACCESSIBLE = FEWER ASSUMPTIONS.",
+          "narration": "Then the same screen works for more people without changing. Remove the assumptions from the default interface and accessibility stops being a mode.",
+          "visual": {
+            "label": "ACCESSIBLE FEWER ASSUM",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U26-ACCESSIBILITY-PROBLEMS-H.wav",
+      "audioSeconds": 46.83
+    },
+    {
+      "id": "U27-REFRESH-SHOULDNT-DELETE",
+      "title": "Refresh Shouldn’t Delete My Filters",
+      "format": "vertical-reel",
+      "scenes": [
+        {
+          "id": "s1",
+          "start": 0,
+          "end": 6,
+          "type": "hook",
+          "text": "14 results",
+          "narration": "Six filters, one refresh, and you are back to twelve hundred rows.",
+          "visual": {
+            "label": "14 RESULTS",
+            "items": [],
+            "note": ""
+          }
+        },
+        {
+          "id": "s2",
+          "start": 6,
+          "end": 11,
+          "type": "diagram",
+          "text": "User clicks Refresh.",
+          "narration": "The user narrowed the list down to fourteen results on purpose.",
+          "visual": {
+            "label": "USER CLICKS REFRESH.",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s3",
+          "start": 11,
+          "end": 17,
+          "type": "diagram",
+          "text": "WHY?",
+          "narration": "Status, owner, date, region, risk and sort order were all chosen deliberately.",
+          "visual": {
+            "label": "WHY",
+            "items": [
+              "OPENING",
+              "MIDDLE",
+              "PAYOFF"
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s4",
+          "start": 17,
+          "end": 28,
+          "type": "diagram",
+          "text": "Rebuild refresh: spinner affects only data layer; filter",
+          "narration": "Then the data refreshes and the interface silently resets every decision. Filters are part of the working context, not decoration you can discard. Keep them through refreshes and pin the filter bar where it was.",
+          "visual": {
+            "label": "REBUILD REFRESH SPINNE",
+            "items": [
+              "spinner affects only data layer",
+              "filter bar remains pinned",
+              "unchanged."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s5",
+          "start": 28,
+          "end": 38,
+          "type": "diagram",
+          "text": "Remove one filter, show count updating; save current",
+          "narration": "Show how many are applied and let one be cleared without clearing all. If something must reset because it is no longer valid, say exactly what changed.",
+          "visual": {
+            "label": "REMOVE ONE FILTER",
+            "items": [
+              "Remove one filter",
+              "show count updating",
+              "save current configuration as a named view."
+            ],
+            "note": ""
+          }
+        },
+        {
+          "id": "s6",
+          "start": 38,
+          "end": 45,
+          "type": "payoff",
+          "text": "REFRESH THE DATA. KEEP THE CONTEXT.",
+          "narration": "Save useful views for complex workflows so the question survives a reload. Refresh the data, never the question the user was asking. Refresh the data and keep the question the user was asking intact.",
+          "visual": {
+            "label": "REFRESH THE DATA.",
+            "items": [],
+            "note": ""
+          }
+        }
+      ],
+      "audio": "audio/U27-REFRESH-SHOULDNT-DELETE.wav",
+      "audioSeconds": 47.36
+    }
+  ]
+}

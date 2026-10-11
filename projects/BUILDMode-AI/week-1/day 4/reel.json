@@ -1,0 +1,259 @@
+{
+  "id": "D04R1",
+  "day": 4,
+  "reelNumber": 1,
+  "title": "Open-Source Browser Agent Test",
+  "format": "Experiment",
+  "durationSeconds": 40,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Can an open-source browser agent turn six repositories into a usable CSV? Four fields each: stars, primary language, license, and latest repository update. I ran it on the same machine and recorded every intervention. Then I opened the CSV in a second app and checked all twenty-four fields. [CORRECT_FIELDS] fields were correct. [INTERVENTIONS] interventions. [EXPORT_RESULT]. [PRACTICAL_VERDICT]. Want another open-source agent test?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 61,
+  "estimatedWpm": 92,
+  "concept": "Six repositories; stars, language, license and last update into CSV.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "Can an open-source browser agent turn six repositories into a usable CSV?",
+    "Twenty-four fields. One browser agent. No guessing.",
+    "The CSV downloaded. Now we check what is inside."
+  ],
+  "strongestHook": "Can an open-source browser agent turn six repositories into a usable CSV?",
+  "directorBrief": "Direct this as an observable challenge: Six repositories; stars, language, license and last update into CSV. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Medium",
+  "effort": "15–60 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Use fixed repositories facebook/react, microsoft/vscode, vercel/next.js, vitejs/vite, sveltejs/svelte and remotion-dev/remotion. Ask an accessible open-source browser agent for stars, primary language, license and latest default-branch commit timestamp into CSV. Freeze tool/model/environment and 15-minute cap. Audit 24 fields plus parse/open the CSV independently. Log source URLs, collection timestamps, interventions, invalid output and recovery.",
+  "evidenceRequirements": "Verify exact project/star count on recording day; audit all 24 extracted fields.",
+  "sources": [],
+  "thumbnail": "Browser Into CSV",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Browser Into CSV” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[PRACTICAL_VERDICT]. Want another open-source agent test?",
+  "cta": "WHAT TASK NEXT?",
+  "instagramCaption": "Open-Source Browser Agent Test. Six repositories; stars, language, license and last update into CSV. Full test conditions and limitations belong beside the final result. [PRACTICAL_VERDICT]. Want another open-source agent test?",
+  "tiktokCaption": "Open-Source Browser Agent Test. WHAT TASK NEXT?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Complete run, repo pages, CSV, interventions.",
+  "scenes": [
+    {
+      "id": "D04R1-S1",
+      "start": 0,
+      "end": 7.766666666666667,
+      "type": "hook",
+      "text": "BROWSE → CSV",
+      "narration": "Can an open-source browser agent turn six repositories into a usable CSV?",
+      "concept": "Open on empty CSV beside six fixed repository tabs.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Open on empty CSV beside six fixed repository tabs.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Can an open-source browser agent turn",
+        "six repositories into a usable CSV?"
+      ],
+      "presentationText": "BROWSE → USABLE CSV",
+      "presentationNarration": "Give an open-source browser agent six fixed repositories and ask for a CSV. A downloaded file is not automatically a successful task.",
+      "presentationCaptionChunks": [
+        "Give an open-source browser agent six",
+        "fixed repositories and ask for a",
+        "CSV. A downloaded file is not",
+        "automatically a successful task."
+      ]
+    },
+    {
+      "id": "D04R1-S2",
+      "start": 7.766666666666667,
+      "end": 14.933333333333334,
+      "type": "workflow",
+      "text": "24 FIELDS TO CHECK",
+      "narration": "Four fields each: stars, primary language, license, and latest repository update.",
+      "concept": "Four columns connect to six rows; define update timestamp precisely in the protocol.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Four columns connect to six rows; define update timestamp precisely in the protocol.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Four fields each: stars, primary language,",
+        "license, and latest repository update."
+      ],
+      "presentationText": "24 FIELDS TO CHECK",
+      "presentationNarration": "For each repository, collect stars, primary language, license, and latest default-branch update. Keep source links and collection time.",
+      "presentationCaptionChunks": [
+        "For each repository, collect stars, primary",
+        "language, license, and latest default-branch update.",
+        "Keep source links and collection time."
+      ]
+    },
+    {
+      "id": "D04R1-S3",
+      "start": 14.933333333333334,
+      "end": 22.1,
+      "type": "evidence",
+      "text": "FULL RUN RECORDED",
+      "narration": "I ran it on the same machine and recorded every intervention.",
+      "concept": "Real agent and browser capture; speed label appears on accelerated sections.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real agent and browser capture; speed label appears on accelerated sections.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I ran it on the same",
+        "machine and recorded every intervention."
+      ],
+      "presentationText": "RECORD THE FULL RUN",
+      "presentationNarration": "Use the same machine and document the tool configuration. Log every intervention rather than editing the difficult moments away.",
+      "presentationCaptionChunks": [
+        "Use the same machine and document",
+        "the tool configuration. Log every intervention",
+        "rather than editing the difficult moments",
+        "away."
+      ]
+    },
+    {
+      "id": "D04R1-S4",
+      "start": 22.1,
+      "end": 31.066666666666666,
+      "type": "evidence",
+      "text": "THE FILE HAS TO WORK",
+      "narration": "Then I opened the CSV in a second app and checked all twenty-four fields.",
+      "concept": "Show exported file opening; audit one field against repository evidence.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show exported file opening; audit one field against repository evidence.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Then I opened the CSV in",
+        "a second app and checked all",
+        "twenty-four fields."
+      ],
+      "presentationText": "OPEN IT SOMEWHERE ELSE",
+      "presentationNarration": "Parse the file in a second application. Check commas, headers, rows, and whether every value points back to its source.",
+      "presentationCaptionChunks": [
+        "Parse the file in a second",
+        "application. Check commas, headers, rows, and",
+        "whether every value points back to",
+        "its source."
+      ]
+    },
+    {
+      "id": "D04R1-S5",
+      "start": 31.066666666666666,
+      "end": 35.833333333333336,
+      "type": "result",
+      "text": "[CSV AUDIT]",
+      "narration": "[CORRECT_FIELDS] fields were correct. [INTERVENTIONS] interventions. [EXPORT_RESULT].",
+      "concept": "Verified values and one representative discrepancy, if present.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Verified values and one representative discrepancy, if present.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[CORRECT_FIELDS] fields were correct. [INTERVENTIONS] interventions. [EXPORT_RESULT]."
+      ],
+      "presentationText": "AUDIT BEFORE A VERDICT",
+      "presentationNarration": "There are twenty-four fields to verify. Accuracy, interventions, and usable export all belong in the final assessment.",
+      "presentationCaptionChunks": [
+        "There are twenty-four fields to verify.",
+        "Accuracy, interventions, and usable export all",
+        "belong in the final assessment."
+      ]
+    },
+    {
+      "id": "D04R1-S6",
+      "start": 35.833333333333336,
+      "end": 40,
+      "type": "question",
+      "text": "WHAT TASK NEXT?",
+      "narration": "[PRACTICAL_VERDICT]. Want another open-source agent test?",
+      "concept": "Final CSV remains visible with true completion state.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Final CSV remains visible with true completion state.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[PRACTICAL_VERDICT]. Want another open-source agent test?"
+      ],
+      "presentationText": "WHAT SHOULD IT BROWSE?",
+      "presentationNarration": "This edition lays out the test without inventing results. Which repetitive research task should be next?",
+      "presentationCaptionChunks": [
+        "This edition lays out the test",
+        "without inventing results. Which repetitive research",
+        "task should be next?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

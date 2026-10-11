@@ -1,0 +1,1 @@
+Read PRODUCTION_RULES.md before changing this kit. Shared changes affect all three channels: typecheck each and render representative previews. Never introduce screen-filling solid-colour transition wipes.

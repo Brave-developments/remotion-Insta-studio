@@ -1,0 +1,756 @@
+{
+  "fingerprint": "065eb78c77dc2d59ab725d3aeb65c27aac87178a88db42e9a6b3da9d4d198e9f",
+  "recognizedText": " Can one sentence describe a playable dodge game? Start with a focused brief rather than a sprawling game design. Keyboard controls, rising difficulty, a high score, and restart. Four clear requirements keep the first build judgeable. This authored motion study shows falling obstacles and a moving player. It is animation, not recorded model gameplay. On the playable local fixture, test movement, collision loss, restart, reset, and saved high score after refresh. A model-build experiment needs actual first output and normal speed gameplay. Do not invent completion time or correction count. The development fixture is included beside this study. What game would you describe in one sentence?",
+  "words": [
+    {
+      "text": " Can",
+      "timestamp": [
+        0.0,
+        0.6
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        0.6,
+        0.82
+      ]
+    },
+    {
+      "text": " sentence",
+      "timestamp": [
+        0.82,
+        1.16
+      ]
+    },
+    {
+      "text": " describe",
+      "timestamp": [
+        1.16,
+        1.68
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        1.68,
+        1.9
+      ]
+    },
+    {
+      "text": " playable",
+      "timestamp": [
+        1.9,
+        2.24
+      ]
+    },
+    {
+      "text": " dodge",
+      "timestamp": [
+        2.24,
+        2.56
+      ]
+    },
+    {
+      "text": " game?",
+      "timestamp": [
+        2.56,
+        3.44
+      ]
+    },
+    {
+      "text": " Start",
+      "timestamp": [
+        3.68,
+        3.74
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        3.74,
+        3.92
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        3.92,
+        4.0
+      ]
+    },
+    {
+      "text": " focused",
+      "timestamp": [
+        4.0,
+        4.34
+      ]
+    },
+    {
+      "text": " brief",
+      "timestamp": [
+        4.34,
+        4.74
+      ]
+    },
+    {
+      "text": " rather",
+      "timestamp": [
+        4.74,
+        5.2
+      ]
+    },
+    {
+      "text": " than",
+      "timestamp": [
+        5.2,
+        5.44
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        5.44,
+        5.54
+      ]
+    },
+    {
+      "text": " sprawling",
+      "timestamp": [
+        5.54,
+        6.02
+      ]
+    },
+    {
+      "text": " game",
+      "timestamp": [
+        6.02,
+        6.26
+      ]
+    },
+    {
+      "text": " design.",
+      "timestamp": [
+        6.26,
+        7.32
+      ]
+    },
+    {
+      "text": " Keyboard",
+      "timestamp": [
+        7.36,
+        7.66
+      ]
+    },
+    {
+      "text": " controls,",
+      "timestamp": [
+        7.66,
+        8.62
+      ]
+    },
+    {
+      "text": " rising",
+      "timestamp": [
+        8.62,
+        8.86
+      ]
+    },
+    {
+      "text": " difficulty,",
+      "timestamp": [
+        8.86,
+        9.88
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        9.88,
+        9.98
+      ]
+    },
+    {
+      "text": " high",
+      "timestamp": [
+        9.98,
+        10.16
+      ]
+    },
+    {
+      "text": " score,",
+      "timestamp": [
+        10.16,
+        10.86
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        10.86,
+        10.94
+      ]
+    },
+    {
+      "text": " restart.",
+      "timestamp": [
+        10.94,
+        11.98
+      ]
+    },
+    {
+      "text": " Four",
+      "timestamp": [
+        12.12,
+        12.28
+      ]
+    },
+    {
+      "text": " clear",
+      "timestamp": [
+        12.28,
+        12.56
+      ]
+    },
+    {
+      "text": " requirements",
+      "timestamp": [
+        12.56,
+        13.08
+      ]
+    },
+    {
+      "text": " keep",
+      "timestamp": [
+        13.08,
+        13.34
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.34,
+        13.52
+      ]
+    },
+    {
+      "text": " first",
+      "timestamp": [
+        13.52,
+        13.74
+      ]
+    },
+    {
+      "text": " build",
+      "timestamp": [
+        13.74,
+        14.02
+      ]
+    },
+    {
+      "text": " judgeable.",
+      "timestamp": [
+        14.02,
+        15.22
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        15.22,
+        15.4
+      ]
+    },
+    {
+      "text": " authored",
+      "timestamp": [
+        15.4,
+        15.82
+      ]
+    },
+    {
+      "text": " motion",
+      "timestamp": [
+        15.82,
+        16.1
+      ]
+    },
+    {
+      "text": " study",
+      "timestamp": [
+        16.1,
+        16.5
+      ]
+    },
+    {
+      "text": " shows",
+      "timestamp": [
+        16.5,
+        16.9
+      ]
+    },
+    {
+      "text": " falling",
+      "timestamp": [
+        16.9,
+        17.36
+      ]
+    },
+    {
+      "text": " obstacles",
+      "timestamp": [
+        17.36,
+        17.8
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        17.8,
+        18.16
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        18.16,
+        18.22
+      ]
+    },
+    {
+      "text": " moving",
+      "timestamp": [
+        18.22,
+        18.46
+      ]
+    },
+    {
+      "text": " player.",
+      "timestamp": [
+        18.46,
+        19.4
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        19.4,
+        19.5
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        19.5,
+        19.62
+      ]
+    },
+    {
+      "text": " animation,",
+      "timestamp": [
+        19.62,
+        20.46
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        20.46,
+        20.6
+      ]
+    },
+    {
+      "text": " recorded",
+      "timestamp": [
+        20.6,
+        21.02
+      ]
+    },
+    {
+      "text": " model",
+      "timestamp": [
+        21.02,
+        21.3
+      ]
+    },
+    {
+      "text": " gameplay.",
+      "timestamp": [
+        21.3,
+        22.38
+      ]
+    },
+    {
+      "text": " On",
+      "timestamp": [
+        22.38,
+        22.46
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        22.46,
+        22.56
+      ]
+    },
+    {
+      "text": " playable",
+      "timestamp": [
+        22.56,
+        22.92
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        22.92,
+        23.26
+      ]
+    },
+    {
+      "text": " fixture,",
+      "timestamp": [
+        23.26,
+        24.18
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        24.18,
+        24.4
+      ]
+    },
+    {
+      "text": " movement,",
+      "timestamp": [
+        24.4,
+        25.1
+      ]
+    },
+    {
+      "text": " collision",
+      "timestamp": [
+        25.1,
+        25.36
+      ]
+    },
+    {
+      "text": " loss,",
+      "timestamp": [
+        25.36,
+        26.24
+      ]
+    },
+    {
+      "text": " restart,",
+      "timestamp": [
+        26.24,
+        26.86
+      ]
+    },
+    {
+      "text": " reset,",
+      "timestamp": [
+        26.86,
+        27.38
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        27.38,
+        27.46
+      ]
+    },
+    {
+      "text": " saved",
+      "timestamp": [
+        27.46,
+        27.84
+      ]
+    },
+    {
+      "text": " high",
+      "timestamp": [
+        27.96,
+        28.06
+      ]
+    },
+    {
+      "text": " score",
+      "timestamp": [
+        28.06,
+        28.4
+      ]
+    },
+    {
+      "text": " after",
+      "timestamp": [
+        28.4,
+        28.8
+      ]
+    },
+    {
+      "text": " refresh.",
+      "timestamp": [
+        28.8,
+        29.68
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        29.8,
+        29.94
+      ]
+    },
+    {
+      "text": " model",
+      "timestamp": [
+        29.94,
+        30.2
+      ]
+    },
+    {
+      "text": "-build",
+      "timestamp": [
+        30.2,
+        30.44
+      ]
+    },
+    {
+      "text": " experiment",
+      "timestamp": [
+        30.44,
+        30.98
+      ]
+    },
+    {
+      "text": " needs",
+      "timestamp": [
+        30.98,
+        31.2
+      ]
+    },
+    {
+      "text": " actual",
+      "timestamp": [
+        31.2,
+        31.7
+      ]
+    },
+    {
+      "text": " first",
+      "timestamp": [
+        31.7,
+        32.04
+      ]
+    },
+    {
+      "text": " output",
+      "timestamp": [
+        32.04,
+        32.54
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        32.54,
+        32.82
+      ]
+    },
+    {
+      "text": " normal",
+      "timestamp": [
+        32.82,
+        33.08
+      ]
+    },
+    {
+      "text": " speed",
+      "timestamp": [
+        33.08,
+        33.4
+      ]
+    },
+    {
+      "text": " gameplay.",
+      "timestamp": [
+        33.4,
+        34.32
+      ]
+    },
+    {
+      "text": " Do",
+      "timestamp": [
+        34.48,
+        34.48
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        34.48,
+        34.68
+      ]
+    },
+    {
+      "text": " invent",
+      "timestamp": [
+        34.68,
+        34.98
+      ]
+    },
+    {
+      "text": " completion",
+      "timestamp": [
+        34.98,
+        35.56
+      ]
+    },
+    {
+      "text": " time",
+      "timestamp": [
+        35.56,
+        35.88
+      ]
+    },
+    {
+      "text": " or",
+      "timestamp": [
+        35.88,
+        36.12
+      ]
+    },
+    {
+      "text": " correction",
+      "timestamp": [
+        36.12,
+        36.46
+      ]
+    },
+    {
+      "text": " count.",
+      "timestamp": [
+        36.46,
+        37.3
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        37.54,
+        37.56
+      ]
+    },
+    {
+      "text": " development",
+      "timestamp": [
+        37.56,
+        37.92
+      ]
+    },
+    {
+      "text": " fixture",
+      "timestamp": [
+        37.92,
+        38.4
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        38.4,
+        38.68
+      ]
+    },
+    {
+      "text": " included",
+      "timestamp": [
+        38.68,
+        39.04
+      ]
+    },
+    {
+      "text": " beside",
+      "timestamp": [
+        39.04,
+        39.44
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        39.44,
+        39.7
+      ]
+    },
+    {
+      "text": " study.",
+      "timestamp": [
+        39.7,
+        40.48
+      ]
+    },
+    {
+      "text": " What",
+      "timestamp": [
+        40.56,
+        40.64
+      ]
+    },
+    {
+      "text": " game",
+      "timestamp": [
+        40.64,
+        40.88
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        40.88,
+        41.06
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        41.06,
+        41.18
+      ]
+    },
+    {
+      "text": " describe",
+      "timestamp": [
+        41.18,
+        41.54
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        41.54,
+        41.76
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        41.76,
+        41.96
+      ]
+    },
+    {
+      "text": " sentence?",
+      "timestamp": [
+        41.96,
+        42.7
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

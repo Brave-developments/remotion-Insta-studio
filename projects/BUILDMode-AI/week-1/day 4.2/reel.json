@@ -1,0 +1,261 @@
+{
+  "id": "D04R2",
+  "day": 4,
+  "reelNumber": 2,
+  "title": "Same AI. One Extra Skill.",
+  "format": "Build",
+  "durationSeconds": 30,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Same AI. Same code change. One extra review skill. I seeded three reviewable issues: a missing permission check, an input edge case, and a keyboard trap. One session gets the usual request. The other also gets a short, focused review checklist. I scored useful findings, missed issues, and false alarms. More words do not earn more points. [CONTROL_FINDINGS] versus [SKILL_FINDINGS]. [FALSE_POSITIVE_RESULT]. [SCOPE_LIMITED_CONCLUSION]. Would you build a small skill library?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 69,
+  "estimatedWpm": 138,
+  "concept": "A/B review of the same diff with and without a focused review skill.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "Same AI. Same code change. One extra review skill.",
+    "Does a review checklist change what the AI catches?",
+    "More review text does not mean more correct findings."
+  ],
+  "strongestHook": "Same AI. Same code change. One extra review skill.",
+  "directorBrief": "Direct this as an observable challenge: A/B review of the same diff with and without a focused review skill. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Easy",
+  "effort": "15–60 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Prepare a local review fixture with three known issues: missing permission check in a mock handler, empty-input edge case and keyboard-inaccessible control. Record baseline commit and expected findings before the runs. Use identical fresh model sessions and prompt, with only the second receiving a focused review checklist. Blind-score validated findings, misses and false alarms; keep useful unseeded findings separate. No superiority claim from verbosity or one easy fixture.",
+  "evidenceRequirements": "Fresh sessions and known seeded issues; record actual findings.",
+  "sources": [],
+  "thumbnail": "One Extra Skill",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “One Extra Skill” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[SCOPE_LIMITED_CONCLUSION]. Would you build a small skill library?",
+  "cta": "WOULD YOU SAVE THIS SKILL?",
+  "instagramCaption": "Same AI. One Extra Skill.. A/B review of the same diff with and without a focused review skill. Full test conditions and limitations belong beside the final result. [SCOPE_LIMITED_CONCLUSION]. Would you build a small skill library?",
+  "tiktokCaption": "Same AI. One Extra Skill.. WOULD YOU SAVE THIS SKILL?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Diff, skill folder, both reviews, findings.",
+  "scenes": [
+    {
+      "id": "D04R2-S1",
+      "start": 0,
+      "end": 4,
+      "type": "hook",
+      "text": "ONE EXTRA SKILL",
+      "narration": "Same AI. Same code change. One extra review skill.",
+      "concept": "Same commit diff displayed in both fresh sessions.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Same commit diff displayed in both fresh sessions.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Same AI. Same code change. One",
+        "extra review skill."
+      ],
+      "presentationText": "ONE EXTRA REVIEW SKILL",
+      "presentationNarration": "Same model. Same code change. Two fresh sessions. Only one receives an extra focused review checklist.",
+      "presentationCaptionChunks": [
+        "Same model. Same code change. Two",
+        "fresh sessions. Only one receives an",
+        "extra focused review checklist."
+      ]
+    },
+    {
+      "id": "D04R2-S2",
+      "start": 4,
+      "end": 11.2,
+      "type": "workflow",
+      "text": "THREE SEEDED ISSUES",
+      "narration": "I seeded three reviewable issues: a missing permission check, an input edge case, and a keyboard trap.",
+      "concept": "Use a harmless local fixture; show issue categories without exploit instructions.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Use a harmless local fixture; show issue categories without exploit instructions.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "I seeded three reviewable issues: a",
+        "missing permission check, an input edge",
+        "case, and a keyboard trap."
+      ],
+      "presentationText": "THREE KNOWN ISSUES",
+      "presentationNarration": "The fixture includes a missing permission check, an empty-input edge case, and a control that traps keyboard users.",
+      "presentationCaptionChunks": [
+        "The fixture includes a missing permission",
+        "check, an empty-input edge case, and",
+        "a control that traps keyboard users."
+      ]
+    },
+    {
+      "id": "D04R2-S3",
+      "start": 11.2,
+      "end": 17.6,
+      "type": "evidence",
+      "text": "CONTROL / WITH SKILL",
+      "narration": "One session gets the usual request. The other also gets a short, focused review checklist.",
+      "concept": "Identical prompt and model configuration; only instruction package differs.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Identical prompt and model configuration; only instruction package differs.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "One session gets the usual request.",
+        "The other also gets a short,",
+        "focused review checklist."
+      ],
+      "presentationText": "CONTROL / WITH CHECKLIST",
+      "presentationNarration": "Freeze the prompt and diff. Add the checklist only to the second session so the comparison has one clear change.",
+      "presentationCaptionChunks": [
+        "Freeze the prompt and diff. Add",
+        "the checklist only to the second",
+        "session so the comparison has one",
+        "clear change."
+      ]
+    },
+    {
+      "id": "D04R2-S4",
+      "start": 17.6,
+      "end": 24.4,
+      "type": "evidence",
+      "text": "FINDINGS, NOT WORD COUNT",
+      "narration": "I scored useful findings, missed issues, and false alarms. More words do not earn more points.",
+      "concept": "Map each actual finding to its seeded issue or mark as unverified.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d04r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Map each actual finding to its seeded issue or mark as unverified.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I scored useful findings, missed issues,",
+        "and false alarms. More words do",
+        "not earn more points."
+      ],
+      "presentationText": "FINDINGS, NOT WORD COUNT",
+      "presentationNarration": "Score validated findings, missed issues, and false alarms. A longer answer is not automatically a better review.",
+      "presentationCaptionChunks": [
+        "Score validated findings, missed issues, and",
+        "false alarms. A longer answer is",
+        "not automatically a better review."
+      ]
+    },
+    {
+      "id": "D04R2-S5",
+      "start": 24.4,
+      "end": 26.4,
+      "type": "result",
+      "text": "[BLIND AUDIT RESULT]",
+      "narration": "[CONTROL_FINDINGS] versus [SKILL_FINDINGS]. [FALSE_POSITIVE_RESULT].",
+      "concept": "Audit table uses finding IDs and evidence links, no arbitrary quality score.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Audit table uses finding IDs and evidence links, no arbitrary quality score.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[CONTROL_FINDINGS] versus [SKILL_FINDINGS]. [FALSE_POSITIVE_RESULT]."
+      ],
+      "presentationText": "BLIND AUDIT FIRST",
+      "presentationNarration": "Do not fill the scorecard until both recorded reviews are checked against the seeded issues. Keep useful extra findings separate.",
+      "presentationCaptionChunks": [
+        "Do not fill the scorecard until",
+        "both recorded reviews are checked against",
+        "the seeded issues. Keep useful extra",
+        "findings separate."
+      ]
+    },
+    {
+      "id": "D04R2-S6",
+      "start": 26.4,
+      "end": 30,
+      "type": "question",
+      "text": "WOULD YOU SAVE THIS SKILL?",
+      "narration": "[SCOPE_LIMITED_CONCLUSION]. Would you build a small skill library?",
+      "concept": "Keep useful checklist beside one concrete validated finding.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Keep useful checklist beside one concrete validated finding.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[SCOPE_LIMITED_CONCLUSION]. Would you build a small",
+        "skill library?"
+      ],
+      "presentationText": "WHAT WOULD YOUR SKILL CHECK?",
+      "presentationNarration": "This is the review experiment design. What focused checklist would you want every reviewer to carry?",
+      "presentationCaptionChunks": [
+        "This is the review experiment design.",
+        "What focused checklist would you want",
+        "every reviewer to carry?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

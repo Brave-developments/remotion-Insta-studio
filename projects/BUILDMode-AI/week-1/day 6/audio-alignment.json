@@ -1,0 +1,756 @@
+{
+  "fingerprint": "6c055d693c2e28722f48ac03e35399f01bcae2f33e7a49f658d20c0510c8878a",
+  "recognizedText": " Compare, too, available coding configurations on one CSV export task. Freeze the baseline before starting either run. Headers, commas, quotes, embedded new lines, empty cells, and unicode all matter. A file that looks right can still be broken. Use clean copies and the same prompt. Stop each clock only after independent acceptance checks pass. Inspect the exported data in another application. A quick answer does not win if it produces an unusable file. Repeat paired runs when possible, alternate order, and report variation. The timing comparison remains open until measured. This addition explains the test protocol. Which small task would make a useful speed and quality comparison?",
+  "words": [
+    {
+      "text": " Compare,",
+      "timestamp": [
+        0.0,
+        0.5
+      ]
+    },
+    {
+      "text": " too,",
+      "timestamp": [
+        0.5,
+        1.08
+      ]
+    },
+    {
+      "text": " available",
+      "timestamp": [
+        1.08,
+        1.52
+      ]
+    },
+    {
+      "text": " coding",
+      "timestamp": [
+        1.52,
+        1.94
+      ]
+    },
+    {
+      "text": " configurations",
+      "timestamp": [
+        1.94,
+        2.64
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        2.64,
+        3.08
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        3.08,
+        3.38
+      ]
+    },
+    {
+      "text": " CSV",
+      "timestamp": [
+        3.38,
+        3.84
+      ]
+    },
+    {
+      "text": " export",
+      "timestamp": [
+        3.84,
+        4.42
+      ]
+    },
+    {
+      "text": " task.",
+      "timestamp": [
+        4.42,
+        5.36
+      ]
+    },
+    {
+      "text": " Freeze",
+      "timestamp": [
+        5.72,
+        5.72
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        5.72,
+        5.96
+      ]
+    },
+    {
+      "text": " baseline",
+      "timestamp": [
+        5.96,
+        6.34
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        6.34,
+        6.72
+      ]
+    },
+    {
+      "text": " starting",
+      "timestamp": [
+        6.72,
+        7.14
+      ]
+    },
+    {
+      "text": " either",
+      "timestamp": [
+        7.14,
+        7.44
+      ]
+    },
+    {
+      "text": " run.",
+      "timestamp": [
+        7.44,
+        8.2
+      ]
+    },
+    {
+      "text": " Headers,",
+      "timestamp": [
+        8.5,
+        9.1
+      ]
+    },
+    {
+      "text": " commas,",
+      "timestamp": [
+        9.1,
+        9.94
+      ]
+    },
+    {
+      "text": " quotes,",
+      "timestamp": [
+        9.94,
+        10.64
+      ]
+    },
+    {
+      "text": " embedded",
+      "timestamp": [
+        10.64,
+        11.12
+      ]
+    },
+    {
+      "text": " new",
+      "timestamp": [
+        11.12,
+        11.4
+      ]
+    },
+    {
+      "text": " lines,",
+      "timestamp": [
+        11.4,
+        12.12
+      ]
+    },
+    {
+      "text": " empty",
+      "timestamp": [
+        12.12,
+        12.36
+      ]
+    },
+    {
+      "text": " cells,",
+      "timestamp": [
+        12.36,
+        12.7
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        12.7,
+        13.2
+      ]
+    },
+    {
+      "text": " unicode",
+      "timestamp": [
+        13.2,
+        13.66
+      ]
+    },
+    {
+      "text": " all",
+      "timestamp": [
+        13.66,
+        14.0
+      ]
+    },
+    {
+      "text": " matter.",
+      "timestamp": [
+        14.0,
+        14.64
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        14.8,
+        14.86
+      ]
+    },
+    {
+      "text": " file",
+      "timestamp": [
+        14.86,
+        15.12
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        15.12,
+        15.36
+      ]
+    },
+    {
+      "text": " looks",
+      "timestamp": [
+        15.36,
+        15.54
+      ]
+    },
+    {
+      "text": " right",
+      "timestamp": [
+        15.54,
+        15.88
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        15.88,
+        16.4
+      ]
+    },
+    {
+      "text": " still",
+      "timestamp": [
+        16.4,
+        16.7
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        16.7,
+        16.88
+      ]
+    },
+    {
+      "text": " broken.",
+      "timestamp": [
+        16.88,
+        17.74
+      ]
+    },
+    {
+      "text": " Use",
+      "timestamp": [
+        18.22,
+        18.22
+      ]
+    },
+    {
+      "text": " clean",
+      "timestamp": [
+        18.22,
+        18.46
+      ]
+    },
+    {
+      "text": " copies",
+      "timestamp": [
+        18.46,
+        18.86
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        18.86,
+        19.16
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        19.16,
+        19.28
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        19.28,
+        19.52
+      ]
+    },
+    {
+      "text": " prompt.",
+      "timestamp": [
+        19.52,
+        20.32
+      ]
+    },
+    {
+      "text": " Stop",
+      "timestamp": [
+        20.7,
+        20.74
+      ]
+    },
+    {
+      "text": " each",
+      "timestamp": [
+        20.74,
+        21.08
+      ]
+    },
+    {
+      "text": " clock",
+      "timestamp": [
+        21.08,
+        21.34
+      ]
+    },
+    {
+      "text": " only",
+      "timestamp": [
+        21.34,
+        21.76
+      ]
+    },
+    {
+      "text": " after",
+      "timestamp": [
+        21.76,
+        22.06
+      ]
+    },
+    {
+      "text": " independent",
+      "timestamp": [
+        22.06,
+        22.58
+      ]
+    },
+    {
+      "text": " acceptance",
+      "timestamp": [
+        22.58,
+        22.94
+      ]
+    },
+    {
+      "text": " checks",
+      "timestamp": [
+        22.94,
+        23.36
+      ]
+    },
+    {
+      "text": " pass.",
+      "timestamp": [
+        23.36,
+        24.16
+      ]
+    },
+    {
+      "text": " Inspect",
+      "timestamp": [
+        24.56,
+        24.72
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        24.72,
+        25.08
+      ]
+    },
+    {
+      "text": " exported",
+      "timestamp": [
+        25.08,
+        25.52
+      ]
+    },
+    {
+      "text": " data",
+      "timestamp": [
+        25.52,
+        25.92
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        25.92,
+        26.16
+      ]
+    },
+    {
+      "text": " another",
+      "timestamp": [
+        26.16,
+        26.44
+      ]
+    },
+    {
+      "text": " application.",
+      "timestamp": [
+        26.44,
+        27.56
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        27.6,
+        27.76
+      ]
+    },
+    {
+      "text": " quick",
+      "timestamp": [
+        27.76,
+        27.96
+      ]
+    },
+    {
+      "text": " answer",
+      "timestamp": [
+        27.96,
+        28.36
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        28.36,
+        28.6
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        28.6,
+        28.84
+      ]
+    },
+    {
+      "text": " win",
+      "timestamp": [
+        28.84,
+        29.16
+      ]
+    },
+    {
+      "text": " if",
+      "timestamp": [
+        29.16,
+        29.44
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        29.44,
+        29.56
+      ]
+    },
+    {
+      "text": " produces",
+      "timestamp": [
+        29.56,
+        29.96
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        29.96,
+        30.18
+      ]
+    },
+    {
+      "text": " unusable",
+      "timestamp": [
+        30.18,
+        30.68
+      ]
+    },
+    {
+      "text": " file.",
+      "timestamp": [
+        30.68,
+        31.64
+      ]
+    },
+    {
+      "text": " Repeat",
+      "timestamp": [
+        31.86,
+        31.96
+      ]
+    },
+    {
+      "text": " paired",
+      "timestamp": [
+        31.96,
+        32.34
+      ]
+    },
+    {
+      "text": " runs",
+      "timestamp": [
+        32.34,
+        32.58
+      ]
+    },
+    {
+      "text": " when",
+      "timestamp": [
+        32.58,
+        32.82
+      ]
+    },
+    {
+      "text": " possible,",
+      "timestamp": [
+        32.82,
+        33.74
+      ]
+    },
+    {
+      "text": " alternate",
+      "timestamp": [
+        33.74,
+        34.04
+      ]
+    },
+    {
+      "text": " order,",
+      "timestamp": [
+        34.04,
+        34.66
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        34.66,
+        34.76
+      ]
+    },
+    {
+      "text": " report",
+      "timestamp": [
+        34.76,
+        35.08
+      ]
+    },
+    {
+      "text": " variation.",
+      "timestamp": [
+        35.08,
+        36.3
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        36.36,
+        36.44
+      ]
+    },
+    {
+      "text": " timing",
+      "timestamp": [
+        36.44,
+        36.74
+      ]
+    },
+    {
+      "text": " comparison",
+      "timestamp": [
+        36.74,
+        37.16
+      ]
+    },
+    {
+      "text": " remains",
+      "timestamp": [
+        37.16,
+        37.64
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        37.64,
+        38.14
+      ]
+    },
+    {
+      "text": " until",
+      "timestamp": [
+        38.14,
+        38.48
+      ]
+    },
+    {
+      "text": " measured.",
+      "timestamp": [
+        38.48,
+        39.58
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        39.58,
+        39.72
+      ]
+    },
+    {
+      "text": " addition",
+      "timestamp": [
+        39.72,
+        40.12
+      ]
+    },
+    {
+      "text": " explains",
+      "timestamp": [
+        40.12,
+        40.54
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        40.54,
+        40.86
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        40.86,
+        41.08
+      ]
+    },
+    {
+      "text": " protocol.",
+      "timestamp": [
+        41.08,
+        42.04
+      ]
+    },
+    {
+      "text": " Which",
+      "timestamp": [
+        42.26,
+        42.38
+      ]
+    },
+    {
+      "text": " small",
+      "timestamp": [
+        42.38,
+        42.64
+      ]
+    },
+    {
+      "text": " task",
+      "timestamp": [
+        42.64,
+        42.98
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        42.98,
+        43.18
+      ]
+    },
+    {
+      "text": " make",
+      "timestamp": [
+        43.18,
+        43.34
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        43.34,
+        43.48
+      ]
+    },
+    {
+      "text": " useful",
+      "timestamp": [
+        43.48,
+        43.76
+      ]
+    },
+    {
+      "text": " speed",
+      "timestamp": [
+        43.76,
+        44.22
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        44.22,
+        44.46
+      ]
+    },
+    {
+      "text": " quality",
+      "timestamp": [
+        44.46,
+        44.84
+      ]
+    },
+    {
+      "text": " comparison?",
+      "timestamp": [
+        44.84,
+        45.74
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

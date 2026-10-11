@@ -1,0 +1,337 @@
+{
+  "id": "D05R1",
+  "day": 5,
+  "reelNumber": 1,
+  "title": "OpenCut \u2014 Discovery",
+  "format": "Discovery",
+  "durationSeconds": 32.7,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "A free editor can be exciting without being your next production tool. OpenCut is an open-source editor. Its current README says the project is being rewritten, with the classic version still available. I am testing the classic version people can use today: can it handle an ordinary vertical edit? Then I need text, sound, and an export I can actually open. Open source tells me something about access. It does not tell me whether this version fits my deadline. Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+  "audio": "audio/day 5.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 92,
+  "estimatedWpm": 149,
+  "concept": "Current editor and development status rather than a CapCut-killer claim.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "A free editor can be exciting without being your next production tool.",
+    "OpenCut has a rewrite. I am testing the classic editor.",
+    "Open source does not guarantee a deadline-ready edit."
+  ],
+  "strongestHook": "A free editor can be exciting without being your next production tool.",
+  "directorBrief": "Direct this as a useful discovery with one important limit: Current editor and development status rather than a CapCut-killer claim. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Easy",
+  "effort": "30\u201390 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "The current official README states a rewrite and points users to the classic version. Record classic app URL and version/build identifier; keep rewrite preview separate. Use three original short clips, licensed/original music and a title. Capture import, timeline interaction and available export options. Missing operation is a finding, not permission to create a simulated screenshot.",
+  "evidenceRequirements": "Verify repo, current star count, license and rewrite status.",
+  "sources": [
+    {
+      "label": "OpenCut repository and current status",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Classic Or Rewrite",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cClassic Or Rewrite\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+  "cta": "SAME REEL. FULL CHECKLIST.",
+  "instagramCaption": "OpenCut \u2014 Discovery. Current editor and development status rather than a CapCut-killer claim. Full test conditions and limitations belong beside the final result. Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+  "tiktokCaption": "OpenCut \u2014 Discovery. SAME REEL. FULL CHECKLIST.",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Actual repo/README and production editor.",
+  "scenes": [
+    {
+      "id": "D05R1-S1",
+      "start": 0.0,
+      "end": 4.233333333333333,
+      "type": "hook",
+      "text": "HYPE VS A USABLE EDITOR",
+      "narration": "A free editor can be exciting without being your next production tool.",
+      "concept": "Real OpenCut interface; show installed or web build identification.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real OpenCut interface; show installed or web build identification.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "A free editor can be exciting",
+        "without being your next production tool."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 0,
+      "originalEnd": 4.9,
+      "captionTimings": [
+        {
+          "text": "A free editor can be exciting",
+          "start": 0.0,
+          "end": 1.84
+        },
+        {
+          "text": "without being your next production tool.",
+          "start": 1.68,
+          "end": 4.233
+        }
+      ]
+    },
+    {
+      "id": "D05R1-S2",
+      "start": 4.233333333333333,
+      "end": 11.766666666666667,
+      "type": "evidence",
+      "text": "CLASSIC / REWRITE",
+      "narration": "OpenCut is an open-source editor. Its current README says the project is being rewritten, with the classic version still available.",
+      "concept": "Dated official README status capture; distinguish classic app from rewrite preview.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Dated official README status capture; distinguish classic app from rewrite preview.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "OpenCut is an open-source editor. Its",
+        "current README says the project is",
+        "being rewritten, with the classic version",
+        "still available."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 4.9,
+      "originalEnd": 12.833333333333334,
+      "captionTimings": [
+        {
+          "text": "OpenCut is an open-source editor. Its",
+          "start": 0.027,
+          "end": 2.567
+        },
+        {
+          "text": "current README says the project is",
+          "start": 2.407,
+          "end": 4.267
+        },
+        {
+          "text": "being rewritten, with the classic version",
+          "start": 4.107,
+          "end": 6.367
+        },
+        {
+          "text": "still available.",
+          "start": 6.207,
+          "end": 7.533
+        }
+      ]
+    },
+    {
+      "id": "D05R1-S3",
+      "start": 11.766666666666667,
+      "end": 17.533333333333335,
+      "type": "evidence",
+      "text": "TEST THE USABLE VERSION",
+      "narration": "I am testing the classic version people can use today: can it handle an ordinary vertical edit?",
+      "concept": "Real classic version import and timeline clip; capture build identifier and unsupported formats.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real classic version import and timeline clip; capture build identifier and unsupported formats.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I am testing the classic version",
+        "people can use today: can it",
+        "handle an ordinary vertical edit?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 12.833333333333334,
+      "originalEnd": 19.633333333333333,
+      "captionTimings": [
+        {
+          "text": "I am testing the classic version",
+          "start": 0.013,
+          "end": 1.693
+        },
+        {
+          "text": "people can use today: can it",
+          "start": 1.533,
+          "end": 3.673
+        },
+        {
+          "text": "handle an ordinary vertical edit?",
+          "start": 3.513,
+          "end": 5.713
+        }
+      ]
+    },
+    {
+      "id": "D05R1-S4",
+      "start": 17.533333333333335,
+      "end": 21.533333333333335,
+      "type": "evidence",
+      "text": "TEXT. SOUND. EXPORT.",
+      "narration": "Then I need text, sound, and an export I can actually open.",
+      "concept": "Actual available controls; never animate unavailable features as evidence.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual available controls; never animate unavailable features as evidence.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Then I need text, sound, and",
+        "an export I can actually open."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 19.633333333333333,
+      "originalEnd": 24.533333333333335,
+      "captionTimings": [
+        {
+          "text": "Then I need text, sound, and",
+          "start": 0.027,
+          "end": 1.827
+        },
+        {
+          "text": "an export I can actually open.",
+          "start": 1.667,
+          "end": 4.0
+        }
+      ]
+    },
+    {
+      "id": "D05R1-S5",
+      "start": 21.533333333333335,
+      "end": 27.133333333333333,
+      "type": "workflow",
+      "text": "OPEN SOURCE IS NOT A VERDICT",
+      "narration": "Open source tells me something about access. It does not tell me whether this version fits my deadline.",
+      "concept": "License source sits beside production checklist; no arbitrary maturity score.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "License source sits beside production checklist; no arbitrary maturity score.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Open source tells me something about",
+        "access. It does not tell me",
+        "whether this version fits my deadline."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 24.533333333333335,
+      "originalEnd": 31.7,
+      "captionTimings": [
+        {
+          "text": "Open source tells me something about",
+          "start": 0.027,
+          "end": 1.927
+        },
+        {
+          "text": "access. It does not tell me",
+          "start": 1.767,
+          "end": 3.767
+        },
+        {
+          "text": "whether this version fits my deadline.",
+          "start": 3.607,
+          "end": 5.6
+        }
+      ]
+    },
+    {
+      "id": "D05R1-S6",
+      "start": 27.133333333333333,
+      "end": 32.7,
+      "type": "question",
+      "text": "SAME REEL. FULL CHECKLIST.",
+      "narration": "Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+      "concept": "Timeline freezes at first clip, ready for paired test.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Timeline freezes at first clip, ready for paired test.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Next: the same Reel in OpenCut",
+        "and CapCut, with every missing step recorded."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 31.7,
+      "originalEnd": 37,
+      "captionTimings": [
+        {
+          "text": "Next: the same Reel in OpenCut",
+          "start": 0.007,
+          "end": 1.887
+        },
+        {
+          "text": "and CapCut, with every missing step recorded.",
+          "start": 1.727,
+          "end": 5.427
+        }
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-source-backed-explainer-built",
+  "visualStatus": "voiced-directed-illustration"
+}

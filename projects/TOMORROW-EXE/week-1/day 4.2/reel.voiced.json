@@ -1,0 +1,323 @@
+{
+  "id": "D04R2",
+  "day": 4,
+  "reelNumber": 2,
+  "title": "The Classroom of 2033",
+  "format": "Future Story",
+  "durationSeconds": 29.966666666666665,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "It is 2033. One classroom. Twenty-eight AI tutors. One student learns fractions with a pizza. Another gets a football diagram. A third needs the problem read aloud. The teacher stops repeating the explanation and starts noticing who has gone quiet. A tutor recommends the easier course. The student asks whether that means they are not good enough. The teacher closes the suggestion. Some decisions need more than a prediction. If every child gets an AI tutor, what should it never decide for them?",
+  "audio": "audio/day 4.2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 83,
+  "estimatedWpm": 104,
+  "concept": "Every child gets a different explanation; a human teacher answers a question about growing up.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "It is 2033. One classroom. Twenty-eight AI tutors.",
+    "Twenty-eight students. Twenty-eight explanations.",
+    "The AI picked an easier course. The teacher said wait."
+  ],
+  "strongestHook": "It is 2033. One classroom. Twenty-eight AI tutors.",
+  "directorBrief": "Direct this as a human story about Every child gets a different explanation; a human teacher answers a question about growing up. Emotional movement: hope \u2192 human judgment. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Medium",
+  "effort": "60\u2013120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Classroom and student count are fictional story details, not research statistics.",
+  "sources": [
+    {
+      "label": "Khanmigo tutor and teaching assistant",
+      "url": "https://www.khanmigo.ai/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Twenty-Eight AI Tutors",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cTwenty-Eight AI Tutors\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "If every child gets an AI tutor, what should it never decide for them?",
+  "cta": "WHAT SHOULD AI NEVER DECIDE?",
+  "instagramCaption": "The Classroom of 2033. A possible future, grounded in present technology. The dates and scenario are fictional. If every child gets an AI tutor, what should it never decide for them?",
+  "tiktokCaption": "The Classroom of 2033. WHAT SHOULD AI NEVER DECIDE? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88\u2013104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Classroom, teacher/student, simulation/story/math layers.",
+  "scenes": [
+    {
+      "id": "D04R2-S1",
+      "start": 0.0,
+      "end": 4.933333333333334,
+      "type": "hook",
+      "text": "2033 \u00b7 A POSSIBLE FUTURE",
+      "narration": "It is 2033. One classroom. Twenty-eight AI tutors.",
+      "concept": "Warm classroom wide; fictional class size, no research statistic styling.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d04r2/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Warm classroom wide; fictional class size, no research statistic styling.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "It is 2033. One classroom. Twenty-eight",
+        "AI tutors."
+      ],
+      "originalStart": 0,
+      "originalEnd": 4.866666666666666,
+      "captionTimings": [
+        {
+          "text": "It is 2033. One classroom. Twenty-eight",
+          "start": 0.0,
+          "end": 3.8
+        },
+        {
+          "text": "AI tutors.",
+          "start": 3.64,
+          "end": 4.933
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S2",
+      "start": 4.933333333333334,
+      "end": 12.1,
+      "type": "workflow",
+      "text": "SAME LESSON. DIFFERENT PATHS.",
+      "narration": "One student learns fractions with a pizza. Another gets a football diagram. A third needs the problem read aloud.",
+      "concept": "Three parallel lesson panes, each with one understandable visual.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Three parallel lesson panes, each with one understandable visual.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "One student learns fractions with a",
+        "pizza. Another gets a football diagram.",
+        "A third needs the problem read aloud."
+      ],
+      "originalStart": 4.866666666666666,
+      "originalEnd": 15.666666666666666,
+      "captionTimings": [
+        {
+          "text": "One student learns fractions with a",
+          "start": 0.027,
+          "end": 1.827
+        },
+        {
+          "text": "pizza. Another gets a football diagram.",
+          "start": 1.667,
+          "end": 4.607
+        },
+        {
+          "text": "A third needs the problem read aloud.",
+          "start": 4.447,
+          "end": 7.167
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S3",
+      "start": 12.1,
+      "end": 16.466666666666665,
+      "type": "cinematic",
+      "text": "THE HUMAN NOTICES",
+      "narration": "The teacher stops repeating the explanation and starts noticing who has gone quiet.",
+      "concept": "Camera leaves devices and tracks to a teacher kneeling beside a student.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d04r2/s3.png",
+      "plannedAssetType": "image",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Camera leaves devices and tracks to a teacher kneeling beside a student.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The teacher stops repeating the explanation",
+        "and starts noticing who has gone quiet."
+      ],
+      "originalStart": 15.666666666666666,
+      "originalEnd": 23.233333333333334,
+      "captionTimings": [
+        {
+          "text": "The teacher stops repeating the explanation",
+          "start": 0.02,
+          "end": 1.94
+        },
+        {
+          "text": "and starts noticing who has gone quiet.",
+          "start": 1.78,
+          "end": 4.367
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S4",
+      "start": 16.466666666666665,
+      "end": 21.633333333333333,
+      "type": "phone",
+      "text": "A RECOMMENDATION IS NOT A FUTURE",
+      "narration": "A tutor recommends the easier course. The student asks whether that means they are not good enough.",
+      "concept": "Fictional course suggestion shrinks; student question becomes the focus.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional course suggestion shrinks; student question becomes the focus.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "A tutor recommends the easier course.",
+        "The student asks whether that means",
+        "they are not good enough."
+      ],
+      "originalStart": 23.233333333333334,
+      "originalEnd": 32.93333333333333,
+      "captionTimings": [
+        {
+          "text": "A tutor recommends the easier course.",
+          "start": 0.013,
+          "end": 2.433
+        },
+        {
+          "text": "The student asks whether that means",
+          "start": 2.413,
+          "end": 3.933
+        },
+        {
+          "text": "they are not good enough.",
+          "start": 3.773,
+          "end": 5.167
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S5",
+      "start": 21.633333333333333,
+      "end": 26.133333333333333,
+      "type": "cinematic",
+      "text": "LET THE TEACHER DECIDE",
+      "narration": "The teacher closes the suggestion. Some decisions need more than a prediction.",
+      "concept": "Device fades in importance through depth; retain student and teacher in frame.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d04r2/s5.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Device fades in importance through depth; retain student and teacher in frame.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The teacher closes the suggestion. Some",
+        "decisions need more than a prediction."
+      ],
+      "originalStart": 32.93333333333333,
+      "originalEnd": 39.9,
+      "captionTimings": [
+        {
+          "text": "The teacher closes the suggestion. Some",
+          "start": 0.027,
+          "end": 2.447
+        },
+        {
+          "text": "decisions need more than a prediction.",
+          "start": 2.287,
+          "end": 4.5
+        }
+      ]
+    },
+    {
+      "id": "D04R2-S6",
+      "start": 26.133333333333333,
+      "end": 29.966666666666665,
+      "type": "question",
+      "text": "WHAT SHOULD AI NEVER DECIDE?",
+      "narration": "If every child gets an AI tutor, what should it never decide for them?",
+      "concept": "Return to classroom wide with human conversation foregrounded.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to classroom wide with human conversation foregrounded.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "If every child gets an AI",
+        "tutor, what should it never decide",
+        "for them?"
+      ],
+      "originalStart": 39.9,
+      "originalEnd": 48,
+      "captionTimings": [
+        {
+          "text": "If every child gets an AI",
+          "start": 0.027,
+          "end": 1.327
+        },
+        {
+          "text": "tutor, what should it never decide",
+          "start": 1.167,
+          "end": 3.127
+        },
+        {
+          "text": "for them?",
+          "start": 2.967,
+          "end": 3.707
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration"
+}

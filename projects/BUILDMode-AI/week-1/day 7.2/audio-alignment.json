@@ -1,0 +1,791 @@
+{
+  "fingerprint": "ce779322815e08a55f99a2688aeb597b32616e9c1b77ed7866ee47b4b72798cf",
+  "recognizedText": " An untidy screenshot folder needs a cleaner. Begin with copies and an explicit preview before any file name changes. Use six categories and readable names. Show the proposed mapping so a person can catch errors before applying it. Duplicates need collision-safe suffixes. Keep the untouched source files in a rollback mapping for every applied rename. Pre-label 20 test images, including ambiguous cases, compare the classifications against those labels after a real run. This illustrated preview does not claim model accuracy. A real result must include wrong labels, ambiguity, and rename failures. Build the safe file workflow first, then assess the classifier with evidence. What folder tasks should be automated next?",
+  "words": [
+    {
+      "text": " An",
+      "timestamp": [
+        0.0,
+        0.18
+      ]
+    },
+    {
+      "text": " untidy",
+      "timestamp": [
+        0.18,
+        0.54
+      ]
+    },
+    {
+      "text": " screenshot",
+      "timestamp": [
+        0.54,
+        0.98
+      ]
+    },
+    {
+      "text": " folder",
+      "timestamp": [
+        0.98,
+        1.5
+      ]
+    },
+    {
+      "text": " needs",
+      "timestamp": [
+        1.5,
+        1.76
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        1.76,
+        1.94
+      ]
+    },
+    {
+      "text": " cleaner.",
+      "timestamp": [
+        1.94,
+        2.76
+      ]
+    },
+    {
+      "text": " Begin",
+      "timestamp": [
+        3.02,
+        3.06
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        3.06,
+        3.28
+      ]
+    },
+    {
+      "text": " copies",
+      "timestamp": [
+        3.28,
+        3.66
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        3.66,
+        4.02
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        4.02,
+        4.12
+      ]
+    },
+    {
+      "text": " explicit",
+      "timestamp": [
+        4.12,
+        4.52
+      ]
+    },
+    {
+      "text": " preview",
+      "timestamp": [
+        4.52,
+        5.08
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        5.36,
+        5.38
+      ]
+    },
+    {
+      "text": " any",
+      "timestamp": [
+        5.38,
+        5.68
+      ]
+    },
+    {
+      "text": " file",
+      "timestamp": [
+        5.68,
+        6.0
+      ]
+    },
+    {
+      "text": " name",
+      "timestamp": [
+        6.0,
+        6.2
+      ]
+    },
+    {
+      "text": " changes.",
+      "timestamp": [
+        6.2,
+        7.04
+      ]
+    },
+    {
+      "text": " Use",
+      "timestamp": [
+        7.26,
+        7.38
+      ]
+    },
+    {
+      "text": " six",
+      "timestamp": [
+        7.38,
+        7.72
+      ]
+    },
+    {
+      "text": " categories",
+      "timestamp": [
+        7.72,
+        8.2
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        8.2,
+        8.5
+      ]
+    },
+    {
+      "text": " readable",
+      "timestamp": [
+        8.5,
+        8.76
+      ]
+    },
+    {
+      "text": " names.",
+      "timestamp": [
+        8.76,
+        9.6
+      ]
+    },
+    {
+      "text": " Show",
+      "timestamp": [
+        9.8,
+        9.96
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        9.96,
+        10.12
+      ]
+    },
+    {
+      "text": " proposed",
+      "timestamp": [
+        10.12,
+        10.56
+      ]
+    },
+    {
+      "text": " mapping",
+      "timestamp": [
+        10.56,
+        10.86
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        10.86,
+        11.14
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        11.14,
+        11.26
+      ]
+    },
+    {
+      "text": " person",
+      "timestamp": [
+        11.26,
+        11.52
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        11.52,
+        11.72
+      ]
+    },
+    {
+      "text": " catch",
+      "timestamp": [
+        11.72,
+        12.02
+      ]
+    },
+    {
+      "text": " errors",
+      "timestamp": [
+        12.02,
+        12.34
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        12.36,
+        12.7
+      ]
+    },
+    {
+      "text": " applying",
+      "timestamp": [
+        12.7,
+        13.14
+      ]
+    },
+    {
+      "text": " it.",
+      "timestamp": [
+        13.14,
+        13.76
+      ]
+    },
+    {
+      "text": " Duplicates",
+      "timestamp": [
+        13.96,
+        14.3
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        14.3,
+        14.56
+      ]
+    },
+    {
+      "text": " collision",
+      "timestamp": [
+        14.56,
+        14.92
+      ]
+    },
+    {
+      "text": "-safe",
+      "timestamp": [
+        14.92,
+        15.32
+      ]
+    },
+    {
+      "text": " suffixes.",
+      "timestamp": [
+        15.32,
+        16.32
+      ]
+    },
+    {
+      "text": " Keep",
+      "timestamp": [
+        16.52,
+        16.68
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        16.68,
+        16.88
+      ]
+    },
+    {
+      "text": " untouched",
+      "timestamp": [
+        16.88,
+        17.22
+      ]
+    },
+    {
+      "text": " source",
+      "timestamp": [
+        17.22,
+        17.48
+      ]
+    },
+    {
+      "text": " files",
+      "timestamp": [
+        17.48,
+        17.82
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        17.82,
+        18.02
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        18.02,
+        18.1
+      ]
+    },
+    {
+      "text": " rollback",
+      "timestamp": [
+        18.1,
+        18.44
+      ]
+    },
+    {
+      "text": " mapping",
+      "timestamp": [
+        18.44,
+        18.88
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        18.96,
+        19.1
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        19.1,
+        19.48
+      ]
+    },
+    {
+      "text": " applied",
+      "timestamp": [
+        19.48,
+        19.86
+      ]
+    },
+    {
+      "text": " rename.",
+      "timestamp": [
+        19.86,
+        20.72
+      ]
+    },
+    {
+      "text": " Pre",
+      "timestamp": [
+        20.92,
+        21.0
+      ]
+    },
+    {
+      "text": "-label",
+      "timestamp": [
+        21.0,
+        21.28
+      ]
+    },
+    {
+      "text": " 20",
+      "timestamp": [
+        21.28,
+        21.62
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        21.62,
+        21.98
+      ]
+    },
+    {
+      "text": " images,",
+      "timestamp": [
+        21.98,
+        22.58
+      ]
+    },
+    {
+      "text": " including",
+      "timestamp": [
+        22.58,
+        22.98
+      ]
+    },
+    {
+      "text": " ambiguous",
+      "timestamp": [
+        22.98,
+        23.44
+      ]
+    },
+    {
+      "text": " cases,",
+      "timestamp": [
+        23.44,
+        24.36
+      ]
+    },
+    {
+      "text": " compare",
+      "timestamp": [
+        24.66,
+        24.74
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        24.74,
+        24.94
+      ]
+    },
+    {
+      "text": " classifications",
+      "timestamp": [
+        24.94,
+        25.7
+      ]
+    },
+    {
+      "text": " against",
+      "timestamp": [
+        25.7,
+        25.96
+      ]
+    },
+    {
+      "text": " those",
+      "timestamp": [
+        25.96,
+        26.24
+      ]
+    },
+    {
+      "text": " labels",
+      "timestamp": [
+        26.24,
+        26.56
+      ]
+    },
+    {
+      "text": " after",
+      "timestamp": [
+        26.72,
+        26.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        26.96,
+        27.1
+      ]
+    },
+    {
+      "text": " real",
+      "timestamp": [
+        27.1,
+        27.34
+      ]
+    },
+    {
+      "text": " run.",
+      "timestamp": [
+        27.34,
+        29.98
+      ]
+    },
+    {
+      "text": " This",
+      "timestamp": [
+        28.28,
+        28.44
+      ]
+    },
+    {
+      "text": " illustrated",
+      "timestamp": [
+        28.44,
+        28.9
+      ]
+    },
+    {
+      "text": " preview",
+      "timestamp": [
+        28.9,
+        29.36
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        29.36,
+        29.58
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        29.58,
+        29.84
+      ]
+    },
+    {
+      "text": " claim",
+      "timestamp": [
+        29.84,
+        30.12
+      ]
+    },
+    {
+      "text": " model",
+      "timestamp": [
+        30.12,
+        30.46
+      ]
+    },
+    {
+      "text": " accuracy.",
+      "timestamp": [
+        30.46,
+        31.32
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        31.4,
+        31.42
+      ]
+    },
+    {
+      "text": " real",
+      "timestamp": [
+        31.42,
+        31.64
+      ]
+    },
+    {
+      "text": " result",
+      "timestamp": [
+        31.64,
+        31.98
+      ]
+    },
+    {
+      "text": " must",
+      "timestamp": [
+        31.98,
+        32.22
+      ]
+    },
+    {
+      "text": " include",
+      "timestamp": [
+        32.22,
+        32.6
+      ]
+    },
+    {
+      "text": " wrong",
+      "timestamp": [
+        32.6,
+        32.9
+      ]
+    },
+    {
+      "text": " labels,",
+      "timestamp": [
+        32.9,
+        33.82
+      ]
+    },
+    {
+      "text": " ambiguity,",
+      "timestamp": [
+        33.82,
+        34.66
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        34.66,
+        34.76
+      ]
+    },
+    {
+      "text": " rename",
+      "timestamp": [
+        34.76,
+        35.1
+      ]
+    },
+    {
+      "text": " failures.",
+      "timestamp": [
+        35.1,
+        36.04
+      ]
+    },
+    {
+      "text": " Build",
+      "timestamp": [
+        36.46,
+        36.46
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        36.46,
+        36.64
+      ]
+    },
+    {
+      "text": " safe",
+      "timestamp": [
+        36.64,
+        36.86
+      ]
+    },
+    {
+      "text": " file",
+      "timestamp": [
+        36.86,
+        37.22
+      ]
+    },
+    {
+      "text": " workflow",
+      "timestamp": [
+        37.22,
+        37.66
+      ]
+    },
+    {
+      "text": " first,",
+      "timestamp": [
+        37.66,
+        38.48
+      ]
+    },
+    {
+      "text": " then",
+      "timestamp": [
+        38.48,
+        38.7
+      ]
+    },
+    {
+      "text": " assess",
+      "timestamp": [
+        38.7,
+        38.96
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        38.96,
+        39.2
+      ]
+    },
+    {
+      "text": " classifier",
+      "timestamp": [
+        39.2,
+        39.72
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        39.72,
+        40.0
+      ]
+    },
+    {
+      "text": " evidence.",
+      "timestamp": [
+        40.0,
+        40.8
+      ]
+    },
+    {
+      "text": " What",
+      "timestamp": [
+        40.98,
+        41.14
+      ]
+    },
+    {
+      "text": " folder",
+      "timestamp": [
+        41.14,
+        41.5
+      ]
+    },
+    {
+      "text": " tasks",
+      "timestamp": [
+        41.5,
+        41.8
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        41.8,
+        42.08
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        42.08,
+        42.24
+      ]
+    },
+    {
+      "text": " automated",
+      "timestamp": [
+        42.24,
+        42.7
+      ]
+    },
+    {
+      "text": " next?",
+      "timestamp": [
+        42.7,
+        43.34
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

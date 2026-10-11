@@ -1,0 +1,609 @@
+{
+  "fingerprint": "a2093d271e5ce28a95e066178b4ee7dcf559a1201da87c77c8b376a340d769b7",
+  "recognizedText": " It is 2031. Your phone is still at home. Your glass is placed directions on the pavement. The bus time floats above the stop. At lunch, the menu translates before you finish reading. Technology has become almost invisible. Then someone says hello. A name appears. Followed by where you met and what you discussed. A permission asks whether you want to remember every conversation. You notice there is no permission for everyone else. You can finally put your phone down. Would you turn people memory on?",
+  "words": [
+    {
+      "text": " It",
+      "timestamp": [
+        0.0,
+        0.28
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        0.28,
+        0.46
+      ]
+    },
+    {
+      "text": " 2031.",
+      "timestamp": [
+        0.46,
+        1.74
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        1.74,
+        1.86
+      ]
+    },
+    {
+      "text": " phone",
+      "timestamp": [
+        1.86,
+        2.16
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        2.16,
+        2.32
+      ]
+    },
+    {
+      "text": " still",
+      "timestamp": [
+        2.32,
+        2.56
+      ]
+    },
+    {
+      "text": " at",
+      "timestamp": [
+        2.56,
+        2.7
+      ]
+    },
+    {
+      "text": " home.",
+      "timestamp": [
+        2.7,
+        3.44
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        3.44,
+        3.54
+      ]
+    },
+    {
+      "text": " glass",
+      "timestamp": [
+        3.54,
+        3.8
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        3.8,
+        4.0
+      ]
+    },
+    {
+      "text": " placed",
+      "timestamp": [
+        4.0,
+        4.18
+      ]
+    },
+    {
+      "text": " directions",
+      "timestamp": [
+        4.18,
+        4.68
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        4.68,
+        4.9
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        4.9,
+        5.0
+      ]
+    },
+    {
+      "text": " pavement.",
+      "timestamp": [
+        5.0,
+        5.78
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        6.04,
+        6.06
+      ]
+    },
+    {
+      "text": " bus",
+      "timestamp": [
+        6.06,
+        6.24
+      ]
+    },
+    {
+      "text": " time",
+      "timestamp": [
+        6.24,
+        6.54
+      ]
+    },
+    {
+      "text": " floats",
+      "timestamp": [
+        6.54,
+        6.84
+      ]
+    },
+    {
+      "text": " above",
+      "timestamp": [
+        6.84,
+        7.18
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        7.18,
+        7.4
+      ]
+    },
+    {
+      "text": " stop.",
+      "timestamp": [
+        7.4,
+        8.12
+      ]
+    },
+    {
+      "text": " At",
+      "timestamp": [
+        8.12,
+        8.24
+      ]
+    },
+    {
+      "text": " lunch,",
+      "timestamp": [
+        8.24,
+        8.82
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        8.82,
+        9.06
+      ]
+    },
+    {
+      "text": " menu",
+      "timestamp": [
+        9.06,
+        9.3
+      ]
+    },
+    {
+      "text": " translates",
+      "timestamp": [
+        9.3,
+        9.84
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        9.84,
+        10.2
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        10.2,
+        10.42
+      ]
+    },
+    {
+      "text": " finish",
+      "timestamp": [
+        10.42,
+        10.66
+      ]
+    },
+    {
+      "text": " reading.",
+      "timestamp": [
+        10.66,
+        11.56
+      ]
+    },
+    {
+      "text": " Technology",
+      "timestamp": [
+        11.82,
+        12.0
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        12.0,
+        12.3
+      ]
+    },
+    {
+      "text": " become",
+      "timestamp": [
+        12.3,
+        12.54
+      ]
+    },
+    {
+      "text": " almost",
+      "timestamp": [
+        12.54,
+        13.04
+      ]
+    },
+    {
+      "text": " invisible.",
+      "timestamp": [
+        13.04,
+        13.98
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        13.98,
+        14.18
+      ]
+    },
+    {
+      "text": " someone",
+      "timestamp": [
+        14.18,
+        14.52
+      ]
+    },
+    {
+      "text": " says",
+      "timestamp": [
+        14.52,
+        14.82
+      ]
+    },
+    {
+      "text": " hello.",
+      "timestamp": [
+        14.82,
+        15.86
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        15.86,
+        15.96
+      ]
+    },
+    {
+      "text": " name",
+      "timestamp": [
+        15.96,
+        16.12
+      ]
+    },
+    {
+      "text": " appears.",
+      "timestamp": [
+        16.12,
+        17.08
+      ]
+    },
+    {
+      "text": " Followed",
+      "timestamp": [
+        17.28,
+        17.42
+      ]
+    },
+    {
+      "text": " by",
+      "timestamp": [
+        17.42,
+        17.54
+      ]
+    },
+    {
+      "text": " where",
+      "timestamp": [
+        17.54,
+        17.76
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        17.76,
+        17.92
+      ]
+    },
+    {
+      "text": " met",
+      "timestamp": [
+        17.92,
+        18.12
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        18.12,
+        18.4
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        18.4,
+        18.58
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        18.58,
+        18.74
+      ]
+    },
+    {
+      "text": " discussed.",
+      "timestamp": [
+        18.74,
+        19.6
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        19.6,
+        19.78
+      ]
+    },
+    {
+      "text": " permission",
+      "timestamp": [
+        19.78,
+        20.02
+      ]
+    },
+    {
+      "text": " asks",
+      "timestamp": [
+        20.02,
+        20.54
+      ]
+    },
+    {
+      "text": " whether",
+      "timestamp": [
+        20.54,
+        20.84
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        20.84,
+        21.02
+      ]
+    },
+    {
+      "text": " want",
+      "timestamp": [
+        21.02,
+        21.14
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        21.14,
+        21.3
+      ]
+    },
+    {
+      "text": " remember",
+      "timestamp": [
+        21.3,
+        21.58
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        21.58,
+        21.94
+      ]
+    },
+    {
+      "text": " conversation.",
+      "timestamp": [
+        22.16,
+        23.04
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        23.04,
+        23.22
+      ]
+    },
+    {
+      "text": " notice",
+      "timestamp": [
+        23.22,
+        23.48
+      ]
+    },
+    {
+      "text": " there",
+      "timestamp": [
+        23.48,
+        23.7
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        23.7,
+        23.84
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        23.84,
+        24.02
+      ]
+    },
+    {
+      "text": " permission",
+      "timestamp": [
+        24.02,
+        24.4
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        24.4,
+        24.66
+      ]
+    },
+    {
+      "text": " everyone",
+      "timestamp": [
+        24.66,
+        25.0
+      ]
+    },
+    {
+      "text": " else.",
+      "timestamp": [
+        25.0,
+        25.66
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        25.66,
+        25.84
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        25.84,
+        25.96
+      ]
+    },
+    {
+      "text": " finally",
+      "timestamp": [
+        25.96,
+        26.34
+      ]
+    },
+    {
+      "text": " put",
+      "timestamp": [
+        26.34,
+        26.54
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        26.54,
+        26.68
+      ]
+    },
+    {
+      "text": " phone",
+      "timestamp": [
+        26.68,
+        26.94
+      ]
+    },
+    {
+      "text": " down.",
+      "timestamp": [
+        26.94,
+        27.6
+      ]
+    },
+    {
+      "text": " Would",
+      "timestamp": [
+        27.6,
+        27.9
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        27.9,
+        28.02
+      ]
+    },
+    {
+      "text": " turn",
+      "timestamp": [
+        28.02,
+        28.3
+      ]
+    },
+    {
+      "text": " people",
+      "timestamp": [
+        28.3,
+        28.86
+      ]
+    },
+    {
+      "text": " memory",
+      "timestamp": [
+        28.86,
+        29.24
+      ]
+    },
+    {
+      "text": " on?",
+      "timestamp": [
+        29.24,
+        29.74
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

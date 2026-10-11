@@ -1,0 +1,383 @@
+{
+  "channel": "BUILDMode AI",
+  "assets": [
+    {
+      "reel": "D01R1",
+      "scene": "D01R1-S1",
+      "path": "public/assets/week-1/d01r1/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Open on the broken mobile view; immediately show all three clean repo copies.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D01R1",
+      "scene": "D01R1-S2",
+      "path": "public/assets/week-1/d01r1/s2.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Five quick reproductions with one circled failure each; no fake terminal text.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D01R1",
+      "scene": "D01R1-S4",
+      "path": "public/assets/week-1/d01r1/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Match an agent completion claim to the corresponding functional check.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D01R2",
+      "scene": "D01R2-S1",
+      "path": "public/assets/week-1/d01r2/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Open on an original dashboard reference; keep it visible beside the target viewport.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D01R2",
+      "scene": "D01R2-S3",
+      "path": "public/assets/week-1/d01r2/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Freeze actual first output; circle one observable mismatch, then show reference.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D01R2",
+      "scene": "D01R2-S4",
+      "path": "public/assets/week-1/d01r2/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Show exact correction text; accelerate only the waiting portion of the run.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D01R2",
+      "scene": "D01R2-S5",
+      "path": "public/assets/week-1/d01r2/s5.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Synchronized viewport compare; click the main action to prove it responds.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D02R1",
+      "scene": "D02R1-S1",
+      "path": "public/assets/week-1/d02r1/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Start at a real incomplete table; cursor rests outside the browser.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D02R1",
+      "scene": "D02R1-S3",
+      "path": "public/assets/week-1/d02r1/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Real browser actions; corner log records interventions without hiding waits.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D02R1",
+      "scene": "D02R1-S4",
+      "path": "public/assets/week-1/d02r1/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "One row stays pinned while its source evidence replaces the browser panel.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D02R2",
+      "scene": "D02R2-S1",
+      "path": "public/assets/week-1/d02r2/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Use a silent waveform illustration until a real voice spec exists; label it.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D02R2",
+      "scene": "D02R2-S3",
+      "path": "public/assets/week-1/d02r2/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Uncut real board interaction; show baseline empty and added card.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D02R2",
+      "scene": "D02R2-S4",
+      "path": "public/assets/week-1/d02r2/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Keep browser URL and refresh action visible; hold on the persisted state.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D03R1",
+      "scene": "D03R1-S1",
+      "path": "public/assets/week-1/d03r1/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Show rules file and new session creation; avoid implying invisible learned memory.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D03R1",
+      "scene": "D03R1-S3",
+      "path": "public/assets/week-1/d03r1/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Capture exact new prompt; leave rules scope and tool version on an evidence card.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D03R1",
+      "scene": "D03R1-S4",
+      "path": "public/assets/week-1/d03r1/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Zoom to one relevant line per rule; show functional theme interaction.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D03R2",
+      "scene": "D03R2-S1",
+      "path": "public/assets/week-1/d03r2/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Original ugly site: poor spacing and hierarchy, but functional controls.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D03R2",
+      "scene": "D03R2-S3",
+      "path": "public/assets/week-1/d03r2/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Real timer synchronized with submission; show work as labeled accelerated footage.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D03R2",
+      "scene": "D03R2-S4",
+      "path": "public/assets/week-1/d03r2/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Identical scroll positions and browser sizes; continuous reveal across divider.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D04R1",
+      "scene": "D04R1-S1",
+      "path": "public/assets/week-1/d04r1/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Open on empty CSV beside six fixed repository tabs.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D04R1",
+      "scene": "D04R1-S3",
+      "path": "public/assets/week-1/d04r1/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Real agent and browser capture; speed label appears on accelerated sections.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D04R1",
+      "scene": "D04R1-S4",
+      "path": "public/assets/week-1/d04r1/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Show exported file opening; audit one field against repository evidence.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D04R2",
+      "scene": "D04R2-S1",
+      "path": "public/assets/week-1/d04r2/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Same commit diff displayed in both fresh sessions.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D04R2",
+      "scene": "D04R2-S3",
+      "path": "public/assets/week-1/d04r2/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Identical prompt and model configuration; only instruction package differs.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D04R2",
+      "scene": "D04R2-S4",
+      "path": "public/assets/week-1/d04r2/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Map each actual finding to its seeded issue or mark as unverified.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D05R1",
+      "scene": "D05R1-S3",
+      "path": "public/assets/week-1/d05r1/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Show concise API schema and clean baseline; capture actual session assignment.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D05R1",
+      "scene": "D05R1-S4",
+      "path": "public/assets/week-1/d05r1/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Replay a real integration mismatch or successful handoff; no invented conflict.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D05R2",
+      "scene": "D05R2-S1",
+      "path": "public/assets/week-1/d05r2/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Mobile navigation overflows at 639px; issue reproduction is shown.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D05R2",
+      "scene": "D05R2-S3",
+      "path": "public/assets/week-1/d05r2/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Actual failing reproduction followed by focused diff.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D05R2",
+      "scene": "D05R2-S4",
+      "path": "public/assets/week-1/d05r2/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Three matched viewports; tab and Escape actions remain visible.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D06R1",
+      "scene": "D06R1-S1",
+      "path": "public/assets/week-1/d06r1/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Show actual available configurations, avoiding unverified speed-tier branding.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D06R1",
+      "scene": "D06R1-S3",
+      "path": "public/assets/week-1/d06r1/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Two real timers; model, effort, environment and run order visible in run sheet.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D06R1",
+      "scene": "D06R1-S4",
+      "path": "public/assets/week-1/d06r1/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Round-trip the exported CSV in an independent parser and viewer.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D06R2",
+      "scene": "D06R2-S1",
+      "path": "public/assets/week-1/d06r2/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Exact single prompt appears over empty local browser.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D06R2",
+      "scene": "D06R2-S3",
+      "path": "public/assets/week-1/d06r2/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Capture actual gameplay at normal speed; keep input indicator unobtrusive.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D06R2",
+      "scene": "D06R2-S4",
+      "path": "public/assets/week-1/d06r2/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "One unmistakable interaction for each check, including the refresh.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D07R1",
+      "scene": "D07R1-S1",
+      "path": "public/assets/week-1/d07r1/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Isolated fixture folder with no credentials or live service access.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D07R1",
+      "scene": "D07R1-S3",
+      "path": "public/assets/week-1/d07r1/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Actual run transcript; highlight the point the fixture was encountered.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D07R1",
+      "scene": "D07R1-S4",
+      "path": "public/assets/week-1/d07r1/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Functional click test plus actual directory listing.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D07R2",
+      "scene": "D07R2-S1",
+      "path": "public/assets/week-1/d07r2/s1.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Twenty non-sensitive sample copies in an isolated folder.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D07R2",
+      "scene": "D07R2-S3",
+      "path": "public/assets/week-1/d07r2/s3.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Show copy-only input and rename preview with duplicate suffixes.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    },
+    {
+      "reel": "D07R2",
+      "scene": "D07R2-S4",
+      "path": "public/assets/week-1/d07r2/s4.mp4",
+      "kind": "video",
+      "status": "to-produce",
+      "brief": "Image, expected label and actual suggestion at matching positions.",
+      "requirements": "Actual capture; keep raw source and timestamp. Minimum 1920×1080 landscape UI, cropped into 1080×1920 edit; no invented evidence."
+    }
+  ]
+}

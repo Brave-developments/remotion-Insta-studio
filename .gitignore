@@ -1,0 +1,13 @@
+node_modules/
+out/*
+.DS_Store
+*.log
+
+# secrets - never commit real credentials
+.env
+.env.local
+.env.*.local
+
+# Freebuff runtime cache
+.freebuff/sponsored-runtime/
+.cache/huggingface/

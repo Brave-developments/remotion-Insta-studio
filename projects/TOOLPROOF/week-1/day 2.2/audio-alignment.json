@@ -1,0 +1,644 @@
+{
+  "fingerprint": "37ec5f48838614f6df5b30b84131492486d53386a6c5e5fad4e98b847bc1ca75",
+  "recognizedText": " The plan compares local send with a cloud route using exactly the same files. The inputs will be 100 photos, a 1GB video, and a 5GB folder. Timing will cover sending and receiving. The cloud route must include upload and download. Received files will be checked for integrity. A separate run will interrupt Wi-Fi to examine recovery. Duration, file integrity, and recovery all need real capture. A moving diagram cannot establish transfer speed. Local networking is the starting condition. The final verdict will explain what changes when devices are apart.",
+  "words": [
+    {
+      "text": " The",
+      "timestamp": [
+        0.0,
+        0.56
+      ]
+    },
+    {
+      "text": " plan",
+      "timestamp": [
+        0.56,
+        0.84
+      ]
+    },
+    {
+      "text": " compares",
+      "timestamp": [
+        0.84,
+        1.3
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        1.3,
+        1.62
+      ]
+    },
+    {
+      "text": " send",
+      "timestamp": [
+        1.62,
+        1.92
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        1.92,
+        2.12
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        2.12,
+        2.22
+      ]
+    },
+    {
+      "text": " cloud",
+      "timestamp": [
+        2.22,
+        2.54
+      ]
+    },
+    {
+      "text": " route",
+      "timestamp": [
+        2.54,
+        2.76
+      ]
+    },
+    {
+      "text": " using",
+      "timestamp": [
+        2.76,
+        3.34
+      ]
+    },
+    {
+      "text": " exactly",
+      "timestamp": [
+        3.34,
+        3.86
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        3.86,
+        4.18
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        4.18,
+        4.42
+      ]
+    },
+    {
+      "text": " files.",
+      "timestamp": [
+        4.42,
+        5.4
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        5.58,
+        5.66
+      ]
+    },
+    {
+      "text": " inputs",
+      "timestamp": [
+        5.66,
+        5.98
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        5.98,
+        6.22
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        6.22,
+        6.36
+      ]
+    },
+    {
+      "text": " 100",
+      "timestamp": [
+        6.36,
+        6.76
+      ]
+    },
+    {
+      "text": " photos,",
+      "timestamp": [
+        6.76,
+        7.72
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        7.72,
+        7.86
+      ]
+    },
+    {
+      "text": " 1GB",
+      "timestamp": [
+        7.86,
+        8.26
+      ]
+    },
+    {
+      "text": " video,",
+      "timestamp": [
+        8.26,
+        9.24
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        9.24,
+        9.46
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        9.46,
+        9.56
+      ]
+    },
+    {
+      "text": " 5GB",
+      "timestamp": [
+        9.56,
+        10.2
+      ]
+    },
+    {
+      "text": " folder.",
+      "timestamp": [
+        10.2,
+        11.28
+      ]
+    },
+    {
+      "text": " Timing",
+      "timestamp": [
+        11.62,
+        11.76
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        11.76,
+        11.9
+      ]
+    },
+    {
+      "text": " cover",
+      "timestamp": [
+        11.9,
+        12.16
+      ]
+    },
+    {
+      "text": " sending",
+      "timestamp": [
+        12.16,
+        12.54
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        12.54,
+        12.76
+      ]
+    },
+    {
+      "text": " receiving.",
+      "timestamp": [
+        12.76,
+        13.76
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        13.92,
+        14.0
+      ]
+    },
+    {
+      "text": " cloud",
+      "timestamp": [
+        14.0,
+        14.3
+      ]
+    },
+    {
+      "text": " route",
+      "timestamp": [
+        14.3,
+        14.52
+      ]
+    },
+    {
+      "text": " must",
+      "timestamp": [
+        14.52,
+        14.74
+      ]
+    },
+    {
+      "text": " include",
+      "timestamp": [
+        14.74,
+        15.16
+      ]
+    },
+    {
+      "text": " upload",
+      "timestamp": [
+        15.16,
+        15.52
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        15.52,
+        15.82
+      ]
+    },
+    {
+      "text": " download.",
+      "timestamp": [
+        15.82,
+        16.72
+      ]
+    },
+    {
+      "text": " Received",
+      "timestamp": [
+        16.92,
+        17.2
+      ]
+    },
+    {
+      "text": " files",
+      "timestamp": [
+        17.2,
+        17.54
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        17.54,
+        17.78
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        17.78,
+        17.9
+      ]
+    },
+    {
+      "text": " checked",
+      "timestamp": [
+        17.9,
+        18.14
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        18.14,
+        18.38
+      ]
+    },
+    {
+      "text": " integrity.",
+      "timestamp": [
+        18.38,
+        19.24
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        19.38,
+        19.46
+      ]
+    },
+    {
+      "text": " separate",
+      "timestamp": [
+        19.46,
+        19.78
+      ]
+    },
+    {
+      "text": " run",
+      "timestamp": [
+        19.78,
+        20.04
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        20.04,
+        20.26
+      ]
+    },
+    {
+      "text": " interrupt",
+      "timestamp": [
+        20.26,
+        20.66
+      ]
+    },
+    {
+      "text": " Wi",
+      "timestamp": [
+        20.66,
+        20.98
+      ]
+    },
+    {
+      "text": "-Fi",
+      "timestamp": [
+        20.98,
+        21.22
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        21.22,
+        21.48
+      ]
+    },
+    {
+      "text": " examine",
+      "timestamp": [
+        21.48,
+        21.8
+      ]
+    },
+    {
+      "text": " recovery.",
+      "timestamp": [
+        21.8,
+        22.84
+      ]
+    },
+    {
+      "text": " Duration,",
+      "timestamp": [
+        23.04,
+        23.94
+      ]
+    },
+    {
+      "text": " file",
+      "timestamp": [
+        23.94,
+        24.18
+      ]
+    },
+    {
+      "text": " integrity,",
+      "timestamp": [
+        24.18,
+        24.98
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        24.98,
+        25.24
+      ]
+    },
+    {
+      "text": " recovery",
+      "timestamp": [
+        25.24,
+        25.68
+      ]
+    },
+    {
+      "text": " all",
+      "timestamp": [
+        25.68,
+        26.0
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        26.0,
+        26.24
+      ]
+    },
+    {
+      "text": " real",
+      "timestamp": [
+        26.24,
+        26.5
+      ]
+    },
+    {
+      "text": " capture.",
+      "timestamp": [
+        26.5,
+        27.32
+      ]
+    },
+    {
+      "text": " A",
+      "timestamp": [
+        27.0,
+        27.56
+      ]
+    },
+    {
+      "text": " moving",
+      "timestamp": [
+        27.56,
+        27.82
+      ]
+    },
+    {
+      "text": " diagram",
+      "timestamp": [
+        27.82,
+        28.24
+      ]
+    },
+    {
+      "text": " cannot",
+      "timestamp": [
+        28.24,
+        28.64
+      ]
+    },
+    {
+      "text": " establish",
+      "timestamp": [
+        28.64,
+        29.22
+      ]
+    },
+    {
+      "text": " transfer",
+      "timestamp": [
+        29.22,
+        29.72
+      ]
+    },
+    {
+      "text": " speed.",
+      "timestamp": [
+        29.72,
+        30.56
+      ]
+    },
+    {
+      "text": " Local",
+      "timestamp": [
+        30.7,
+        30.84
+      ]
+    },
+    {
+      "text": " networking",
+      "timestamp": [
+        30.84,
+        31.16
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        31.16,
+        31.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        31.5,
+        31.62
+      ]
+    },
+    {
+      "text": " starting",
+      "timestamp": [
+        31.62,
+        31.94
+      ]
+    },
+    {
+      "text": " condition.",
+      "timestamp": [
+        31.94,
+        32.92
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        32.96,
+        33.0
+      ]
+    },
+    {
+      "text": " final",
+      "timestamp": [
+        33.0,
+        33.34
+      ]
+    },
+    {
+      "text": " verdict",
+      "timestamp": [
+        33.34,
+        33.64
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        33.64,
+        33.88
+      ]
+    },
+    {
+      "text": " explain",
+      "timestamp": [
+        33.88,
+        34.26
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        34.26,
+        34.52
+      ]
+    },
+    {
+      "text": " changes",
+      "timestamp": [
+        34.52,
+        34.92
+      ]
+    },
+    {
+      "text": " when",
+      "timestamp": [
+        34.92,
+        35.22
+      ]
+    },
+    {
+      "text": " devices",
+      "timestamp": [
+        35.22,
+        35.52
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        35.52,
+        35.86
+      ]
+    },
+    {
+      "text": " apart.",
+      "timestamp": [
+        35.86,
+        36.46
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

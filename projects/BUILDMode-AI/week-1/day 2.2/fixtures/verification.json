@@ -1,0 +1,26 @@
+{
+  "createdAt": "2026-10-04T13:23:02.568Z",
+  "scope": "Local fixture logic only. No external model race, browser agent or visual browser acceptance test was performed.",
+  "results": [
+    {
+      "name": "CSV retains quoted commas, doubled quotes, multiline Unicode and empty cells",
+      "passed": true
+    },
+    {
+      "name": "CSV values are not silently truncated at carriage returns",
+      "passed": true
+    },
+    {
+      "name": "Duplicate names receive distinct safe targets and retain rollback source mapping",
+      "passed": true
+    },
+    {
+      "name": "Kanban transitions preserve IDs and other cards; serialized board round-trips",
+      "passed": true
+    },
+    {
+      "name": "Game collision distinguishes an overlap from a near miss",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "id": "D02R2",
+  "day": 2,
+  "reelNumber": 2,
+  "title": "The Internet Leaves Your Phone",
+  "format": "Future Story",
+  "durationSeconds": 29.966666666666665,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "It is 2031. Your phone is still at home. Your glasses place directions on the pavement. The bus time floats above the stop. At lunch, the menu translates before you finish reading. Technology has become almost invisible. Then someone says hello. A name appears, followed by where you met and what you discussed. A permission asks whether you want to remember every conversation. You notice there is no permission for everyone else. You can finally put your phone down. Would you turn People Memory on?",
+  "audio": "audio/day 2.2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 85,
+  "estimatedWpm": 111,
+  "concept": "Glasses show a menu, transit and directions; a People Memory permission changes the story.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "It is 2031. Your phone is still at home.",
+    "Your glasses remember this stranger. Did they agree?",
+    "You left your phone home. The internet came anyway."
+  ],
+  "strongestHook": "It is 2031. Your phone is still at home.",
+  "directorBrief": "Direct this as a human story about Glasses show a menu, transit and directions; a People Memory permission changes the story. Emotional movement: wonder \u2192 consent. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Hard",
+  "effort": "60\u2013120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify present smart-glasses displays; persistent people-memory story is speculative.",
+  "sources": [
+    {
+      "label": "Google Android XR glasses demonstration",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-xr-gemini-glasses-headsets/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Your Phone Stayed Home",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cYour Phone Stayed Home\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "You can finally put your phone down. Would you turn People Memory on?",
+  "cta": "TURN IT ON?",
+  "instagramCaption": "The Internet Leaves Your Phone. A possible future, grounded in present technology. The dates and scenario are fictional. You can finally put your phone down. Would you turn People Memory on?",
+  "tiktokCaption": "The Internet Leaves Your Phone. TURN IT ON? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88\u2013104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "City POV, stranger silhouette, menu/directions overlays.",
+  "scenes": [
+    {
+      "id": "D02R2-S1",
+      "start": 0.0,
+      "end": 3.3666666666666667,
+      "type": "hook",
+      "text": "2031 \u00b7 A POSSIBLE FUTURE",
+      "narration": "It is 2031. Your phone is still at home.",
+      "concept": "Phone rests on hallway table while the camera follows its owner outside.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d02r2/s1.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Phone rests on hallway table while the camera follows its owner outside.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "It is 2031. Your phone is",
+        "still at home."
+      ],
+      "originalStart": 0,
+      "originalEnd": 5.066666666666666,
+      "captionTimings": [
+        {
+          "text": "It is 2031. Your phone is",
+          "start": 0.0,
+          "end": 2.42
+        },
+        {
+          "text": "still at home.",
+          "start": 2.26,
+          "end": 3.367
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S2",
+      "start": 3.3666666666666667,
+      "end": 8.033333333333333,
+      "type": "cinematic",
+      "text": "THE INTERNET LOOKS UP",
+      "narration": "Your glasses place directions on the pavement. The bus time floats above the stop.",
+      "concept": "One restrained route line and arrival card; preserve street visibility.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d02r2/s2.png",
+      "plannedAssetType": "image",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "One restrained route line and arrival card; preserve street visibility.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Your glasses place directions on the",
+        "pavement. The bus time floats above",
+        "the stop."
+      ],
+      "originalStart": 5.066666666666666,
+      "originalEnd": 12.633333333333333,
+      "captionTimings": [
+        {
+          "text": "Your glasses place directions on the",
+          "start": 0.013,
+          "end": 1.733
+        },
+        {
+          "text": "pavement. The bus time floats above",
+          "start": 1.573,
+          "end": 3.913
+        },
+        {
+          "text": "the stop.",
+          "start": 3.753,
+          "end": 4.667
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S3",
+      "start": 8.033333333333333,
+      "end": 13.9,
+      "type": "phone",
+      "text": "HELP WITHOUT A SCREEN",
+      "narration": "At lunch, the menu translates before you finish reading. Technology has become almost invisible.",
+      "concept": "Menu overlay follows the page perspective; do not cover the meal.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Menu overlay follows the page perspective; do not cover the meal.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "At lunch, the menu translates before",
+        "you finish reading. Technology has become",
+        "almost invisible."
+      ],
+      "originalStart": 12.633333333333333,
+      "originalEnd": 20.2,
+      "captionTimings": [
+        {
+          "text": "At lunch, the menu translates before",
+          "start": 0.027,
+          "end": 2.267
+        },
+        {
+          "text": "you finish reading. Technology has become",
+          "start": 2.107,
+          "end": 4.607
+        },
+        {
+          "text": "almost invisible.",
+          "start": 4.447,
+          "end": 5.867
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S4",
+      "start": 13.9,
+      "end": 19.533333333333335,
+      "type": "cinematic",
+      "text": "PEOPLE MEMORY",
+      "narration": "Then someone says hello. A name appears, followed by where you met and what you discussed.",
+      "concept": "Anonymous adult silhouette; fictional memory card remains separate from the person.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d02r2/s4.png",
+      "plannedAssetType": "image",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Anonymous adult silhouette; fictional memory card remains separate from the person.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Then someone says hello. A name",
+        "appears, followed by where you met",
+        "and what you discussed."
+      ],
+      "originalStart": 20.2,
+      "originalEnd": 28.8,
+      "captionTimings": [
+        {
+          "text": "Then someone says hello. A name",
+          "start": 0.02,
+          "end": 2.32
+        },
+        {
+          "text": "appears, followed by where you met",
+          "start": 2.16,
+          "end": 4.32
+        },
+        {
+          "text": "and what you discussed.",
+          "start": 4.16,
+          "end": 5.633
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S5",
+      "start": 19.533333333333335,
+      "end": 25.566666666666666,
+      "type": "phone",
+      "text": "WHO ELSE CONSENTED?",
+      "narration": "A permission asks whether you want to remember every conversation. You notice there is no permission for everyone else.",
+      "concept": "Fictional consent control expands; background person stays in focus.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional consent control expands; background person stays in focus.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "A permission asks whether you want",
+        "to remember every conversation. You notice",
+        "there is no permission for everyone else."
+      ],
+      "originalStart": 28.8,
+      "originalEnd": 38.93333333333333,
+      "captionTimings": [
+        {
+          "text": "A permission asks whether you want",
+          "start": 0.007,
+          "end": 1.707
+        },
+        {
+          "text": "to remember every conversation. You notice",
+          "start": 1.547,
+          "end": 4.047
+        },
+        {
+          "text": "there is no permission for everyone else.",
+          "start": 3.887,
+          "end": 6.033
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S6",
+      "start": 25.566666666666666,
+      "end": 29.966666666666665,
+      "type": "question",
+      "text": "TURN IT ON?",
+      "narration": "You can finally put your phone down. Would you turn People Memory on?",
+      "concept": "Return to empty hands, then freeze before the consent tap.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to empty hands, then freeze before the consent tap.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "You can finally put your phone",
+        "down. Would you turn People Memory on?"
+      ],
+      "originalStart": 38.93333333333333,
+      "originalEnd": 46,
+      "captionTimings": [
+        {
+          "text": "You can finally put your phone",
+          "start": 0.033,
+          "end": 1.473
+        },
+        {
+          "text": "down. Would you turn People Memory on?",
+          "start": 1.313,
+          "end": 4.273
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration"
+}

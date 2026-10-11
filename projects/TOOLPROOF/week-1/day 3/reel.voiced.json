@@ -1,0 +1,337 @@
+{
+  "id": "D03R1",
+  "day": 3,
+  "reelNumber": 1,
+  "title": "Stirling PDF \u2014 Discovery",
+  "format": "Discovery",
+  "durationSeconds": 35.9,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Before uploading a private PDF, check whether you can do the job locally. Stirling PDF brings merging, splitting, compression, OCR, and other PDF operations into one workspace. Its project describes desktop and self-hosted options. Choose the actual local setup before making a privacy claim. The project is open core. That means the license and paid feature boundaries deserve a look. For me, the useful question is whether the exported file is right, especially after redaction. Next: seven real jobs against Acrobat. Which one would you test first?",
+  "audio": "audio/day 3.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 87,
+  "estimatedWpm": 149,
+  "concept": "Merge, split, compress, OCR, redact and reorder in one workspace.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "Before uploading a private PDF, check whether you can do the job locally.",
+    "Can this PDF job stay on your computer?",
+    "A PDF workspace needs more than a feature count."
+  ],
+  "strongestHook": "Before uploading a private PDF, check whether you can do the job locally.",
+  "directorBrief": "Direct this as a useful discovery with one important limit: Merge, split, compress, OCR, redact and reorder in one workspace. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Medium",
+  "effort": "30\u201390 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Use a local desktop or self-hosted setup supported by current Stirling docs. Capture exact version and mode, official license and available features. Use synthetic PDFs only. Demonstrate merge, split and one additional installed operation, then open output independently. Any claim of local processing must be tied to actual chosen setup and relevant docs; hosted service access is not proof of offline privacy.",
+  "evidenceRequirements": "Verify actual local processing, free limits and open-core licensing.",
+  "sources": [
+    {
+      "label": "Stirling PDF repository",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Keep Your PDF Local",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cKeep Your PDF Local\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Next: seven real jobs against Acrobat. Which one would you test first?",
+  "cta": "7 JOBS VS ACROBAT",
+  "instagramCaption": "Stirling PDF \u2014 Discovery. Merge, split, compress, OCR, redact and reorder in one workspace. Full test conditions and limitations belong beside the final result. Next: seven real jobs against Acrobat. Which one would you test first?",
+  "tiktokCaption": "Stirling PDF \u2014 Discovery. 7 JOBS VS ACROBAT",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "App, pricing/license, sample PDF files.",
+  "scenes": [
+    {
+      "id": "D03R1-S1",
+      "start": 0.0,
+      "end": 4.566666666666666,
+      "type": "hook",
+      "text": "KEEP THE PDF LOCAL?",
+      "narration": "Before uploading a private PDF, check whether you can do the job locally.",
+      "concept": "Synthetic document with invented personal details; never show private records.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Synthetic document with invented personal details; never show private records.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Before uploading a private PDF, check",
+        "whether you can do the job locally."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 0,
+      "originalEnd": 5.266666666666667,
+      "captionTimings": [
+        {
+          "text": "Before uploading a private PDF, check",
+          "start": 0.0,
+          "end": 2.66
+        },
+        {
+          "text": "whether you can do the job locally.",
+          "start": 2.5,
+          "end": 4.567
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S2",
+      "start": 4.566666666666666,
+      "end": 12.366666666666667,
+      "type": "evidence",
+      "text": "ONE PDF WORKSPACE",
+      "narration": "Stirling PDF brings merging, splitting, compression, OCR, and other PDF operations into one workspace.",
+      "concept": "Real app navigation through three installed operations; exact version captured.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real app navigation through three installed operations; exact version captured.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Stirling PDF brings merging, splitting, compression,",
+        "OCR, and other PDF operations into",
+        "one workspace."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 5.266666666666667,
+      "originalEnd": 10.9,
+      "captionTimings": [
+        {
+          "text": "Stirling PDF brings merging, splitting, compression,",
+          "start": 0.013,
+          "end": 3.973
+        },
+        {
+          "text": "OCR, and other PDF operations into",
+          "start": 3.813,
+          "end": 6.593
+        },
+        {
+          "text": "one workspace.",
+          "start": 6.433,
+          "end": 7.8
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S3",
+      "start": 12.366666666666667,
+      "end": 19.333333333333332,
+      "type": "evidence",
+      "text": "LOCAL SETUP MATTERS",
+      "narration": "Its project describes desktop and self-hosted options. Choose the actual local setup before making a privacy claim.",
+      "concept": "Show installed mode and relevant official docs; do not equate hosted access with local processing.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show installed mode and relevant official docs; do not equate hosted access with local processing.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Its project describes desktop and self-hosted",
+        "options. Choose the actual local setup",
+        "before making a privacy claim."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 10.9,
+      "originalEnd": 17.666666666666668,
+      "captionTimings": [
+        {
+          "text": "Its project describes desktop and self-hosted",
+          "start": 0.033,
+          "end": 2.613
+        },
+        {
+          "text": "options. Choose the actual local setup",
+          "start": 2.453,
+          "end": 5.073
+        },
+        {
+          "text": "before making a privacy claim.",
+          "start": 4.913,
+          "end": 6.967
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S4",
+      "start": 19.333333333333332,
+      "end": 24.733333333333334,
+      "type": "evidence",
+      "text": "CHECK THE LICENSE",
+      "narration": "The project is open core. That means the license and paid feature boundaries deserve a look.",
+      "concept": "Official repository license and plan pages; avoid saying every feature is free.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Official repository license and plan pages; avoid saying every feature is free.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The project is open core. That",
+        "means the license and paid feature",
+        "boundaries deserve a look."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 17.666666666666668,
+      "originalEnd": 24.066666666666666,
+      "captionTimings": [
+        {
+          "text": "The project is open core. That",
+          "start": 0.007,
+          "end": 2.007
+        },
+        {
+          "text": "means the license and paid feature",
+          "start": 1.847,
+          "end": 3.747
+        },
+        {
+          "text": "boundaries deserve a look.",
+          "start": 3.587,
+          "end": 5.4
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S5",
+      "start": 24.733333333333334,
+      "end": 31.066666666666666,
+      "type": "evidence",
+      "text": "OPEN THE OUTPUT",
+      "narration": "For me, the useful question is whether the exported file is right, especially after redaction.",
+      "concept": "Preview synthetic redaction test; label unverified until independent inspection.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d03r1/s5.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Preview synthetic redaction test; label unverified until independent inspection.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "For me, the useful question is",
+        "whether the exported file is right,",
+        "especially after redaction."
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 24.066666666666666,
+      "originalEnd": 30.1,
+      "captionTimings": [
+        {
+          "text": "For me, the useful question is",
+          "start": 0.007,
+          "end": 1.887
+        },
+        {
+          "text": "whether the exported file is right,",
+          "start": 1.727,
+          "end": 3.987
+        },
+        {
+          "text": "especially after redaction.",
+          "start": 3.847,
+          "end": 6.047
+        }
+      ]
+    },
+    {
+      "id": "D03R1-S6",
+      "start": 31.066666666666666,
+      "end": 35.9,
+      "type": "question",
+      "text": "7 JOBS VS ACROBAT",
+      "narration": "Next: seven real jobs against Acrobat. Which one would you test first?",
+      "concept": "Seven named input files become the next test slate.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Seven named input files become the next test slate.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Next: seven real jobs against Acrobat.",
+        "Which one would you test first?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "originalStart": 30.1,
+      "originalEnd": 35,
+      "captionTimings": [
+        {
+          "text": "Next: seven real jobs against Acrobat.",
+          "start": 0.013,
+          "end": 2.973
+        },
+        {
+          "text": "Which one would you test first?",
+          "start": 3.153,
+          "end": 4.693
+        }
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-source-backed-explainer-built",
+  "visualStatus": "voiced-directed-illustration"
+}

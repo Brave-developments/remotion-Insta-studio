@@ -1,0 +1,665 @@
+{
+  "fingerprint": "485d70eb61b20c3f0075a069fa1f118989630d0d3ab9009f638b75627e6d1968",
+  "recognizedText": " A free editor can be exciting without being your next production tool. OpenCut is an open source editor. Its current readme says the project is being rewritten with the classic version still available. I am testing the classic version people can use today. Can it handle an ordinary vertical edit? Then I need text, sound, and an export. I can actually open. OpenSource tells me something about access. It does not tell me whether this version fits my deadline. Next, the same reel and open cut and cap cut with every missing step recorded.",
+  "words": [
+    {
+      "text": " A",
+      "timestamp": [
+        0.0,
+        0.36
+      ]
+    },
+    {
+      "text": " free",
+      "timestamp": [
+        0.36,
+        0.58
+      ]
+    },
+    {
+      "text": " editor",
+      "timestamp": [
+        0.58,
+        0.9
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        0.9,
+        1.18
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        1.18,
+        1.32
+      ]
+    },
+    {
+      "text": " exciting",
+      "timestamp": [
+        1.32,
+        1.74
+      ]
+    },
+    {
+      "text": " without",
+      "timestamp": [
+        1.74,
+        2.16
+      ]
+    },
+    {
+      "text": " being",
+      "timestamp": [
+        2.16,
+        2.46
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        2.46,
+        2.64
+      ]
+    },
+    {
+      "text": " next",
+      "timestamp": [
+        2.64,
+        2.78
+      ]
+    },
+    {
+      "text": " production",
+      "timestamp": [
+        2.78,
+        3.3
+      ]
+    },
+    {
+      "text": " tool.",
+      "timestamp": [
+        3.3,
+        4.2
+      ]
+    },
+    {
+      "text": " OpenCut",
+      "timestamp": [
+        4.32,
+        4.78
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        4.78,
+        5.0
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        5.0,
+        5.12
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        5.12,
+        5.36
+      ]
+    },
+    {
+      "text": " source",
+      "timestamp": [
+        5.36,
+        5.62
+      ]
+    },
+    {
+      "text": " editor.",
+      "timestamp": [
+        5.62,
+        6.44
+      ]
+    },
+    {
+      "text": " Its",
+      "timestamp": [
+        6.6,
+        6.7
+      ]
+    },
+    {
+      "text": " current",
+      "timestamp": [
+        6.7,
+        6.94
+      ]
+    },
+    {
+      "text": " readme",
+      "timestamp": [
+        6.94,
+        7.34
+      ]
+    },
+    {
+      "text": " says",
+      "timestamp": [
+        7.34,
+        7.58
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        7.58,
+        7.8
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        7.8,
+        8.14
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        8.14,
+        8.4
+      ]
+    },
+    {
+      "text": " being",
+      "timestamp": [
+        8.4,
+        8.66
+      ]
+    },
+    {
+      "text": " rewritten",
+      "timestamp": [
+        8.66,
+        9.16
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        9.16,
+        9.68
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        9.68,
+        9.82
+      ]
+    },
+    {
+      "text": " classic",
+      "timestamp": [
+        9.82,
+        10.18
+      ]
+    },
+    {
+      "text": " version",
+      "timestamp": [
+        10.18,
+        10.5
+      ]
+    },
+    {
+      "text": " still",
+      "timestamp": [
+        10.5,
+        10.84
+      ]
+    },
+    {
+      "text": " available.",
+      "timestamp": [
+        10.84,
+        11.72
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        11.84,
+        11.96
+      ]
+    },
+    {
+      "text": " am",
+      "timestamp": [
+        11.96,
+        12.04
+      ]
+    },
+    {
+      "text": " testing",
+      "timestamp": [
+        12.04,
+        12.44
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        12.44,
+        12.64
+      ]
+    },
+    {
+      "text": " classic",
+      "timestamp": [
+        12.64,
+        12.98
+      ]
+    },
+    {
+      "text": " version",
+      "timestamp": [
+        12.98,
+        13.36
+      ]
+    },
+    {
+      "text": " people",
+      "timestamp": [
+        13.36,
+        13.66
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        13.66,
+        13.86
+      ]
+    },
+    {
+      "text": " use",
+      "timestamp": [
+        13.86,
+        14.08
+      ]
+    },
+    {
+      "text": " today.",
+      "timestamp": [
+        14.08,
+        14.82
+      ]
+    },
+    {
+      "text": " Can",
+      "timestamp": [
+        15.14,
+        15.22
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        15.22,
+        15.34
+      ]
+    },
+    {
+      "text": " handle",
+      "timestamp": [
+        15.34,
+        15.64
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        15.64,
+        15.84
+      ]
+    },
+    {
+      "text": " ordinary",
+      "timestamp": [
+        15.84,
+        16.24
+      ]
+    },
+    {
+      "text": " vertical",
+      "timestamp": [
+        16.24,
+        16.72
+      ]
+    },
+    {
+      "text": " edit?",
+      "timestamp": [
+        16.72,
+        17.38
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        17.62,
+        17.72
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        17.72,
+        17.84
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        17.84,
+        18.02
+      ]
+    },
+    {
+      "text": " text,",
+      "timestamp": [
+        18.02,
+        18.64
+      ]
+    },
+    {
+      "text": " sound,",
+      "timestamp": [
+        18.64,
+        19.18
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        19.18,
+        19.26
+      ]
+    },
+    {
+      "text": " an",
+      "timestamp": [
+        19.26,
+        19.38
+      ]
+    },
+    {
+      "text": " export.",
+      "timestamp": [
+        19.38,
+        20.12
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        20.32,
+        20.42
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        20.42,
+        20.56
+      ]
+    },
+    {
+      "text": " actually",
+      "timestamp": [
+        20.56,
+        20.92
+      ]
+    },
+    {
+      "text": " open.",
+      "timestamp": [
+        20.92,
+        21.62
+      ]
+    },
+    {
+      "text": " OpenSource",
+      "timestamp": [
+        21.96,
+        22.26
+      ]
+    },
+    {
+      "text": " tells",
+      "timestamp": [
+        22.26,
+        22.58
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        22.58,
+        22.78
+      ]
+    },
+    {
+      "text": " something",
+      "timestamp": [
+        22.78,
+        23.06
+      ]
+    },
+    {
+      "text": " about",
+      "timestamp": [
+        23.06,
+        23.36
+      ]
+    },
+    {
+      "text": " access.",
+      "timestamp": [
+        23.36,
+        24.24
+      ]
+    },
+    {
+      "text": " It",
+      "timestamp": [
+        24.34,
+        24.46
+      ]
+    },
+    {
+      "text": " does",
+      "timestamp": [
+        24.46,
+        24.58
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        24.58,
+        24.78
+      ]
+    },
+    {
+      "text": " tell",
+      "timestamp": [
+        24.78,
+        25.04
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        25.04,
+        25.2
+      ]
+    },
+    {
+      "text": " whether",
+      "timestamp": [
+        25.2,
+        25.4
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        25.4,
+        25.62
+      ]
+    },
+    {
+      "text": " version",
+      "timestamp": [
+        25.62,
+        25.92
+      ]
+    },
+    {
+      "text": " fits",
+      "timestamp": [
+        25.92,
+        26.14
+      ]
+    },
+    {
+      "text": " my",
+      "timestamp": [
+        26.14,
+        26.36
+      ]
+    },
+    {
+      "text": " deadline.",
+      "timestamp": [
+        26.36,
+        27.2
+      ]
+    },
+    {
+      "text": " Next,",
+      "timestamp": [
+        27.2,
+        28.16
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        28.16,
+        28.36
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        28.36,
+        28.62
+      ]
+    },
+    {
+      "text": " reel",
+      "timestamp": [
+        28.62,
+        28.92
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        28.92,
+        29.1
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        29.1,
+        29.38
+      ]
+    },
+    {
+      "text": " cut",
+      "timestamp": [
+        29.38,
+        29.6
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        29.6,
+        29.82
+      ]
+    },
+    {
+      "text": " cap",
+      "timestamp": [
+        29.82,
+        30.02
+      ]
+    },
+    {
+      "text": " cut",
+      "timestamp": [
+        30.02,
+        30.3
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        30.3,
+        30.76
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        30.76,
+        31.16
+      ]
+    },
+    {
+      "text": " missing",
+      "timestamp": [
+        31.16,
+        31.4
+      ]
+    },
+    {
+      "text": " step",
+      "timestamp": [
+        31.4,
+        31.7
+      ]
+    },
+    {
+      "text": " recorded.",
+      "timestamp": [
+        31.7,
+        32.46
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

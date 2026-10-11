@@ -1,0 +1,293 @@
+{
+  "id": "D02R1",
+  "day": 2,
+  "reelNumber": 1,
+  "title": "The Last Password",
+  "format": "What If",
+  "durationSeconds": 23.566666666666666,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "What if the last password you remembered was already behind you? Passkeys already replace passwords in supported services. Imagine that same ease at your office, your hotel, and your front door. Every entrance works, until one account stops recognizing you. Convenience starts looking like infrastructure when losing access means losing your day. When passwords disappear, who holds the key?",
+  "audio": "audio/day 2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 59,
+  "estimatedWpm": 136,
+  "concept": "Passkeys and selective digital identity make login invisible, but identity becomes infrastructure.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "What if the last password you remembered was already behind you?",
+    "Your front door works like a login now.",
+    "Losing one account could lock you out of your day."
+  ],
+  "strongestHook": "What if the last password you remembered was already behind you?",
+  "directorBrief": "Direct this as a human story about Passkeys and selective digital identity make login invisible, but identity becomes infrastructure. Emotional movement: ease \u2192 dependence. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Easy",
+  "effort": "60\u2013120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify current passkey and digital-ID support; universal adoption is speculative.",
+  "sources": [
+    {
+      "label": "FIDO passkeys",
+      "url": "https://fidoalliance.org/passkeys/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "The Last Password",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cThe Last Password\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "When passwords disappear, who holds the key?",
+  "cta": "WHO HOLDS THE KEY?",
+  "instagramCaption": "The Last Password. A possible future, grounded in present technology. The dates and scenario are fictional. When passwords disappear, who holds the key?",
+  "tiktokCaption": "The Last Password. WHO HOLDS THE KEY? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88\u2013104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Phone, passkey, ID, access doors.",
+  "scenes": [
+    {
+      "id": "D02R1-S1",
+      "start": 0.0,
+      "end": 3.1666666666666665,
+      "type": "hook",
+      "text": "THE LAST PASSWORD",
+      "narration": "What if the last password you remembered was already behind you?",
+      "concept": "Password dots retreat as a passkey symbol occupies the same position.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Password dots retreat as a passkey symbol occupies the same position.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "What if the last password you",
+        "remembered was already behind you?"
+      ],
+      "originalStart": 0,
+      "originalEnd": 4.8,
+      "captionTimings": [
+        {
+          "text": "What if the last password you",
+          "start": 0.0,
+          "end": 1.38
+        },
+        {
+          "text": "remembered was already behind you?",
+          "start": 1.22,
+          "end": 3.167
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S2",
+      "start": 3.1666666666666665,
+      "end": 7.133333333333334,
+      "type": "evidence",
+      "text": "REAL TODAY: PASSKEYS",
+      "narration": "Passkeys already replace passwords in supported services.",
+      "concept": "Capture FIDO explanation; crop to the relevant paragraph.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r1/s2.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Capture FIDO explanation; crop to the relevant paragraph.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Passkeys already replace passwords in supported services."
+      ],
+      "originalStart": 4.8,
+      "originalEnd": 8,
+      "captionTimings": [
+        {
+          "text": "Passkeys already replace passwords in supported services.",
+          "start": 0.013,
+          "end": 3.813
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S3",
+      "start": 7.133333333333334,
+      "end": 11.833333333333334,
+      "type": "cinematic",
+      "text": "ONE IDENTITY. MANY DOORS.",
+      "narration": "Imagine that same ease at your office, your hotel, and your front door.",
+      "concept": "Match cut the same hand movement across three fictional access points.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d02r1/s3.png",
+      "plannedAssetType": "image",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Match cut the same hand movement across three fictional access points.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Imagine that same ease at your",
+        "office, your hotel, and your front door."
+      ],
+      "originalStart": 8,
+      "originalEnd": 13.6,
+      "captionTimings": [
+        {
+          "text": "Imagine that same ease at your",
+          "start": 0.027,
+          "end": 1.567
+        },
+        {
+          "text": "office, your hotel, and your front door.",
+          "start": 1.407,
+          "end": 4.647
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S4",
+      "start": 11.833333333333334,
+      "end": 15.933333333333334,
+      "type": "phone",
+      "text": "ACCESS DENIED",
+      "narration": "Every entrance works, until one account stops recognizing you.",
+      "concept": "Fictional access badge holds amber; no flashing error montage.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Fictional access badge holds amber; no flashing error montage.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Every entrance works, until one account",
+        "stops recognizing you."
+      ],
+      "originalStart": 13.6,
+      "originalEnd": 17.6,
+      "captionTimings": [
+        {
+          "text": "Every entrance works, until one account",
+          "start": 0.007,
+          "end": 2.327
+        },
+        {
+          "text": "stops recognizing you.",
+          "start": 2.167,
+          "end": 4.007
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S5",
+      "start": 15.933333333333334,
+      "end": 20.6,
+      "type": "workflow",
+      "text": "IDENTITY BECOMES INFRASTRUCTURE",
+      "narration": "Convenience starts looking like infrastructure when losing access means losing your day.",
+      "concept": "Branch access lines to work, travel and home; pause the central connection.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Branch access lines to work, travel and home; pause the central connection.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Convenience starts looking like infrastructure when",
+        "losing access means losing your day."
+      ],
+      "originalStart": 17.6,
+      "originalEnd": 22.8,
+      "captionTimings": [
+        {
+          "text": "Convenience starts looking like infrastructure when",
+          "start": 0.007,
+          "end": 2.427
+        },
+        {
+          "text": "losing access means losing your day.",
+          "start": 2.267,
+          "end": 4.647
+        }
+      ]
+    },
+    {
+      "id": "D02R1-S6",
+      "start": 20.6,
+      "end": 23.566666666666666,
+      "type": "question",
+      "text": "WHO HOLDS THE KEY?",
+      "narration": "When passwords disappear, who holds the key?",
+      "concept": "Hold the small key symbol against a large human silhouette.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Hold the small key symbol against a large human silhouette.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "When passwords disappear, who holds the key?"
+      ],
+      "originalStart": 22.8,
+      "originalEnd": 26,
+      "captionTimings": [
+        {
+          "text": "When passwords disappear, who holds the key?",
+          "start": 0.02,
+          "end": 2.84
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration"
+}

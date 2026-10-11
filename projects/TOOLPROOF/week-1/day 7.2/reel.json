@@ -1,0 +1,271 @@
+{
+  "id": "D07R2",
+  "day": 7,
+  "reelNumber": 2,
+  "title": "Butterfly — Goodnotes Test",
+  "format": "Test",
+  "durationSeconds": 50,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Can Butterfly replace my paid notebook app for this PDF workflow? Five minutes to annotate the same pages: write, highlight, draw a shape, and move a note. I checked organization, responsiveness, and whether the exported PDF kept the marks in place. Sync or collaboration only gets a verdict if I can actually test it on these accounts and devices. [WRITING_ORGANIZATION_AND_EXPORT_RESULTS]. [DEVICE_AND_SYNC_LIMIT]. [SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 69,
+  "estimatedWpm": 83,
+  "concept": "Same PDF: handwriting, shapes, moving notes, export, organization, sync and performance.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "Can Butterfly replace my paid notebook app for this PDF workflow?",
+    "Same PDF, same pen, two note apps.",
+    "Would you switch if the exported notes survive?"
+  ],
+  "strongestHook": "Can Butterfly replace my paid notebook app for this PDF workflow?",
+  "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Same PDF: handwriting, shapes, moving notes, export, organization, sync and performance. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Medium",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Use the same supported device/stylus where possible for Butterfly and Goodnotes; disclose hardware mismatch or inaccessible app. Annotate identical PDF pages for five minutes per tool using fixed text, highlight, rectangle and moved note. Compare readability, object handling, organization, subjective responsiveness and export position. Check sync only with available test devices/accounts; otherwise mark untested. Do not invent latency numbers or universal replacement claims.",
+  "evidenceRequirements": "Test supported devices; report access gaps and actual limitations.",
+  "sources": [
+    {
+      "label": "Butterfly repository",
+      "url": "https://github.com/LinwoodDev/Butterfly",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Same PDF Two Apps",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Same PDF Two Apps” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+  "cta": "WOULD YOU SWITCH?",
+  "instagramCaption": "Butterfly — Goodnotes Test. Same PDF: handwriting, shapes, moving notes, export, organization, sync and performance. Full test conditions and limitations belong beside the final result. [SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+  "tiktokCaption": "Butterfly — Goodnotes Test. WOULD YOU SWITCH?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Paired notes, input/exported PDFs, device runs.",
+  "scenes": [
+    {
+      "id": "D07R2-S1",
+      "start": 0,
+      "end": 8,
+      "type": "hook",
+      "text": "BUTTERFLY VS GOODNOTES",
+      "narration": "Can Butterfly replace my paid notebook app for this PDF workflow?",
+      "concept": "Same device and stylus where both supported; disclose unequal device if necessary.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Same device and stylus where both supported; disclose unequal device if necessary.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Can Butterfly replace my paid notebook",
+        "app for this PDF workflow?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "A MATCHED PDF WORKFLOW",
+      "presentationNarration": "The planned comparison gives Butterfly and Goodnotes the same PDF annotation task.",
+      "presentationCaptionChunks": [
+        "The planned comparison gives Butterfly and",
+        "Goodnotes the same PDF annotation task."
+      ]
+    },
+    {
+      "id": "D07R2-S2",
+      "start": 8,
+      "end": 19.333333333333332,
+      "type": "workflow",
+      "text": "SAME PAGES. SAME TASKS.",
+      "narration": "Five minutes to annotate the same pages: write, highlight, draw a shape, and move a note.",
+      "concept": "Exact reference annotations and task order; recording retains writing speed.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Exact reference annotations and task order; recording retains writing speed.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Five minutes to annotate the same",
+        "pages: write, highlight, draw a shape,",
+        "and move a note."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "FIVE MINUTES. SAME PAGES.",
+      "presentationNarration": "Each run gets five minutes to write, highlight, draw a shape, and move a note.",
+      "presentationCaptionChunks": [
+        "Each run gets five minutes to",
+        "write, highlight, draw a shape, and",
+        "move a note."
+      ]
+    },
+    {
+      "id": "D07R2-S3",
+      "start": 19.333333333333332,
+      "end": 29.333333333333332,
+      "type": "evidence",
+      "text": "CHECK THE NOTES AND OUTPUT",
+      "narration": "I checked organization, responsiveness, and whether the exported PDF kept the marks in place.",
+      "concept": "Independent export viewer beside original annotations at same zoom.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Independent export viewer beside original annotations at same zoom.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I checked organization, responsiveness, and whether",
+        "the exported PDF kept the marks",
+        "in place."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "REOPEN THE EXPORT",
+      "presentationNarration": "The review will check responsiveness, organization, and whether exported marks stay in place.",
+      "presentationCaptionChunks": [
+        "The review will check responsiveness, organization,",
+        "and whether exported marks stay in",
+        "place."
+      ]
+    },
+    {
+      "id": "D07R2-S4",
+      "start": 29.333333333333332,
+      "end": 42,
+      "type": "evidence",
+      "text": "UNTESTED MEANS UNTESTED",
+      "narration": "Sync or collaboration only gets a verdict if I can actually test it on these accounts and devices.",
+      "concept": "Show tested account/device scope and explicit unavailable items.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d07r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show tested account/device scope and explicit unavailable items.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Sync or collaboration only gets a",
+        "verdict if I can actually test",
+        "it on these accounts and devices."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "ONLY TESTED SYNC COUNTS",
+      "presentationNarration": "Collaboration and sync will get a verdict only on accounts and devices actually tested.",
+      "presentationCaptionChunks": [
+        "Collaboration and sync will get a",
+        "verdict only on accounts and devices",
+        "actually tested."
+      ]
+    },
+    {
+      "id": "D07R2-S5",
+      "start": 42,
+      "end": 44,
+      "type": "result",
+      "text": "[NOTEBOOK VERDICT]",
+      "narration": "[WRITING_ORGANIZATION_AND_EXPORT_RESULTS]. [DEVICE_AND_SYNC_LIMIT].",
+      "concept": "Evidence-based task results; no subjective latency measurement without instrument.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Evidence-based task results; no subjective latency measurement without instrument.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[WRITING_ORGANIZATION_AND_EXPORT_RESULTS]. [DEVICE_AND_SYNC_LIMIT]."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "KEEP THE DEVICE LIMITS",
+      "presentationNarration": "Writing, organization, export quality, and device limitations need captured observations. No replacement verdict exists yet.",
+      "presentationCaptionChunks": [
+        "Writing, organization, export quality, and device",
+        "limitations need captured observations. No replacement",
+        "verdict exists yet."
+      ]
+    },
+    {
+      "id": "D07R2-S6",
+      "start": 44,
+      "end": 50,
+      "type": "question",
+      "text": "WOULD YOU SWITCH?",
+      "narration": "[SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+      "concept": "Finish on exported notes, not a pricing screenshot.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Finish on exported notes, not a pricing screenshot.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[SPECIFIC_FIT_AND_GAP]. Would these notes cover what",
+        "you need?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "DO THESE NOTES FIT?",
+      "presentationNarration": "The recommendation will describe a specific fit and any gap. Which note-taking feature would stop you switching?",
+      "presentationCaptionChunks": [
+        "The recommendation will describe a specific",
+        "fit and any gap. Which note-taking",
+        "feature would stop you switching?"
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-test-plan-built"
+}

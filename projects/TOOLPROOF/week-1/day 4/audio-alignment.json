@@ -1,0 +1,595 @@
+{
+  "fingerprint": "8b7048bc499fab4743f38963dbbf819190e2e5f77f3f22e6d5d58d17ee33f87d",
+  "recognizedText": " The free loom alternative has a licensing detail you should read. CAP is a screen recording tool. Its pricing page separates personal use from commercial use, so I would not call it free for every work recording. The workflow I want is simple. Record a useful demo, make it readable, and get it to someone. Export and sharing limits matter as much as the recording button. Next, I am recording the same demo in CAP and loom, which deserves the place in your workflow.",
+  "words": [
+    {
+      "text": " The",
+      "timestamp": [
+        0.0,
+        0.28
+      ]
+    },
+    {
+      "text": " free",
+      "timestamp": [
+        0.28,
+        0.56
+      ]
+    },
+    {
+      "text": " loom",
+      "timestamp": [
+        0.56,
+        0.84
+      ]
+    },
+    {
+      "text": " alternative",
+      "timestamp": [
+        0.84,
+        1.34
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        1.34,
+        1.7
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        1.7,
+        1.84
+      ]
+    },
+    {
+      "text": " licensing",
+      "timestamp": [
+        1.84,
+        2.24
+      ]
+    },
+    {
+      "text": " detail",
+      "timestamp": [
+        2.24,
+        2.66
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        2.66,
+        2.96
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        2.96,
+        3.16
+      ]
+    },
+    {
+      "text": " read.",
+      "timestamp": [
+        3.16,
+        3.76
+      ]
+    },
+    {
+      "text": " CAP",
+      "timestamp": [
+        3.98,
+        4.0
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        4.0,
+        4.26
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        4.26,
+        4.4
+      ]
+    },
+    {
+      "text": " screen",
+      "timestamp": [
+        4.4,
+        4.74
+      ]
+    },
+    {
+      "text": " recording",
+      "timestamp": [
+        4.74,
+        5.26
+      ]
+    },
+    {
+      "text": " tool.",
+      "timestamp": [
+        5.26,
+        6.02
+      ]
+    },
+    {
+      "text": " Its",
+      "timestamp": [
+        6.02,
+        6.16
+      ]
+    },
+    {
+      "text": " pricing",
+      "timestamp": [
+        6.16,
+        6.52
+      ]
+    },
+    {
+      "text": " page",
+      "timestamp": [
+        6.52,
+        6.86
+      ]
+    },
+    {
+      "text": " separates",
+      "timestamp": [
+        6.86,
+        7.38
+      ]
+    },
+    {
+      "text": " personal",
+      "timestamp": [
+        7.38,
+        7.94
+      ]
+    },
+    {
+      "text": " use",
+      "timestamp": [
+        7.94,
+        8.24
+      ]
+    },
+    {
+      "text": " from",
+      "timestamp": [
+        8.24,
+        8.5
+      ]
+    },
+    {
+      "text": " commercial",
+      "timestamp": [
+        8.5,
+        8.82
+      ]
+    },
+    {
+      "text": " use,",
+      "timestamp": [
+        8.82,
+        9.56
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        9.74,
+        9.84
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        9.84,
+        9.96
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        9.96,
+        10.1
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        10.1,
+        10.28
+      ]
+    },
+    {
+      "text": " call",
+      "timestamp": [
+        10.28,
+        10.52
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        10.52,
+        10.66
+      ]
+    },
+    {
+      "text": " free",
+      "timestamp": [
+        10.66,
+        10.94
+      ]
+    },
+    {
+      "text": " for",
+      "timestamp": [
+        10.94,
+        11.12
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        11.12,
+        11.4
+      ]
+    },
+    {
+      "text": " work",
+      "timestamp": [
+        11.4,
+        11.64
+      ]
+    },
+    {
+      "text": " recording.",
+      "timestamp": [
+        11.64,
+        12.52
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        12.52,
+        12.72
+      ]
+    },
+    {
+      "text": " workflow",
+      "timestamp": [
+        12.72,
+        13.04
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        13.04,
+        13.3
+      ]
+    },
+    {
+      "text": " want",
+      "timestamp": [
+        13.3,
+        13.5
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        13.5,
+        13.66
+      ]
+    },
+    {
+      "text": " simple.",
+      "timestamp": [
+        13.66,
+        14.4
+      ]
+    },
+    {
+      "text": " Record",
+      "timestamp": [
+        14.4,
+        14.7
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        14.7,
+        14.9
+      ]
+    },
+    {
+      "text": " useful",
+      "timestamp": [
+        15.0,
+        15.2
+      ]
+    },
+    {
+      "text": " demo,",
+      "timestamp": [
+        15.2,
+        15.9
+      ]
+    },
+    {
+      "text": " make",
+      "timestamp": [
+        15.9,
+        16.1
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        16.1,
+        16.26
+      ]
+    },
+    {
+      "text": " readable,",
+      "timestamp": [
+        16.26,
+        16.86
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        16.86,
+        16.96
+      ]
+    },
+    {
+      "text": " get",
+      "timestamp": [
+        16.96,
+        17.08
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        17.08,
+        17.18
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        17.18,
+        17.32
+      ]
+    },
+    {
+      "text": " someone.",
+      "timestamp": [
+        17.32,
+        18.14
+      ]
+    },
+    {
+      "text": " Export",
+      "timestamp": [
+        18.14,
+        18.46
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        18.46,
+        18.76
+      ]
+    },
+    {
+      "text": " sharing",
+      "timestamp": [
+        18.76,
+        19.0
+      ]
+    },
+    {
+      "text": " limits",
+      "timestamp": [
+        19.0,
+        19.42
+      ]
+    },
+    {
+      "text": " matter",
+      "timestamp": [
+        19.42,
+        19.8
+      ]
+    },
+    {
+      "text": " as",
+      "timestamp": [
+        19.8,
+        20.06
+      ]
+    },
+    {
+      "text": " much",
+      "timestamp": [
+        20.06,
+        20.24
+      ]
+    },
+    {
+      "text": " as",
+      "timestamp": [
+        20.24,
+        20.44
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        20.48,
+        20.54
+      ]
+    },
+    {
+      "text": " recording",
+      "timestamp": [
+        20.54,
+        20.82
+      ]
+    },
+    {
+      "text": " button.",
+      "timestamp": [
+        20.82,
+        21.64
+      ]
+    },
+    {
+      "text": " Next,",
+      "timestamp": [
+        21.64,
+        22.36
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        22.36,
+        22.56
+      ]
+    },
+    {
+      "text": " am",
+      "timestamp": [
+        22.56,
+        22.68
+      ]
+    },
+    {
+      "text": " recording",
+      "timestamp": [
+        22.68,
+        22.98
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        22.98,
+        23.26
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        23.26,
+        23.52
+      ]
+    },
+    {
+      "text": " demo",
+      "timestamp": [
+        23.52,
+        23.92
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        23.92,
+        24.14
+      ]
+    },
+    {
+      "text": " CAP",
+      "timestamp": [
+        24.14,
+        24.36
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        24.36,
+        24.58
+      ]
+    },
+    {
+      "text": " loom,",
+      "timestamp": [
+        24.58,
+        25.12
+      ]
+    },
+    {
+      "text": " which",
+      "timestamp": [
+        25.12,
+        25.36
+      ]
+    },
+    {
+      "text": " deserves",
+      "timestamp": [
+        25.36,
+        25.68
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        25.68,
+        25.96
+      ]
+    },
+    {
+      "text": " place",
+      "timestamp": [
+        25.96,
+        26.2
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        26.24,
+        26.42
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        26.42,
+        26.54
+      ]
+    },
+    {
+      "text": " workflow.",
+      "timestamp": [
+        26.54,
+        27.18
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

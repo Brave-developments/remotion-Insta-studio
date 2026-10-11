@@ -1,0 +1,31 @@
+const fs = require('fs');
+const path = require('path');
+const assert = require('assert');
+const root = path.resolve(__dirname, '..');
+const catalog = JSON.parse(fs.readFileSync(path.join(root, 'studio-kit/week-1-projects.json'), 'utf8'));
+const all = ['# Exact video voice scripts', '', 'These scripts reproduce the narration displayed in the current silent illustrated videos. Audio has not been generated.', ''];
+const channelScripts = {};
+const report = [];
+for (const item of catalog) {
+  const folder = path.join(root, item.project);
+  const reel = JSON.parse(fs.readFileSync(path.join(folder, 'reel.json'), 'utf8'));
+  const scenes = reel.scenes.map(scene => ({...scene, voice: scene.presentationNarration ?? scene.narration}));
+  assert(scenes.every(s => typeof s.voice === 'string' && s.voice.trim()), `Missing narration: ${item.project}`);
+  const spoken = scenes.map(s => s.voice).join('\n\n') + '\n';
+  const timed = [`# ${item.channel} / ${item.name}`, '', `**${reel.title}**`, '', spoken];
+  fs.writeFileSync(path.join(folder, 'voice-script.txt'), spoken, 'utf8');
+  fs.writeFileSync(path.join(folder, 'voice-script.md'), timed.join('\n') + '\n', 'utf8');
+  const voiceFolder = path.join(root, 'projects', item.channel, 'week-1', 'voice-scripts');
+  fs.mkdirSync(voiceFolder, {recursive: true});
+  fs.writeFileSync(path.join(voiceFolder, item.name + '.txt'), spoken, 'utf8');
+  all.push(`## ${item.channel} / ${item.name} — ${reel.title}`, '', spoken);
+  (channelScripts[item.channel] ??= []).push(`${item.name} — ${reel.title}`, '', spoken);
+  assert.strictEqual(fs.readFileSync(path.join(folder, 'voice-script.txt'), 'utf8'), spoken);
+  report.push({channel: item.channel, name: item.name, id: item.id, scenes: scenes.length, exactMatch: true, words: spoken.trim().split(/\s+/).length, overrides: scenes.filter(s => s.presentationNarration != null).length, file: item.project + '/voice-script.txt'});
+}
+assert.strictEqual(report.length, 42);
+assert.strictEqual(report.reduce((n, r) => n + r.scenes, 0), 252);
+fs.writeFileSync(path.join(root, 'WEEK-1-VOICE-SCRIPTS.md'), all.join('\n') + '\n', 'utf8');
+for (const [channel, lines] of Object.entries(channelScripts)) fs.writeFileSync(path.join(root, 'projects', channel, 'week-1/VOICE-SCRIPTS.txt'), lines.join('\n'), 'utf8');
+fs.writeFileSync(path.join(root, 'studio-kit/voice-script-verification.json'), JSON.stringify({verified: report.length, sceneCount: 252, sourceRule: 'scene.presentationNarration ?? scene.narration', scripts: report}, null, 2) + '\n');
+console.log('Exported and verified 42 exact voice scripts / 252 scene narration blocks.');

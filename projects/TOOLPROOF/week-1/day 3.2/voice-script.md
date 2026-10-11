@@ -1,0 +1,16 @@
+# TOOLPROOF / day 3.2
+
+**Stirling PDF — Acrobat Test**
+
+The test will compare Stirling PDF and Acrobat on seven clearly defined document jobs.
+
+Edit, merge, compress, OCR, redact, sign, and reorder will each start from a fresh copy.
+
+Output correctness comes before speed. Setup and any manual repair will stay in the record.
+
+The redaction check will search and copy the hidden text, then reopen the exported file.
+
+Task completion, OCR accuracy, compression quality, and redaction need actual output inspection. No winner is measured yet.
+
+The conclusion will name supported jobs and any remaining gap. Which PDF task would you check first?
+

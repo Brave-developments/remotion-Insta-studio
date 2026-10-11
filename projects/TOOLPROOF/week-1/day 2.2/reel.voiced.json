@@ -1,0 +1,379 @@
+{
+  "id": "D02R2",
+  "day": 2,
+  "reelNumber": 2,
+  "title": "LocalSend \u2014 Transfer Test",
+  "format": "Test",
+  "durationSeconds": 36.7,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I tested LocalSend against a cloud transfer with exactly the same files. One hundred photos, a one-gigabyte video, and a five-gigabyte folder. The timer includes sending and receiving. The cloud route includes upload and download. I checked the received files, then interrupted Wi-Fi during a separate recovery test. [DATASET_TIMES]. [HASH_AND_RECOVERY_RESULT]. [LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+  "audio": "audio/day 2.2.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 61,
+  "estimatedWpm": 73,
+  "concept": "100 photos, 1GB video and 5GB folder; integrity, discovery, speed and dropped Wi-Fi.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "I tested LocalSend against a cloud transfer with exactly the same files.",
+    "Five gigabytes. Same files. Two routes.",
+    "A fast transfer still has to arrive intact."
+  ],
+  "strongestHook": "I tested LocalSend against a cloud transfer with exactly the same files.",
+  "directorBrief": "Direct this as a fair matched test with a scoped recommendation: 100 photos, 1GB video and 5GB folder; integrity, discovery, speed and dropped Wi-Fi. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Medium",
+  "effort": "30\u201390 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Prepare 100 synthetic photos, a video with documented 1GB decimal byte size and a folder totaling documented 5GB decimal bytes. Reuse identical source bytes for LocalSend and a named cloud provider. Record device/network specs and cloud plan. Time each from send/upload start to destination files usable; cloud includes upload and download. Compare counts and SHA-256 hashes. Run interrupted-Wi-Fi recovery separately on an isolated test network and record resume/restart/error behavior.",
+  "evidenceRequirements": "Identical files; verify checksums and real duration.",
+  "sources": [
+    {
+      "label": "LocalSend official site",
+      "url": "https://localsend.org/",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Local Versus Cloud",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cLocal Versus Cloud\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "[LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+  "cta": "WHERE WOULD YOU USE IT?",
+  "instagramCaption": "LocalSend \u2014 Transfer Test. 100 photos, 1GB video and 5GB folder; integrity, discovery, speed and dropped Wi-Fi. Full test conditions and limitations belong beside the final result. [LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+  "tiktokCaption": "LocalSend \u2014 Transfer Test. WHERE WOULD YOU USE IT?",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100\u2013115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Transfers, metadata/hash checks, real timers.",
+  "scenes": [
+    {
+      "id": "D02R2-S1",
+      "start": 0.0,
+      "end": 5.5,
+      "type": "hook",
+      "text": "LOCAL VS CLOUD",
+      "narration": "I tested LocalSend against a cloud transfer with exactly the same files.",
+      "concept": "Source dataset and both destinations shown in matched panes.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Source dataset and both destinations shown in matched panes.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I tested LocalSend against a cloud",
+        "transfer with exactly the same files."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "LOCAL VS CLOUD",
+      "presentationNarration": "The plan compares LocalSend with a cloud route using exactly the same files.",
+      "presentationCaptionChunks": [
+        "The plan compares LocalSend with a",
+        "cloud route using exactly the same",
+        "files."
+      ],
+      "originalStart": 0,
+      "originalEnd": 9.7,
+      "captionTimings": [
+        {
+          "text": "The plan compares LocalSend with a",
+          "start": 0.0,
+          "end": 2.32
+        },
+        {
+          "text": "cloud route using exactly the same files.",
+          "start": 2.16,
+          "end": 5.5
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S2",
+      "start": 5.5,
+      "end": 11.533333333333333,
+      "type": "workflow",
+      "text": "PHOTOS / VIDEO / FOLDER",
+      "narration": "One hundred photos, a one-gigabyte video, and a five-gigabyte folder.",
+      "concept": "Show true file counts and byte sizes; define decimal gigabytes in run sheet.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show true file counts and byte sizes; define decimal gigabytes in run sheet.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "One hundred photos, a one-gigabyte video,",
+        "and a five-gigabyte folder."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "THREE FIXED DATASETS",
+      "presentationNarration": "The inputs will be one hundred photos, a one-gigabyte video, and a five-gigabyte folder.",
+      "presentationCaptionChunks": [
+        "The inputs will be one hundred",
+        "photos, a one-gigabyte video, and a",
+        "five-gigabyte folder."
+      ],
+      "originalStart": 9.7,
+      "originalEnd": 17.9,
+      "captionTimings": [
+        {
+          "text": "The inputs will be one hundred",
+          "start": 0.02,
+          "end": 1.36
+        },
+        {
+          "text": "photos, a one-gigabyte video, and a",
+          "start": 1.2,
+          "end": 4.16
+        },
+        {
+          "text": "five-gigabyte folder.",
+          "start": 4.0,
+          "end": 5.88
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S3",
+      "start": 11.533333333333333,
+      "end": 16.833333333333332,
+      "type": "evidence",
+      "text": "COUNT THE WHOLE JOURNEY",
+      "narration": "The timer includes sending and receiving. The cloud route includes upload and download.",
+      "concept": "Timestamp start and usable destination; identify chosen cloud provider and account tier.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Timestamp start and usable destination; identify chosen cloud provider and account tier.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The timer includes sending and receiving.",
+        "The cloud route includes upload and download."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "TIME BOTH ENDS",
+      "presentationNarration": "Timing will cover sending and receiving. The cloud route must include upload and download.",
+      "presentationCaptionChunks": [
+        "Timing will cover sending and receiving.",
+        "The cloud route must include upload",
+        "and download."
+      ],
+      "originalStart": 17.9,
+      "originalEnd": 28.333333333333332,
+      "captionTimings": [
+        {
+          "text": "Timing will cover sending and receiving.",
+          "start": 0.027,
+          "end": 2.327
+        },
+        {
+          "text": "The cloud route must include upload",
+          "start": 2.327,
+          "end": 4.087
+        },
+        {
+          "text": "and download.",
+          "start": 3.927,
+          "end": 5.287
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S4",
+      "start": 16.833333333333332,
+      "end": 22.966666666666665,
+      "type": "evidence",
+      "text": "INTEGRITY + RECOVERY",
+      "narration": "I checked the received files, then interrupted Wi-Fi during a separate recovery test.",
+      "concept": "Checksums and destination counts; disconnect only isolated test network.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d02r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Checksums and destination counts; disconnect only isolated test network.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I checked the received files, then",
+        "interrupted Wi-Fi during a separate recovery test."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "HASHES + RECOVERY",
+      "presentationNarration": "Received files will be checked for integrity. A separate run will interrupt Wi-Fi to examine recovery.",
+      "presentationCaptionChunks": [
+        "Received files will be checked for",
+        "integrity. A separate run will interrupt",
+        "Wi-Fi to examine recovery."
+      ],
+      "originalStart": 28.333333333333332,
+      "originalEnd": 38.766666666666666,
+      "captionTimings": [
+        {
+          "text": "Received files will be checked for",
+          "start": 0.027,
+          "end": 1.647
+        },
+        {
+          "text": "integrity. A separate run will interrupt",
+          "start": 1.487,
+          "end": 3.927
+        },
+        {
+          "text": "Wi-Fi to examine recovery.",
+          "start": 3.767,
+          "end": 6.107
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S5",
+      "start": 22.966666666666665,
+      "end": 30.633333333333333,
+      "type": "result",
+      "text": "[VERIFIED TRANSFER RESULT]",
+      "narration": "[DATASET_TIMES]. [HASH_AND_RECOVERY_RESULT].",
+      "concept": "Dataset-by-dataset measured results; network conditions pinned below.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Dataset-by-dataset measured results; network conditions pinned below.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[DATASET_TIMES]. [HASH_AND_RECOVERY_RESULT]."
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "CORRECT FILES COME FIRST",
+      "presentationNarration": "Duration, file integrity, and recovery all need real capture. A moving diagram cannot establish transfer speed.",
+      "presentationCaptionChunks": [
+        "Duration, file integrity, and recovery all",
+        "need real capture. A moving diagram",
+        "cannot establish transfer speed."
+      ],
+      "originalStart": 38.766666666666666,
+      "originalEnd": 41.03333333333333,
+      "captionTimings": [
+        {
+          "text": "Duration, file integrity, and recovery all",
+          "start": 0.013,
+          "end": 3.133
+        },
+        {
+          "text": "need real capture. A moving diagram",
+          "start": 2.973,
+          "end": 5.373
+        },
+        {
+          "text": "cannot establish transfer speed.",
+          "start": 5.213,
+          "end": 7.667
+        }
+      ]
+    },
+    {
+      "id": "D02R2-S6",
+      "start": 30.633333333333333,
+      "end": 36.7,
+      "type": "question",
+      "text": "WHERE WOULD YOU USE IT?",
+      "narration": "[LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+      "concept": "Return to the actual device pair and successfully opened file.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to the actual device pair and successfully opened file.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "[LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for",
+        "devices on the same network?"
+      ],
+      "visualSystem": "ToolVisuals",
+      "presentationText": "NEARBY IS THE USE CASE",
+      "presentationNarration": "Local networking is the starting condition. The final verdict will explain what changes when devices are apart.",
+      "presentationCaptionChunks": [
+        "Local networking is the starting condition.",
+        "The final verdict will explain what",
+        "changes when devices are apart."
+      ],
+      "originalStart": 41.03333333333333,
+      "originalEnd": 50,
+      "captionTimings": [
+        {
+          "text": "Local networking is the starting condition.",
+          "start": 0.007,
+          "end": 2.387
+        },
+        {
+          "text": "The final verdict will explain what",
+          "start": 2.267,
+          "end": 3.987
+        },
+        {
+          "text": "changes when devices are apart.",
+          "start": 3.827,
+          "end": 5.927
+        }
+      ]
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-test-plan-built",
+  "visualStatus": "voiced-directed-illustration"
+}

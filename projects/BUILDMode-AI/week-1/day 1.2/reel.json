@@ -1,0 +1,256 @@
+{
+  "id": "D01R2",
+  "day": 1,
+  "reelNumber": 2,
+  "title": "I Gave AI One Screenshot",
+  "format": "Build",
+  "durationSeconds": 30,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "I gave AI one screenshot, and asked it to build the interface. No design file. No component list. Just this image and a React project. The first attempt missed [VISIBLE_FIRST_PASS_MISTAKE]. You can see it here. I allowed one correction: [EXACT_CORRECTION]. This is the final result. [VERIFIED_VISUAL_AND_FUNCTIONAL_OBSERVATION]. Would you notice the difference?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 51,
+  "estimatedWpm": 102,
+  "concept": "Recreate a React interface from one image, then allow one correction pass.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "I gave AI one screenshot, and asked it to build the interface.",
+    "Can one screenshot become a working React page?",
+    "No design file. One image. One correction."
+  ],
+  "strongestHook": "I gave AI one screenshot, and asked it to build the interface.",
+  "directorBrief": "Direct this as an observable challenge: Recreate a React interface from one image, then allow one correction pass. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Easy",
+  "effort": "15–60 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Create an original reference dashboard at 1440×900: sidebar, revenue summary, line chart, activity table and primary action. Freeze the screenshot and viewport. Prompt: Recreate this screenshot as a functional React page using the existing project. Save first output before giving one correction targeted at the largest observable error. Compare layout, typography, spacing and main-action behavior at the same viewport. Report observed mismatches rather than an invented similarity percentage.",
+  "evidenceRequirements": "Capture source, first attempt and final output; note actual visual mistakes.",
+  "sources": [],
+  "thumbnail": "One Screenshot Build",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “One Screenshot Build” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Would you notice the difference?",
+  "cta": "WOULD YOU NOTICE?",
+  "instagramCaption": "I Gave AI One Screenshot. Recreate a React interface from one image, then allow one correction pass. Full test conditions and limitations belong beside the final result. Would you notice the difference?",
+  "tiktokCaption": "I Gave AI One Screenshot. WOULD YOU NOTICE?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Source screenshot, coding recording, first/final UI.",
+  "scenes": [
+    {
+      "id": "D01R2-S1",
+      "start": 0,
+      "end": 6.833333333333333,
+      "type": "hook",
+      "text": "ONE SCREENSHOT",
+      "narration": "I gave AI one screenshot, and asked it to build the interface.",
+      "concept": "Open on an original dashboard reference; keep it visible beside the target viewport.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Open on an original dashboard reference; keep it visible beside the target viewport.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "I gave AI one screenshot, and",
+        "asked it to build the interface."
+      ],
+      "presentationText": "ONE IMAGE → ONE INTERFACE",
+      "presentationNarration": "Could one screenshot become a working interface? Start with this original dashboard, then freeze the reference.",
+      "presentationCaptionChunks": [
+        "Could one screenshot become a working",
+        "interface? Start with this original dashboard,",
+        "then freeze the reference."
+      ]
+    },
+    {
+      "id": "D01R2-S2",
+      "start": 6.833333333333333,
+      "end": 14.2,
+      "type": "workflow",
+      "text": "IMAGE → REACT",
+      "narration": "No design file. No component list. Just this image and a React project.",
+      "concept": "Screenshot enters a prompt card; show the real prompt submission.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Screenshot enters a prompt card; show the real prompt submission.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "No design file. No component list.",
+        "Just this image and a React project."
+      ],
+      "presentationText": "BUILD THE STRUCTURE",
+      "presentationNarration": "The image needs a sidebar, two summary cards, a chart, and a working primary action. No design file required.",
+      "presentationCaptionChunks": [
+        "The image needs a sidebar, two",
+        "summary cards, a chart, and a",
+        "working primary action. No design file",
+        "required."
+      ]
+    },
+    {
+      "id": "D01R2-S3",
+      "start": 14.2,
+      "end": 20,
+      "type": "evidence",
+      "text": "[FIRST PASS MISTAKE]",
+      "narration": "The first attempt missed [VISIBLE_FIRST_PASS_MISTAKE]. You can see it here.",
+      "concept": "Freeze actual first output; circle one observable mismatch, then show reference.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Freeze actual first output; circle one observable mismatch, then show reference.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The first attempt missed [VISIBLE_FIRST_PASS_MISTAKE]. You",
+        "can see it here."
+      ],
+      "presentationText": "FIND THE BIGGEST MISMATCH",
+      "presentationNarration": "Inspect the first attempt at the same viewport. Look for the largest spacing, typography, or alignment mistake.",
+      "presentationCaptionChunks": [
+        "Inspect the first attempt at the",
+        "same viewport. Look for the largest",
+        "spacing, typography, or alignment mistake."
+      ]
+    },
+    {
+      "id": "D01R2-S4",
+      "start": 20,
+      "end": 23.166666666666668,
+      "type": "evidence",
+      "text": "ONE CORRECTION",
+      "narration": "I allowed one correction: [EXACT_CORRECTION].",
+      "concept": "Show exact correction text; accelerate only the waiting portion of the run.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Show exact correction text; accelerate only the waiting portion of the run.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I allowed one correction: [EXACT_CORRECTION]."
+      ],
+      "presentationText": "ONE CORRECTION ONLY",
+      "presentationNarration": "Allow one correction aimed at that visible error. Keep the first attempt so the change remains reviewable.",
+      "presentationCaptionChunks": [
+        "Allow one correction aimed at that",
+        "visible error. Keep the first attempt",
+        "so the change remains reviewable."
+      ]
+    },
+    {
+      "id": "D01R2-S5",
+      "start": 23.166666666666668,
+      "end": 26.833333333333332,
+      "type": "evidence",
+      "text": "REFERENCE / FINAL",
+      "narration": "This is the final result. [VERIFIED_VISUAL_AND_FUNCTIONAL_OBSERVATION].",
+      "concept": "Synchronized viewport compare; click the main action to prove it responds.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d01r2/s5.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Synchronized viewport compare; click the main action to prove it responds.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "This is the final result. [VERIFIED_VISUAL_AND_FUNCTIONAL_OBSERVATION]."
+      ],
+      "presentationText": "COMPARE. THEN CLICK.",
+      "presentationNarration": "A screenshot match is only half the job. Compare the final layout, then click the main action to verify behavior.",
+      "presentationCaptionChunks": [
+        "A screenshot match is only half",
+        "the job. Compare the final layout,",
+        "then click the main action to",
+        "verify behavior."
+      ]
+    },
+    {
+      "id": "D01R2-S6",
+      "start": 26.833333333333332,
+      "end": 30,
+      "type": "question",
+      "text": "WOULD YOU NOTICE?",
+      "narration": "Would you notice the difference?",
+      "concept": "Hide labels for one beat, then reveal reference and build.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Hide labels for one beat, then reveal reference and build.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Would you notice the difference?"
+      ],
+      "presentationText": "WOULD YOU NOTICE?",
+      "presentationNarration": "This is an original interface study for the coming test. What difference would you notice first?",
+      "presentationCaptionChunks": [
+        "This is an original interface study",
+        "for the coming test. What difference",
+        "would you notice first?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

@@ -1,0 +1,262 @@
+{
+  "id": "D05R2",
+  "day": 5,
+  "reelNumber": 2,
+  "title": "One GitHub Issue Into a PR",
+  "format": "Build",
+  "durationSeconds": 40,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "Can AI take one mobile bug from issue to a reviewable change? The job is narrow: fix the menu below six hundred and forty pixels, without breaking desktop. I asked it to reproduce the bug before changing the code. Then I checked keyboard navigation, the boundary widths, and the desktop menu. [VALIDATION_RESULT]. The change touched [FILES_CHANGED] files, with [REMAINING_ISSUE]. Would you trust this change after reviewing the evidence?",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 68,
+  "estimatedWpm": 102,
+  "concept": "Fix mobile navigation below 640px, reproduce, test and prepare a reviewable change.",
+  "whyNow": "AI coding and automation promises are judged by a reproducible useful task.",
+  "viewerGoal": "Understand what the system actually completed and where supervision matters.",
+  "hooks": [
+    "Can AI take one mobile bug from issue to a reviewable change?",
+    "The menu breaks at 639 pixels. Can AI fix just that?",
+    "A reviewable diff needs more than a finished message."
+  ],
+  "strongestHook": "Can AI take one mobile bug from issue to a reviewable change?",
+  "directorBrief": "Direct this as an observable challenge: Fix mobile navigation below 640px, reproduce, test and prepare a reviewable change. The viewer must see the starting problem, the exact constraint, one revealing action and the independently checked output. Let the real failure or correction create the turn. Save every first attempt. Completion claims alone never establish a result.",
+  "difficulty": "Medium",
+  "effort": "15–60 minutes core build/test; allow additional audit/edit time.",
+  "experimentRequired": true,
+  "protocol": "Use a local practice repository and a mobile-navigation issue with reproduction at 639px. Ask the agent to reproduce, fix only the issue, test and prepare a reviewable diff and PR description. Check 390px, 639px, 640px and desktop; keyboard open/close, Escape and links. Record files changed and relevant passing/failing tests. A local PR draft suffices; posting or merging is outside this recording protocol.",
+  "evidenceRequirements": "Use a test repo; validate behavior, regressions and actual outcome.",
+  "sources": [],
+  "thumbnail": "One Bug One Change",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “One Bug One Change” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Would you trust this change after reviewing the evidence?",
+  "cta": "WOULD YOU APPROVE IT?",
+  "instagramCaption": "One GitHub Issue Into a PR. Fix mobile navigation below 640px, reproduce, test and prepare a reviewable change. Full test conditions and limitations belong beside the final result. Would you trust this change after reviewing the evidence?",
+  "tiktokCaption": "One GitHub Issue Into a PR. WOULD YOU APPROVE IT?",
+  "hashtags": [
+    "#BuildModeAI",
+    "#BuildWithAI",
+    "#Developer",
+    "#AIExperiments"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Issue, diff, before/after, test results.",
+  "scenes": [
+    {
+      "id": "D05R2-S1",
+      "start": 0,
+      "end": 7.033333333333333,
+      "type": "hook",
+      "text": "ISSUE → REVIEWABLE CHANGE",
+      "narration": "Can AI take one mobile bug from issue to a reviewable change?",
+      "concept": "Mobile navigation overflows at 639px; issue reproduction is shown.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r2/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Mobile navigation overflows at 639px; issue reproduction is shown.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "Can AI take one mobile bug",
+        "from issue to a reviewable change?"
+      ],
+      "presentationText": "ONE ISSUE → REVIEWABLE CHANGE",
+      "presentationNarration": "Take one mobile navigation bug and turn it into a reviewable change. A narrow issue makes the result easier to judge.",
+      "presentationCaptionChunks": [
+        "Take one mobile navigation bug and",
+        "turn it into a reviewable change.",
+        "A narrow issue makes the result",
+        "easier to judge."
+      ]
+    },
+    {
+      "id": "D05R2-S2",
+      "start": 7.033333333333333,
+      "end": 16.233333333333334,
+      "type": "workflow",
+      "text": "ONE BUG. CLEAR BOUNDARY.",
+      "narration": "The job is narrow: fix the menu below six hundred and forty pixels, without breaking desktop.",
+      "concept": "Viewport ruler and exact issue text; no unrelated refactor requested.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Viewport ruler and exact issue text; no unrelated refactor requested.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "The job is narrow: fix the",
+        "menu below six hundred and forty",
+        "pixels, without breaking desktop."
+      ],
+      "presentationText": "THE 639-PIXEL BOUNDARY",
+      "presentationNarration": "The menu must collapse below six hundred and forty pixels. Desktop navigation must keep working.",
+      "presentationCaptionChunks": [
+        "The menu must collapse below six",
+        "hundred and forty pixels. Desktop navigation",
+        "must keep working."
+      ]
+    },
+    {
+      "id": "D05R2-S3",
+      "start": 16.233333333333334,
+      "end": 22.733333333333334,
+      "type": "evidence",
+      "text": "REPRODUCE FIRST",
+      "narration": "I asked it to reproduce the bug before changing the code.",
+      "concept": "Actual failing reproduction followed by focused diff.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r2/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual failing reproduction followed by focused diff.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "I asked it to reproduce the",
+        "bug before changing the code."
+      ],
+      "presentationText": "REPRODUCE BEFORE PATCHING",
+      "presentationNarration": "Capture the failure before touching code. An illustrative boundary fix is shown here; the real diff must match the actual repository.",
+      "presentationCaptionChunks": [
+        "Capture the failure before touching code.",
+        "An illustrative boundary fix is shown",
+        "here; the real diff must match",
+        "the actual repository."
+      ]
+    },
+    {
+      "id": "D05R2-S4",
+      "start": 22.733333333333334,
+      "end": 29.766666666666666,
+      "type": "evidence",
+      "text": "639 / 640 / DESKTOP",
+      "narration": "Then I checked keyboard navigation, the boundary widths, and the desktop menu.",
+      "concept": "Three matched viewports; tab and Escape actions remain visible.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d05r2/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Three matched viewports; tab and Escape actions remain visible.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Then I checked keyboard navigation, the",
+        "boundary widths, and the desktop menu."
+      ],
+      "presentationText": "CHECK BOTH SIDES",
+      "presentationNarration": "Test three hundred and ninety, six hundred and thirty-nine, six hundred and forty, and desktop. Include keyboard, Escape, and links.",
+      "presentationCaptionChunks": [
+        "Test three hundred and ninety, six",
+        "hundred and thirty-nine, six hundred and",
+        "forty, and desktop. Include keyboard, Escape,",
+        "and links."
+      ]
+    },
+    {
+      "id": "D05R2-S5",
+      "start": 29.766666666666666,
+      "end": 34.6,
+      "type": "result",
+      "text": "[REVIEW RESULT]",
+      "narration": "[VALIDATION_RESULT]. The change touched [FILES_CHANGED] files, with [REMAINING_ISSUE].",
+      "concept": "Real diff summary and relevant tests; local PR draft is enough for filming.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Real diff summary and relevant tests; local PR draft is enough for filming.",
+      "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "[VALIDATION_RESULT]. The change touched [FILES_CHANGED] files,",
+        "with [REMAINING_ISSUE]."
+      ],
+      "presentationText": "EVIDENCE FOR THE REVIEWER",
+      "presentationNarration": "Prepare the smallest useful diff, relevant checks, and a clear description. Keep the PR local until posting is requested.",
+      "presentationCaptionChunks": [
+        "Prepare the smallest useful diff, relevant",
+        "checks, and a clear description. Keep",
+        "the PR local until posting is",
+        "requested."
+      ]
+    },
+    {
+      "id": "D05R2-S6",
+      "start": 34.6,
+      "end": 40,
+      "type": "question",
+      "text": "WOULD YOU APPROVE IT?",
+      "narration": "Would you trust this change after reviewing the evidence?",
+      "concept": "Hold before/after plus test result, without implying automatic merge.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Hold before/after plus test result, without implying automatic merge.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Would you trust this change after",
+        "reviewing the evidence?"
+      ],
+      "presentationText": "WOULD YOU APPROVE IT?",
+      "presentationNarration": "This is the issue-to-review production plan. What evidence would you require before approving the final change?",
+      "presentationCaptionChunks": [
+        "This is the issue-to-review production plan.",
+        "What evidence would you require before",
+        "approving the final change?"
+      ]
+    }
+  ],
+  "visualStatus": "illustrated-experiment-plan",
+  "presentationEdition": "Original directed pilot / experiments unperformed"
+}

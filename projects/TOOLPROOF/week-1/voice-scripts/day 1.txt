@@ -1,0 +1,11 @@
+This free app turns a keyboard shortcut into a menu around your cursor.
+
+Kando uses a radial menu. You point toward an action instead of searching through a list.
+
+You can launch apps, open folders, and trigger shortcuts from the same place.
+
+Its official site lists Windows, macOS, and Linux. The project is free and open source.
+
+The part I want to test is habit. A clever menu is only useful if it is easier to use.
+
+Next: ten tasks against the Start menu. Which would you bet on?

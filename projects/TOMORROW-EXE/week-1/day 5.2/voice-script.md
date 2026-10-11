@@ -1,0 +1,16 @@
+# TOMORROW-EXE / day 5.2
+
+**Your Brain Gets a Privacy Policy**
+
+It is 2038. Your insurance app asks for brain data.
+
+Sharing is optional. So is the discount beside the button.
+
+At work, a second app offers focus analytics. It says the team will only see averages.
+
+You open the policy. The message you intended to send is only one part of the data being collected.
+
+You can refuse. But refusing now has a cost attached to it.
+
+The interface made communication easier. Would you trade neural privacy for a discount?
+

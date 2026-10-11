@@ -1,0 +1,16 @@
+# BUILDMode-AI / day 7.2
+
+**AI Screenshot Cleaner**
+
+An untidy screenshot folder needs a cleaner. Begin with copies and an explicit preview before any filename changes.
+
+Use six categories and readable names. Show the proposed mapping so a person can catch errors before applying it.
+
+Duplicates need collision-safe suffixes. Keep the untouched source files and a rollback mapping for every applied rename.
+
+Pre-label twenty test images, including ambiguous cases. Compare the classifications against those labels after a real run.
+
+This illustrated preview does not claim model accuracy. A real result must include wrong labels, ambiguity, and rename failures.
+
+Build the safe file workflow first, then assess the classifier with evidence. What folder task should be automated next?
+

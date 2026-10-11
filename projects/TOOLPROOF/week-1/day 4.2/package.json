@@ -1,0 +1,10 @@
+{
+  "name": "toolproof-day-4-2",
+  "private": true,
+  "scripts": {
+    "render": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=TOOLPROOF --id=D04R2",
+    "proof": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=TOOLPROOF --id=D04R2 --proof",
+    "review": "node \"../../../../studio-kit/scripts/render-week.cjs\" --channel=TOOLPROOF --id=D04R2 --stills",
+    "render:voiced": "node ../../../../../studio-kit/scripts/render-week.cjs --voiced --channel=TOOLPROOF --id=D04R2"
+  }
+}

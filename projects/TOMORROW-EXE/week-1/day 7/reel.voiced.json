@@ -1,0 +1,304 @@
+{
+  "id": "D07R1",
+  "day": 7,
+  "reelNumber": 1,
+  "title": "AI Dates For You",
+  "format": "What If",
+  "durationSeconds": 23.1,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-assets-pending",
+  "script": "What if your AI went on the first date for you? It knows your schedule, your boundaries, and the things you keep forgetting to ask. Two agents compare expectations before their humans ever meet. They find a time, a place, and an excellent match on paper. Then you arrive and the conversation goes somewhere neither system predicted. Would you let AI arrange the date, or does the awkward beginning matter?",
+  "audio": "audio/day 7.wav",
+  "timingStatus": "Aligned to actual Voicebox recording with local recognized word timestamps. Minor unrecognized tokens interpolate between recognized neighbors.",
+  "wordCount": 70,
+  "estimatedWpm": 140,
+  "concept": "Two agents discuss boundaries before their humans meet.",
+  "whyNow": "A present capability creates a plausible human decision; this is a scenario, not a forecast.",
+  "viewerGoal": "Consider the human consequence and choose a boundary.",
+  "hooks": [
+    "What if your AI went on the first date for you?",
+    "Two AIs agreed you should meet.",
+    "Can an agent plan everything except chemistry?"
+  ],
+  "strongestHook": "What if your AI went on the first date for you?",
+  "directorBrief": "Direct this as a human story about Two agents discuss boundaries before their humans meet. Emotional movement: amusement \u2192 connection. Open with a recognisable person or object, introduce one consequence, then leave the final choice unresolved. Fictional dates and interfaces are scenario details. Facts must be separately sourced; use a small persistent POSSIBLE FUTURE label, never a news-like breaking banner.",
+  "difficulty": "Medium",
+  "effort": "60\u2013120 minutes asset production and edit; no audio included.",
+  "experimentRequired": false,
+  "protocol": "Produce original story assets, review factual grounding, verify every future claim is conditional or explicitly fictional, then inspect continuity and safe zones. No real-world experiment outcome is claimed.",
+  "evidenceRequirements": "Verify memory/delegated actions; compatibility negotiation is speculative.",
+  "sources": [],
+  "thumbnail": "Agents Date First",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put \u201cAgents Date First\u201d in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Would you let AI arrange the date, or does the awkward beginning matter?",
+  "cta": "WOULD YOU LET IT?",
+  "instagramCaption": "AI Dates For You. A possible future, grounded in present technology. The dates and scenario are fictional. Would you let AI arrange the date, or does the awkward beginning matter?",
+  "tiktokCaption": "AI Dates For You. WOULD YOU LET IT? Speculative scenario.",
+  "hashtags": [
+    "#TomorrowEXE",
+    "#FutureStories",
+    "#Technology",
+    "#WhatIf"
+  ],
+  "music": "Original/licensed minimal ambient pulse; warmer for education/relationships, quiet tension for identity. 88\u2013104 BPM, VO comfortably above music.",
+  "recordings": "Only source-page capture for grounded factual beats; all scenario environments are original fictional assets.",
+  "screenshots": "Dated primary-source captures and a contact sheet proving character/object continuity.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "Two silhouettes, preferences, agent dialogue, phone.",
+  "scenes": [
+    {
+      "id": "D07R1-S1",
+      "start": 0.0,
+      "end": 2.8333333333333335,
+      "type": "hook",
+      "text": "THE AGENTS MEET FIRST",
+      "narration": "What if your AI went on the first date for you?",
+      "concept": "Two fictional profile cards face each other; humans stay visible behind them.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Two fictional profile cards face each other; humans stay visible behind them.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "What if your AI went on",
+        "the first date for you?"
+      ],
+      "originalStart": 0,
+      "originalEnd": 4.733333333333333,
+      "captionTimings": [
+        {
+          "text": "What if your AI went on",
+          "start": 0.0,
+          "end": 1.48
+        },
+        {
+          "text": "the first date for you?",
+          "start": 1.32,
+          "end": 2.833
+        }
+      ]
+    },
+    {
+      "id": "D07R1-S2",
+      "start": 2.8333333333333335,
+      "end": 7.233333333333333,
+      "type": "workflow",
+      "text": "PREFERENCES ARE NOT CHEMISTRY",
+      "narration": "It knows your schedule, your boundaries, and the things you keep forgetting to ask.",
+      "concept": "Only three explicit preference cards; no claim this is current dating functionality.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Only three explicit preference cards; no claim this is current dating functionality.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "It knows your schedule, your boundaries,",
+        "and the things you keep forgetting",
+        "to ask."
+      ],
+      "originalStart": 4.733333333333333,
+      "originalEnd": 10.666666666666666,
+      "captionTimings": [
+        {
+          "text": "It knows your schedule, your boundaries,",
+          "start": 0.027,
+          "end": 1.887
+        },
+        {
+          "text": "and the things you keep forgetting",
+          "start": 1.727,
+          "end": 3.207
+        },
+        {
+          "text": "to ask.",
+          "start": 3.047,
+          "end": 4.267
+        }
+      ]
+    },
+    {
+      "id": "D07R1-S3",
+      "start": 7.233333333333333,
+      "end": 10.733333333333333,
+      "type": "phone",
+      "text": "IMAGINE THE INTRODUCTION",
+      "narration": "Two agents compare expectations before their humans ever meet.",
+      "concept": "Short invented exchange labeled fictional; no fake messages from real users.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Short invented exchange labeled fictional; no fake messages from real users.",
+      "animation": "Build a fictional phone screen from shapes, short text and one functional-looking interaction. Explicitly label concept UI; it is not evidence.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Two agents compare expectations before their",
+        "humans ever meet."
+      ],
+      "originalStart": 10.666666666666666,
+      "originalEnd": 14.6,
+      "captionTimings": [
+        {
+          "text": "Two agents compare expectations before their",
+          "start": 0.027,
+          "end": 2.307
+        },
+        {
+          "text": "humans ever meet.",
+          "start": 2.147,
+          "end": 3.5
+        }
+      ]
+    },
+    {
+      "id": "D07R1-S4",
+      "start": 10.733333333333333,
+      "end": 14.6,
+      "type": "cinematic",
+      "text": "A PERFECT PLAN",
+      "narration": "They find a time, a place, and an excellent match on paper.",
+      "concept": "Cafe table with two empty chairs; agents recede into corner cards.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d07r1/s4.png",
+      "plannedAssetType": "image",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Cafe table with two empty chairs; agents recede into corner cards.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "They find a time, a place,",
+        "and an excellent match on paper."
+      ],
+      "originalStart": 14.6,
+      "originalEnd": 19.733333333333334,
+      "captionTimings": [
+        {
+          "text": "They find a time, a place,",
+          "start": 0.027,
+          "end": 2.007
+        },
+        {
+          "text": "and an excellent match on paper.",
+          "start": 1.847,
+          "end": 3.767
+        }
+      ]
+    },
+    {
+      "id": "D07R1-S5",
+      "start": 14.6,
+      "end": 18.966666666666665,
+      "type": "cinematic",
+      "text": "THE UNPLANNED PART",
+      "narration": "Then you arrive and the conversation goes somewhere neither system predicted.",
+      "concept": "Two adults laugh; camera stays at human eye level.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": "assets/week-1/d07r1/s5.png",
+      "plannedAssetType": "image",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.035,
+        "fromX": 0,
+        "toX": -12
+      },
+      "direction": "Two adults laugh; camera stays at human eye level.",
+      "animation": "Use the authored environment shot, layered foreground/midground/background and a restrained depth move. Maintain character/object identity across shots.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "Then you arrive and the conversation",
+        "goes somewhere neither system predicted."
+      ],
+      "originalStart": 19.733333333333334,
+      "originalEnd": 24.466666666666665,
+      "captionTimings": [
+        {
+          "text": "Then you arrive and the conversation",
+          "start": 0.02,
+          "end": 1.66
+        },
+        {
+          "text": "goes somewhere neither system predicted.",
+          "start": 1.5,
+          "end": 4.32
+        }
+      ]
+    },
+    {
+      "id": "D07R1-S6",
+      "start": 18.966666666666665,
+      "end": 23.1,
+      "type": "question",
+      "text": "WOULD YOU LET IT?",
+      "narration": "Would you let AI arrange the date, or does the awkward beginning matter?",
+      "concept": "Return to chairs now occupied; warm light replaces screen dominance.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Return to chairs now occupied; warm light replaces screen dominance.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8\u20131.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Would you let AI arrange the",
+        "date, or does the awkward beginning matter?"
+      ],
+      "originalStart": 24.466666666666665,
+      "originalEnd": 30,
+      "captionTimings": [
+        {
+          "text": "Would you let AI arrange the",
+          "start": 0.013,
+          "end": 1.493
+        },
+        {
+          "text": "date, or does the awkward beginning matter?",
+          "start": 1.333,
+          "end": 3.993
+        }
+      ]
+    }
+  ],
+  "visualStatus": "voiced-directed-illustration"
+}

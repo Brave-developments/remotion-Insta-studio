@@ -1,0 +1,658 @@
+{
+  "fingerprint": "22edb02a51fe2c5c16c52df112f2e29dabb978c57df4b5d5fbade525a3613ce7",
+  "recognizedText": " The comparison will rebuild the same small workspace in AppFlawy and Notion, a table, board, calendar, project, page, and form are the fixtures. Unavailable features will be marked. The test device will go offline before opening, editing, and saving the workspace. Exported data will be opened elsewhere. Missing fields or broken relationships will count as evidence. Offline behavior, export fidelity, team limits, and feature access need observed results. No switching recommendation has been earned yet. The eventual verdict will identify who benefits and who should stay. What data could your workspace never lose?",
+  "words": [
+    {
+      "text": " The",
+      "timestamp": [
+        0.0,
+        0.16
+      ]
+    },
+    {
+      "text": " comparison",
+      "timestamp": [
+        0.16,
+        0.56
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        0.56,
+        0.94
+      ]
+    },
+    {
+      "text": " rebuild",
+      "timestamp": [
+        0.94,
+        1.34
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        1.34,
+        1.64
+      ]
+    },
+    {
+      "text": " same",
+      "timestamp": [
+        1.64,
+        1.92
+      ]
+    },
+    {
+      "text": " small",
+      "timestamp": [
+        1.92,
+        2.34
+      ]
+    },
+    {
+      "text": " workspace",
+      "timestamp": [
+        2.34,
+        2.8
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        3.1,
+        3.18
+      ]
+    },
+    {
+      "text": " AppFlawy",
+      "timestamp": [
+        3.18,
+        3.74
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        3.74,
+        3.84
+      ]
+    },
+    {
+      "text": " Notion,",
+      "timestamp": [
+        3.84,
+        4.4
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        4.4,
+        4.6
+      ]
+    },
+    {
+      "text": " table,",
+      "timestamp": [
+        4.6,
+        5.54
+      ]
+    },
+    {
+      "text": " board,",
+      "timestamp": [
+        5.54,
+        6.1
+      ]
+    },
+    {
+      "text": " calendar,",
+      "timestamp": [
+        6.1,
+        7.16
+      ]
+    },
+    {
+      "text": " project,",
+      "timestamp": [
+        7.16,
+        7.84
+      ]
+    },
+    {
+      "text": " page,",
+      "timestamp": [
+        7.88,
+        8.02
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        8.02,
+        8.54
+      ]
+    },
+    {
+      "text": " form",
+      "timestamp": [
+        8.54,
+        8.88
+      ]
+    },
+    {
+      "text": " are",
+      "timestamp": [
+        8.88,
+        9.46
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        9.46,
+        9.58
+      ]
+    },
+    {
+      "text": " fixtures.",
+      "timestamp": [
+        9.58,
+        10.6
+      ]
+    },
+    {
+      "text": " Unavailable",
+      "timestamp": [
+        10.86,
+        11.38
+      ]
+    },
+    {
+      "text": " features",
+      "timestamp": [
+        11.38,
+        11.78
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        11.78,
+        12.04
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        12.04,
+        12.2
+      ]
+    },
+    {
+      "text": " marked.",
+      "timestamp": [
+        12.2,
+        12.98
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        12.98,
+        13.06
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        13.06,
+        13.34
+      ]
+    },
+    {
+      "text": " device",
+      "timestamp": [
+        13.34,
+        13.58
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        13.58,
+        13.82
+      ]
+    },
+    {
+      "text": " go",
+      "timestamp": [
+        13.82,
+        14.0
+      ]
+    },
+    {
+      "text": " offline",
+      "timestamp": [
+        14.0,
+        14.46
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        14.46,
+        14.82
+      ]
+    },
+    {
+      "text": " opening,",
+      "timestamp": [
+        14.82,
+        15.7
+      ]
+    },
+    {
+      "text": " editing,",
+      "timestamp": [
+        15.7,
+        16.26
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        16.26,
+        16.46
+      ]
+    },
+    {
+      "text": " saving",
+      "timestamp": [
+        16.46,
+        16.82
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        16.82,
+        17.04
+      ]
+    },
+    {
+      "text": " workspace.",
+      "timestamp": [
+        17.04,
+        17.92
+      ]
+    },
+    {
+      "text": " Exported",
+      "timestamp": [
+        18.14,
+        18.62
+      ]
+    },
+    {
+      "text": " data",
+      "timestamp": [
+        18.62,
+        18.86
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        18.86,
+        19.08
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        19.08,
+        19.22
+      ]
+    },
+    {
+      "text": " opened",
+      "timestamp": [
+        19.22,
+        19.56
+      ]
+    },
+    {
+      "text": " elsewhere.",
+      "timestamp": [
+        19.56,
+        20.6
+      ]
+    },
+    {
+      "text": " Missing",
+      "timestamp": [
+        20.78,
+        21.0
+      ]
+    },
+    {
+      "text": " fields",
+      "timestamp": [
+        21.0,
+        21.4
+      ]
+    },
+    {
+      "text": " or",
+      "timestamp": [
+        21.4,
+        21.66
+      ]
+    },
+    {
+      "text": " broken",
+      "timestamp": [
+        21.66,
+        22.0
+      ]
+    },
+    {
+      "text": " relationships",
+      "timestamp": [
+        22.0,
+        22.64
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        22.78,
+        22.9
+      ]
+    },
+    {
+      "text": " count",
+      "timestamp": [
+        22.9,
+        23.16
+      ]
+    },
+    {
+      "text": " as",
+      "timestamp": [
+        23.16,
+        23.42
+      ]
+    },
+    {
+      "text": " evidence.",
+      "timestamp": [
+        23.42,
+        24.12
+      ]
+    },
+    {
+      "text": " Offline",
+      "timestamp": [
+        24.4,
+        24.74
+      ]
+    },
+    {
+      "text": " behavior,",
+      "timestamp": [
+        24.74,
+        25.76
+      ]
+    },
+    {
+      "text": " export",
+      "timestamp": [
+        25.76,
+        26.1
+      ]
+    },
+    {
+      "text": " fidelity,",
+      "timestamp": [
+        26.1,
+        27.18
+      ]
+    },
+    {
+      "text": " team",
+      "timestamp": [
+        27.18,
+        27.34
+      ]
+    },
+    {
+      "text": " limits,",
+      "timestamp": [
+        27.34,
+        27.84
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        27.96,
+        28.16
+      ]
+    },
+    {
+      "text": " feature",
+      "timestamp": [
+        28.16,
+        28.48
+      ]
+    },
+    {
+      "text": " access",
+      "timestamp": [
+        28.48,
+        28.94
+      ]
+    },
+    {
+      "text": " need",
+      "timestamp": [
+        28.94,
+        29.32
+      ]
+    },
+    {
+      "text": " observed",
+      "timestamp": [
+        29.32,
+        29.68
+      ]
+    },
+    {
+      "text": " results.",
+      "timestamp": [
+        29.68,
+        30.6
+      ]
+    },
+    {
+      "text": " No",
+      "timestamp": [
+        30.88,
+        30.92
+      ]
+    },
+    {
+      "text": " switching",
+      "timestamp": [
+        30.92,
+        31.32
+      ]
+    },
+    {
+      "text": " recommendation",
+      "timestamp": [
+        31.32,
+        31.88
+      ]
+    },
+    {
+      "text": " has",
+      "timestamp": [
+        31.88,
+        32.28
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        32.28,
+        32.44
+      ]
+    },
+    {
+      "text": " earned",
+      "timestamp": [
+        32.44,
+        32.74
+      ]
+    },
+    {
+      "text": " yet.",
+      "timestamp": [
+        32.74,
+        33.52
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        33.56,
+        33.64
+      ]
+    },
+    {
+      "text": " eventual",
+      "timestamp": [
+        33.64,
+        34.08
+      ]
+    },
+    {
+      "text": " verdict",
+      "timestamp": [
+        34.08,
+        34.4
+      ]
+    },
+    {
+      "text": " will",
+      "timestamp": [
+        34.4,
+        34.68
+      ]
+    },
+    {
+      "text": " identify",
+      "timestamp": [
+        34.68,
+        35.24
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        35.24,
+        35.54
+      ]
+    },
+    {
+      "text": " benefits",
+      "timestamp": [
+        35.54,
+        36.02
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        36.28,
+        36.38
+      ]
+    },
+    {
+      "text": " who",
+      "timestamp": [
+        36.38,
+        36.56
+      ]
+    },
+    {
+      "text": " should",
+      "timestamp": [
+        36.56,
+        36.76
+      ]
+    },
+    {
+      "text": " stay.",
+      "timestamp": [
+        36.76,
+        37.44
+      ]
+    },
+    {
+      "text": " What",
+      "timestamp": [
+        37.6,
+        37.8
+      ]
+    },
+    {
+      "text": " data",
+      "timestamp": [
+        37.8,
+        38.14
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        38.14,
+        38.36
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        38.36,
+        38.54
+      ]
+    },
+    {
+      "text": " workspace",
+      "timestamp": [
+        38.54,
+        38.9
+      ]
+    },
+    {
+      "text": " never",
+      "timestamp": [
+        38.9,
+        39.38
+      ]
+    },
+    {
+      "text": " lose?",
+      "timestamp": [
+        39.38,
+        39.98
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

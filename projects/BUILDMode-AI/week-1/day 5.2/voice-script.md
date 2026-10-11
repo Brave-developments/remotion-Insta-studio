@@ -1,0 +1,16 @@
+# BUILDMode-AI / day 5.2
+
+**One GitHub Issue Into a PR**
+
+Take one mobile navigation bug and turn it into a reviewable change. A narrow issue makes the result easier to judge.
+
+The menu must collapse below six hundred and forty pixels. Desktop navigation must keep working.
+
+Capture the failure before touching code. An illustrative boundary fix is shown here; the real diff must match the actual repository.
+
+Test three hundred and ninety, six hundred and thirty-nine, six hundred and forty, and desktop. Include keyboard, Escape, and links.
+
+Prepare the smallest useful diff, relevant checks, and a clear description. Keep the PR local until posting is requested.
+
+This is the issue-to-review production plan. What evidence would you require before approving the final change?
+

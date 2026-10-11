@@ -1,0 +1,3530 @@
+{
+  "schemaVersion": 2,
+  "channel": "TOOLPROOF",
+  "week": 1,
+  "createdOn": "2026-10-04",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "audioDeferred": true,
+  "reels": [
+    {
+      "id": "D01R1",
+      "day": 1,
+      "reelNumber": 1,
+      "title": "Kando — Discovery",
+      "format": "Discovery",
+      "durationSeconds": 35,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "This free app turns a keyboard shortcut into a menu around your cursor. Kando uses a radial menu. You point toward an action instead of searching through a list. You can launch apps, open folders, and trigger shortcuts from the same place. Its official site lists Windows, macOS, and Linux. The project is free and open source. The part I want to test is habit. A clever menu is only useful if it is easier to use. Next: ten tasks against the Start menu. Which would you bet on?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 89,
+      "estimatedWpm": 153,
+      "concept": "Radial gestures, app/folder launch, shortcuts and multi-action workflow.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "This free app turns a keyboard shortcut into a menu around your cursor.",
+        "This menu follows your cursor. Will you actually use it?",
+        "A gesture opens the app. The speed test comes next."
+      ],
+      "strongestHook": "This free app turns a keyboard shortcut into a menu around your cursor.",
+      "directorBrief": "Direct this as a useful discovery with one important limit: Radial gestures, app/folder launch, shortcuts and multi-action workflow. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Easy",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Install only from the official project after checking supported OS and version. Set up ten actions: browser, editor, calculator, notes, terminal, downloads, project folder, search, screenshot command and a second folder. Replace unavailable commands consistently for both methods before timing. Capture a clean real gesture, settings and dated platform/license source. No claim of speed from a demo.",
+      "evidenceRequirements": "Verify version, license, platforms and local/cloud behavior.",
+      "sources": [
+        {
+          "label": "Kando official site",
+          "url": "https://kando.menu/",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "A Menu Around You",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “A Menu Around You” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "Next: ten tasks against the Start menu. Which would you bet on?",
+      "cta": "10 TASKS. ONE COMPARISON.",
+      "instagramCaption": "Kando — Discovery. Radial gestures, app/folder launch, shortcuts and multi-action workflow. Full test conditions and limitations belong beside the final result. Next: ten tasks against the Start menu. Which would you bet on?",
+      "tiktokCaption": "Kando — Discovery. 10 TASKS. ONE COMPARISON.",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Actual desktop/Kando recordings, repo/license.",
+      "scenes": [
+        {
+          "id": "D01R1-S1",
+          "start": 0,
+          "end": 5.166666666666667,
+          "type": "hook",
+          "text": "A MENU WHERE YOU ARE",
+          "narration": "This free app turns a keyboard shortcut into a menu around your cursor.",
+          "concept": "Real Kando invocation; opening action is the hook, not a logo.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d01r1/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real Kando invocation; opening action is the hook, not a logo.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "This free app turns a keyboard",
+            "shortcut into a menu around your cursor."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D01R1-S2",
+          "start": 5.166666666666667,
+          "end": 11.433333333333334,
+          "type": "evidence",
+          "text": "POINT TO THE ACTION",
+          "narration": "Kando uses a radial menu. You point toward an action instead of searching through a list.",
+          "concept": "Capture one deliberate gesture at normal speed with cursor visible.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d01r1/s2.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Capture one deliberate gesture at normal speed with cursor visible.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Kando uses a radial menu. You",
+            "point toward an action instead of",
+            "searching through a list."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D01R1-S3",
+          "start": 11.433333333333334,
+          "end": 16.6,
+          "type": "evidence",
+          "text": "APPS. FOLDERS. SHORTCUTS.",
+          "narration": "You can launch apps, open folders, and trigger shortcuts from the same place.",
+          "concept": "Three real actions with their actual resulting windows.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d01r1/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Three real actions with their actual resulting windows.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "You can launch apps, open folders,",
+            "and trigger shortcuts from the same place."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D01R1-S4",
+          "start": 16.6,
+          "end": 22.5,
+          "type": "evidence",
+          "text": "FREE AND OPEN SOURCE",
+          "narration": "Its official site lists Windows, macOS, and Linux. The project is free and open source.",
+          "concept": "Dated official platform and license capture; no popularity counters.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d01r1/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Dated official platform and license capture; no popularity counters.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Its official site lists Windows, macOS,",
+            "and Linux. The project is free",
+            "and open source."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D01R1-S5",
+          "start": 22.5,
+          "end": 30.2,
+          "type": "workflow",
+          "text": "COOL DOES NOT MEAN FASTER",
+          "narration": "The part I want to test is habit. A clever menu is only useful if it is easier to use.",
+          "concept": "Same tasks align under Kando and Start menu; no result yet.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Same tasks align under Kando and Start menu; no result yet.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "The part I want to test",
+            "is habit. A clever menu is",
+            "only useful if it is easier",
+            "to use."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D01R1-S6",
+          "start": 30.2,
+          "end": 35,
+          "type": "question",
+          "text": "10 TASKS. ONE COMPARISON.",
+          "narration": "Next: ten tasks against the Start menu. Which would you bet on?",
+          "concept": "Return to menu; end with cursor poised over the first task.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Return to menu; end with cursor poised over the first task.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "Next: ten tasks against the Start",
+            "menu. Which would you bet on?"
+          ],
+          "visualSystem": "ToolVisuals"
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-source-backed-explainer-built"
+    },
+    {
+      "id": "D01R2",
+      "day": 1,
+      "reelNumber": 2,
+      "title": "Kando — Start Menu Test",
+      "format": "Test",
+      "durationSeconds": 50,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "I tested Kando against the Start menu on ten everyday tasks. The list stays fixed: launch apps, open folders, and reach common commands. I counted setup separately, practiced both methods, then alternated three timed rounds. I logged wrong selections too. Fast clicking does not help if I open the wrong thing. Kando took [KANDO_MEDIAN]. Start took [START_MEDIAN]. [MISCLICK_AND_SETUP_RESULT]. [EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 68,
+      "estimatedWpm": 82,
+      "concept": "Ten identical tasks; time, setup, learning curve, misclicks and resources.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "I tested Kando against the Start menu on ten everyday tasks.",
+        "Does a radial menu beat the Start menu?",
+        "Setup takes time too. I counted it."
+      ],
+      "strongestHook": "I tested Kando against the Start menu on ten everyday tasks.",
+      "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Ten identical tasks; time, setup, learning curve, misclicks and resources. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Medium",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Use the exact ten actions from discovery. Time setup separately. Practice both methods for five minutes. Alternate Start/Kando order across three rounds, same initial desktop state and app cache condition. Start at invocation, stop at usable target. Include correction time for wrong selections. Log task-level durations, round totals, median/range, wrong selections and idle memory snapshots. Recommendation depends on observed benefit and setup cost.",
+      "evidenceRequirements": "Record both methods and actual timers; leave scores blank until tested.",
+      "sources": [
+        {
+          "label": "Kando official site",
+          "url": "https://kando.menu/",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Kando Versus Start",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Kando Versus Start” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "[EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+      "cta": "WORTH THE SETUP?",
+      "instagramCaption": "Kando — Start Menu Test. Ten identical tasks; time, setup, learning curve, misclicks and resources. Full test conditions and limitations belong beside the final result. [EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+      "tiktokCaption": "Kando — Start Menu Test. WORTH THE SETUP?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Paired runs, timings, resource measurements.",
+      "scenes": [
+        {
+          "id": "D01R2-S1",
+          "start": 0,
+          "end": 8.1,
+          "type": "hook",
+          "text": "KANDO VS START",
+          "narration": "I tested Kando against the Start menu on ten everyday tasks.",
+          "concept": "Matched task one in both methods; keep normal-speed proof moment.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d01r2/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Matched task one in both methods; keep normal-speed proof moment.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "I tested Kando against the Start",
+            "menu on ten everyday tasks."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "TEN TASKS. TWO METHODS.",
+          "presentationNarration": "The test plan is Kando against the Start menu on ten everyday tasks.",
+          "presentationCaptionChunks": [
+            "The test plan is Kando against",
+            "the Start menu on ten everyday",
+            "tasks."
+          ]
+        },
+        {
+          "id": "D01R2-S2",
+          "start": 8.1,
+          "end": 16.9,
+          "type": "workflow",
+          "text": "SAME TASK LIST",
+          "narration": "The list stays fixed: launch apps, open folders, and reach common commands.",
+          "concept": "Actual ten-task sheet, not ten claimed benchmark categories.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual ten-task sheet, not ten claimed benchmark categories.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "The list stays fixed: launch apps,",
+            "open folders, and reach common commands."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "SAME TASKS. SAME ORDER.",
+          "presentationNarration": "Both methods will launch the same apps, open the same folders, and reach the same commands.",
+          "presentationCaptionChunks": [
+            "Both methods will launch the same",
+            "apps, open the same folders, and",
+            "reach the same commands."
+          ]
+        },
+        {
+          "id": "D01R2-S3",
+          "start": 16.9,
+          "end": 25.7,
+          "type": "evidence",
+          "text": "SETUP + PRACTICE + 3 ROUNDS",
+          "narration": "I counted setup separately, practiced both methods, then alternated three timed rounds.",
+          "concept": "Real setup notes and run timestamps; visibly label accelerated footage.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d01r2/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real setup notes and run timestamps; visibly label accelerated footage.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I counted setup separately, practiced both",
+            "methods, then alternated three timed rounds."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "PRACTICE. ALTERNATE. REPEAT.",
+          "presentationNarration": "Setup will be counted separately. After practice, three timed rounds will alternate the method order.",
+          "presentationCaptionChunks": [
+            "Setup will be counted separately. After",
+            "practice, three timed rounds will alternate",
+            "the method order."
+          ]
+        },
+        {
+          "id": "D01R2-S4",
+          "start": 25.7,
+          "end": 37.2,
+          "type": "evidence",
+          "text": "MISTAKES COUNT",
+          "narration": "I logged wrong selections too. Fast clicking does not help if I open the wrong thing.",
+          "concept": "Replay actual misclick or verified clean selection; show timer resumes through recovery.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d01r2/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Replay actual misclick or verified clean selection; show timer resumes through recovery.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I logged wrong selections too. Fast",
+            "clicking does not help if I",
+            "open the wrong thing."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "COUNT WRONG SELECTIONS",
+          "presentationNarration": "Every wrong selection will be logged. Speed only matters if the intended action opens.",
+          "presentationCaptionChunks": [
+            "Every wrong selection will be logged.",
+            "Speed only matters if the intended",
+            "action opens."
+          ]
+        },
+        {
+          "id": "D01R2-S5",
+          "start": 37.2,
+          "end": 42.56666666666667,
+          "type": "result",
+          "text": "[MEASURED RESULT]",
+          "narration": "Kando took [KANDO_MEDIAN]. Start took [START_MEDIAN]. [MISCLICK_AND_SETUP_RESULT].",
+          "concept": "Median across measured rounds and range; measured memory snapshot separately.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Median across measured rounds and range; measured memory snapshot separately.",
+          "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "Kando took [KANDO_MEDIAN]. Start took [START_MEDIAN]. [MISCLICK_AND_SETUP_RESULT]."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "MEDIAN + ERROR LOG",
+          "presentationNarration": "The result needs both median durations, error counts, and setup effort. No timings have been measured yet.",
+          "presentationCaptionChunks": [
+            "The result needs both median durations,",
+            "error counts, and setup effort. No",
+            "timings have been measured yet."
+          ]
+        },
+        {
+          "id": "D01R2-S6",
+          "start": 42.56666666666667,
+          "end": 50,
+          "type": "question",
+          "text": "WORTH THE SETUP?",
+          "narration": "[EVIDENCE_BASED_FIT]. Would the setup be worth it for your workflow?",
+          "concept": "Use the task where the difference was clearest, even if Kando loses.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Use the task where the difference was clearest, even if Kando loses.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "[EVIDENCE_BASED_FIT]. Would the setup be worth",
+            "it for your workflow?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "DOES THE SETUP PAY OFF?",
+          "presentationNarration": "The verdict will depend on the recorded workflow. Which of your daily actions would belong in this menu?",
+          "presentationCaptionChunks": [
+            "The verdict will depend on the",
+            "recorded workflow. Which of your daily",
+            "actions would belong in this menu?"
+          ]
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-test-plan-built"
+    },
+    {
+      "id": "D02R1",
+      "day": 2,
+      "reelNumber": 1,
+      "title": "LocalSend — Discovery",
+      "format": "Discovery",
+      "durationSeconds": 35,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "Sending a file between different devices should not need a cloud upload. LocalSend transfers over your local network. Both devices need to discover each other there. The official project supports Android, iOS, Windows, macOS, and Linux. It does not require an account. Pick a device, accept the request, and check the received file. That is useful at home. It also means network discovery and device permissions matter. Next I am testing photos, a large video, and a folder against a cloud workflow.",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 82,
+      "estimatedWpm": 141,
+      "concept": "Phone-to-desktop and desktop-to-phone without a cloud upload.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "Sending a file between different devices should not need a cloud upload.",
+        "Different devices. One local file transfer.",
+        "No account, no cloud upload. What is the catch?"
+      ],
+      "strongestHook": "Sending a file between different devices should not need a cloud upload.",
+      "directorBrief": "Direct this as a useful discovery with one important limit: Phone-to-desktop and desktop-to-phone without a cloud upload. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Easy",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Use two available supported devices on the same controlled local network. Record device OS, app versions, discovery permissions and transfer mode. Send one non-sensitive sample both directions, accept on receiver and open it. Capture official platform list separately from tested-device scope. Do not expose device names, private Wi-Fi identifiers or personal file contents.",
+      "evidenceRequirements": "Verify platform support, local-network requirements and account behavior.",
+      "sources": [
+        {
+          "label": "LocalSend official site",
+          "url": "https://localsend.org/",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Files Without The Cloud",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Files Without The Cloud” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "Next I am testing photos, a large video, and a folder against a cloud workflow.",
+      "cta": "CAN IT BEAT THE CLOUD?",
+      "instagramCaption": "LocalSend — Discovery. Phone-to-desktop and desktop-to-phone without a cloud upload. Full test conditions and limitations belong beside the final result. Next I am testing photos, a large video, and a folder against a cloud workflow.",
+      "tiktokCaption": "LocalSend — Discovery. CAN IT BEAT THE CLOUD?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Devices, actual transfer, official docs.",
+      "scenes": [
+        {
+          "id": "D02R1-S1",
+          "start": 0,
+          "end": 5.166666666666667,
+          "type": "hook",
+          "text": "PHONE ↔ COMPUTER",
+          "narration": "Sending a file between different devices should not need a cloud upload.",
+          "concept": "Real device pair and named non-sensitive sample file.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d02r1/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real device pair and named non-sensitive sample file.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "Sending a file between different devices",
+            "should not need a cloud upload."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D02R1-S2",
+          "start": 5.166666666666667,
+          "end": 11.133333333333333,
+          "type": "workflow",
+          "text": "SAME LOCAL NETWORK",
+          "narration": "LocalSend transfers over your local network. Both devices need to discover each other there.",
+          "concept": "Two devices connect through a router diagram, not a cloud.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Two devices connect through a router diagram, not a cloud.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "LocalSend transfers over your local network.",
+            "Both devices need to discover each",
+            "other there."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D02R1-S3",
+          "start": 11.133333333333333,
+          "end": 15.5,
+          "type": "evidence",
+          "text": "FIVE PLATFORM FAMILIES",
+          "narration": "The official project supports Android, iOS, Windows, macOS, and Linux.",
+          "concept": "Official platform card; distinguish supported platforms from devices tested here.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d02r1/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Official platform card; distinguish supported platforms from devices tested here.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "The official project supports Android, iOS,",
+            "Windows, macOS, and Linux."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D02R1-S4",
+          "start": 15.5,
+          "end": 22.666666666666668,
+          "type": "evidence",
+          "text": "NO ACCOUNT REQUIRED",
+          "narration": "It does not require an account. Pick a device, accept the request, and check the received file.",
+          "concept": "Actual send, accept and open sequence; no fabricated progress bar.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d02r1/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual send, accept and open sequence; no fabricated progress bar.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "It does not require an account.",
+            "Pick a device, accept the request,",
+            "and check the received file."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D02R1-S5",
+          "start": 22.666666666666668,
+          "end": 28.633333333333333,
+          "type": "evidence",
+          "text": "LOCAL DOES NOT MEAN EVERYWHERE",
+          "narration": "That is useful at home. It also means network discovery and device permissions matter.",
+          "concept": "Show actual network setting and permission screen, hiding network identifiers.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d02r1/s5.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Show actual network setting and permission screen, hiding network identifiers.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "That is useful at home. It",
+            "also means network discovery and device",
+            "permissions matter."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D02R1-S6",
+          "start": 28.633333333333333,
+          "end": 35,
+          "type": "question",
+          "text": "CAN IT BEAT THE CLOUD?",
+          "narration": "Next I am testing photos, a large video, and a folder against a cloud workflow.",
+          "concept": "Received sample file becomes first item of the test dataset.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Received sample file becomes first item of the test dataset.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "Next I am testing photos, a",
+            "large video, and a folder against",
+            "a cloud workflow."
+          ],
+          "visualSystem": "ToolVisuals"
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-source-backed-explainer-built"
+    },
+    {
+      "id": "D02R2",
+      "day": 2,
+      "reelNumber": 2,
+      "title": "LocalSend — Transfer Test",
+      "format": "Test",
+      "durationSeconds": 50,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "I tested LocalSend against a cloud transfer with exactly the same files. One hundred photos, a one-gigabyte video, and a five-gigabyte folder. The timer includes sending and receiving. The cloud route includes upload and download. I checked the received files, then interrupted Wi-Fi during a separate recovery test. [DATASET_TIMES]. [HASH_AND_RECOVERY_RESULT]. [LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 61,
+      "estimatedWpm": 73,
+      "concept": "100 photos, 1GB video and 5GB folder; integrity, discovery, speed and dropped Wi-Fi.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "I tested LocalSend against a cloud transfer with exactly the same files.",
+        "Five gigabytes. Same files. Two routes.",
+        "A fast transfer still has to arrive intact."
+      ],
+      "strongestHook": "I tested LocalSend against a cloud transfer with exactly the same files.",
+      "directorBrief": "Direct this as a fair matched test with a scoped recommendation: 100 photos, 1GB video and 5GB folder; integrity, discovery, speed and dropped Wi-Fi. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Medium",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Prepare 100 synthetic photos, a video with documented 1GB decimal byte size and a folder totaling documented 5GB decimal bytes. Reuse identical source bytes for LocalSend and a named cloud provider. Record device/network specs and cloud plan. Time each from send/upload start to destination files usable; cloud includes upload and download. Compare counts and SHA-256 hashes. Run interrupted-Wi-Fi recovery separately on an isolated test network and record resume/restart/error behavior.",
+      "evidenceRequirements": "Identical files; verify checksums and real duration.",
+      "sources": [
+        {
+          "label": "LocalSend official site",
+          "url": "https://localsend.org/",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Local Versus Cloud",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Local Versus Cloud” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "[LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+      "cta": "WHERE WOULD YOU USE IT?",
+      "instagramCaption": "LocalSend — Transfer Test. 100 photos, 1GB video and 5GB folder; integrity, discovery, speed and dropped Wi-Fi. Full test conditions and limitations belong beside the final result. [LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+      "tiktokCaption": "LocalSend — Transfer Test. WHERE WOULD YOU USE IT?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Transfers, metadata/hash checks, real timers.",
+      "scenes": [
+        {
+          "id": "D02R2-S1",
+          "start": 0,
+          "end": 9.7,
+          "type": "hook",
+          "text": "LOCAL VS CLOUD",
+          "narration": "I tested LocalSend against a cloud transfer with exactly the same files.",
+          "concept": "Source dataset and both destinations shown in matched panes.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d02r2/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Source dataset and both destinations shown in matched panes.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "I tested LocalSend against a cloud",
+            "transfer with exactly the same files."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "LOCAL VS CLOUD",
+          "presentationNarration": "The plan compares LocalSend with a cloud route using exactly the same files.",
+          "presentationCaptionChunks": [
+            "The plan compares LocalSend with a",
+            "cloud route using exactly the same",
+            "files."
+          ]
+        },
+        {
+          "id": "D02R2-S2",
+          "start": 9.7,
+          "end": 17.9,
+          "type": "workflow",
+          "text": "PHOTOS / VIDEO / FOLDER",
+          "narration": "One hundred photos, a one-gigabyte video, and a five-gigabyte folder.",
+          "concept": "Show true file counts and byte sizes; define decimal gigabytes in run sheet.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Show true file counts and byte sizes; define decimal gigabytes in run sheet.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "One hundred photos, a one-gigabyte video,",
+            "and a five-gigabyte folder."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "THREE FIXED DATASETS",
+          "presentationNarration": "The inputs will be one hundred photos, a one-gigabyte video, and a five-gigabyte folder.",
+          "presentationCaptionChunks": [
+            "The inputs will be one hundred",
+            "photos, a one-gigabyte video, and a",
+            "five-gigabyte folder."
+          ]
+        },
+        {
+          "id": "D02R2-S3",
+          "start": 17.9,
+          "end": 28.333333333333332,
+          "type": "evidence",
+          "text": "COUNT THE WHOLE JOURNEY",
+          "narration": "The timer includes sending and receiving. The cloud route includes upload and download.",
+          "concept": "Timestamp start and usable destination; identify chosen cloud provider and account tier.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d02r2/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Timestamp start and usable destination; identify chosen cloud provider and account tier.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "The timer includes sending and receiving.",
+            "The cloud route includes upload and download."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "TIME BOTH ENDS",
+          "presentationNarration": "Timing will cover sending and receiving. The cloud route must include upload and download.",
+          "presentationCaptionChunks": [
+            "Timing will cover sending and receiving.",
+            "The cloud route must include upload",
+            "and download."
+          ]
+        },
+        {
+          "id": "D02R2-S4",
+          "start": 28.333333333333332,
+          "end": 38.766666666666666,
+          "type": "evidence",
+          "text": "INTEGRITY + RECOVERY",
+          "narration": "I checked the received files, then interrupted Wi-Fi during a separate recovery test.",
+          "concept": "Checksums and destination counts; disconnect only isolated test network.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d02r2/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Checksums and destination counts; disconnect only isolated test network.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I checked the received files, then",
+            "interrupted Wi-Fi during a separate recovery test."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "HASHES + RECOVERY",
+          "presentationNarration": "Received files will be checked for integrity. A separate run will interrupt Wi-Fi to examine recovery.",
+          "presentationCaptionChunks": [
+            "Received files will be checked for",
+            "integrity. A separate run will interrupt",
+            "Wi-Fi to examine recovery."
+          ]
+        },
+        {
+          "id": "D02R2-S5",
+          "start": 38.766666666666666,
+          "end": 41.03333333333333,
+          "type": "result",
+          "text": "[VERIFIED TRANSFER RESULT]",
+          "narration": "[DATASET_TIMES]. [HASH_AND_RECOVERY_RESULT].",
+          "concept": "Dataset-by-dataset measured results; network conditions pinned below.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Dataset-by-dataset measured results; network conditions pinned below.",
+          "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "[DATASET_TIMES]. [HASH_AND_RECOVERY_RESULT]."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "CORRECT FILES COME FIRST",
+          "presentationNarration": "Duration, file integrity, and recovery all need real capture. A moving diagram cannot establish transfer speed.",
+          "presentationCaptionChunks": [
+            "Duration, file integrity, and recovery all",
+            "need real capture. A moving diagram",
+            "cannot establish transfer speed."
+          ]
+        },
+        {
+          "id": "D02R2-S6",
+          "start": 41.03333333333333,
+          "end": 50,
+          "type": "question",
+          "text": "WHERE WOULD YOU USE IT?",
+          "narration": "[LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for devices on the same network?",
+          "concept": "Return to the actual device pair and successfully opened file.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Return to the actual device pair and successfully opened file.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "[LOCAL_USE_CASE_AND_REMOTE_LIMIT]. Would you use it for",
+            "devices on the same network?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "NEARBY IS THE USE CASE",
+          "presentationNarration": "Local networking is the starting condition. The final verdict will explain what changes when devices are apart.",
+          "presentationCaptionChunks": [
+            "Local networking is the starting condition.",
+            "The final verdict will explain what",
+            "changes when devices are apart."
+          ]
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-test-plan-built"
+    },
+    {
+      "id": "D03R1",
+      "day": 3,
+      "reelNumber": 1,
+      "title": "Stirling PDF — Discovery",
+      "format": "Discovery",
+      "durationSeconds": 35,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "Before uploading a private PDF, check whether you can do the job locally. Stirling PDF brings merging, splitting, compression, OCR, and other PDF operations into one workspace. Its project describes desktop and self-hosted options. Choose the actual local setup before making a privacy claim. The project is open core. That means the license and paid feature boundaries deserve a look. For me, the useful question is whether the exported file is right, especially after redaction. Next: seven real jobs against Acrobat. Which one would you test first?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 87,
+      "estimatedWpm": 149,
+      "concept": "Merge, split, compress, OCR, redact and reorder in one workspace.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "Before uploading a private PDF, check whether you can do the job locally.",
+        "Can this PDF job stay on your computer?",
+        "A PDF workspace needs more than a feature count."
+      ],
+      "strongestHook": "Before uploading a private PDF, check whether you can do the job locally.",
+      "directorBrief": "Direct this as a useful discovery with one important limit: Merge, split, compress, OCR, redact and reorder in one workspace. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Medium",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Use a local desktop or self-hosted setup supported by current Stirling docs. Capture exact version and mode, official license and available features. Use synthetic PDFs only. Demonstrate merge, split and one additional installed operation, then open output independently. Any claim of local processing must be tied to actual chosen setup and relevant docs; hosted service access is not proof of offline privacy.",
+      "evidenceRequirements": "Verify actual local processing, free limits and open-core licensing.",
+      "sources": [
+        {
+          "label": "Stirling PDF repository",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Keep Your PDF Local",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Keep Your PDF Local” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "Next: seven real jobs against Acrobat. Which one would you test first?",
+      "cta": "7 JOBS VS ACROBAT",
+      "instagramCaption": "Stirling PDF — Discovery. Merge, split, compress, OCR, redact and reorder in one workspace. Full test conditions and limitations belong beside the final result. Next: seven real jobs against Acrobat. Which one would you test first?",
+      "tiktokCaption": "Stirling PDF — Discovery. 7 JOBS VS ACROBAT",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "App, pricing/license, sample PDF files.",
+      "scenes": [
+        {
+          "id": "D03R1-S1",
+          "start": 0,
+          "end": 5.266666666666667,
+          "type": "hook",
+          "text": "KEEP THE PDF LOCAL?",
+          "narration": "Before uploading a private PDF, check whether you can do the job locally.",
+          "concept": "Synthetic document with invented personal details; never show private records.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r1/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Synthetic document with invented personal details; never show private records.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "Before uploading a private PDF, check",
+            "whether you can do the job locally."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D03R1-S2",
+          "start": 5.266666666666667,
+          "end": 10.9,
+          "type": "evidence",
+          "text": "ONE PDF WORKSPACE",
+          "narration": "Stirling PDF brings merging, splitting, compression, OCR, and other PDF operations into one workspace.",
+          "concept": "Real app navigation through three installed operations; exact version captured.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r1/s2.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real app navigation through three installed operations; exact version captured.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Stirling PDF brings merging, splitting, compression,",
+            "OCR, and other PDF operations into",
+            "one workspace."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D03R1-S3",
+          "start": 10.9,
+          "end": 17.666666666666668,
+          "type": "evidence",
+          "text": "LOCAL SETUP MATTERS",
+          "narration": "Its project describes desktop and self-hosted options. Choose the actual local setup before making a privacy claim.",
+          "concept": "Show installed mode and relevant official docs; do not equate hosted access with local processing.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r1/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Show installed mode and relevant official docs; do not equate hosted access with local processing.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Its project describes desktop and self-hosted",
+            "options. Choose the actual local setup",
+            "before making a privacy claim."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D03R1-S4",
+          "start": 17.666666666666668,
+          "end": 24.066666666666666,
+          "type": "evidence",
+          "text": "CHECK THE LICENSE",
+          "narration": "The project is open core. That means the license and paid feature boundaries deserve a look.",
+          "concept": "Official repository license and plan pages; avoid saying every feature is free.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r1/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Official repository license and plan pages; avoid saying every feature is free.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "The project is open core. That",
+            "means the license and paid feature",
+            "boundaries deserve a look."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D03R1-S5",
+          "start": 24.066666666666666,
+          "end": 30.1,
+          "type": "evidence",
+          "text": "OPEN THE OUTPUT",
+          "narration": "For me, the useful question is whether the exported file is right, especially after redaction.",
+          "concept": "Preview synthetic redaction test; label unverified until independent inspection.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r1/s5.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Preview synthetic redaction test; label unverified until independent inspection.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "For me, the useful question is",
+            "whether the exported file is right,",
+            "especially after redaction."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D03R1-S6",
+          "start": 30.1,
+          "end": 35,
+          "type": "question",
+          "text": "7 JOBS VS ACROBAT",
+          "narration": "Next: seven real jobs against Acrobat. Which one would you test first?",
+          "concept": "Seven named input files become the next test slate.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Seven named input files become the next test slate.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "Next: seven real jobs against Acrobat.",
+            "Which one would you test first?"
+          ],
+          "visualSystem": "ToolVisuals"
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-source-backed-explainer-built"
+    },
+    {
+      "id": "D03R2",
+      "day": 3,
+      "reelNumber": 2,
+      "title": "Stirling PDF — Acrobat Test",
+      "format": "Test",
+      "durationSeconds": 55,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "Can Stirling PDF replace Acrobat for these seven jobs? Edit, merge, compress, OCR, redact, sign, and reorder. Each starts from a fresh copy. I compared correct output first, then time and how much setup each task needed. For redaction, I searched and copied the hidden text. A black rectangle alone does not prove it is gone. [TASK_PASS_RESULTS]. [OCR_COMPRESSION_AND_REDACTION_OBSERVATION]. [SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 66,
+      "estimatedWpm": 72,
+      "concept": "Seven jobs: edit, merge, compress, OCR, redact, sign and rearrange.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "Can Stirling PDF replace Acrobat for these seven jobs?",
+        "A black rectangle does not prove the text is gone.",
+        "Seven PDF tasks. Correct output comes first."
+      ],
+      "strongestHook": "Can Stirling PDF replace Acrobat for these seven jobs?",
+      "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Seven jobs: edit, merge, compress, OCR, redact, sign and rearrange. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Hard",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Seven synthetic input sets: editable text PDF, three merge files, high-resolution scan, OCR page with known text, redaction token page, signature form and numbered reorder pages. Run both tools on fresh copies with installed version and plan logged. Measure correct output before elapsed time. OCR compare to known text; compression compare size plus readable image quality; redaction search/copy/extract the synthetic secret token; distinguish drawn from certificate signatures. Record missing/gated features and actual workarounds.",
+      "evidenceRequirements": "Compare correct output, speed and ease; no prewritten positive verdict.",
+      "sources": [
+        {
+          "label": "Stirling PDF repository",
+          "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Seven PDF Jobs",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Seven PDF Jobs” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "[SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+      "cta": "WOULD YOU SWITCH?",
+      "instagramCaption": "Stirling PDF — Acrobat Test. Seven jobs: edit, merge, compress, OCR, redact, sign and rearrange. Full test conditions and limitations belong beside the final result. [SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+      "tiktokCaption": "Stirling PDF — Acrobat Test. WOULD YOU SWITCH?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Matching input documents and output files.",
+      "scenes": [
+        {
+          "id": "D03R2-S1",
+          "start": 0,
+          "end": 7.633333333333334,
+          "type": "hook",
+          "text": "7 PDF JOBS",
+          "narration": "Can Stirling PDF replace Acrobat for these seven jobs?",
+          "concept": "Both installed app versions beside identical input files.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r2/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Both installed app versions beside identical input files.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "Can Stirling PDF replace Acrobat for",
+            "these seven jobs?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "SEVEN PDF JOBS",
+          "presentationNarration": "The test will compare Stirling PDF and Acrobat on seven clearly defined document jobs.",
+          "presentationCaptionChunks": [
+            "The test will compare Stirling PDF",
+            "and Acrobat on seven clearly defined",
+            "document jobs."
+          ]
+        },
+        {
+          "id": "D03R2-S2",
+          "start": 7.633333333333334,
+          "end": 19.1,
+          "type": "workflow",
+          "text": "MATCHED INPUTS",
+          "narration": "Edit, merge, compress, OCR, redact, sign, and reorder. Each starts from a fresh copy.",
+          "concept": "Seven task cards; distinguish drawn signature from certificate-based signing.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Seven task cards; distinguish drawn signature from certificate-based signing.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "Edit, merge, compress, OCR, redact, sign,",
+            "and reorder. Each starts from a",
+            "fresh copy."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "FRESH INPUT FOR EACH TASK",
+          "presentationNarration": "Edit, merge, compress, OCR, redact, sign, and reorder will each start from a fresh copy.",
+          "presentationCaptionChunks": [
+            "Edit, merge, compress, OCR, redact, sign,",
+            "and reorder will each start from",
+            "a fresh copy."
+          ]
+        },
+        {
+          "id": "D03R2-S3",
+          "start": 19.1,
+          "end": 30.566666666666666,
+          "type": "evidence",
+          "text": "CORRECTNESS FIRST",
+          "narration": "I compared correct output first, then time and how much setup each task needed.",
+          "concept": "Real action capture plus output opening in a third viewer.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r2/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real action capture plus output opening in a third viewer.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I compared correct output first, then",
+            "time and how much setup each",
+            "task needed."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "CORRECT OUTPUT FIRST",
+          "presentationNarration": "Output correctness comes before speed. Setup and any manual repair will stay in the record.",
+          "presentationCaptionChunks": [
+            "Output correctness comes before speed. Setup",
+            "and any manual repair will stay",
+            "in the record."
+          ]
+        },
+        {
+          "id": "D03R2-S4",
+          "start": 30.566666666666666,
+          "end": 45.833333333333336,
+          "type": "evidence",
+          "text": "IS THE TEXT REALLY REMOVED?",
+          "narration": "For redaction, I searched and copied the hidden text. A black rectangle alone does not prove it is gone.",
+          "concept": "Synthetic secret token searched in extracted text and output viewer.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d03r2/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Synthetic secret token searched in extracted text and output viewer.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "For redaction, I searched and copied",
+            "the hidden text. A black rectangle",
+            "alone does not prove it is gone."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "BLACK BOX IS NOT PROOF",
+          "presentationNarration": "The redaction check will search and copy the hidden text, then reopen the exported file.",
+          "presentationCaptionChunks": [
+            "The redaction check will search and",
+            "copy the hidden text, then reopen",
+            "the exported file."
+          ]
+        },
+        {
+          "id": "D03R2-S5",
+          "start": 45.833333333333336,
+          "end": 48.13333333333333,
+          "type": "result",
+          "text": "[VERIFIED PDF VERDICT]",
+          "narration": "[TASK_PASS_RESULTS]. [OCR_COMPRESSION_AND_REDACTION_OBSERVATION].",
+          "concept": "Seven-row checklist; compression includes size and visual quality, not bytes alone.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Seven-row checklist; compression includes size and visual quality, not bytes alone.",
+          "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "[TASK_PASS_RESULTS]. [OCR_COMPRESSION_AND_REDACTION_OBSERVATION]."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "AUDIT THE EXPORTED FILE",
+          "presentationNarration": "Task completion, OCR accuracy, compression quality, and redaction need actual output inspection. No winner is measured yet.",
+          "presentationCaptionChunks": [
+            "Task completion, OCR accuracy, compression quality,",
+            "and redaction need actual output inspection.",
+            "No winner is measured yet."
+          ]
+        },
+        {
+          "id": "D03R2-S6",
+          "start": 48.13333333333333,
+          "end": 55,
+          "type": "question",
+          "text": "WOULD YOU SWITCH?",
+          "narration": "[SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for these jobs?",
+          "concept": "Open strongest and weakest output side by side; scope conclusion to tested workflows.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Open strongest and weakest output side by side; scope conclusion to tested workflows.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "[SUPPORTED_USE_CASE]. [TASK_THAT_STILL_NEEDS_ACROBAT_OR_NO_GAP_FOUND]. Would you switch for",
+            "these jobs?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "WHICH JOB NEEDS PROOF?",
+          "presentationNarration": "The conclusion will name supported jobs and any remaining gap. Which PDF task would you check first?",
+          "presentationCaptionChunks": [
+            "The conclusion will name supported jobs",
+            "and any remaining gap. Which PDF",
+            "task would you check first?"
+          ]
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-test-plan-built"
+    },
+    {
+      "id": "D04R1",
+      "day": 4,
+      "reelNumber": 1,
+      "title": "Cap — Discovery",
+      "format": "Discovery",
+      "durationSeconds": 35,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "The free Loom alternative has a licensing detail you should read. Cap is a screen-recording tool. Its pricing page separates personal use from commercial use. So I would not call it free for every work recording. The workflow I want is simple: record a useful demo, make it readable, and get it to someone. Export and sharing limits matter as much as the recording button. Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 83,
+      "estimatedWpm": 142,
+      "concept": "Recording software and personal-use versus commercial licensing.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "The free Loom alternative has a licensing detail you should read.",
+        "Personal recording and client work have different terms.",
+        "Read this before calling Cap free for work."
+      ],
+      "strongestHook": "The free Loom alternative has a licensing detail you should read.",
+      "directorBrief": "Direct this as a useful discovery with one important limit: Recording software and personal-use versus commercial licensing. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Easy",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Check official Cap pricing/licensing on capture day and record account plan. Prepare a local demo website with small text, scrolling, clicks and cursor movement. Show actual capture and export options on this installation. Distinguish personal and commercial licensing using dated source evidence. Do not copy stale quoted prices or assume all export/share options are on the free tier.",
+      "evidenceRequirements": "Recheck present license/pricing; imported prices are unverified.",
+      "sources": [
+        {
+          "label": "Cap pricing and licensing",
+          "url": "https://cap.so/pricing",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Free For Which Use",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Free For Which Use” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+      "cta": "SAME DEMO. TWO TOOLS.",
+      "instagramCaption": "Cap — Discovery. Recording software and personal-use versus commercial licensing. Full test conditions and limitations belong beside the final result. Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+      "tiktokCaption": "Cap — Discovery. SAME DEMO. TWO TOOLS.",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Real UI, official license/prices, capture.",
+      "scenes": [
+        {
+          "id": "D04R1-S1",
+          "start": 0,
+          "end": 4.733333333333333,
+          "type": "hook",
+          "text": "FREE FOR WHICH USE?",
+          "narration": "The free Loom alternative has a licensing detail you should read.",
+          "concept": "Cap recording window alongside official pricing page, dated.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d04r1/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Cap recording window alongside official pricing page, dated.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "The free Loom alternative has a",
+            "licensing detail you should read."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D04R1-S2",
+          "start": 4.733333333333333,
+          "end": 10.633333333333333,
+          "type": "evidence",
+          "text": "PERSONAL ≠ COMMERCIAL",
+          "narration": "Cap is a screen-recording tool. Its pricing page separates personal use from commercial use.",
+          "concept": "Crop exact relevant terms; no outdated price taken from the source chat.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d04r1/s2.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Crop exact relevant terms; no outdated price taken from the source chat.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Cap is a screen-recording tool. Its",
+            "pricing page separates personal use from",
+            "commercial use."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D04R1-S3",
+          "start": 10.633333333333333,
+          "end": 15.366666666666667,
+          "type": "workflow",
+          "text": "CHECK YOUR USE CASE",
+          "narration": "So I would not call it free for every work recording.",
+          "concept": "Personal tutorial and client demo cards branch to their documented terms.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Personal tutorial and client demo cards branch to their documented terms.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "So I would not call it",
+            "free for every work recording."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D04R1-S4",
+          "start": 15.366666666666667,
+          "end": 22.833333333333332,
+          "type": "evidence",
+          "text": "RECORD → EDIT → DELIVER",
+          "narration": "The workflow I want is simple: record a useful demo, make it readable, and get it to someone.",
+          "concept": "Actual app recording controls and available installed editor; features depend on version.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d04r1/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual app recording controls and available installed editor; features depend on version.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "The workflow I want is simple:",
+            "record a useful demo, make it",
+            "readable, and get it to someone."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D04R1-S5",
+          "start": 22.833333333333332,
+          "end": 27.533333333333335,
+          "type": "evidence",
+          "text": "WHAT LEAVES THE APP?",
+          "narration": "Export and sharing limits matter as much as the recording button.",
+          "concept": "Show genuine export and share dialogs; capture account plan state.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d04r1/s5.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Show genuine export and share dialogs; capture account plan state.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Export and sharing limits matter as",
+            "much as the recording button."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D04R1-S6",
+          "start": 27.533333333333335,
+          "end": 35,
+          "type": "question",
+          "text": "SAME DEMO. TWO TOOLS.",
+          "narration": "Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?",
+          "concept": "Demo webpage remains fixed while recording controls change.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Demo webpage remains fixed while recording controls change.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "Next I am recording the same",
+            "demo in Cap and Loom. Which",
+            "deserves the place in your workflow?"
+          ],
+          "visualSystem": "ToolVisuals"
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-source-backed-explainer-built"
+    },
+    {
+      "id": "D04R2",
+      "day": 4,
+      "reelNumber": 2,
+      "title": "Cap — Loom Test",
+      "format": "Test",
+      "durationSeconds": 55,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "I recorded the same sixty-second demo in Cap and Loom. Same resolution, frame-rate target, microphone, and script. Setup time stays in the comparison. I checked readable text, cursor movement, edits, captions, and whether sharing worked for another viewer. A feature I could not access on my plan is a limit, not an automatic failure of the entire product. [OUTPUT_AND_WORKFLOW_RESULTS]. [CURRENT_LICENSE_AND_COST_OBSERVATION]. [PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 68,
+      "estimatedWpm": 74,
+      "concept": "Same 60-second demo: setup, quality, cursor, zoom, editing, captions, export and sharing.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "I recorded the same sixty-second demo in Cap and Loom.",
+        "Same demo. Which recording can someone actually use?",
+        "The export matters more than the record button."
+      ],
+      "strongestHook": "I recorded the same sixty-second demo in Cap and Loom.",
+      "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Same 60-second demo: setup, quality, cursor, zoom, editing, captions, export and sharing. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Medium",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Use identical 60-second demo script, viewport, resolution target, microphone, camera state and plan metadata in Cap and Loom. Log settings that cannot match. Time setup, recording-to-usable-export and sharing. Inspect text at 100%, cursor/zoom, edits, caption accuracy if available and output dimensions. Open share link in a fresh viewer session. Report feature gates and dated cost/license evidence; no unconditional free commercial-use recommendation.",
+      "evidenceRequirements": "Same capture settings; assess finished videos and true costs.",
+      "sources": [
+        {
+          "label": "Cap pricing and licensing",
+          "url": "https://cap.so/pricing",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Cap Versus Loom",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Cap Versus Loom” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "[PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+      "cta": "WHAT DO YOU RECORD?",
+      "instagramCaption": "Cap — Loom Test. Same 60-second demo: setup, quality, cursor, zoom, editing, captions, export and sharing. Full test conditions and limitations belong beside the final result. [PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+      "tiktokCaption": "Cap — Loom Test. WHAT DO YOU RECORD?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Paired recordings and export/share screens.",
+      "scenes": [
+        {
+          "id": "D04R2-S1",
+          "start": 0,
+          "end": 8.166666666666666,
+          "type": "hook",
+          "text": "CAP VS LOOM",
+          "narration": "I recorded the same sixty-second demo in Cap and Loom.",
+          "concept": "Same local demo page and selected recording region.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d04r2/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Same local demo page and selected recording region.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "I recorded the same sixty-second demo",
+            "in Cap and Loom."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "SAME SIXTY-SECOND DEMO",
+          "presentationNarration": "The planned comparison records the same sixty-second demonstration in Cap and Loom.",
+          "presentationCaptionChunks": [
+            "The planned comparison records the same",
+            "sixty-second demonstration in Cap and Loom."
+          ]
+        },
+        {
+          "id": "D04R2-S2",
+          "start": 8.166666666666666,
+          "end": 18.566666666666666,
+          "type": "workflow",
+          "text": "MATCH THE CONDITIONS",
+          "narration": "Same resolution, frame-rate target, microphone, and script. Setup time stays in the comparison.",
+          "concept": "Show actual settings and plans; note settings that cannot be matched.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Show actual settings and plans; note settings that cannot be matched.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "Same resolution, frame-rate target, microphone, and",
+            "script. Setup time stays in the comparison."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "MATCH THE CONDITIONS",
+          "presentationNarration": "Resolution, frame-rate target, microphone, and script will match. Setup effort stays visible.",
+          "presentationCaptionChunks": [
+            "Resolution, frame-rate target, microphone, and script",
+            "will match. Setup effort stays visible."
+          ]
+        },
+        {
+          "id": "D04R2-S3",
+          "start": 18.566666666666666,
+          "end": 30.466666666666665,
+          "type": "evidence",
+          "text": "CAN SOMEONE USE THE RECORDING?",
+          "narration": "I checked readable text, cursor movement, edits, captions, and whether sharing worked for another viewer.",
+          "concept": "Identical five-second output crops; anonymous share test in fresh browser session.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d04r2/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Identical five-second output crops; anonymous share test in fresh browser session.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I checked readable text, cursor movement,",
+            "edits, captions, and whether sharing worked",
+            "for another viewer."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "READABILITY + SHARING",
+          "presentationNarration": "The review will inspect text, cursor movement, edits, captions, and access for another viewer.",
+          "presentationCaptionChunks": [
+            "The review will inspect text, cursor",
+            "movement, edits, captions, and access for",
+            "another viewer."
+          ]
+        },
+        {
+          "id": "D04R2-S4",
+          "start": 30.466666666666665,
+          "end": 46.06666666666667,
+          "type": "evidence",
+          "text": "FEATURE / PLAN / LIMIT",
+          "narration": "A feature I could not access on my plan is a limit, not an automatic failure of the entire product.",
+          "concept": "Actual gated feature screen and dated terms, if encountered.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d04r2/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual gated feature screen and dated terms, if encountered.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "A feature I could not access",
+            "on my plan is a limit,",
+            "not an automatic failure of the",
+            "entire product."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "LIMITS BELONG IN THE RESULT",
+          "presentationNarration": "A feature outside the tested plan will be recorded as a limitation, with the plan named.",
+          "presentationCaptionChunks": [
+            "A feature outside the tested plan",
+            "will be recorded as a limitation,",
+            "with the plan named."
+          ]
+        },
+        {
+          "id": "D04R2-S5",
+          "start": 46.06666666666667,
+          "end": 48.3,
+          "type": "result",
+          "text": "[TESTED RECORDING VERDICT]",
+          "narration": "[OUTPUT_AND_WORKFLOW_RESULTS]. [CURRENT_LICENSE_AND_COST_OBSERVATION].",
+          "concept": "Evidence-based comparison with captures; no invented winner or price.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Evidence-based comparison with captures; no invented winner or price.",
+          "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "[OUTPUT_AND_WORKFLOW_RESULTS]. [CURRENT_LICENSE_AND_COST_OBSERVATION]."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "LICENSE + OUTPUT CHECK",
+          "presentationNarration": "Finished output and current license terms must support the comparison. No captured output or cost verdict exists yet.",
+          "presentationCaptionChunks": [
+            "Finished output and current license terms",
+            "must support the comparison. No captured",
+            "output or cost verdict exists yet."
+          ]
+        },
+        {
+          "id": "D04R2-S6",
+          "start": 48.3,
+          "end": 55,
+          "type": "question",
+          "text": "WHAT DO YOU RECORD?",
+          "narration": "[PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most to you?",
+          "concept": "Play readable output at normal speed beneath the final question.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Play readable output at normal speed beneath the final question.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "[PERSONAL_COMMERCIAL_AND_TEAM_FIT]. Which recording job matters most",
+            "to you?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "PERSONAL OR TEAM WORK?",
+          "presentationNarration": "The recommendation will separate personal, commercial, and team needs. Which recording job matters to you?",
+          "presentationCaptionChunks": [
+            "The recommendation will separate personal, commercial,",
+            "and team needs. Which recording job",
+            "matters to you?"
+          ]
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-test-plan-built"
+    },
+    {
+      "id": "D05R1",
+      "day": 5,
+      "reelNumber": 1,
+      "title": "OpenCut — Discovery",
+      "format": "Discovery",
+      "durationSeconds": 37,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "A free editor can be exciting without being your next production tool. OpenCut is an open-source editor. Its current README says the project is being rewritten, with the classic version still available. I am testing the classic version people can use today: can it handle an ordinary vertical edit? Then I need text, sound, and an export I can actually open. Open source tells me something about access. It does not tell me whether this version fits my deadline. Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 92,
+      "estimatedWpm": 149,
+      "concept": "Current editor and development status rather than a CapCut-killer claim.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "A free editor can be exciting without being your next production tool.",
+        "OpenCut has a rewrite. I am testing the classic editor.",
+        "Open source does not guarantee a deadline-ready edit."
+      ],
+      "strongestHook": "A free editor can be exciting without being your next production tool.",
+      "directorBrief": "Direct this as a useful discovery with one important limit: Current editor and development status rather than a CapCut-killer claim. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Easy",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "The current official README states a rewrite and points users to the classic version. Record classic app URL and version/build identifier; keep rewrite preview separate. Use three original short clips, licensed/original music and a title. Capture import, timeline interaction and available export options. Missing operation is a finding, not permission to create a simulated screenshot.",
+      "evidenceRequirements": "Verify repo, current star count, license and rewrite status.",
+      "sources": [
+        {
+          "label": "OpenCut repository and current status",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Classic Or Rewrite",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Classic Or Rewrite” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+      "cta": "SAME REEL. FULL CHECKLIST.",
+      "instagramCaption": "OpenCut — Discovery. Current editor and development status rather than a CapCut-killer claim. Full test conditions and limitations belong beside the final result. Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+      "tiktokCaption": "OpenCut — Discovery. SAME REEL. FULL CHECKLIST.",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Actual repo/README and production editor.",
+      "scenes": [
+        {
+          "id": "D05R1-S1",
+          "start": 0,
+          "end": 4.9,
+          "type": "hook",
+          "text": "HYPE VS A USABLE EDITOR",
+          "narration": "A free editor can be exciting without being your next production tool.",
+          "concept": "Real OpenCut interface; show installed or web build identification.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d05r1/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real OpenCut interface; show installed or web build identification.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "A free editor can be exciting",
+            "without being your next production tool."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D05R1-S2",
+          "start": 4.9,
+          "end": 12.833333333333334,
+          "type": "evidence",
+          "text": "CLASSIC / REWRITE",
+          "narration": "OpenCut is an open-source editor. Its current README says the project is being rewritten, with the classic version still available.",
+          "concept": "Dated official README status capture; distinguish classic app from rewrite preview.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d05r1/s2.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Dated official README status capture; distinguish classic app from rewrite preview.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "OpenCut is an open-source editor. Its",
+            "current README says the project is",
+            "being rewritten, with the classic version",
+            "still available."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D05R1-S3",
+          "start": 12.833333333333334,
+          "end": 19.633333333333333,
+          "type": "evidence",
+          "text": "TEST THE USABLE VERSION",
+          "narration": "I am testing the classic version people can use today: can it handle an ordinary vertical edit?",
+          "concept": "Real classic version import and timeline clip; capture build identifier and unsupported formats.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d05r1/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real classic version import and timeline clip; capture build identifier and unsupported formats.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I am testing the classic version",
+            "people can use today: can it",
+            "handle an ordinary vertical edit?"
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D05R1-S4",
+          "start": 19.633333333333333,
+          "end": 24.533333333333335,
+          "type": "evidence",
+          "text": "TEXT. SOUND. EXPORT.",
+          "narration": "Then I need text, sound, and an export I can actually open.",
+          "concept": "Actual available controls; never animate unavailable features as evidence.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d05r1/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual available controls; never animate unavailable features as evidence.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Then I need text, sound, and",
+            "an export I can actually open."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D05R1-S5",
+          "start": 24.533333333333335,
+          "end": 31.7,
+          "type": "workflow",
+          "text": "OPEN SOURCE IS NOT A VERDICT",
+          "narration": "Open source tells me something about access. It does not tell me whether this version fits my deadline.",
+          "concept": "License source sits beside production checklist; no arbitrary maturity score.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "License source sits beside production checklist; no arbitrary maturity score.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "Open source tells me something about",
+            "access. It does not tell me",
+            "whether this version fits my deadline."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D05R1-S6",
+          "start": 31.7,
+          "end": 37,
+          "type": "question",
+          "text": "SAME REEL. FULL CHECKLIST.",
+          "narration": "Next: the same Reel in OpenCut and CapCut, with every missing step recorded.",
+          "concept": "Timeline freezes at first clip, ready for paired test.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Timeline freezes at first clip, ready for paired test.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "Next: the same Reel in OpenCut",
+            "and CapCut, with every missing step recorded."
+          ],
+          "visualSystem": "ToolVisuals"
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-source-backed-explainer-built"
+    },
+    {
+      "id": "D05R2",
+      "day": 5,
+      "reelNumber": 2,
+      "title": "OpenCut — CapCut Test",
+      "format": "Test",
+      "durationSeconds": 55,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "I edited the same Reel in OpenCut and CapCut. Eight jobs: import, trim, split, text, music, transition, vertical resize, and export. If a step was missing, I recorded the workaround and its time. I did not pretend the button existed. The finish line is a playable ten-eighty vertical file, not just a completed timeline. [EIGHT_TASK_RESULTS]. [EXPORT_TIME_AND_OUTPUT_RESULT]. [PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 66,
+      "estimatedWpm": 72,
+      "concept": "Import, trim, split, text, music, transition, resize and 1080p export.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "I edited the same Reel in OpenCut and CapCut.",
+        "Eight editing jobs. No imaginary buttons.",
+        "A finished timeline is not the same as a usable export."
+      ],
+      "strongestHook": "I edited the same Reel in OpenCut and CapCut.",
+      "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Import, trim, split, text, music, transition, resize and 1080p export. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Hard",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Use the classic OpenCut build identified in discovery and a recorded CapCut version/plan. Eight tasks on identical original media: import, trim, split, text, music, one transition, 1080×1920 resize and H.264 export. Specify final 20-second reference edit. Time each task and workarounds, then export and open independently. Check duration, dimensions, audio, title placement and visual defects. Mark unavailable tools and feature gates; no broad production claim beyond this edit.",
+      "evidenceRequirements": "Record failures, workarounds and actual export time.",
+      "sources": [
+        {
+          "label": "OpenCut repository and current status",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Eight Editor Jobs",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Eight Editor Jobs” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "[PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+      "cta": "READY FOR YOUR WORKFLOW?",
+      "instagramCaption": "OpenCut — CapCut Test. Import, trim, split, text, music, transition, resize and 1080p export. Full test conditions and limitations belong beside the final result. [PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+      "tiktokCaption": "OpenCut — CapCut Test. READY FOR YOUR WORKFLOW?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Editor recordings, identical footage, exports.",
+      "scenes": [
+        {
+          "id": "D05R2-S1",
+          "start": 0,
+          "end": 7.633333333333334,
+          "type": "hook",
+          "text": "ONE REEL. TWO EDITORS.",
+          "narration": "I edited the same Reel in OpenCut and CapCut.",
+          "concept": "Identical original footage and edit reference, visible in both project bins.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d05r2/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Identical original footage and edit reference, visible in both project bins.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "I edited the same Reel in",
+            "OpenCut and CapCut."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "ONE REEL. TWO EDITORS.",
+          "presentationNarration": "The plan edits the same vertical Reel in OpenCut and CapCut.",
+          "presentationCaptionChunks": [
+            "The plan edits the same vertical",
+            "Reel in OpenCut and CapCut."
+          ]
+        },
+        {
+          "id": "D05R2-S2",
+          "start": 7.633333333333334,
+          "end": 17.566666666666666,
+          "type": "workflow",
+          "text": "8 PRACTICAL JOBS",
+          "narration": "Eight jobs: import, trim, split, text, music, transition, vertical resize, and export.",
+          "concept": "Reveal checklist beside exact installed versions and plans.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Reveal checklist beside exact installed versions and plans.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "Eight jobs: import, trim, split, text,",
+            "music, transition, vertical resize, and export."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "EIGHT MATCHED TASKS",
+          "presentationNarration": "Import, trim, split, text, music, transition, vertical resize, and export will define the task list.",
+          "presentationCaptionChunks": [
+            "Import, trim, split, text, music, transition,",
+            "vertical resize, and export will define",
+            "the task list."
+          ]
+        },
+        {
+          "id": "D05R2-S3",
+          "start": 17.566666666666666,
+          "end": 32.833333333333336,
+          "type": "evidence",
+          "text": "WORKAROUNDS COUNT",
+          "narration": "If a step was missing, I recorded the workaround and its time. I did not pretend the button existed.",
+          "concept": "Capture actual blocker or functioning operation; accelerate waits only.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d05r2/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Capture actual blocker or functioning operation; accelerate waits only.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "If a step was missing, I",
+            "recorded the workaround and its time.",
+            "I did not pretend the button existed."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "LOG THE WORKAROUND",
+          "presentationNarration": "Any missing step will be recorded alongside its workaround and extra effort. No imaginary button gets credit.",
+          "presentationCaptionChunks": [
+            "Any missing step will be recorded",
+            "alongside its workaround and extra effort.",
+            "No imaginary button gets credit."
+          ]
+        },
+        {
+          "id": "D05R2-S4",
+          "start": 32.833333333333336,
+          "end": 44.3,
+          "type": "evidence",
+          "text": "OPEN THE EXPORTED FILE",
+          "narration": "The finish line is a playable ten-eighty vertical file, not just a completed timeline.",
+          "concept": "Open both exports in independent player; inspect dimensions and visible quality.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d05r2/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Open both exports in independent player; inspect dimensions and visible quality.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "The finish line is a playable",
+            "ten-eighty vertical file, not just a",
+            "completed timeline."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "THE FILE IS THE FINISH LINE",
+          "presentationNarration": "Success requires a playable vertical output file. A completed timeline alone will not finish the test.",
+          "presentationCaptionChunks": [
+            "Success requires a playable vertical output",
+            "file. A completed timeline alone will",
+            "not finish the test."
+          ]
+        },
+        {
+          "id": "D05R2-S5",
+          "start": 44.3,
+          "end": 46.6,
+          "type": "result",
+          "text": "[EDITOR AUDIT]",
+          "narration": "[EIGHT_TASK_RESULTS]. [EXPORT_TIME_AND_OUTPUT_RESULT].",
+          "concept": "Actual checklist and timings; hold an example of any export defect.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual checklist and timings; hold an example of any export defect.",
+          "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "[EIGHT_TASK_RESULTS]. [EXPORT_TIME_AND_OUTPUT_RESULT]."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "INSPECT EXPORT AND TIME",
+          "presentationNarration": "Eight task outcomes, export duration, and playback quality require real editing runs. This is the protocol, not a measured verdict.",
+          "presentationCaptionChunks": [
+            "Eight task outcomes, export duration, and",
+            "playback quality require real editing runs.",
+            "This is the protocol, not a",
+            "measured verdict."
+          ]
+        },
+        {
+          "id": "D05R2-S6",
+          "start": 46.6,
+          "end": 55,
+          "type": "question",
+          "text": "READY FOR YOUR WORKFLOW?",
+          "narration": "[PRODUCTION_FIT_TODAY]. Promising project, or a replacement for your current edits?",
+          "concept": "Match final frames, avoiding a winner label unsupported by evidence.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Match final frames, avoiding a winner label unsupported by evidence.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "[PRODUCTION_FIT_TODAY]. Promising project, or a replacement",
+            "for your current edits?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "PROMISE OR PRODUCTION FIT?",
+          "presentationNarration": "The conclusion will ask whether the tested version suits an actual deadline. What is your non-negotiable editing feature?",
+          "presentationCaptionChunks": [
+            "The conclusion will ask whether the",
+            "tested version suits an actual deadline.",
+            "What is your non-negotiable editing feature?"
+          ]
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-test-plan-built"
+    },
+    {
+      "id": "D06R1",
+      "day": 6,
+      "reelNumber": 1,
+      "title": "AppFlowy — Discovery",
+      "format": "Discovery",
+      "durationSeconds": 37,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "An open-source workspace can still have a paid cloud plan. AppFlowy offers a workspace for pages and structured work. The client and hosted service are different parts of the decision. Before comparing it with Notion, I want to know what works locally and what my plan includes. The free hosted tier has limits. Team size, storage, and AI usage need a current check. The useful question is whether my pages and tables still work when the network disappears. Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 94,
+      "estimatedWpm": 152,
+      "concept": "Docs, tables, Kanban, calendar, forms and local/cloud options.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "An open-source workspace can still have a paid cloud plan.",
+        "An open client does not mean unlimited free cloud.",
+        "Check the plan before moving your workspace."
+      ],
+      "strongestHook": "An open-source workspace can still have a paid cloud plan.",
+      "directorBrief": "Direct this as a useful discovery with one important limit: Docs, tables, Kanban, calendar, forms and local/cloud options. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Medium",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Capture current AppFlowy client version, license, hosted plan and official limits. Create a synthetic five-row workspace. Record actual available table/board/page operations. Identify local and hosted modes separately. Avoid claiming offline use before disconnect test and avoid claiming free cloud has unlimited team/AI/storage access.",
+      "evidenceRequirements": "Verify current client license, hosted pricing and free limits.",
+      "sources": [
+        {
+          "label": "AppFlowy hosted plans",
+          "url": "https://appflowy.com/pricing",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Open Source Paid Cloud",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Open Source Paid Cloud” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+      "cta": "SAME WORKSPACE. REAL TEST.",
+      "instagramCaption": "AppFlowy — Discovery. Docs, tables, Kanban, calendar, forms and local/cloud options. Full test conditions and limitations belong beside the final result. Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+      "tiktokCaption": "AppFlowy — Discovery. SAME WORKSPACE. REAL TEST.",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "App, repo, official pricing, Notion reference.",
+      "scenes": [
+        {
+          "id": "D06R1-S1",
+          "start": 0,
+          "end": 4.066666666666666,
+          "type": "hook",
+          "text": "OPEN SOURCE. PAID CLOUD?",
+          "narration": "An open-source workspace can still have a paid cloud plan.",
+          "concept": "AppFlowy app and current official pricing, not a generic dashboard mockup.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d06r1/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "AppFlowy app and current official pricing, not a generic dashboard mockup.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "An open-source workspace can still have",
+            "a paid cloud plan."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D06R1-S2",
+          "start": 4.066666666666666,
+          "end": 11.833333333333334,
+          "type": "workflow",
+          "text": "CLIENT / HOSTED SERVICE",
+          "narration": "AppFlowy offers a workspace for pages and structured work. The client and hosted service are different parts of the decision.",
+          "concept": "Two clearly named cards branch from the same workspace.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Two clearly named cards branch from the same workspace.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "AppFlowy offers a workspace for pages",
+            "and structured work. The client and",
+            "hosted service are different parts of",
+            "the decision."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D06R1-S3",
+          "start": 11.833333333333334,
+          "end": 18.5,
+          "type": "evidence",
+          "text": "WHAT WORKS ON THIS PLAN?",
+          "narration": "Before comparing it with Notion, I want to know what works locally and what my plan includes.",
+          "concept": "Actual account plan, available workspace features and local mode evidence.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d06r1/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual account plan, available workspace features and local mode evidence.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Before comparing it with Notion, I",
+            "want to know what works locally",
+            "and what my plan includes."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D06R1-S4",
+          "start": 18.5,
+          "end": 24.8,
+          "type": "evidence",
+          "text": "READ THE FREE LIMITS",
+          "narration": "The free hosted tier has limits. Team size, storage, and AI usage need a current check.",
+          "concept": "Dated official limits crop; no unverified permanent pricing claim.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d06r1/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Dated official limits crop; no unverified permanent pricing claim.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "The free hosted tier has limits.",
+            "Team size, storage, and AI usage",
+            "need a current check."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D06R1-S5",
+          "start": 24.8,
+          "end": 30.7,
+          "type": "evidence",
+          "text": "THE OFFLINE QUESTION",
+          "narration": "The useful question is whether my pages and tables still work when the network disappears.",
+          "concept": "Prepare a synthetic project workspace; no offline claim until tested.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d06r1/s5.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Prepare a synthetic project workspace; no offline claim until tested.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "The useful question is whether my",
+            "pages and tables still work when",
+            "the network disappears."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D06R1-S6",
+          "start": 30.7,
+          "end": 37,
+          "type": "question",
+          "text": "SAME WORKSPACE. REAL TEST.",
+          "narration": "Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+          "concept": "Workspace specification becomes the next comparison checklist.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Workspace specification becomes the next comparison checklist.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "Next I am rebuilding one workspace",
+            "in AppFlowy and Notion, then testing",
+            "offline use and export."
+          ],
+          "visualSystem": "ToolVisuals"
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-source-backed-explainer-built"
+    },
+    {
+      "id": "D06R2",
+      "day": 6,
+      "reelNumber": 2,
+      "title": "AppFlowy — Notion Test",
+      "format": "Test",
+      "durationSeconds": 55,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "I rebuilt the same small workspace in AppFlowy and Notion. A table, board, calendar, project page, and form. If a feature was unavailable, I marked it. Then I disconnected the test device and tried opening, editing, and saving the workspace. I also exported the data and opened it elsewhere. A download is not enough if fields disappear. [OFFLINE_AND_EXPORT_RESULTS]. [TEAM_AND_FEATURE_LIMITS]. [WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 65,
+      "estimatedWpm": 71,
+      "concept": "Table, Kanban, calendar, page/form; offline, export and team tests.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "I rebuilt the same small workspace in AppFlowy and Notion.",
+        "The network is off. Can the workspace still save?",
+        "The export downloaded. Did the data survive?"
+      ],
+      "strongestHook": "I rebuilt the same small workspace in AppFlowy and Notion.",
+      "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Table, Kanban, calendar, page/form; offline, export and team tests. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Hard",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Build the same five-row project dataset and attachments in AppFlowy and Notion. Attempt table, board, calendar, project page and form; record availability by plan. Disconnect an isolated test device, open/edit/save, reconnect and inspect persistence/conflicts. Export, parse and count rows/properties/attachments independently. Invite a second test account only if available and authorized; otherwise mark team test unperformed. Report offline/export fidelity and actual gaps.",
+      "evidenceRequirements": "Check actual working outputs and data fidelity.",
+      "sources": [
+        {
+          "label": "AppFlowy hosted plans",
+          "url": "https://appflowy.com/pricing",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "The Offline Workspace Test",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “The Offline Workspace Test” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "[WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+      "cta": "WHAT WOULD YOU NEED?",
+      "instagramCaption": "AppFlowy — Notion Test. Table, Kanban, calendar, page/form; offline, export and team tests. Full test conditions and limitations belong beside the final result. [WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+      "tiktokCaption": "AppFlowy — Notion Test. WHAT WOULD YOU NEED?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Matching workspaces, offline/export/team runs.",
+      "scenes": [
+        {
+          "id": "D06R2-S1",
+          "start": 0,
+          "end": 8.533333333333333,
+          "type": "hook",
+          "text": "APPFLOWY VS NOTION",
+          "narration": "I rebuilt the same small workspace in AppFlowy and Notion.",
+          "concept": "Matched synthetic task table with identical rows and properties.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d06r2/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Matched synthetic task table with identical rows and properties.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "I rebuilt the same small workspace",
+            "in AppFlowy and Notion."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "ONE WORKSPACE. TWO TOOLS.",
+          "presentationNarration": "The comparison will rebuild the same small workspace in AppFlowy and Notion.",
+          "presentationCaptionChunks": [
+            "The comparison will rebuild the same",
+            "small workspace in AppFlowy and Notion."
+          ]
+        },
+        {
+          "id": "D06R2-S2",
+          "start": 8.533333333333333,
+          "end": 21.7,
+          "type": "workflow",
+          "text": "MATCHED WORKSPACE",
+          "narration": "A table, board, calendar, project page, and form. If a feature was unavailable, I marked it.",
+          "concept": "Feature cards map to actual implementation or recorded gap.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Feature cards map to actual implementation or recorded gap.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "A table, board, calendar, project page,",
+            "and form. If a feature was",
+            "unavailable, I marked it."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "TABLE. BOARD. CALENDAR.",
+          "presentationNarration": "A table, board, calendar, project page, and form are the fixtures. Unavailable features will be marked.",
+          "presentationCaptionChunks": [
+            "A table, board, calendar, project page,",
+            "and form are the fixtures. Unavailable",
+            "features will be marked."
+          ]
+        },
+        {
+          "id": "D06R2-S3",
+          "start": 21.7,
+          "end": 33.333333333333336,
+          "type": "evidence",
+          "text": "OFFLINE: OPEN / EDIT / SAVE",
+          "narration": "Then I disconnected the test device and tried opening, editing, and saving the workspace.",
+          "concept": "Actual network state and document edit; reconnect and inspect persisted result.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d06r2/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual network state and document edit; reconnect and inspect persisted result.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Then I disconnected the test device",
+            "and tried opening, editing, and saving",
+            "the workspace."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "PULL THE NETWORK",
+          "presentationNarration": "The test device will go offline before opening, editing, and saving the workspace.",
+          "presentationCaptionChunks": [
+            "The test device will go offline",
+            "before opening, editing, and saving the",
+            "workspace."
+          ]
+        },
+        {
+          "id": "D06R2-S4",
+          "start": 33.333333333333336,
+          "end": 47.266666666666666,
+          "type": "evidence",
+          "text": "CHECK THE EXPORTED DATA",
+          "narration": "I also exported the data and opened it elsewhere. A download is not enough if fields disappear.",
+          "concept": "Independent viewer or parser; compare rows, properties and attachments.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d06r2/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Independent viewer or parser; compare rows, properties and attachments.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I also exported the data and",
+            "opened it elsewhere. A download is",
+            "not enough if fields disappear."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "EXPORT. REOPEN. INSPECT.",
+          "presentationNarration": "Exported data will be opened elsewhere. Missing fields or broken relationships will count as evidence.",
+          "presentationCaptionChunks": [
+            "Exported data will be opened elsewhere.",
+            "Missing fields or broken relationships will",
+            "count as evidence."
+          ]
+        },
+        {
+          "id": "D06R2-S5",
+          "start": 47.266666666666666,
+          "end": 49.56666666666667,
+          "type": "result",
+          "text": "[WORKSPACE TEST RESULT]",
+          "narration": "[OFFLINE_AND_EXPORT_RESULTS]. [TEAM_AND_FEATURE_LIMITS].",
+          "concept": "Measured fidelity counts and observed account limits; no blanket Notion-killer claim.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Measured fidelity counts and observed account limits; no blanket Notion-killer claim.",
+          "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "[OFFLINE_AND_EXPORT_RESULTS]. [TEAM_AND_FEATURE_LIMITS]."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "OFFLINE + DATA FIDELITY",
+          "presentationNarration": "Offline behavior, export fidelity, team limits, and feature access need observed results. No switching recommendation has been earned yet.",
+          "presentationCaptionChunks": [
+            "Offline behavior, export fidelity, team limits,",
+            "and feature access need observed results.",
+            "No switching recommendation has been earned",
+            "yet."
+          ]
+        },
+        {
+          "id": "D06R2-S6",
+          "start": 49.56666666666667,
+          "end": 55,
+          "type": "question",
+          "text": "WHAT WOULD YOU NEED?",
+          "narration": "[WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?",
+          "concept": "Show the use case that determines the recommendation.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Show the use case that determines the recommendation.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "[WHO_SHOULD_SWITCH_AND_WHO_SHOULD_STAY]. What would your workspace need?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "WHAT MUST SURVIVE?",
+          "presentationNarration": "The eventual verdict will identify who benefits and who should stay. What data could your workspace never lose?",
+          "presentationCaptionChunks": [
+            "The eventual verdict will identify who",
+            "benefits and who should stay. What",
+            "data could your workspace never lose?"
+          ]
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-test-plan-built"
+    },
+    {
+      "id": "D07R1",
+      "day": 7,
+      "reelNumber": 1,
+      "title": "Butterfly — Discovery",
+      "format": "Discovery",
+      "durationSeconds": 35,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "This open-source notebook starts with a canvas, not a subscription pitch. Butterfly is a local-first, cross-platform note app. I want to see the workflow, not just the feature list. Import a sample PDF, write on it, and move one note without rebuilding the page. Then export the page and open it in another viewer. Handwriting, organization, and collaboration can behave very differently across devices and versions. Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 82,
+      "estimatedWpm": 141,
+      "concept": "Draw, import a PDF, annotate, move objects and export.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "This open-source notebook starts with a canvas, not a subscription pitch.",
+        "An open-source canvas for your PDF notes.",
+        "Write on the PDF, then check what leaves the app."
+      ],
+      "strongestHook": "This open-source notebook starts with a canvas, not a subscription pitch.",
+      "directorBrief": "Direct this as a useful discovery with one important limit: Draw, import a PDF, annotate, move objects and export. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Easy",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Use a supported available device and synthetic three-page PDF. Log OS, stylus/mouse, Butterfly version and platform status. Demonstrate import, writing, highlighting, moving a note and export if supported. Inspect exported PDF independently. Capture official local-first/platform claims and experimental feature labels separately from observed actions.",
+      "evidenceRequirements": "Verify versions, platforms, preview labels and collaboration status.",
+      "sources": [
+        {
+          "label": "Butterfly repository",
+          "url": "https://github.com/LinwoodDev/Butterfly",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "An Open Source Notebook",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “An Open Source Notebook” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+      "cta": "SAME PDF. TWO NOTE APPS.",
+      "instagramCaption": "Butterfly — Discovery. Draw, import a PDF, annotate, move objects and export. Full test conditions and limitations belong beside the final result. Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+      "tiktokCaption": "Butterfly — Discovery. SAME PDF. TWO NOTE APPS.",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Canvas, PDF, exports, platform evidence.",
+      "scenes": [
+        {
+          "id": "D07R1-S1",
+          "start": 0,
+          "end": 4.766666666666667,
+          "type": "hook",
+          "text": "AN OPEN-SOURCE NOTEBOOK",
+          "narration": "This open-source notebook starts with a canvas, not a subscription pitch.",
+          "concept": "Real Butterfly canvas and installed version; use synthetic notes.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d07r1/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real Butterfly canvas and installed version; use synthetic notes.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "This open-source notebook starts with a",
+            "canvas, not a subscription pitch."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D07R1-S2",
+          "start": 4.766666666666667,
+          "end": 12.333333333333334,
+          "type": "evidence",
+          "text": "LOCAL-FIRST NOTES",
+          "narration": "Butterfly is a local-first, cross-platform note app. I want to see the workflow, not just the feature list.",
+          "concept": "Official README with current platform evidence; state only tested device in overlay.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d07r1/s2.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Official README with current platform evidence; state only tested device in overlay.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Butterfly is a local-first, cross-platform note",
+            "app. I want to see the",
+            "workflow, not just the feature list."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D07R1-S3",
+          "start": 12.333333333333334,
+          "end": 18.7,
+          "type": "evidence",
+          "text": "IMPORT. WRITE. MOVE.",
+          "narration": "Import a sample PDF, write on it, and move one note without rebuilding the page.",
+          "concept": "Actual supported actions at normal speed; show gaps honestly.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d07r1/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Actual supported actions at normal speed; show gaps honestly.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Import a sample PDF, write on",
+            "it, and move one note without",
+            "rebuilding the page."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D07R1-S4",
+          "start": 18.7,
+          "end": 23.066666666666666,
+          "type": "evidence",
+          "text": "DOES THE EXPORT SURVIVE?",
+          "narration": "Then export the page and open it in another viewer.",
+          "concept": "Real export dialog and independent PDF view; verify annotation placement.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d07r1/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Real export dialog and independent PDF view; verify annotation placement.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Then export the page and open",
+            "it in another viewer."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D07R1-S5",
+          "start": 23.066666666666666,
+          "end": 28.233333333333334,
+          "type": "workflow",
+          "text": "TEST THE DEVICE YOU USE",
+          "narration": "Handwriting, organization, and collaboration can behave very differently across devices and versions.",
+          "concept": "Device and version card; label experimental features when official docs do.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Device and version card; label experimental features when official docs do.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "Handwriting, organization, and collaboration can behave",
+            "very differently across devices and versions."
+          ],
+          "visualSystem": "ToolVisuals"
+        },
+        {
+          "id": "D07R1-S6",
+          "start": 28.233333333333334,
+          "end": 35,
+          "type": "question",
+          "text": "SAME PDF. TWO NOTE APPS.",
+          "narration": "Next I am using the same PDF in Butterfly and Goodnotes. What would make you switch?",
+          "concept": "Sample PDF returns blank, ready for paired annotation.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Sample PDF returns blank, ready for paired annotation.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "Next I am using the same",
+            "PDF in Butterfly and Goodnotes. What",
+            "would make you switch?"
+          ],
+          "visualSystem": "ToolVisuals"
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-source-backed-explainer-built"
+    },
+    {
+      "id": "D07R2",
+      "day": 7,
+      "reelNumber": 2,
+      "title": "Butterfly — Goodnotes Test",
+      "format": "Test",
+      "durationSeconds": 50,
+      "productionReady": false,
+      "directorReady": true,
+      "status": "script-directed-experiment-pending",
+      "script": "Can Butterfly replace my paid notebook app for this PDF workflow? Five minutes to annotate the same pages: write, highlight, draw a shape, and move a note. I checked organization, responsiveness, and whether the exported PDF kept the marks in place. Sync or collaboration only gets a verdict if I can actually test it on these accounts and devices. [WRITING_ORGANIZATION_AND_EXPORT_RESULTS]. [DEVICE_AND_SYNC_LIMIT]. [SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+      "audio": null,
+      "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+      "wordCount": 69,
+      "estimatedWpm": 83,
+      "concept": "Same PDF: handwriting, shapes, moving notes, export, organization, sync and performance.",
+      "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+      "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+      "hooks": [
+        "Can Butterfly replace my paid notebook app for this PDF workflow?",
+        "Same PDF, same pen, two note apps.",
+        "Would you switch if the exported notes survive?"
+      ],
+      "strongestHook": "Can Butterfly replace my paid notebook app for this PDF workflow?",
+      "directorBrief": "Direct this as a fair matched test with a scoped recommendation: Same PDF: handwriting, shapes, moving notes, export, organization, sync and performance. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+      "difficulty": "Medium",
+      "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+      "experimentRequired": true,
+      "protocol": "Use the same supported device/stylus where possible for Butterfly and Goodnotes; disclose hardware mismatch or inaccessible app. Annotate identical PDF pages for five minutes per tool using fixed text, highlight, rectangle and moved note. Compare readability, object handling, organization, subjective responsiveness and export position. Check sync only with available test devices/accounts; otherwise mark untested. Do not invent latency numbers or universal replacement claims.",
+      "evidenceRequirements": "Test supported devices; report access gaps and actual limitations.",
+      "sources": [
+        {
+          "label": "Butterfly repository",
+          "url": "https://github.com/LinwoodDev/Butterfly",
+          "checkedOn": "2026-10-04",
+          "scope": "Background fact or documented product terms only; not proof of a performed test."
+        }
+      ],
+      "thumbnail": "Same PDF Two Apps",
+      "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Same PDF Two Apps” in the top-middle safe area; one accent, no extra subheading.",
+      "ending": "[SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+      "cta": "WOULD YOU SWITCH?",
+      "instagramCaption": "Butterfly — Goodnotes Test. Same PDF: handwriting, shapes, moving notes, export, organization, sync and performance. Full test conditions and limitations belong beside the final result. [SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+      "tiktokCaption": "Butterfly — Goodnotes Test. WOULD YOU SWITCH?",
+      "hashtags": [
+        "#Toolproof",
+        "#SoftwareTools",
+        "#OpenSource",
+        "#ToolTest"
+      ],
+      "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+      "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+      "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+      "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+      "assetBrief": "Paired notes, input/exported PDFs, device runs.",
+      "scenes": [
+        {
+          "id": "D07R2-S1",
+          "start": 0,
+          "end": 8,
+          "type": "hook",
+          "text": "BUTTERFLY VS GOODNOTES",
+          "narration": "Can Butterfly replace my paid notebook app for this PDF workflow?",
+          "concept": "Same device and stylus where both supported; disclose unequal device if necessary.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d07r2/s1.mp4",
+          "plannedAssetType": "video",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Same device and stylus where both supported; disclose unequal device if necessary.",
+          "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+          "captionChunks": [
+            "Can Butterfly replace my paid notebook",
+            "app for this PDF workflow?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "A MATCHED PDF WORKFLOW",
+          "presentationNarration": "The planned comparison gives Butterfly and Goodnotes the same PDF annotation task.",
+          "presentationCaptionChunks": [
+            "The planned comparison gives Butterfly and",
+            "Goodnotes the same PDF annotation task."
+          ]
+        },
+        {
+          "id": "D07R2-S2",
+          "start": 8,
+          "end": 19.333333333333332,
+          "type": "workflow",
+          "text": "SAME PAGES. SAME TASKS.",
+          "narration": "Five minutes to annotate the same pages: write, highlight, draw a shape, and move a note.",
+          "concept": "Exact reference annotations and task order; recording retains writing speed.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "track-left",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Exact reference annotations and task order; recording retains writing speed.",
+          "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "Five minutes to annotate the same",
+            "pages: write, highlight, draw a shape,",
+            "and move a note."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "FIVE MINUTES. SAME PAGES.",
+          "presentationNarration": "Each run gets five minutes to write, highlight, draw a shape, and move a note.",
+          "presentationCaptionChunks": [
+            "Each run gets five minutes to",
+            "write, highlight, draw a shape, and",
+            "move a note."
+          ]
+        },
+        {
+          "id": "D07R2-S3",
+          "start": 19.333333333333332,
+          "end": 29.333333333333332,
+          "type": "evidence",
+          "text": "CHECK THE NOTES AND OUTPUT",
+          "narration": "I checked organization, responsiveness, and whether the exported PDF kept the marks in place.",
+          "concept": "Independent export viewer beside original annotations at same zoom.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d07r2/s3.mp4",
+          "plannedAssetType": "video",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Independent export viewer beside original annotations at same zoom.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "I checked organization, responsiveness, and whether",
+            "the exported PDF kept the marks",
+            "in place."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "REOPEN THE EXPORT",
+          "presentationNarration": "The review will check responsiveness, organization, and whether exported marks stay in place.",
+          "presentationCaptionChunks": [
+            "The review will check responsiveness, organization,",
+            "and whether exported marks stay in",
+            "place."
+          ]
+        },
+        {
+          "id": "D07R2-S4",
+          "start": 29.333333333333332,
+          "end": 42,
+          "type": "evidence",
+          "text": "UNTESTED MEANS UNTESTED",
+          "narration": "Sync or collaboration only gets a verdict if I can actually test it on these accounts and devices.",
+          "concept": "Show tested account/device scope and explicit unavailable items.",
+          "asset": null,
+          "assetKind": "video",
+          "plannedAsset": "assets/week-1/d07r2/s4.mp4",
+          "plannedAssetType": "video",
+          "transition": "track-up",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Show tested account/device scope and explicit unavailable items.",
+          "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+          "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+          "captionChunks": [
+            "Sync or collaboration only gets a",
+            "verdict if I can actually test",
+            "it on these accounts and devices."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "ONLY TESTED SYNC COUNTS",
+          "presentationNarration": "Collaboration and sync will get a verdict only on accounts and devices actually tested.",
+          "presentationCaptionChunks": [
+            "Collaboration and sync will get a",
+            "verdict only on accounts and devices",
+            "actually tested."
+          ]
+        },
+        {
+          "id": "D07R2-S5",
+          "start": 42,
+          "end": 44,
+          "type": "result",
+          "text": "[NOTEBOOK VERDICT]",
+          "narration": "[WRITING_ORGANIZATION_AND_EXPORT_RESULTS]. [DEVICE_AND_SYNC_LIMIT].",
+          "concept": "Evidence-based task results; no subjective latency measurement without instrument.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "push-in",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Evidence-based task results; no subjective latency measurement without instrument.",
+          "animation": "Build the authored decision/comparison card. For tests, ingest measured evidence fields only after audit; draft shows result pending. For fiction, label the scenario.",
+          "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+          "captionChunks": [
+            "[WRITING_ORGANIZATION_AND_EXPORT_RESULTS]. [DEVICE_AND_SYNC_LIMIT]."
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "KEEP THE DEVICE LIMITS",
+          "presentationNarration": "Writing, organization, export quality, and device limitations need captured observations. No replacement verdict exists yet.",
+          "presentationCaptionChunks": [
+            "Writing, organization, export quality, and device",
+            "limitations need captured observations. No replacement",
+            "verdict exists yet."
+          ]
+        },
+        {
+          "id": "D07R2-S6",
+          "start": 44,
+          "end": 50,
+          "type": "question",
+          "text": "WOULD YOU SWITCH?",
+          "narration": "[SPECIFIC_FIT_AND_GAP]. Would these notes cover what you need?",
+          "concept": "Finish on exported notes, not a pricing screenshot.",
+          "asset": null,
+          "assetKind": "image",
+          "plannedAsset": null,
+          "plannedAssetType": "native",
+          "transition": "pull-back",
+          "camera": {
+            "fromScale": 1,
+            "toScale": 1.012,
+            "fromX": 0,
+            "toX": 0
+          },
+          "direction": "Finish on exported notes, not a pricing screenshot.",
+          "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+          "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+          "captionChunks": [
+            "[SPECIFIC_FIT_AND_GAP]. Would these notes cover what",
+            "you need?"
+          ],
+          "visualSystem": "ToolVisuals",
+          "presentationText": "DO THESE NOTES FIT?",
+          "presentationNarration": "The recommendation will describe a specific fit and any gap. Which note-taking feature would stop you switching?",
+          "presentationCaptionChunks": [
+            "The recommendation will describe a specific",
+            "fit and any gap. Which note-taking",
+            "feature would stop you switching?"
+          ]
+        }
+      ],
+      "visualBuild": "topic-specific-editorial-diagrams",
+      "renderStatus": "silent-test-plan-built"
+    }
+  ]
+}

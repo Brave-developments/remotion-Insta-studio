@@ -1,0 +1,581 @@
+{
+  "fingerprint": "d0d86b81dabd6f0a00ebbcd574e8f0328514e22ea26a7435309bfd3e29b45c33",
+  "recognizedText": " It is 2035, your mother calls. Your phone says unverified. Her face looks right. Her voice sounds right. She says she needs money immediately. You almost tap send. Then you end the call and use the number you already know. Your mother answers. She is fine. The first call was someone else wearing her face. Watermarking and provenance tools exist today, but no universal badge can guarantee every caller is real. In a world of convincing copies, would you trust appearance alone?",
+  "words": [
+    {
+      "text": " It",
+      "timestamp": [
+        0.0,
+        0.52
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        0.52,
+        0.64
+      ]
+    },
+    {
+      "text": " 2035,",
+      "timestamp": [
+        0.64,
+        2.06
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        2.06,
+        2.16
+      ]
+    },
+    {
+      "text": " mother",
+      "timestamp": [
+        2.16,
+        2.38
+      ]
+    },
+    {
+      "text": " calls.",
+      "timestamp": [
+        2.38,
+        3.2
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        3.46,
+        3.46
+      ]
+    },
+    {
+      "text": " phone",
+      "timestamp": [
+        3.46,
+        3.78
+      ]
+    },
+    {
+      "text": " says",
+      "timestamp": [
+        3.78,
+        4.08
+      ]
+    },
+    {
+      "text": " unverified.",
+      "timestamp": [
+        4.08,
+        5.4
+      ]
+    },
+    {
+      "text": " Her",
+      "timestamp": [
+        5.44,
+        5.5
+      ]
+    },
+    {
+      "text": " face",
+      "timestamp": [
+        5.5,
+        5.8
+      ]
+    },
+    {
+      "text": " looks",
+      "timestamp": [
+        5.8,
+        6.04
+      ]
+    },
+    {
+      "text": " right.",
+      "timestamp": [
+        6.04,
+        6.68
+      ]
+    },
+    {
+      "text": " Her",
+      "timestamp": [
+        6.74,
+        6.8
+      ]
+    },
+    {
+      "text": " voice",
+      "timestamp": [
+        6.8,
+        7.08
+      ]
+    },
+    {
+      "text": " sounds",
+      "timestamp": [
+        7.08,
+        7.46
+      ]
+    },
+    {
+      "text": " right.",
+      "timestamp": [
+        7.46,
+        8.18
+      ]
+    },
+    {
+      "text": " She",
+      "timestamp": [
+        8.18,
+        8.3
+      ]
+    },
+    {
+      "text": " says",
+      "timestamp": [
+        8.3,
+        8.5
+      ]
+    },
+    {
+      "text": " she",
+      "timestamp": [
+        8.5,
+        8.68
+      ]
+    },
+    {
+      "text": " needs",
+      "timestamp": [
+        8.68,
+        8.9
+      ]
+    },
+    {
+      "text": " money",
+      "timestamp": [
+        8.9,
+        9.22
+      ]
+    },
+    {
+      "text": " immediately.",
+      "timestamp": [
+        9.22,
+        10.28
+      ]
+    },
+    {
+      "text": " You",
+      "timestamp": [
+        10.28,
+        10.38
+      ]
+    },
+    {
+      "text": " almost",
+      "timestamp": [
+        10.38,
+        10.7
+      ]
+    },
+    {
+      "text": " tap",
+      "timestamp": [
+        10.7,
+        10.96
+      ]
+    },
+    {
+      "text": " send.",
+      "timestamp": [
+        10.96,
+        11.7
+      ]
+    },
+    {
+      "text": " Then",
+      "timestamp": [
+        11.9,
+        12.06
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        12.06,
+        12.2
+      ]
+    },
+    {
+      "text": " end",
+      "timestamp": [
+        12.2,
+        12.36
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        12.36,
+        12.52
+      ]
+    },
+    {
+      "text": " call",
+      "timestamp": [
+        12.52,
+        12.76
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        12.76,
+        13.08
+      ]
+    },
+    {
+      "text": " use",
+      "timestamp": [
+        13.08,
+        13.3
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        13.3,
+        13.5
+      ]
+    },
+    {
+      "text": " number",
+      "timestamp": [
+        13.5,
+        13.76
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        13.76,
+        13.98
+      ]
+    },
+    {
+      "text": " already",
+      "timestamp": [
+        13.98,
+        14.24
+      ]
+    },
+    {
+      "text": " know.",
+      "timestamp": [
+        14.24,
+        15.08
+      ]
+    },
+    {
+      "text": " Your",
+      "timestamp": [
+        15.08,
+        15.22
+      ]
+    },
+    {
+      "text": " mother",
+      "timestamp": [
+        15.22,
+        15.48
+      ]
+    },
+    {
+      "text": " answers.",
+      "timestamp": [
+        15.48,
+        16.44
+      ]
+    },
+    {
+      "text": " She",
+      "timestamp": [
+        16.44,
+        16.62
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        16.62,
+        16.76
+      ]
+    },
+    {
+      "text": " fine.",
+      "timestamp": [
+        16.76,
+        17.56
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        17.56,
+        17.62
+      ]
+    },
+    {
+      "text": " first",
+      "timestamp": [
+        17.62,
+        17.9
+      ]
+    },
+    {
+      "text": " call",
+      "timestamp": [
+        17.9,
+        18.18
+      ]
+    },
+    {
+      "text": " was",
+      "timestamp": [
+        18.18,
+        18.38
+      ]
+    },
+    {
+      "text": " someone",
+      "timestamp": [
+        18.38,
+        18.68
+      ]
+    },
+    {
+      "text": " else",
+      "timestamp": [
+        18.68,
+        18.94
+      ]
+    },
+    {
+      "text": " wearing",
+      "timestamp": [
+        18.94,
+        19.2
+      ]
+    },
+    {
+      "text": " her",
+      "timestamp": [
+        19.2,
+        19.44
+      ]
+    },
+    {
+      "text": " face.",
+      "timestamp": [
+        19.44,
+        20.42
+      ]
+    },
+    {
+      "text": " Watermarking",
+      "timestamp": [
+        20.42,
+        21.02
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        21.02,
+        21.14
+      ]
+    },
+    {
+      "text": " provenance",
+      "timestamp": [
+        21.14,
+        21.6
+      ]
+    },
+    {
+      "text": " tools",
+      "timestamp": [
+        21.6,
+        21.96
+      ]
+    },
+    {
+      "text": " exist",
+      "timestamp": [
+        21.96,
+        22.38
+      ]
+    },
+    {
+      "text": " today,",
+      "timestamp": [
+        22.38,
+        23.16
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        23.16,
+        23.34
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        23.34,
+        23.58
+      ]
+    },
+    {
+      "text": " universal",
+      "timestamp": [
+        23.58,
+        24.14
+      ]
+    },
+    {
+      "text": " badge",
+      "timestamp": [
+        24.14,
+        24.5
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        24.5,
+        24.78
+      ]
+    },
+    {
+      "text": " guarantee",
+      "timestamp": [
+        24.78,
+        25.14
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        25.14,
+        25.62
+      ]
+    },
+    {
+      "text": " caller",
+      "timestamp": [
+        25.76,
+        25.94
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        25.94,
+        26.18
+      ]
+    },
+    {
+      "text": " real.",
+      "timestamp": [
+        26.18,
+        26.84
+      ]
+    },
+    {
+      "text": " In",
+      "timestamp": [
+        26.92,
+        26.92
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        26.92,
+        27.0
+      ]
+    },
+    {
+      "text": " world",
+      "timestamp": [
+        27.0,
+        27.2
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        27.2,
+        27.38
+      ]
+    },
+    {
+      "text": " convincing",
+      "timestamp": [
+        27.38,
+        27.78
+      ]
+    },
+    {
+      "text": " copies,",
+      "timestamp": [
+        27.78,
+        28.74
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        28.74,
+        28.84
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        28.84,
+        28.98
+      ]
+    },
+    {
+      "text": " trust",
+      "timestamp": [
+        28.98,
+        29.26
+      ]
+    },
+    {
+      "text": " appearance",
+      "timestamp": [
+        29.26,
+        29.68
+      ]
+    },
+    {
+      "text": " alone?",
+      "timestamp": [
+        29.68,
+        30.38
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

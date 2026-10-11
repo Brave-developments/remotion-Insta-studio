@@ -1,0 +1,406 @@
+{
+  "timingSource": "Estimated editorial pacing. Not transcribed from audio.",
+  "sentences": [
+    {
+      "start": 0,
+      "end": 3.5,
+      "text": "AI is changing again.",
+      "captionChunks": [
+        {
+          "start": 0,
+          "end": 1.8,
+          "text": "AI is changing",
+          "highlight": [
+            "AI"
+          ]
+        },
+        {
+          "start": 1.8,
+          "end": 3.5,
+          "text": "again.",
+          "highlight": [
+            "again."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 3.5,
+      "end": 7.5,
+      "text": "And this time, it’s not about getting a smarter chatbot.",
+      "captionChunks": [
+        {
+          "start": 3.5,
+          "end": 4.6,
+          "text": "And this time,"
+        },
+        {
+          "start": 4.6,
+          "end": 6.1,
+          "text": "it’s not about getting"
+        },
+        {
+          "start": 6.1,
+          "end": 7.5,
+          "text": "a smarter chatbot.",
+          "highlight": [
+            "smarter",
+            "chatbot."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 7.5,
+      "end": 11.5,
+      "text": "The next big thing is called an AI agent.",
+      "captionChunks": [
+        {
+          "start": 7.5,
+          "end": 9.5,
+          "text": "The next big thing"
+        },
+        {
+          "start": 9.5,
+          "end": 11.5,
+          "text": "is called an AI agent.",
+          "highlight": [
+            "AI",
+            "agent."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 11.5,
+      "end": 16,
+      "text": "Instead of waiting for you to ask a question, it can actually do the work for you.",
+      "captionChunks": [
+        {
+          "start": 11.5,
+          "end": 12.8,
+          "text": "Instead of waiting for you"
+        },
+        {
+          "start": 12.8,
+          "end": 13.9,
+          "text": "to ask a question,"
+        },
+        {
+          "start": 13.9,
+          "end": 14.9,
+          "text": "it can actually do",
+          "highlight": [
+            "actually",
+            "do"
+          ]
+        },
+        {
+          "start": 14.9,
+          "end": 16,
+          "text": "the work for you.",
+          "highlight": [
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 16,
+      "end": 21,
+      "text": "Imagine telling AI: “Research the best laptop under $1,500.”",
+      "captionChunks": [
+        {
+          "start": 16,
+          "end": 17.8,
+          "text": "Imagine telling AI:"
+        },
+        {
+          "start": 17.8,
+          "end": 19.5,
+          "text": "“Research the best laptop"
+        },
+        {
+          "start": 19.5,
+          "end": 21,
+          "text": "under $1,500.”",
+          "highlight": [
+            "$1,500.”"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 21,
+      "end": 28,
+      "text": "Instead of just giving you advice, it can browse websites, compare products, organise the results and prepare everything for you.",
+      "captionChunks": [
+        {
+          "start": 21,
+          "end": 23,
+          "text": "Instead of just giving you advice,"
+        },
+        {
+          "start": 23,
+          "end": 24.3,
+          "text": "it can browse websites,",
+          "highlight": [
+            "browse"
+          ]
+        },
+        {
+          "start": 24.3,
+          "end": 26.2,
+          "text": "compare products, organise the results",
+          "highlight": [
+            "compare"
+          ]
+        },
+        {
+          "start": 26.2,
+          "end": 28,
+          "text": "and prepare everything for you.",
+          "highlight": [
+            "prepare"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 28,
+      "end": 31,
+      "text": "And we’re already seeing this happen.",
+      "captionChunks": [
+        {
+          "start": 28,
+          "end": 29.4,
+          "text": "And we’re already",
+          "highlight": [
+            "already"
+          ]
+        },
+        {
+          "start": 29.4,
+          "end": 31,
+          "text": "seeing this happen.",
+          "highlight": [
+            "happen."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 31,
+      "end": 35,
+      "text": "OpenAI is building always-on agents.",
+      "captionChunks": [
+        {
+          "start": 31,
+          "end": 33,
+          "text": "OpenAI is building",
+          "highlight": [
+            "OpenAI"
+          ]
+        },
+        {
+          "start": 33,
+          "end": 35,
+          "text": "always-on agents.",
+          "highlight": [
+            "agents."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 35,
+      "end": 39.5,
+      "text": "Microsoft is turning Copilot into something closer to an operating system for work.",
+      "captionChunks": [
+        {
+          "start": 35,
+          "end": 36.8,
+          "text": "Microsoft is turning Copilot",
+          "highlight": [
+            "Copilot"
+          ]
+        },
+        {
+          "start": 36.8,
+          "end": 37.8,
+          "text": "into something closer"
+        },
+        {
+          "start": 37.8,
+          "end": 38.8,
+          "text": "to an operating system"
+        },
+        {
+          "start": 38.8,
+          "end": 39.5,
+          "text": "for work.",
+          "highlight": [
+            "work."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 39.5,
+      "end": 43,
+      "text": "And almost every major AI company is racing in the same direction.",
+      "captionChunks": [
+        {
+          "start": 39.5,
+          "end": 41.4,
+          "text": "And almost every major AI company",
+          "highlight": [
+            "AI"
+          ]
+        },
+        {
+          "start": 41.4,
+          "end": 43,
+          "text": "is racing in the same direction.",
+          "highlight": [
+            "racing"
+          ]
+        }
+      ]
+    },
+    {
+      "start": 43,
+      "end": 48,
+      "text": "The important difference is simple: Chatbots answer questions. Agents complete tasks.",
+      "captionChunks": [
+        {
+          "start": 43,
+          "end": 44.7,
+          "text": "The important difference is simple:"
+        },
+        {
+          "start": 44.7,
+          "end": 46.3,
+          "text": "Chatbots answer questions.",
+          "highlight": [
+            "Chatbots"
+          ]
+        },
+        {
+          "start": 46.3,
+          "end": 48,
+          "text": "Agents complete tasks.",
+          "highlight": [
+            "Agents",
+            "tasks."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 48,
+      "end": 53,
+      "text": "Coding. Research. Emails. Documents. Scheduling. Data analysis. Even controlling software.",
+      "captionChunks": [
+        {
+          "start": 48,
+          "end": 49.8,
+          "text": "Coding. Research. Emails. Documents.",
+          "highlight": [
+            "Coding."
+          ]
+        },
+        {
+          "start": 49.8,
+          "end": 51.3,
+          "text": "Scheduling. Data analysis.",
+          "highlight": [
+            "Data"
+          ]
+        },
+        {
+          "start": 51.3,
+          "end": 53,
+          "text": "Even controlling software.",
+          "highlight": [
+            "software."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 53,
+      "end": 57,
+      "text": "Soon, you might not open ten different apps to complete a job. You’ll simply tell your AI what you want finished.",
+      "captionChunks": [
+        {
+          "start": 53,
+          "end": 53.9,
+          "text": "Soon, you might not open"
+        },
+        {
+          "start": 53.9,
+          "end": 54.7,
+          "text": "ten different apps",
+          "highlight": [
+            "ten"
+          ]
+        },
+        {
+          "start": 54.7,
+          "end": 55.4,
+          "text": "to complete a job."
+        },
+        {
+          "start": 55.4,
+          "end": 56.3,
+          "text": "You’ll simply tell your AI",
+          "highlight": [
+            "AI"
+          ]
+        },
+        {
+          "start": 56.3,
+          "end": 57,
+          "text": "what you want finished.",
+          "highlight": [
+            "finished."
+          ]
+        }
+      ]
+    },
+    {
+      "start": 57,
+      "end": 60,
+      "text": "The chatbot era was only the beginning. The AI agent era is here.",
+      "captionChunks": [
+        {
+          "start": 57,
+          "end": 57.9,
+          "text": "The chatbot era",
+          "highlight": [
+            "chatbot"
+          ]
+        },
+        {
+          "start": 57.9,
+          "end": 58.7,
+          "text": "was only the beginning.",
+          "highlight": [
+            "beginning."
+          ]
+        },
+        {
+          "start": 58.7,
+          "end": 60,
+          "text": "The AI agent era is here.",
+          "highlight": [
+            "AI",
+            "agent",
+            "here."
+          ]
+        }
+      ]
+    }
+  ]
+}

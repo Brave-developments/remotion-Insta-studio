@@ -1,0 +1,23 @@
+{
+  "name": "toolproof",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.ts --port=3023",
+    "typecheck": "tsc --noEmit",
+    "render:preview": "remotion render src/index.ts ChannelPreview out/channel-preview.mp4 --codec=h264",
+    "render:reel": "node ../../studio-kit/scripts/render-reel.cjs",
+    "still": "remotion still src/index.ts ChannelPreview out/poster.png --frame=235"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "remotion": "4.0.532",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.10",
+    "@types/react-dom": "19.1.7",
+    "typescript": "5.9.2"
+  }
+}

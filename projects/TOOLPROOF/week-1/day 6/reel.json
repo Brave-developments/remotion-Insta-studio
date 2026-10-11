@@ -1,0 +1,234 @@
+{
+  "id": "D06R1",
+  "day": 6,
+  "reelNumber": 1,
+  "title": "AppFlowy — Discovery",
+  "format": "Discovery",
+  "durationSeconds": 37,
+  "productionReady": false,
+  "directorReady": true,
+  "status": "script-directed-experiment-pending",
+  "script": "An open-source workspace can still have a paid cloud plan. AppFlowy offers a workspace for pages and structured work. The client and hosted service are different parts of the decision. Before comparing it with Notion, I want to know what works locally and what my plan includes. The free hosted tier has limits. Team size, storage, and AI usage need a current check. The useful question is whether my pages and tables still work when the network disappears. Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+  "audio": null,
+  "timingStatus": "Estimated silent editorial timings. Refit scenes and caption timestamps to the unchanged voice-over when supplied.",
+  "wordCount": 94,
+  "estimatedWpm": 152,
+  "concept": "Docs, tables, Kanban, calendar, forms and local/cloud options.",
+  "whyNow": "A practical alternative deserves a current, version-specific check before a viewer changes workflow.",
+  "viewerGoal": "Decide whether this recorded workflow fits their own devices, plan and needs.",
+  "hooks": [
+    "An open-source workspace can still have a paid cloud plan.",
+    "An open client does not mean unlimited free cloud.",
+    "Check the plan before moving your workspace."
+  ],
+  "strongestHook": "An open-source workspace can still have a paid cloud plan.",
+  "directorBrief": "Direct this as a useful discovery with one important limit: Docs, tables, Kanban, calendar, forms and local/cloud options. Keep real app interaction dominant. The final verdict depends on who can use the tool for this recorded workflow, not a universal winner. Capture version, OS and plan so the evidence can be interpreted.",
+  "difficulty": "Medium",
+  "effort": "30–90 minutes capture/test; large transfers and export waiting may add elapsed time.",
+  "experimentRequired": true,
+  "protocol": "Capture current AppFlowy client version, license, hosted plan and official limits. Create a synthetic five-row workspace. Record actual available table/board/page operations. Identify local and hosted modes separately. Avoid claiming offline use before disconnect test and avoid claiming free cloud has unlimited team/AI/storage access.",
+  "evidenceRequirements": "Verify current client license, hosted pricing and free limits.",
+  "sources": [
+    {
+      "label": "AppFlowy hosted plans",
+      "url": "https://appflowy.com/pricing",
+      "checkedOn": "2026-10-04",
+      "scope": "Background fact or documented product terms only; not proof of a performed test."
+    }
+  ],
+  "thumbnail": "Open Source Paid Cloud",
+  "thumbnailDirection": "Use the opening object or strongest real evidence crop. Put “Open Source Paid Cloud” in the top-middle safe area; one accent, no extra subheading.",
+  "ending": "Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+  "cta": "SAME WORKSPACE. REAL TEST.",
+  "instagramCaption": "AppFlowy — Discovery. Docs, tables, Kanban, calendar, forms and local/cloud options. Full test conditions and limitations belong beside the final result. Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+  "tiktokCaption": "AppFlowy — Discovery. SAME WORKSPACE. REAL TEST.",
+  "hashtags": [
+    "#Toolproof",
+    "#SoftwareTools",
+    "#OpenSource",
+    "#ToolTest"
+  ],
+  "music": "Original/licensed light percussive electronic bed, 100–115 BPM; leave real clicks readable. No music asset is included.",
+  "recordings": "Full continuous source run plus selected genuine action clips. Record 1080p or higher, readable UI, cursor, exact OS/tool/plan and run clock. Keep uncropped originals.",
+  "screenshots": "Baseline, first attempt, final output, official license/plan/version, and each verdict evidence frame. Synthetic fixtures only.",
+  "icons": "Use original vector shapes and existing studio-kit Icon components; use official product marks only for identification. No random decorative icon grid.",
+  "assetBrief": "App, repo, official pricing, Notion reference.",
+  "scenes": [
+    {
+      "id": "D06R1-S1",
+      "start": 0,
+      "end": 4.066666666666666,
+      "type": "hook",
+      "text": "OPEN SOURCE. PAID CLOUD?",
+      "narration": "An open-source workspace can still have a paid cloud plan.",
+      "concept": "AppFlowy app and current official pricing, not a generic dashboard mockup.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s1.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "AppFlowy app and current official pricing, not a generic dashboard mockup.",
+      "animation": "Enter the central object in 6 frames; the hook lands immediately. Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Subtle contact tick at object arrival; no logo sting.",
+      "captionChunks": [
+        "An open-source workspace can still have",
+        "a paid cloud plan."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D06R1-S2",
+      "start": 4.066666666666666,
+      "end": 11.833333333333334,
+      "type": "workflow",
+      "text": "CLIENT / HOSTED SERVICE",
+      "narration": "AppFlowy offers a workspace for pages and structured work. The client and hosted service are different parts of the decision.",
+      "concept": "Two clearly named cards branch from the same workspace.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "track-left",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Two clearly named cards branch from the same workspace.",
+      "animation": "Build only the named flow or checklist using vector nodes, paths and icons. Draw each connection when its narration introduces it; avoid random agent graphs.",
+      "soundCue": "One restrained movement cue at the visual change; no whoosh on every text line.",
+      "captionChunks": [
+        "AppFlowy offers a workspace for pages",
+        "and structured work. The client and",
+        "hosted service are different parts of",
+        "the decision."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D06R1-S3",
+      "start": 11.833333333333334,
+      "end": 18.5,
+      "type": "evidence",
+      "text": "WHAT WORKS ON THIS PLAN?",
+      "narration": "Before comparing it with Notion, I want to know what works locally and what my plan includes.",
+      "concept": "Actual account plan, available workspace features and local mode evidence.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s3.mp4",
+      "plannedAssetType": "video",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Actual account plan, available workspace features and local mode evidence.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "Before comparing it with Notion, I",
+        "want to know what works locally",
+        "and what my plan includes."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D06R1-S4",
+      "start": 18.5,
+      "end": 24.8,
+      "type": "evidence",
+      "text": "READ THE FREE LIMITS",
+      "narration": "The free hosted tier has limits. Team size, storage, and AI usage need a current check.",
+      "concept": "Dated official limits crop; no unverified permanent pricing claim.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s4.mp4",
+      "plannedAssetType": "video",
+      "transition": "track-up",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Dated official limits crop; no unverified permanent pricing claim.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The free hosted tier has limits.",
+        "Team size, storage, and AI usage",
+        "need a current check."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D06R1-S5",
+      "start": 24.8,
+      "end": 30.7,
+      "type": "evidence",
+      "text": "THE OFFLINE QUESTION",
+      "narration": "The useful question is whether my pages and tables still work when the network disappears.",
+      "concept": "Prepare a synthetic project workspace; no offline claim until tested.",
+      "asset": null,
+      "assetKind": "video",
+      "plannedAsset": "assets/week-1/d06r1/s5.mp4",
+      "plannedAssetType": "video",
+      "transition": "push-in",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Prepare a synthetic project workspace; no offline claim until tested.",
+      "animation": "Place the genuine capture inside a minimal window frame. Crop to the relevant action; cursor click and output response must match the recording.",
+      "soundCue": "Actual click sound where available; add no sound that implies an unrecorded action.",
+      "captionChunks": [
+        "The useful question is whether my",
+        "pages and tables still work when",
+        "the network disappears."
+      ],
+      "visualSystem": "ToolVisuals"
+    },
+    {
+      "id": "D06R1-S6",
+      "start": 30.7,
+      "end": 37,
+      "type": "question",
+      "text": "SAME WORKSPACE. REAL TEST.",
+      "narration": "Next I am rebuilding one workspace in AppFlowy and Notion, then testing offline use and export.",
+      "concept": "Workspace specification becomes the next comparison checklist.",
+      "asset": null,
+      "assetKind": "image",
+      "plannedAsset": null,
+      "plannedAssetType": "native",
+      "transition": "pull-back",
+      "camera": {
+        "fromScale": 1,
+        "toScale": 1.012,
+        "fromX": 0,
+        "toX": 0
+      },
+      "direction": "Workspace specification becomes the next comparison checklist.",
+      "animation": "Reuse the key object from the opening. Reveal the final question in one readable line group; leave a 0.8–1.2 second final hold.",
+      "soundCue": "Drop music 4 dB before the question; preserve the final hold.",
+      "captionChunks": [
+        "Next I am rebuilding one workspace",
+        "in AppFlowy and Notion, then testing",
+        "offline use and export."
+      ],
+      "visualSystem": "ToolVisuals"
+    }
+  ],
+  "visualBuild": "topic-specific-editorial-diagrams",
+  "renderStatus": "silent-source-backed-explainer-built"
+}

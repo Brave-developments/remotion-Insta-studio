@@ -1,0 +1,15 @@
+{
+  "completed": false,
+  "generationId": "4f8177da-bc07-4e58-a93a-e3cb5dbd9250",
+  "sourceHash": "9ab64e0fd0743b2b8b31f7f6f9647b251a271e5e02f89967b7dc99cf45ac3b73",
+  "engine": "voxcpm",
+  "voice": "Brave 1",
+  "submittedAt": "2026-10-07T16:19:03.996Z",
+  "status": "complete",
+  "error": "timed out after 60 minutes; rerun to resume collecting.",
+  "durationSeconds": 55.15,
+  "sampleRate": "48000",
+  "channels": 1,
+  "bytes": 5294444,
+  "completedAt": "2026-10-07T23:20:26.308Z"
+}

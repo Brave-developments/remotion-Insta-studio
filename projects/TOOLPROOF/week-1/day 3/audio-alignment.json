@@ -1,0 +1,623 @@
+{
+  "fingerprint": "a827769d6eb58347552f5ad8d73a0f1905fbd2c418461700b35243b1412fffbe",
+  "recognizedText": " Before uploading a private PDF, check whether you can do the job locally. Sterling PDF brings merging, splitting, compression, OCR, and other PDF operations into one workspace. Its project describes desktop and self-hosted options. Choose the actual local setup before making a privacy claim. The project is open core. That means the license and paid feature boundaries deserve a look. For me, the useful question is whether the exported file is right, especially after redaction. Next, seven real jobs against Acrobat. Which one would you test first?",
+  "words": [
+    {
+      "text": " Before",
+      "timestamp": [
+        0.0,
+        0.3
+      ]
+    },
+    {
+      "text": " uploading",
+      "timestamp": [
+        0.3,
+        0.8
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        0.8,
+        0.96
+      ]
+    },
+    {
+      "text": " private",
+      "timestamp": [
+        0.96,
+        1.32
+      ]
+    },
+    {
+      "text": " PDF,",
+      "timestamp": [
+        1.32,
+        2.4
+      ]
+    },
+    {
+      "text": " check",
+      "timestamp": [
+        2.4,
+        2.56
+      ]
+    },
+    {
+      "text": " whether",
+      "timestamp": [
+        2.56,
+        2.84
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        2.84,
+        2.98
+      ]
+    },
+    {
+      "text": " can",
+      "timestamp": [
+        2.98,
+        3.12
+      ]
+    },
+    {
+      "text": " do",
+      "timestamp": [
+        3.12,
+        3.26
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        3.26,
+        3.38
+      ]
+    },
+    {
+      "text": " job",
+      "timestamp": [
+        3.38,
+        3.62
+      ]
+    },
+    {
+      "text": " locally.",
+      "timestamp": [
+        3.62,
+        4.64
+      ]
+    },
+    {
+      "text": " Sterling",
+      "timestamp": [
+        4.96,
+        5.12
+      ]
+    },
+    {
+      "text": " PDF",
+      "timestamp": [
+        5.12,
+        5.48
+      ]
+    },
+    {
+      "text": " brings",
+      "timestamp": [
+        5.48,
+        5.84
+      ]
+    },
+    {
+      "text": " merging,",
+      "timestamp": [
+        5.84,
+        6.78
+      ]
+    },
+    {
+      "text": " splitting,",
+      "timestamp": [
+        6.78,
+        7.48
+      ]
+    },
+    {
+      "text": " compression,",
+      "timestamp": [
+        7.48,
+        8.44
+      ]
+    },
+    {
+      "text": " OCR,",
+      "timestamp": [
+        8.44,
+        9.26
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        9.26,
+        9.44
+      ]
+    },
+    {
+      "text": " other",
+      "timestamp": [
+        9.44,
+        9.66
+      ]
+    },
+    {
+      "text": " PDF",
+      "timestamp": [
+        9.66,
+        10.0
+      ]
+    },
+    {
+      "text": " operations",
+      "timestamp": [
+        10.0,
+        10.64
+      ]
+    },
+    {
+      "text": " into",
+      "timestamp": [
+        10.64,
+        11.06
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        11.06,
+        11.28
+      ]
+    },
+    {
+      "text": " workspace.",
+      "timestamp": [
+        11.28,
+        12.32
+      ]
+    },
+    {
+      "text": " Its",
+      "timestamp": [
+        12.46,
+        12.58
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        12.58,
+        12.98
+      ]
+    },
+    {
+      "text": " describes",
+      "timestamp": [
+        12.98,
+        13.52
+      ]
+    },
+    {
+      "text": " desktop",
+      "timestamp": [
+        13.52,
+        13.94
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        13.94,
+        14.24
+      ]
+    },
+    {
+      "text": " self",
+      "timestamp": [
+        14.24,
+        14.52
+      ]
+    },
+    {
+      "text": "-hosted",
+      "timestamp": [
+        14.52,
+        14.88
+      ]
+    },
+    {
+      "text": " options.",
+      "timestamp": [
+        14.88,
+        15.8
+      ]
+    },
+    {
+      "text": " Choose",
+      "timestamp": [
+        16.02,
+        16.1
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        16.1,
+        16.32
+      ]
+    },
+    {
+      "text": " actual",
+      "timestamp": [
+        16.32,
+        16.68
+      ]
+    },
+    {
+      "text": " local",
+      "timestamp": [
+        16.68,
+        16.98
+      ]
+    },
+    {
+      "text": " setup",
+      "timestamp": [
+        16.98,
+        17.34
+      ]
+    },
+    {
+      "text": " before",
+      "timestamp": [
+        17.34,
+        17.68
+      ]
+    },
+    {
+      "text": " making",
+      "timestamp": [
+        17.68,
+        17.96
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        17.96,
+        18.14
+      ]
+    },
+    {
+      "text": " privacy",
+      "timestamp": [
+        18.14,
+        18.52
+      ]
+    },
+    {
+      "text": " claim.",
+      "timestamp": [
+        18.52,
+        19.24
+      ]
+    },
+    {
+      "text": " The",
+      "timestamp": [
+        19.4,
+        19.44
+      ]
+    },
+    {
+      "text": " project",
+      "timestamp": [
+        19.44,
+        19.8
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        19.8,
+        20.0
+      ]
+    },
+    {
+      "text": " open",
+      "timestamp": [
+        20.0,
+        20.24
+      ]
+    },
+    {
+      "text": " core.",
+      "timestamp": [
+        20.24,
+        20.92
+      ]
+    },
+    {
+      "text": " That",
+      "timestamp": [
+        21.16,
+        21.24
+      ]
+    },
+    {
+      "text": " means",
+      "timestamp": [
+        21.24,
+        21.44
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        21.44,
+        21.64
+      ]
+    },
+    {
+      "text": " license",
+      "timestamp": [
+        21.64,
+        22.0
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        22.0,
+        22.32
+      ]
+    },
+    {
+      "text": " paid",
+      "timestamp": [
+        22.32,
+        22.56
+      ]
+    },
+    {
+      "text": " feature",
+      "timestamp": [
+        22.56,
+        22.98
+      ]
+    },
+    {
+      "text": " boundaries",
+      "timestamp": [
+        22.98,
+        23.36
+      ]
+    },
+    {
+      "text": " deserve",
+      "timestamp": [
+        23.36,
+        23.8
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        23.8,
+        23.98
+      ]
+    },
+    {
+      "text": " look.",
+      "timestamp": [
+        23.98,
+        24.64
+      ]
+    },
+    {
+      "text": " For",
+      "timestamp": [
+        24.8,
+        24.9
+      ]
+    },
+    {
+      "text": " me,",
+      "timestamp": [
+        24.9,
+        25.46
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        25.46,
+        25.64
+      ]
+    },
+    {
+      "text": " useful",
+      "timestamp": [
+        25.64,
+        25.86
+      ]
+    },
+    {
+      "text": " question",
+      "timestamp": [
+        25.86,
+        26.34
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        26.34,
+        26.52
+      ]
+    },
+    {
+      "text": " whether",
+      "timestamp": [
+        26.52,
+        26.78
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        26.78,
+        26.94
+      ]
+    },
+    {
+      "text": " exported",
+      "timestamp": [
+        26.94,
+        27.34
+      ]
+    },
+    {
+      "text": " file",
+      "timestamp": [
+        27.34,
+        27.7
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        27.7,
+        28.0
+      ]
+    },
+    {
+      "text": " right,",
+      "timestamp": [
+        28.0,
+        28.62
+      ]
+    },
+    {
+      "text": " especially",
+      "timestamp": [
+        28.64,
+        29.24
+      ]
+    },
+    {
+      "text": " after",
+      "timestamp": [
+        29.24,
+        29.58
+      ]
+    },
+    {
+      "text": " redaction.",
+      "timestamp": [
+        29.58,
+        30.68
+      ]
+    },
+    {
+      "text": " Next,",
+      "timestamp": [
+        31.14,
+        31.56
+      ]
+    },
+    {
+      "text": " seven",
+      "timestamp": [
+        31.56,
+        32.0
+      ]
+    },
+    {
+      "text": " real",
+      "timestamp": [
+        32.0,
+        32.26
+      ]
+    },
+    {
+      "text": " jobs",
+      "timestamp": [
+        32.26,
+        32.62
+      ]
+    },
+    {
+      "text": " against",
+      "timestamp": [
+        32.62,
+        32.98
+      ]
+    },
+    {
+      "text": " Acrobat.",
+      "timestamp": [
+        32.98,
+        33.94
+      ]
+    },
+    {
+      "text": " Which",
+      "timestamp": [
+        34.28,
+        34.28
+      ]
+    },
+    {
+      "text": " one",
+      "timestamp": [
+        34.28,
+        34.46
+      ]
+    },
+    {
+      "text": " would",
+      "timestamp": [
+        34.46,
+        34.62
+      ]
+    },
+    {
+      "text": " you",
+      "timestamp": [
+        34.62,
+        34.74
+      ]
+    },
+    {
+      "text": " test",
+      "timestamp": [
+        34.74,
+        34.96
+      ]
+    },
+    {
+      "text": " first?",
+      "timestamp": [
+        34.96,
+        35.66
+      ]
+    }
+  ],
+  "method": "Cached Whisper Base word timestamps on local CPU"
+}

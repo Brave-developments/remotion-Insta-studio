@@ -1,0 +1,16 @@
+# TOOLPROOF / day 4
+
+**Cap — Discovery**
+
+The free Loom alternative has a licensing detail you should read.
+
+Cap is a screen-recording tool. Its pricing page separates personal use from commercial use.
+
+So I would not call it free for every work recording.
+
+The workflow I want is simple: record a useful demo, make it readable, and get it to someone.
+
+Export and sharing limits matter as much as the recording button.
+
+Next I am recording the same demo in Cap and Loom. Which deserves the place in your workflow?
+

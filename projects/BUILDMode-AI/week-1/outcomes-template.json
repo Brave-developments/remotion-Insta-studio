@@ -1,0 +1,220 @@
+{
+  "instructions": "Record real observations here, with raw capture paths and audit notes. Null is not a result. Apply verified values to narration/screen text in remotion-week.json and its daily script before publication.",
+  "reels": [
+    {
+      "id": "D01R1",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "FIXES_A": null,
+        "FIXES_B": null,
+        "FIXES_C": null,
+        "REGRESSION_SUMMARY": null,
+        "EVIDENCE_BASED_WINNER_OR_TIE": null
+      }
+    },
+    {
+      "id": "D01R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "VISIBLE_FIRST_PASS_MISTAKE": null,
+        "EXACT_CORRECTION": null,
+        "VERIFIED_VISUAL_AND_FUNCTIONAL_OBSERVATION": null
+      }
+    },
+    {
+      "id": "D02R1",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "ROWS_RETURNED": null,
+        "CORRECT_FIELDS": null,
+        "INTERVENTIONS": null,
+        "BOUNDARY_OF_AUTONOMY": null
+      }
+    },
+    {
+      "id": "D02R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "DRAG_AND_PERSISTENCE_RESULT": null,
+        "CORRECTION_COUNT": null
+      }
+    },
+    {
+      "id": "D03R1",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "RULES_FOLLOWED": null,
+        "MISSED_RULE_OR_CLEAN_RUN": null,
+        "RULES_VS_MEMORY_CONCLUSION": null
+      }
+    },
+    {
+      "id": "D03R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "VISIBLE_IMPROVEMENT": null,
+        "PRESERVED_FEATURES_AND_REMAINING_PROBLEM": null
+      }
+    },
+    {
+      "id": "D04R1",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "CORRECT_FIELDS": null,
+        "INTERVENTIONS": null,
+        "EXPORT_RESULT": null,
+        "PRACTICAL_VERDICT": null
+      }
+    },
+    {
+      "id": "D04R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "CONTROL_FINDINGS": null,
+        "SKILL_FINDINGS": null,
+        "FALSE_POSITIVE_RESULT": null,
+        "SCOPE_LIMITED_CONCLUSION": null
+      }
+    },
+    {
+      "id": "D05R1",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "OBSERVED_COORDINATION_EVENT": null,
+        "FUNCTIONAL_RESULT": null,
+        "ELAPSED_TIME": null,
+        "COORDINATION_COST": null,
+        "SINGLE_AGENT_COMPARISON_IF_RUN_OTHERWISE_NO_COMPARISON": null
+      }
+    },
+    {
+      "id": "D05R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "VALIDATION_RESULT": null,
+        "FILES_CHANGED": null,
+        "REMAINING_ISSUE": null
+      }
+    },
+    {
+      "id": "D06R1",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "RUN_A_TIME_AND_RESULT": null,
+        "RUN_B_TIME_AND_RESULT": null,
+        "REPEATED_RUN_VARIATION": null,
+        "TASK_SPECIFIC_CONCLUSION": null
+      }
+    },
+    {
+      "id": "D06R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "PLAYABILITY_RESULT": null,
+        "REAL_FIX_COUNT_AND_TIME": null
+      }
+    },
+    {
+      "id": "D07R1",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "BUTTON_RESULT": null,
+        "MARKER_RESULT": null,
+        "OBSERVED_AGENT_RESPONSE": null
+      }
+    },
+    {
+      "id": "D07R2",
+      "toolVersion": null,
+      "modelAndConfiguration": null,
+      "osAndHardware": null,
+      "plan": null,
+      "capturedOn": null,
+      "rawCapture": null,
+      "auditNotes": null,
+      "fields": {
+        "CORRECT_CLASSIFICATIONS": null,
+        "REAL_MISTAKE_OR_EDGE_CASE": null,
+        "PRACTICAL_LIMITATION": null
+      }
+    }
+  ]
+}
