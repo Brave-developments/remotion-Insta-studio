@@ -16,7 +16,8 @@
     "still:reel": "remotion still Reel out/reel-frame.png",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "render:editorial": "remotion render src/index.ts EditorialMotionPreview out/editorial-motion-preview.mp4 --codec=h264"
   },
   "dependencies": {
     "@remotion/cli": "4.0.532",
