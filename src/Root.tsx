@@ -28,6 +28,7 @@ import {
   RESOURCE_HUB_HERO_LOOP_ID,
 } from './promo/compositions/ResourceHubHeroLoop';
 import {PROMO, CUT30_TOTAL} from './promo/config';
+import {EditorialMotionPreview} from '../studio-kit/src/EditorialMotion';
 
 export const REEL_ID = 'Reel';
 
@@ -81,6 +82,10 @@ export const RemotionRoot: React.FC = () => {
         width={1920}
         height={1080}
       />
+
+      {/* Optional editorial template gallery, not a default Reel preset. */}
+      <Composition id="EditorialMotionPreview" component={EditorialMotionPreview}
+        durationInFrames={360} fps={30} width={1080} height={1920}/>
 
       {/* Scratch composition from the initial scaffold. */}
       <Composition
