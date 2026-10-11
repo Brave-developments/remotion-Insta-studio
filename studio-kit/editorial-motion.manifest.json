@@ -1,0 +1,53 @@
+{
+  "id": "editorial-motion",
+  "version": "1.0.0",
+  "name": "Editorial Motion",
+  "selection": "explicit-per-scene-only",
+  "defaultEnabled": false,
+  "palettes": {
+    "ivory": "#F2EFE7",
+    "white": "#FFFEFA",
+    "mint": "#DEF4EA",
+    "peach": "#FAE7D7",
+    "lilac": "#EDE6FE"
+  },
+  "readabilityNeutrals": {
+    "text": "#514D57",
+    "muted": "#817D87",
+    "border": "#CDC8D0",
+    "shadow": "#AEA4B4"
+  },
+  "formats": [
+    {
+      "width": 1080,
+      "height": 1920,
+      "fps": 30
+    }
+  ],
+  "modes": [
+    "illustrated-explainer",
+    "saas-ui",
+    "product-comparison"
+  ],
+  "layouts": [
+    "full",
+    "upper"
+  ],
+  "upperVisualHeight": 1160,
+  "animation": {
+    "engine": "remotion",
+    "timing": "frame-driven",
+    "entrance": "spring with opacity and upward movement",
+    "staggerFrames": 11,
+    "documentation": "docs/EDITORIAL-MOTION.md"
+  },
+  "source": "https://github.com/Brave-developments/remotion-motion-kit/tree/main/templates/editorial-motion",
+  "sceneActivation": {
+    "property": "scene.editorial",
+    "requires": {
+      "template": "editorial-motion"
+    }
+  },
+  "privacyAndProvenance": "Never treat simulated dashboards, status values, lettermarks, or notifications as factual evidence. Use real sourced screenshots for claims.",
+  "compatibility": "No existing channel.json or scene JSON changed. Rendering through Remotion alone never enables this style."
+}
