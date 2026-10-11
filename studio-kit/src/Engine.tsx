@@ -141,7 +141,8 @@ export const PlannedReel = ({channel,reel}: {channel: Channel; reel: Reel}) => <
           {scene.editorial.layout === 'upper' ? (
             <div style={{position:'absolute',top:1160,bottom:0,left:0,right:0,background:editorialColours.white}}>
               {scene.editorial.presenterAsset ? <OffthreadVideo muted src={staticFile(scene.editorial.presenterAsset)}
-                style={{width:'100%',height:'100%',objectFit:'cover'}}/> : null}
+                startFrom={Math.max(0, Math.round(scene.start * 30))}
+                style={{width:'100%',height:'100%',objectFit:'contain'}}/> : null}
             </div>
           ) : null}
           <EditorialMotion mode={scene.editorial.mode} layout={scene.editorial.layout ?? 'full'}
