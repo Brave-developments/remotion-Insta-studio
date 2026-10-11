@@ -4,7 +4,22 @@ export type Channel = {
   palette: {background: string; panel: string; accent: string; secondary: string; text: string; muted: string};
   visualStyle: string;
 };
+export type EditorialSceneSelection = {
+  /** Only this exact opt-in identifier switches a scene to pastel editorial graphics. */
+  template: 'editorial-motion';
+  mode: 'illustrated-explainer' | 'saas-ui' | 'product-comparison';
+  layout?: 'full' | 'upper';
+  headline?: string;
+  subheadline?: string;
+  emphasis?: string;
+  items?: string[];
+  /** Optional lower-screen silent presenter video; reel.audio remains the narration track. */
+  presenterAsset?: string;
+};
+
 export type ReelScene = {
+  /** Completely optional; existing scenes, channel palettes and rendering remain unchanged. */
+  editorial?: EditorialSceneSelection;
   id: string;
   start: number;
   end: number;
