@@ -23,3 +23,7 @@ jobs:
       - run: npm ci
       - run: npm run paper:test
       - run: npm run typecheck
+      - name: Fetch real Wikimedia Commons photographs
+        run: npm run paper:prepare
+      - name: Render actual paper frame in Remotion Chromium
+        run: npx remotion still PaperReel out/paper-smoke.png --frame=120
