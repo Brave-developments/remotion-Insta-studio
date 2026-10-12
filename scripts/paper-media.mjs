@@ -244,7 +244,12 @@ async function prepare(brief, flashcutDir) {
     delete scene.flashcutAssetId2;
     scenes.push(scene);
   }
-  const job = {title: brief.title, fps: 30, width: 1080, height: 1920, totalSeconds, scenes, credits};
+  if (brief.audio !== undefined && (typeof brief.audio !== 'string' ||
+      !/^paper\/audio\/[a-z0-9_-]+\.(wav|mp3|m4a)$/i.test(brief.audio))) {
+    throw new Error('audio must be a local public/paper/audio/name.wav|mp3|m4a path.');
+  }
+  const job = {title: brief.title, fps: 30, width: 1080, height: 1920, totalSeconds,
+    ...(brief.audio ? {audio: brief.audio} : {}), scenes, credits};
   await fs.mkdir(CONTENT, {recursive: true});
   await fs.writeFile(path.join(CONTENT, 'generated.json'), JSON.stringify(job, null, 2) + '\n');
   await fs.writeFile(path.join(CONTENT, 'credits.json'), JSON.stringify(credits, null, 2) + '\n');
