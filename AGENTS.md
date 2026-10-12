@@ -13,3 +13,10 @@ Read `studio-kit/PRODUCTION_RULES.md` before producing or editing Reels. Each ch
 - Before calling this production-ready, run root and relevant channel TypeScript checks plus actual Remotion MP4 renders and review the resulting frames. Report unrun tests accurately.
 
 Other templates, channel identities and videos must remain unchanged.
+
+## Opt-in cream paper reels (real photographs)
+- The user may explicitly select the paper/white/cream documentary style using the 'PaperReel' composition. Read docs/PAPER-REELS.md first.
+- Source: remotion-motion-kit browser/metric behaviour adapted in src/paper/motion/KitWidgets.tsx; original studio and channel templates remain unchanged.
+- Use only downloaded real images or verified Flashcut local media. Run npm run paper:prepare before rendering. Save source/author/licence logs in content/paper/credits.json; unknown rights require review.
+- Never invent photos, statistics, quotes or screenshots. Do not confuse a simulation with evidence. Keep claims factual, citation readable, and no dark/yellow template intrusions.
+- Validate npm run paper:test and npm run typecheck, and render/inspect MP4 before claiming production readiness.
