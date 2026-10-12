@@ -1,0 +1,44 @@
+{
+  "title": "Objects that changed the way we work",
+  "scenes": [
+    {
+      "id": "opening",
+      "layout": "photo",
+      "seconds": 7,
+      "headline": "The world moves through objects.",
+      "body": "Three small inventions. Three enormous changes.",
+      "label": "A VISUAL ESSAY",
+      "photoQuery": "vintage typewriter on wooden desk closeup"
+    },
+    {
+      "id": "printing",
+      "layout": "collage",
+      "seconds": 8,
+      "headline": "Ideas became tangible.",
+      "body": "Paper, ink, and the power of copying a thought.",
+      "label": "CHAPTER 01",
+      "photoQuery": "antique printing press machine",
+      "photoQuery2": "old book pages printing"
+    },
+    {
+      "id": "connection",
+      "layout": "browser",
+      "seconds": 7,
+      "headline": "Then everything connected.",
+      "body": "A photograph is evidence of a moment — not proof of every claim.",
+      "label": "CHAPTER 02",
+      "photoQuery": "old telephone historical equipment",
+      "address": "commons.wikimedia.org"
+    },
+    {
+      "id": "closing",
+      "layout": "quote",
+      "seconds": 6,
+      "headline": "Every tool leaves a story.",
+      "body": "Look for the original image, its creator, and the context behind it.",
+      "label": "LAST NOTE",
+      "sourceUrl": "https://commons.wikimedia.org/",
+      "attribution": "Editorial principle, not a historical quotation"
+    }
+  ]
+}
