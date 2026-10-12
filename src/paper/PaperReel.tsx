@@ -4,7 +4,7 @@
  * external image requests occur in the frame renderer.
  */
 import React from 'react';
-import {AbsoluteFill, Img, interpolate, Sequence, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
+import {AbsoluteFill, Audio, Img, interpolate, Sequence, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 import prepared from '../../content/paper/generated.json';
 import {KitBrowser, KitMetric} from './motion/KitWidgets';
 
@@ -29,6 +29,7 @@ export type PaperJob = {
   width: number;
   height: number;
   totalSeconds: number;
+  audio?: string;
   scenes: PaperScene[];
 };
 export const paperJob = prepared as PaperJob;
@@ -147,6 +148,7 @@ export const PaperReel: React.FC = () => {
   let offset = 0;
   return <AbsoluteFill style={{background: P.paper}}>
     <Paper/>
+    {paperJob.audio ? <Audio src={staticFile(paperJob.audio)} /> : null}
     {paperJob.scenes.length === 0 ? <AbsoluteFill style={{justifyContent: 'center',
       alignItems: 'center', padding: 115, textAlign: 'center', color: P.ink}}>
       <div style={{fontFamily: serif, fontSize: 86}}>Paper Reel Studio</div>
