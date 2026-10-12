@@ -58,8 +58,8 @@ export const KitBrowser: React.FC<{
         whiteSpace: 'nowrap', textOverflow: 'ellipsis'}}>{address}</div>
     </div>
     <div style={{height: 780, overflow: 'hidden'}}>
-      <Img src={image} alt={title} style={{width: '100%', height: '100%', objectFit: 'cover',
-        objectPosition: 'center', transform: 'scale(' + zoom + ')'}}/>
+      <Img src={image} alt={title} style={{width: '100%', height: '100%', objectFit: 'contain',
+        objectPosition: 'top', transform: 'scale(' + zoom + ')'}}/>
     </div>
   </div>;
 };
