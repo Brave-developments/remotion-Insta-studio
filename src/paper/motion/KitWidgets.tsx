@@ -30,10 +30,10 @@ export const KitMetric: React.FC<{
       fontWeight: 700, lineHeight: 1.2}}>
       {Math.round(current).toLocaleString('en-US')}<span style={{fontSize: 72, color: '#997D63'}}>{suffix}</span>
     </div>
-    <div style={{height: 12, background: '#E8DFD2', borderRadius: 12, overflow: 'hidden'}}>
-      <div style={{height: '100%', width: Math.max(0, Math.min(100, value === 0 ? 0 : current / Math.abs(value) * 100)) + '%',
+    {suffix === '%' ? <div style={{height: 12, background: '#E8DFD2', borderRadius: 12, overflow: 'hidden'}}>
+      <div style={{height: '100%', width: Math.max(0, Math.min(100, current)) + '%',
         background: '#A7957D'}}/>
-    </div>
+    </div> : <div style={{borderTop: '2px solid #D9D0C2'}}/>}
     {source ? <div style={{fontSize: 21, marginTop: 28, color: '#767067'}}>{source}</div> : null}
   </div>;
 };
