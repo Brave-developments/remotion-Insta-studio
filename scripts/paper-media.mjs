@@ -115,23 +115,33 @@ async function searchPhotos(query, used, fetchImpl = fetch) {
     if (item) return item;
     throw new Error('No licensed Pexels photos found for: ' + query);
   }
-  // MediaWiki generator search searches file pages, not fabricated URLs.
-  const commons = new URL('https://commons.wikimedia.org/w/api.php');
-  for (const [k, v] of Object.entries({
-    action: 'query', format: 'json', generator: 'search', gsrsearch: 'filetype:bitmap ' + query,
-    gsrnamespace: '6', gsrlimit: '30', prop: 'imageinfo',
-    iiprop: 'url|size|mime|extmetadata', iiurlwidth: '1600'
-  })) commons.searchParams.set(k, v);
-  const res = await fetchImpl(commons, {
-    headers: {'User-Agent': 'BravePaperReel/1.0 (https://github.com/Brave-developments/remotion-Insta-studio)',
-      Accept: 'application/json'},
-    signal: AbortSignal.timeout(20000)
-  });
-  if (!res.ok) throw new Error('Wikimedia Commons returned HTTP ' + res.status);
-  const selected = chooseCommons(await res.json(), used);
-  if (!selected) throw new Error('No usable freely licensed Commons photo for "' + query +
-    '". Try a more specific photoQuery or use a Flashcut image.');
-  return selected;
+  // Wikimedia Commons file search is literal-ish. Full editorial phrases can
+  // return no images, so broaden gradually to their distinctive nouns.
+  const stop = new Set(['a', 'an', 'the', 'on', 'with', 'and', 'of', 'old', 'vintage',
+    'antique', 'closeup', 'wooden', 'desk', 'historical', 'equipment', 'machine',
+    'pages', 'photo', 'photograph', 'beautiful', 'modern']);
+  const words = query.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').split(/\s+/)
+    .filter(w => w.length > 2 && !stop.has(w));
+  const queries = [...new Set([query, words.slice(0, 3).join(' '), words.slice(0, 2).join(' '),
+    words[0]])].filter(Boolean);
+  for (const candidate of queries) {
+    const commons = new URL('https://commons.wikimedia.org/w/api.php');
+    for (const [k, v] of Object.entries({
+      action: 'query', format: 'json', generator: 'search', gsrsearch: candidate,
+      gsrnamespace: '6', gsrlimit: '50', prop: 'imageinfo',
+      iiprop: 'url|size|mime|extmetadata', iiurlwidth: '1600'
+    })) commons.searchParams.set(k, v);
+    const res = await fetchImpl(commons, {
+      headers: {'User-Agent': 'BravePaperReel/1.0 (https://github.com/Brave-developments/remotion-Insta-studio)',
+        Accept: 'application/json'},
+      signal: AbortSignal.timeout(20000)
+    });
+    if (!res.ok) throw new Error('Wikimedia Commons returned HTTP ' + res.status);
+    const selected = chooseCommons(await res.json(), used);
+    if (selected) return selected;
+  }
+  throw new Error('No usable freely licensed Commons photo for "' + query +
+    '". Try a single subject name or use a Flashcut image.');
 }
 
 async function fetchTrustedImage(address, fetchImpl = fetch) {
