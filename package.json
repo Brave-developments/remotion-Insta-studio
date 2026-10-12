@@ -17,7 +17,10 @@
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
     "typecheck": "tsc --noEmit",
-    "render:editorial": "remotion render src/index.ts EditorialMotionPreview out/editorial-motion-preview.mp4 --codec=h264"
+    "render:editorial": "remotion render src/index.ts EditorialMotionPreview out/editorial-motion-preview.mp4 --codec=h264",
+    "paper:prepare": "node scripts/paper-media.mjs",
+    "paper:test": "node --test tests/paper-media.test.mjs",
+    "render:paper": "npm run paper:prepare && remotion render PaperReel out/paper-reel.mp4 --codec=h264"
   },
   "dependencies": {
     "@remotion/cli": "4.0.532",
