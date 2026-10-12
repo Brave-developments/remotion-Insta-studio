@@ -15,7 +15,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const CONTENT = path.join(ROOT, 'content', 'paper');
 const DEST = path.join(ROOT, 'public', 'paper', 'assets');
 const VALID_LAYOUTS = new Set(['photo', 'collage', 'browser', 'metric', 'quote']);
-const ALLOWED_HOSTS = new Set(['upload.wikimedia.org', 'images.pexels.com']);
+const ALLOWED_HOSTS = new Set(['upload.wikimedia.org', 'thumb.wikimedia.org', 'images.pexels.com']);
 const MAX_BYTES = 18 * 1024 * 1024;
 const MAX_SCENES = 30;
 
