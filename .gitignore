@@ -16,3 +16,6 @@ out/*
 out/
 exports/
 projects/*/out/
+# Locally sourced photos for PaperReel; keep credited metadata out of big git commits.
+/public/paper/assets/
+/content/paper/credits.json
